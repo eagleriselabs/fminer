@@ -1,0 +1,77 @@
+name: Build martiball JSON
+
+on:
+  workflow_run:
+    workflows: ["Daily Data Pipeline"]   # auslösender Workflow
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: martiball-json
+  cancel-in-progress: true
+
+jobs:
+  build-json:
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      PYTHON_VERSION: "3.11"
+      INPUT_CSV: "results/martiballtermine_wien.csv"
+      OUTPUT_JSON: "results/martiball_spiele.json"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          pip install "pandas>=2.0"
+
+      - name: Generate martiball_spiele.json
+        run: |
+          set -e
+          python create_martiball_json.py --in "${INPUT_CSV}" --out "${OUTPUT_JSON}"
+
+      - name: Commit & push JSON (only if changed)
+        run: |
+          set -e
+          if [ ! -f "${OUTPUT_JSON}" ]; then
+            echo "No JSON created (${OUTPUT_JSON})."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "${OUTPUT_JSON}"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update martiball_spiele.json"
+          git pull --rebase
+          git push
