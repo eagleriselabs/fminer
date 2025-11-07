@@ -209,19 +209,6 @@
       "Longitude": 16.360667
     },
     {
-      "Spieldatum": "2025-08-15T17:15:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-08-15T17:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Maccabi Wien",
@@ -571,19 +558,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2025-08-23T18:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2025-08-23T19:00:00",
@@ -1455,19 +1429,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-08-31T09:45:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "LAC-Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-08-31T10:00:00",
@@ -2924,19 +2885,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2025-09-06T16:00:00",
-      "Heimmannschaft": "SV Dinamo Helfort",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2025-09-06T16:15:00",
@@ -4991,19 +4939,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2025-09-14T09:45:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "Austria XIII Auhof Center",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-09-14T10:00:00",
@@ -7086,19 +7021,6 @@
       "Longitude": 16.370454
     },
     {
-      "Spieldatum": "2025-09-21T10:00:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "SV Wienerberg 1921",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-09-21T10:15:00",
       "Heimmannschaft": "Gersthofer SV",
       "Gastmannschaft": "ASV 13",
@@ -8114,19 +8036,6 @@
     },
     {
       "Spieldatum": "2025-09-27T14:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-09-27T14:00:00",
       "Heimmannschaft": "RB Jedlesee",
       "Gastmannschaft": "Real Wien",
       "Typ": "Männer",
@@ -8332,19 +8241,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
-    },
-    {
-      "Spieldatum": "2025-09-27T15:30:00",
-      "Heimmannschaft": "FAC Wien Amat.",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-09-27T16:00:00",
@@ -11012,19 +10908,6 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2025-10-05T09:45:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-10-05T10:00:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "FavAC 1b",
@@ -11855,19 +11738,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2025-10-10T18:00:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2025-10-10T19:00:00",
@@ -16434,19 +16304,6 @@
     },
     {
       "Spieldatum": "2025-10-26T10:30:00",
-      "Heimmannschaft": "SK Slovan HAC",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2025-10-26T10:30:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Austria XIII Auhof Center",
       "Typ": "Männer",
@@ -17837,19 +17694,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2025-11-02T09:45:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-02T10:00:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "Penarol Wien",
@@ -17861,19 +17705,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2025-11-02T10:00:00",
-      "Heimmannschaft": "DSG Wien West",
-      "Gastmannschaft": "Dsg V.E.T.",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Schmelz",
-      "Spielort Straße": "Auf der Schmelz 10",
-      "Spielort PLZ": 1150,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204006,
-      "Longitude": 16.320261
     },
     {
       "Spieldatum": "2025-11-02T10:00:00",
@@ -18462,19 +18293,6 @@
     },
     {
       "Spieldatum": "2025-11-02T16:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "FSC Favoriten",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2025-11-02T16:00:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "FC Südburgenland  /  BFV Frauen-Akademie",
       "Typ": "Frauen",
@@ -18823,19 +18641,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2025-11-06T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Irgendwelche FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2025-11-07T18:00:00",
@@ -20061,19 +19866,6 @@
     },
     {
       "Spieldatum": "2025-11-09T14:00:00",
-      "Heimmannschaft": "DSG Tudi Wien F.C.",
-      "Gastmannschaft": "DSG Fallen Angels FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2025-11-09T14:00:00",
       "Heimmannschaft": "DSG Hernalser Spartans FC",
       "Gastmannschaft": "DSG Spice Balls All Stars",
       "Typ": "Männer",
@@ -20567,6 +20359,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2025-11-10T20:00:00",
+      "Heimmannschaft": "DSG Tudi Wien F.C.",
+      "Gastmannschaft": "DSG Fallen Angels FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2025-11-10T20:15:00",
       "Heimmannschaft": "DSG Twentyone Sen.",
       "Gastmannschaft": "DSV Fortuna 05 Sen.",
@@ -20708,19 +20513,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2025-11-14T19:00:00",
-      "Heimmannschaft": "SV Donau",
-      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2025-11-14T19:30:00",
@@ -21293,6 +21085,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2025-11-15T16:00:00",
+      "Heimmannschaft": "SV Donau",
+      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2025-11-15T16:10:00",
@@ -22322,6 +22127,19 @@
       "Longitude": 16.40318
     },
     {
+      "Spieldatum": "2025-11-21T19:00:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "SV druckmittel.at Gloggnitz",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
       "Spieldatum": "2025-11-21T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "Retz",
@@ -22333,19 +22151,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2025-11-21T19:30:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "SV druckmittel.at Gloggnitz",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2025-11-21T20:00:00",
@@ -23960,6 +23765,19 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2025-11-30T14:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "FC Brigittenau",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
       "Spieldatum": "2025-12-05T18:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "FC Hertha Wels",
@@ -24792,7 +24610,7 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2026-03-08T16:15:00",
+      "Spieldatum": "2026-03-08T16:45:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Männer",
