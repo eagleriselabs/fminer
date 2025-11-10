@@ -19320,19 +19320,6 @@
     },
     {
       "Spieldatum": "2025-11-08T16:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-11-08T16:00:00",
       "Heimmannschaft": "DSG Atemnot",
       "Gastmannschaft": "Dsg T.Hietzing",
       "Typ": "Männer",
@@ -19566,19 +19553,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2025-11-08T18:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Marianum",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
       "Spieldatum": "2025-11-08T18:30:00",
       "Heimmannschaft": "DSG Mödling",
       "Gastmannschaft": "DSG WU Kickers",
@@ -19696,19 +19670,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2025-11-09T10:00:00",
-      "Heimmannschaft": "FC Hernalser Spartans",
-      "Gastmannschaft": "DSG Paulaner Wieden 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
       "Spieldatum": "2025-11-09T10:15:00",
       "Heimmannschaft": "Gersthofer SV",
       "Gastmannschaft": "Cro-Vienna",
@@ -19811,19 +19772,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2025-11-09T13:30:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-11-09T14:00:00",
@@ -20242,19 +20190,6 @@
       "Longitude": 16.324931
     },
     {
-      "Spieldatum": "2025-11-09T18:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien U20",
-      "Gastmannschaft": "SKN St. Pölten Frauen FL",
-      "Typ": "Frauen",
-      "Liga": "Frauen Future League",
-      "Spielort": "Austria Mädchen AKA Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
-    },
-    {
       "Spieldatum": "2025-11-09T18:15:00",
       "Heimmannschaft": "DSG Billroth Fc",
       "Gastmannschaft": "DSG Eventus Wien",
@@ -20333,32 +20268,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2025-11-09T21:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2025-11-09T23:00:00",
-      "Heimmannschaft": "DSG Los Andes FC",
-      "Gastmannschaft": "GEPS 20-U18",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
       "Spieldatum": "2025-11-10T20:00:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "DSG Fallen Angels FC",
@@ -20409,6 +20318,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2025-11-12T19:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Vorwärts Wien 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-11-12T19:45:00",
@@ -24166,6 +24088,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-02-28T00:00:00",
+      "Heimmannschaft": "Young Violets Austria Wien U20",
+      "Gastmannschaft": "SKN St. Pölten Frauen FL",
+      "Typ": "Frauen",
+      "Liga": "Frauen Future League",
+      "Spielort": "Austria Mädchen AKA Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-02-28T15:00:00",
