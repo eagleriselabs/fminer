@@ -18578,19 +18578,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2025-11-04T20:15:00",
-      "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "DSG Leon Guarani Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 1B",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
       "Spieldatum": "2025-11-05T19:30:00",
       "Heimmannschaft": "1210 Wien",
       "Gastmannschaft": "UFK Schwemm",
@@ -19618,19 +19605,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2025-11-08T20:00:00",
-      "Heimmannschaft": "DSG Dornbach Sox",
-      "Gastmannschaft": "DSG Ukraina Wien SKV",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
-    },
-    {
       "Spieldatum": "2025-11-08T20:01:00",
       "Heimmannschaft": "DSG Wiener SK Lation",
       "Gastmannschaft": "DSG Nepomuk",
@@ -20359,19 +20333,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2025-11-13T22:22:00",
-      "Heimmannschaft": "DSG Irgendwelche FC",
-      "Gastmannschaft": "DSG Wien West",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
-    },
-    {
       "Spieldatum": "2025-11-14T17:30:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Aspern",
@@ -20637,12 +20598,12 @@
       "Gastmannschaft": "Hellas Kagran",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-11-15T13:30:00",
@@ -26261,6 +26222,19 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-03-15T14:00:00",
+      "Heimmannschaft": "FavAC 1b",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2026-03-15T20:45:00",
       "Heimmannschaft": "FC Bhf. Favoriten",
       "Gastmannschaft": "Kalksburg-Rodaun",
@@ -26584,19 +26558,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "FavAC 1b",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -28328,7 +28289,7 @@
       "Longitude": 16.370454
     },
     {
-      "Spieldatum": "2026-03-22T16:15:00",
+      "Spieldatum": "2026-03-22T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -31643,7 +31604,7 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2026-04-12T16:15:00",
+      "Spieldatum": "2026-04-12T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "A11 - R.Oberlaa",
       "Typ": "Männer",
@@ -35582,7 +35543,7 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2026-04-26T16:15:00",
+      "Spieldatum": "2026-04-26T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "NAC",
       "Typ": "Männer",
@@ -39482,7 +39443,7 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2026-05-10T16:15:00",
+      "Spieldatum": "2026-05-10T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
