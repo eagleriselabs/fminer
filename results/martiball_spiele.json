@@ -2,19 +2,6 @@
   "martiballtermine_wien": [
     {
       "Spieldatum": "2025-08-01T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-08-01T18:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SV Donau",
       "Typ": "Männer",
@@ -233,19 +220,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2025-08-15T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "SK Austria Klagenfurt",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-08-15T18:00:00",
@@ -1416,19 +1390,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2025-08-30T20:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "KSV 1919",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-08-31T10:00:00",
@@ -5865,19 +5826,6 @@
     },
     {
       "Spieldatum": "2025-09-19T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "SW Bregenz",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-09-19T18:00:00",
       "Heimmannschaft": "Royal Persia",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -9830,19 +9778,6 @@
     },
     {
       "Spieldatum": "2025-10-03T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "Admira Wacker",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-10-03T18:00:00",
       "Heimmannschaft": "Royal Persia",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -13586,19 +13521,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2025-10-17T18:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "Stripfing",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2025-10-17T19:00:00",
       "Heimmannschaft": "DSG Twentyone",
       "Gastmannschaft": "DSG Wiener SK Lation",
@@ -15589,19 +15511,6 @@
     },
     {
       "Spieldatum": "2025-10-24T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "FC Hertha Wels",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-10-24T18:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "FAC Wien Amat.",
       "Typ": "Männer",
@@ -16873,19 +16782,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2025-10-31T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "SK Rapid II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-10-31T19:00:00",
@@ -20581,19 +20477,6 @@
     },
     {
       "Spieldatum": "2025-11-15T13:00:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2025-11-15T13:00:00",
       "Heimmannschaft": "FAC Wien Amat.",
       "Gastmannschaft": "Hellas Kagran",
       "Typ": "Männer",
@@ -21126,19 +21009,6 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2025-11-16T09:45:00",
-      "Heimmannschaft": "FC Mauerwerk Immo",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-16T10:00:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "Yellow Star",
@@ -21319,19 +21189,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-11-16T13:30:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-11-16T13:45:00",
@@ -21517,19 +21374,6 @@
     },
     {
       "Spieldatum": "2025-11-16T16:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-11-16T16:00:00",
       "Heimmannschaft": "DSG Mödling",
       "Gastmannschaft": "DSG Kollegium / Kalksburg",
       "Typ": "Männer",
@@ -21657,19 +21501,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2025-11-16T17:30:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Tudi Wien F.C.",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2025-11-16T18:00:00",
@@ -21865,6 +21696,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2025-11-17T20:15:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG Tudi Wien F.C.",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2025-11-17T20:15:00",
@@ -23752,7 +23596,7 @@
       "Longitude": 16.3925
     },
     {
-      "Spieldatum": "2025-12-13T20:00:00",
+      "Spieldatum": "2025-12-12T18:00:00",
       "Heimmannschaft": "Young Violets Austria Wien",
       "Gastmannschaft": "SK Austria Klagenfurt",
       "Typ": "Männer",
