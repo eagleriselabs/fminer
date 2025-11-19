@@ -20698,19 +20698,6 @@
     },
     {
       "Spieldatum": "2025-11-15T15:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-11-15T15:00:00",
       "Heimmannschaft": "DSG Royal Rainer",
       "Gastmannschaft": "DSG Großglockner Falken",
       "Typ": "Männer",
@@ -21878,6 +21865,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2025-11-21T20:00:00",
+      "Heimmannschaft": "Ankerbrot",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2025-11-21T20:00:00",
@@ -23388,6 +23388,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2025-11-27T19:00:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2025-11-27T22:22:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "DSG Irgendwelche FC",
@@ -23425,32 +23438,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-11-29T11:45:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2025-11-29T14:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2025-11-29T17:00:00",
@@ -23492,6 +23479,19 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2025-11-30T12:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
       "Spieldatum": "2025-11-30T14:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "FC Brigittenau",
@@ -23503,6 +23503,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2025-11-30T14:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2025-12-05T18:00:00",
@@ -23817,19 +23830,6 @@
       "Longitude": 16.421625
     },
     {
-      "Spieldatum": "2026-02-21T16:00:00",
-      "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "SV Leobendorf",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
       "Spieldatum": "2026-02-21T16:15:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "USV Neulengbach Juniors",
@@ -23854,6 +23854,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-02-21T17:00:00",
+      "Heimmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "SV Leobendorf",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
     },
     {
       "Spieldatum": "2026-02-27T00:00:00",
@@ -24285,7 +24298,7 @@
       "Longitude": 16.418322
     },
     {
-      "Spieldatum": "2026-03-07T16:00:00",
+      "Spieldatum": "2026-03-07T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Retz",
       "Typ": "Männer",
@@ -28029,19 +28042,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-03-21T16:00:00",
-      "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "FavAC",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
       "Spieldatum": "2026-03-21T17:00:00",
       "Heimmannschaft": "Young Violets Austria Wien U20",
       "Gastmannschaft": "USV Neulengbach Juniors",
@@ -28053,6 +28053,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-03-21T17:00:00",
+      "Heimmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "FavAC",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
     },
     {
       "Spieldatum": "2026-03-21T17:30:00",
@@ -31136,19 +31149,6 @@
       "Longitude": 16.418322
     },
     {
-      "Spieldatum": "2026-04-04T16:00:00",
-      "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "FCM Traiskirchen",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
       "Spieldatum": "2026-04-04T16:30:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SC Neusiedl am See 1919",
@@ -31173,6 +31173,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-04T17:00:00",
+      "Heimmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "FCM Traiskirchen",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
     },
     {
       "Spieldatum": "2026-04-05T00:00:00",
@@ -33359,7 +33372,7 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-04-18T16:00:00",
+      "Spieldatum": "2026-04-18T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
@@ -37233,7 +37246,7 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-05-02T16:00:00",
+      "Spieldatum": "2026-05-02T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SV Horn",
       "Typ": "Männer",
@@ -41120,7 +41133,7 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-05-16T16:00:00",
+      "Spieldatum": "2026-05-16T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "FC Marchfeld Donauauen",
       "Typ": "Männer",
@@ -43175,19 +43188,6 @@
     },
     {
       "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "Sportunion Schönbrunn",
       "Typ": "Männer",
@@ -44006,19 +44006,6 @@
       "Longitude": 16.418322
     },
     {
-      "Spieldatum": "2026-05-30T16:00:00",
-      "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "SV Klöcher Bau Oberwart",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
       "Spieldatum": "2026-05-30T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Columbia Floridsdorf",
@@ -44030,6 +44017,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-30T17:00:00",
+      "Heimmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
     },
     {
       "Spieldatum": "2026-05-31T12:30:00",
