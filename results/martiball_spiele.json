@@ -20346,19 +20346,6 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2025-11-14T20:01:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
       "Spieldatum": "2025-11-14T20:15:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "DSG Union Latina",
@@ -21750,19 +21737,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2025-11-20T22:22:00",
-      "Heimmannschaft": "DSG Irgendwelche FC",
-      "Gastmannschaft": "DSG Eurasya",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
-    },
-    {
       "Spieldatum": "2025-11-21T18:00:00",
       "Heimmannschaft": "SC Ostbahn XI",
       "Gastmannschaft": "NAC",
@@ -21787,19 +21761,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2025-11-21T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "FAC Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-11-21T19:00:00",
@@ -22102,19 +22063,6 @@
     },
     {
       "Spieldatum": "2025-11-22T14:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2025-11-22T14:00:00",
       "Heimmannschaft": "Wollers Komet",
       "Gastmannschaft": "Bozok Wien",
       "Typ": "Männer",
@@ -22125,6 +22073,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2025-11-22T14:00:00",
+      "Heimmannschaft": "DSG Lokomotive Traisen FC",
+      "Gastmannschaft": "DSG Latino Vienna City S.K.",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2025-11-22T14:00:00",
@@ -22440,6 +22401,19 @@
     },
     {
       "Spieldatum": "2025-11-22T16:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Vorwärts Wien 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2025-11-22T16:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "RB Jedlesee",
       "Typ": "Männer",
@@ -22450,19 +22424,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2025-11-22T16:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2025-11-22T16:00:00",
@@ -22489,19 +22450,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2025-11-22T16:00:00",
-      "Heimmannschaft": "DSG Lokomotive Traisen FC",
-      "Gastmannschaft": "DSG Latino Vienna City S.K.",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2025-11-22T16:00:00",
@@ -22580,19 +22528,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2025-11-22T16:00:00",
-      "Heimmannschaft": "FC Stadlau",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2025-11-22T16:15:00",
@@ -22710,19 +22645,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2025-11-22T18:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-11-22T18:00:00",
@@ -23219,7 +23141,7 @@
       "Longitude": 16.276404
     },
     {
-      "Spieldatum": "2025-11-23T17:30:00",
+      "Spieldatum": "2025-11-23T17:45:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "Young Violets Austria Wien U20",
       "Typ": "Frauen",
@@ -23934,6 +23856,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2026-03-01T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-03-01T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "ASV 13",
@@ -24088,19 +24023,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-03-01T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-03-05T22:22:00",
@@ -24348,6 +24270,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-03-08T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-03-08T12:30:00",
@@ -25180,19 +25115,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-03-09T20:15:00",
@@ -28120,6 +28042,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-03-22T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "SV Schwechat",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-03-22T11:00:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "SCR Altach",
@@ -29197,19 +29132,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-03-23T20:15:00",
@@ -31448,6 +31370,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-04-12T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "LAC-Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-04-12T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "SC Ostbahn XI",
@@ -32499,19 +32434,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "LAC-Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-04-13T20:15:00",
@@ -39287,6 +39209,19 @@
       "Longitude": 16.265119314193726
     },
     {
+      "Spieldatum": "2026-05-10T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "FAC Wien Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-05-10T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "SV Essling",
@@ -40312,19 +40247,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "FAC Wien Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-05-11T20:15:00",
@@ -43161,6 +43083,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-24T10:30:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-05-24T17:00:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "SC Mannswörth",
@@ -43315,19 +43250,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
@@ -45644,6 +45566,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-06-06T14:00:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "First Vienna FC 1894 Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-06-06T16:30:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
@@ -46604,19 +46539,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
-      "Gastmannschaft": "First Vienna FC 1894 Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-06-12T19:00:00",
