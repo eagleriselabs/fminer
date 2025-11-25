@@ -22764,19 +22764,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2025-11-23T10:15:00",
-      "Heimmannschaft": "Gersthofer SV",
-      "Gastmannschaft": "SV Essling",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Gersthof Post III",
-      "Spielort Straße": "Schumanng. 105",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.225324870552456,
-      "Longitude": 16.328420452719126
-    },
-    {
       "Spieldatum": "2025-11-23T10:30:00",
       "Heimmannschaft": "Maccabi Wien",
       "Gastmannschaft": "ASV 13",
@@ -22788,19 +22775,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.207304,
       "Longitude": 16.428909
-    },
-    {
-      "Spieldatum": "2025-11-23T10:30:00",
-      "Heimmannschaft": "SK Slovan HAC",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2025-11-23T11:00:00",
@@ -22879,19 +22853,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2025-11-23T12:00:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Kasnudl Athletic Club",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-11-23T12:30:00",
@@ -23128,19 +23089,6 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2025-11-23T17:30:00",
-      "Heimmannschaft": "DSG Dynamo Deluxe",
-      "Gastmannschaft": "DSG Porzelona",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
       "Spieldatum": "2025-11-23T17:45:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "Young Violets Austria Wien U20",
@@ -23271,19 +23219,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2025-11-23T21:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-24T19:30:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "DSG Meidling",
@@ -23310,6 +23245,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2025-11-26T19:31:00",
+      "Heimmannschaft": "DSG Dynamo Deluxe",
+      "Gastmannschaft": "DSG Porzelona",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
+    },
+    {
       "Spieldatum": "2025-11-27T19:00:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "Wollers Komet",
@@ -23321,6 +23269,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2025-11-27T19:00:00",
+      "Heimmannschaft": "SK Slovan HAC",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2025-11-27T22:22:00",
@@ -23399,6 +23360,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2025-11-30T10:15:00",
+      "Heimmannschaft": "Gersthofer SV",
+      "Gastmannschaft": "SV Essling",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Gersthof Post III",
+      "Spielort Straße": "Schumanng. 105",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.225324870552456,
+      "Longitude": 16.328420452719126
+    },
+    {
+      "Spieldatum": "2025-11-30T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Kasnudl Athletic Club",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2025-11-30T12:00:00",
