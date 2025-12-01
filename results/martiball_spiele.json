@@ -23232,19 +23232,6 @@
       "Longitude": 16.409595
     },
     {
-      "Spieldatum": "2025-11-30T12:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
       "Spieldatum": "2025-11-30T13:00:00",
       "Heimmannschaft": "FAC Wien Amat.",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
@@ -23284,17 +23271,30 @@
       "Longitude": 16.370454
     },
     {
-      "Spieldatum": "2025-11-30T14:00:00",
+      "Spieldatum": "2025-11-30T15:30:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2025-11-30T17:30:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
       "Liga": "Oberliga B Reserve",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2025-11-30T18:00:00",
@@ -24153,6 +24153,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-03-07T14:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "SV Schwechat",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-07T15:00:00",
@@ -25063,19 +25076,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-09T20:15:00",
@@ -27925,6 +27925,19 @@
       "Longitude": 16.418322
     },
     {
+      "Spieldatum": "2026-03-21T16:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "LAC-Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-03-21T17:00:00",
       "Heimmannschaft": "Young Violets Austria Wien U20",
       "Gastmannschaft": "USV Neulengbach Juniors",
@@ -29080,19 +29093,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "LAC-Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-23T20:15:00",
@@ -37129,6 +37129,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2026-05-02T16:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-02T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SV Horn",
@@ -38284,19 +38297,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-04T20:15:00",
@@ -41016,6 +41016,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-05-16T16:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "First Vienna FC 1894 Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-16T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "FC Marchfeld Donauauen",
@@ -42186,19 +42199,6 @@
       "Longitude": 16.310258
     },
     {
-      "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "First Vienna FC 1894 Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
       "Spieldatum": "2026-05-18T20:15:00",
       "Heimmannschaft": "DSV Fortuna 05 Sen.",
       "Gastmannschaft": "DSG Twentyone Sen.",
@@ -42927,6 +42927,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-05-22T18:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-22T19:00:00",
       "Heimmannschaft": "DSG Wiener SK Lation",
       "Gastmannschaft": "DSG Dornbach Sox",
@@ -43185,19 +43198,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
@@ -45540,6 +45540,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-06-06T16:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-06-06T16:30:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
@@ -46474,19 +46487,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-06-12T19:00:00",
