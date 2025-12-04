@@ -23453,7 +23453,7 @@
       "Longitude": 16.265628
     },
     {
-      "Spieldatum": "2025-12-07T15:00:00",
+      "Spieldatum": "2025-12-07T17:00:00",
       "Heimmannschaft": "DSG Wiener SK Lation",
       "Gastmannschaft": "DSG Hotel Kalcio",
       "Typ": "Männer",
@@ -23804,6 +23804,19 @@
       "Longitude": 16.437126
     },
     {
+      "Spieldatum": "2026-02-28T14:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "Wiener Sport-Club",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-02-28T15:00:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SV Horn",
@@ -23815,6 +23828,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-02-28T15:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "FAC Wien Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-03-01T10:30:00",
@@ -23919,19 +23945,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-03-01T23:00:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "FAC Wien Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-03-01T23:00:00",
@@ -24181,6 +24194,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-03-07T15:00:00",
+      "Heimmannschaft": "Hirschstetten",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
       "Spieldatum": "2026-03-07T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SC Neusiedl am See 1919",
@@ -24270,6 +24296,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-03-08T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Prater SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-03-08T16:45:00",
@@ -24676,19 +24715,6 @@
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -24933,19 +24959,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -25871,6 +25884,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-03-13T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-03-13T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "FCM Traiskirchen",
@@ -25908,6 +25934,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-03-14T14:30:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-03-14T15:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-03-14T15:30:00",
@@ -26470,19 +26522,6 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "NAC",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "Cro-Vienna",
       "Gastmannschaft": "Ankerbrot",
       "Typ": "Männer",
@@ -26948,19 +26987,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -27847,6 +27873,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-03-20T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-03-20T19:30:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "SC Neusiedl am See 1919",
@@ -28055,6 +28094,32 @@
       "Longitude": 16.370454
     },
     {
+      "Spieldatum": "2026-03-22T13:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Elite",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-03-22T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Elite",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-03-22T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "Gersthofer SV",
@@ -28131,19 +28196,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -28456,19 +28508,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -29836,6 +29875,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-03-27T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SC / ESV Parndorf 1919",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-03-27T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
@@ -29886,6 +29938,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-03-28T14:30:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-03-29T00:00:00",
@@ -30393,19 +30458,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -31357,6 +31409,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-04-12T13:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "FC Brigittenau",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-04-12T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
@@ -31368,6 +31433,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-12T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "FC Brigittenau",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-12T16:30:00",
@@ -31446,19 +31524,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
@@ -31771,19 +31836,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -33203,6 +33255,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-04-17T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "FC Marchfeld Donauauen",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-04-17T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "TWL Elektra",
@@ -33253,6 +33318,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-04-18T14:30:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-04-18T17:00:00",
@@ -33786,19 +33864,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -35283,6 +35348,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-04-26T13:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Bozok Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-04-26T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "FSC Favoriten",
@@ -35294,6 +35372,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-26T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "Bozok Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-26T16:30:00",
@@ -35372,19 +35463,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
@@ -35697,19 +35775,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -37064,6 +37129,32 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-05-01T16:00:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "DSV Fortuna 05",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-01T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-05-01T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SV Donau",
@@ -37686,19 +37777,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "DSV Fortuna 05",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -39196,6 +39274,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-05-10T13:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "WBC-IX",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-05-10T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "DSG Alxingergasse",
@@ -39207,6 +39298,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-10T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "WBC-IX",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-10T16:30:00",
@@ -39285,19 +39389,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "WBC-IX",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
@@ -39610,19 +39701,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "WBC-IX",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -40951,6 +41029,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-05-15T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SV Leobendorf",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
       "Spieldatum": "2026-05-15T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SC Neusiedl am See 1919",
@@ -41014,6 +41105,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-05-16T16:00:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Sportunion Schönbrunn",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-16T16:00:00",
@@ -41586,19 +41690,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "Sportunion Schönbrunn",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
@@ -42915,6 +43006,19 @@
     },
     {
       "Spieldatum": "2026-05-22T18:00:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Cro-Vienna",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-22T18:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -43081,19 +43185,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "Cro-Vienna",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-24T23:00:00",
@@ -43915,6 +44006,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-05-31T13:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-05-31T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Altera Porta 1b",
@@ -43926,6 +44030,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-31T15:30:00",
+      "Heimmannschaft": "Austria XVII",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -43991,19 +44108,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-31T21:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -44316,19 +44420,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
