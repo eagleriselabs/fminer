@@ -1,6 +1,19 @@
 {
   "martiballtermine_wien": [
     {
+      "Spieldatum": "2025-03-07T11:30:00",
+      "Heimmannschaft": "DSG 1. FC FI",
+      "Gastmannschaft": "DSG Torpedo Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2025-08-01T18:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SV Donau",
@@ -23737,19 +23750,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
-    },
-    {
-      "Spieldatum": "2026-02-26T11:30:00",
-      "Heimmannschaft": "DSG 1. FC FI",
-      "Gastmannschaft": "DSG Torpedo Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-02-27T00:00:00",
