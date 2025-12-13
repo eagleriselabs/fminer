@@ -5227,19 +5227,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2025-09-14T14:00:00",
-      "Heimmannschaft": "USC Landhaus 1b",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
-    },
-    {
       "Spieldatum": "2025-09-14T14:15:00",
       "Heimmannschaft": "Srbija Wien",
       "Gastmannschaft": "Penarol Wien",
@@ -23467,19 +23454,6 @@
     },
     {
       "Spieldatum": "2025-12-12T18:00:00",
-      "Heimmannschaft": "Stripfing",
-      "Gastmannschaft": "SK STURM GRAZ II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2025-12-12T18:00:00",
       "Heimmannschaft": "Young Violets Austria Wien",
       "Gastmannschaft": "SK Austria Klagenfurt",
       "Typ": "Männer",
@@ -25949,6 +25923,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-03-14T13:30:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Gradisce",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-03-14T14:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "NAC",
@@ -25986,6 +25973,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-03-14T15:30:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Gradisce",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-14T15:30:00",
@@ -26259,19 +26259,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Gradisce",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -26766,19 +26753,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Gradisce",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -27951,6 +27925,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-03-21T15:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-03-21T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SV druckmittel.at Gloggnitz",
@@ -27988,6 +27975,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-03-21T17:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-21T17:00:00",
@@ -28313,19 +28313,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -28872,19 +28859,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -31344,6 +31318,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-11T15:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Wiener Sport-Club 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-04-11T16:00:00",
       "Heimmannschaft": "Wiener Sport-Club",
       "Gastmannschaft": "SR Donaufeld",
@@ -32174,19 +32161,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Wiener Sport-Club 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -39209,6 +39183,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-09T15:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Triester",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-05-09T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
@@ -39240,6 +39227,19 @@
       "Gastmannschaft": "NAC",
       "Typ": "Männer",
       "Liga": "2. Landesliga",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-09T17:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Triester",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
       "Spielort": "ASVÖ 13",
       "Spielort Straße": "Linienamtsg. 7",
       "Spielort PLZ": 1130,
@@ -39519,19 +39519,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Triester",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
@@ -40013,19 +40000,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Triester",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -46606,6 +46580,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-06-13T15:00:00",
+      "Heimmannschaft": "Ober St.Veit",
+      "Gastmannschaft": "Sportunion Mauer 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-06-13T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Post SV",
@@ -47215,19 +47202,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Ober St.Veit",
-      "Gastmannschaft": "Sportunion Mauer 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
