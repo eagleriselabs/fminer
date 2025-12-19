@@ -22985,19 +22985,6 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2025-11-23T17:45:00",
-      "Heimmannschaft": "First Vienna FC 1894 U20",
-      "Gastmannschaft": "Young Violets Austria Wien U20",
-      "Typ": "Frauen",
-      "Liga": "Frauen Future League",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
       "Spieldatum": "2025-11-23T18:00:00",
       "Heimmannschaft": "Polska",
       "Gastmannschaft": "Vienna 2016",
@@ -23505,19 +23492,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-02-07T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "TSV Egger Glas Hartberg",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-02-07T14:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "SKN St. Pölten Frauen",
@@ -23531,17 +23505,17 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-02-14T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SK Rapid",
+      "Spieldatum": "2026-02-07T17:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "TSV Egger Glas Hartberg",
       "Typ": "Männer",
       "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-02-15T00:00:00",
@@ -23581,6 +23555,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-02-15T17:00:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-02-20T00:00:00",
@@ -23648,19 +23635,6 @@
       "Longitude": 16.303975
     },
     {
-      "Spieldatum": "2026-02-21T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "RZ Pellets WAC",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-02-21T14:00:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "USV Neulengbach",
@@ -23698,6 +23672,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-02-21T17:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "RZ Pellets WAC",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-02-21T17:00:00",
@@ -23765,6 +23752,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2026-02-27T18:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 U20",
+      "Gastmannschaft": "Young Violets Austria Wien U20",
+      "Typ": "Frauen",
+      "Liga": "Frauen Future League",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
       "Spieldatum": "2026-02-27T20:00:00",
       "Heimmannschaft": "Cro-Vienna",
       "Gastmannschaft": "SV Essling",
@@ -23779,19 +23779,6 @@
     },
     {
       "Spieldatum": "2026-02-28T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "LASK",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
-      "Spieldatum": "2026-02-28T00:00:00",
       "Heimmannschaft": "Young Violets Austria Wien U20",
       "Gastmannschaft": "SKN St. Pölten Frauen FL",
       "Typ": "Frauen",
@@ -23802,6 +23789,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-02-28T14:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "TWL Elektra 1b",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-02-28T14:00:00",
@@ -23869,6 +23869,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-03-01T17:00:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "LASK",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
       "Spieldatum": "2026-03-01T23:00:00",
       "Heimmannschaft": "Gersthofer SV",
       "Gastmannschaft": "NAC",
@@ -23906,19 +23919,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-03-01T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "TWL Elektra 1b",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-03-01T23:00:00",
@@ -24142,19 +24142,6 @@
       "Longitude": 16.303975
     },
     {
-      "Spieldatum": "2026-03-07T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "FC Red Bull Salzburg",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-03-07T14:00:00",
       "Heimmannschaft": "SV Wienerberg 1921",
       "Gastmannschaft": "SV Schwechat",
@@ -24335,6 +24322,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-03-08T17:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "FC Red Bull Salzburg",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-03-08T17:45:00",
@@ -25949,6 +25949,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-03-14T14:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-03-14T14:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "NAC",
@@ -26014,6 +26027,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2026-03-14T16:30:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
       "Spieldatum": "2026-03-14T19:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "USC Landhaus 1c",
@@ -26077,6 +26103,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-03-15T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Dsg T.Hietzing",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-15T20:45:00",
@@ -26574,19 +26613,6 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "GEPS 21 FC 1b",
       "Typ": "Frauen",
@@ -27081,19 +27107,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Dsg T.Hietzing",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Latino Vienna City S.K.",
       "Gastmannschaft": "DSG Los Andes FC",
       "Typ": "Männer",
@@ -27338,19 +27351,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
@@ -27913,6 +27913,19 @@
     },
     {
       "Spieldatum": "2026-03-21T14:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "DSV Fortuna 05",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-03-21T14:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "USV Neulengbach",
       "Typ": "Frauen",
@@ -28027,6 +28040,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-03-21T18:30:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-03-21T20:01:00",
@@ -28667,19 +28693,6 @@
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "DSV Fortuna 05",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
       "Heimmannschaft": "Altera Porta 1d",
       "Gastmannschaft": "LAC-Inter",
       "Typ": "Frauen",
@@ -29041,19 +29054,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "SU Schönbrunn",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -29927,6 +29927,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-03-28T14:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "SC Mannswörth",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-03-28T14:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Columbia Floridsdorf",
@@ -29977,6 +29990,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-03-29T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Altera Porta 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
@@ -30513,19 +30539,6 @@
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "SC Mannswörth",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
@@ -30575,19 +30588,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Altera Porta 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -31383,6 +31383,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-04-11T18:30:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Essling",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-04-11T20:01:00",
       "Heimmannschaft": "DSG Blau-Weiß Donau",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
@@ -31407,6 +31420,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-04-12T10:45:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-04-12T11:00:00",
@@ -31459,6 +31485,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-12T15:00:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "Dsg Cover-Direct SC",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-04-12T15:30:00",
@@ -31982,19 +32021,6 @@
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
       "Heimmannschaft": "Altera Porta 1d",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
@@ -32343,19 +32369,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "SU Schönbrunn",
-      "Gastmannschaft": "Essling",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32759,19 +32772,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "Dsg Cover-Direct SC",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
@@ -33398,6 +33398,32 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-19T15:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "DSG Latino Vienna City S.K.",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-19T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "USC Landhaus 1c",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-04-19T21:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Srbija Wien",
@@ -34010,19 +34036,6 @@
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "USC Landhaus 1c",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "SC Pötzleinsdorf",
       "Typ": "Frauen",
@@ -34475,19 +34488,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "DSG Latino Vienna City S.K.",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
@@ -35257,6 +35257,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-25T14:30:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "SC Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-04-25T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "Wiener Viktoria",
@@ -35307,6 +35320,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-25T19:00:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "FC Altera Porta",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-04-25T20:01:00",
@@ -35895,19 +35921,6 @@
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "SC Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
       "Heimmannschaft": "DSG Los Andes FC 1b",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
@@ -36256,19 +36269,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "SU Schönbrunn",
-      "Gastmannschaft": "FC Altera Porta",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -37260,6 +37260,19 @@
     },
     {
       "Spieldatum": "2026-05-02T17:00:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "DSG Sektion Westside",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-02T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SV Horn",
       "Typ": "Männer",
@@ -37348,6 +37361,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-05-03T15:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "DSG Vienna Warriors",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-03T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-05-03T21:00:00",
@@ -37975,19 +38014,6 @@
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "Mariahilf 1b",
       "Typ": "Frauen",
@@ -38404,19 +38430,6 @@
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "DSG Vienna Warriors",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
       "Heimmannschaft": "DSG Lagerwiese",
       "Gastmannschaft": "DSG Lokomotive Traisen FC",
       "Typ": "Männer",
@@ -38635,19 +38648,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "DSG Sektion Westside",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
@@ -39194,6 +39194,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-09T14:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "Cro-Vienna",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-05-09T15:00:00",
@@ -39831,19 +39844,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "Cro-Vienna",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -41159,6 +41159,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-05-16T16:30:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-05-16T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "FC Marchfeld Donauauen",
@@ -41248,6 +41261,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-05-17T15:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "DSG Lokomotive Traisen FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-17T15:00:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "Dsg AFC Hietzing",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-17T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Wiener Viktoria 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-05-17T21:00:00",
@@ -41888,19 +41940,6 @@
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Wiener Viktoria 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "ASV 13",
       "Typ": "Frauen",
@@ -42187,19 +42226,6 @@
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "SU Schönbrunn",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
       "Heimmannschaft": "Wiener Sport-Club 1b",
       "Gastmannschaft": "USC Landhaus 1b",
       "Typ": "Frauen",
@@ -42340,19 +42366,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "DSG Lokomotive Traisen FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
@@ -42535,19 +42548,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "Dsg AFC Hietzing",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
@@ -43942,6 +43942,19 @@
     },
     {
       "Spieldatum": "2026-05-30T16:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "SV Essling",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-05-30T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -43965,6 +43978,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-05-30T17:00:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "DSG Wolf Park Rangers",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-30T17:00:00",
@@ -44030,6 +44056,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-31T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "DSG Los Andes FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -44527,19 +44566,6 @@
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "SV Essling",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
       "Heimmannschaft": "FSC Favoriten",
       "Gastmannschaft": "DSG Alxingergasse",
       "Typ": "Frauen",
@@ -44956,19 +44982,6 @@
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "DSG Los Andes FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
       "Heimmannschaft": "DSG Latino Vienna City S.K.",
       "Gastmannschaft": "DSG Lokomotive Traisen FC",
       "Typ": "Männer",
@@ -45096,19 +45109,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "DSG Wolf Park Rangers",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
@@ -45748,6 +45748,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-06-07T17:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Paulaner Wieden",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-06-07T21:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Polska",
@@ -46295,19 +46308,6 @@
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Paulaner Wieden",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "FSC Favoriten",
       "Typ": "Frauen",
@@ -46565,6 +46565,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-06-12T18:00:00",
+      "Heimmannschaft": "Sportunion Schönbrunn",
+      "Gastmannschaft": "Ankerbrot",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-06-12T19:00:00",
@@ -47137,19 +47150,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Sportunion Schönbrunn",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
