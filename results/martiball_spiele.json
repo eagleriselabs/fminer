@@ -24155,6 +24155,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-03-07T14:30:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "SC Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
       "Spieldatum": "2026-03-07T15:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "SC Mannswörth",
@@ -24816,19 +24829,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "SC Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -26116,6 +26116,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-03-15T18:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-03-15T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Meetup United",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-15T20:45:00",
@@ -27627,19 +27653,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Argos United 09",
       "Gastmannschaft": "DSG Dynamo Deluxe",
       "Typ": "Männer",
@@ -27767,19 +27780,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Meetup United",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
@@ -27936,6 +27936,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-03-21T14:30:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "Cro-Vienna",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-03-21T15:00:00",
@@ -28651,19 +28664,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "Cro-Vienna",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -31332,6 +31332,19 @@
     },
     {
       "Spieldatum": "2026-04-11T15:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "SV Essling",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-04-11T15:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Wiener Sport-Club 1b",
       "Typ": "Männer",
@@ -31394,6 +31407,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-04-11T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Los Andes FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-11T20:01:00",
@@ -31524,6 +31550,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-12T17:30:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Torpedo Lainz",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-04-12T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Wiener SK Lation",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
@@ -31992,19 +32044,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "SV Essling",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32801,19 +32840,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Torpedo Lainz",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Sonntag 2012",
       "Typ": "Männer",
@@ -33035,19 +33061,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Los Andes FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "DSG Argos United 09",
       "Gastmannschaft": "DSG Meidling",
       "Typ": "Männer",
@@ -33162,19 +33175,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Wiener SK Lation",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
@@ -35192,6 +35192,19 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2026-04-24T18:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "Ankerbrot",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
       "Spieldatum": "2026-04-24T19:00:00",
       "Heimmannschaft": "DSG Union Latina",
       "Gastmannschaft": "DSG Paulaner Wieden 1c",
@@ -35335,6 +35348,19 @@
       "Longitude": 16.304792
     },
     {
+      "Spieldatum": "2026-04-25T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-04-25T20:01:00",
       "Heimmannschaft": "DSG Blau-Weiß Donau",
       "Gastmannschaft": "DSG Finanzprofis Wr. Neustadt",
@@ -35437,6 +35463,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-26T18:00:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Magic Unicorns",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-04-26T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Play Together Now",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
@@ -35892,19 +35944,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -36740,19 +36779,6 @@
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Magic Unicorns",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
       "Heimmannschaft": "DSG Kollegium / Kalksburg",
       "Gastmannschaft": "DSG Royal Rainer",
       "Typ": "Männer",
@@ -36961,19 +36987,6 @@
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "DSG Ukraina Wien SKV",
       "Typ": "Männer",
@@ -37088,19 +37101,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Play Together Now",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
@@ -39378,6 +39378,32 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2026-05-10T18:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Spice Balls All Stars",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-05-10T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG District West AS",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-10T21:00:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Vienna 2016",
@@ -40822,19 +40848,6 @@
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Spice Balls All Stars",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
@@ -40936,19 +40949,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG District West AS",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
@@ -41133,6 +41133,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-05-16T15:30:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
       "Spieldatum": "2026-05-16T16:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Sportunion Schönbrunn",
@@ -41300,6 +41313,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-17T17:30:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-17T21:00:00",
@@ -41781,19 +41807,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
@@ -42590,19 +42603,6 @@
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Südtirol 07",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Philadelphia AC",
       "Typ": "Männer",
@@ -43122,6 +43122,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-23T16:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "Sportunion Schönbrunn",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
       "Spieldatum": "2026-05-23T16:30:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "Wiener Viktoria",
@@ -43185,19 +43198,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "Sportunion Schönbrunn",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-05-24T23:00:00",
@@ -43289,6 +43289,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-05-25T18:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-05-25T20:00:00",
+      "Heimmannschaft": "DSG Vienna Vibes",
+      "Gastmannschaft": "Dsg Celtic Hernals",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
@@ -43695,19 +43721,6 @@
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "DSG Meetup United",
       "Typ": "Männer",
@@ -43822,19 +43835,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Vienna Vibes",
-      "Gastmannschaft": "Dsg Celtic Hernals",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
@@ -44069,6 +44069,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-31T19:30:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Klosterneuburg",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -45151,19 +45164,6 @@
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Klosterneuburg",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Rudell SKF",
       "Typ": "Männer",
@@ -45668,6 +45668,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-06-06T16:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "DSV Fortuna 05",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-06-06T16:00:00",
@@ -46227,19 +46240,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "DSV Fortuna 05",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
