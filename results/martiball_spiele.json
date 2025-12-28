@@ -24428,6 +24428,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-03-08T18:30:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG Kasnudl Athletic Club",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-03-08T20:15:00",
       "Heimmannschaft": "DSG Billroth Fc",
       "Gastmannschaft": "DSG Dornbach Sox",
@@ -25778,19 +25791,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-03-12T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG Kasnudl Athletic Club",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-13T00:00:00",
@@ -27757,6 +27757,19 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
+      "Heimmannschaft": "DSG Hotel Kalcio",
+      "Gastmannschaft": "DSG Play Together Now",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Kasnudl Athletic Club",
       "Gastmannschaft": "DSG Wiener SK Lation",
       "Typ": "Männer",
@@ -28235,6 +28248,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-03-22T18:30:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG Vienna Vibes",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -29795,19 +29821,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-27T19:00:00",
@@ -33450,6 +33463,19 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2026-04-19T19:30:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG Meetup United",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-04-19T21:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Srbija Wien",
@@ -35140,19 +35166,6 @@
       "Longitude": 16.310258
     },
     {
-      "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG Meetup United",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
       "Spieldatum": "2026-04-24T00:00:00",
       "Heimmannschaft": "SK Rapid II",
       "Gastmannschaft": "Stripfing",
@@ -35372,6 +35385,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-04-25T20:15:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG LGV Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-26T00:00:00",
@@ -37101,19 +37127,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG LGV Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-01T16:00:00",
@@ -39430,6 +39443,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-05-10T18:30:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG Nepomuk",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-05-10T20:00:00",
       "Heimmannschaft": "DSG Vienna Vibes",
       "Gastmannschaft": "DSG District West AS",
@@ -40962,19 +40988,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG Nepomuk",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-15T19:00:00",
@@ -43161,6 +43174,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-23T18:30:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "DSG Hotel Kalcio",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-05-24T00:00:00",
       "Heimmannschaft": "FC Mauerwerk Immo",
       "Gastmannschaft": "FC Stadlau",
@@ -43835,19 +43861,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "Dsg Endstation Hernals",
-      "Gastmannschaft": "DSG Hotel Kalcio",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-29T18:00:00",
