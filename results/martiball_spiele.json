@@ -24234,6 +24234,19 @@
     },
     {
       "Spieldatum": "2026-03-07T15:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-03-07T15:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "SC Mannswörth",
       "Typ": "Männer",
@@ -24270,6 +24283,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-03-07T17:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-03-07T17:30:00",
@@ -24350,6 +24376,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-03-08T11:30:00",
+      "Heimmannschaft": "Marianum 1b",
+      "Gastmannschaft": "DSG Porzelona Future Team",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-03-08T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Maccabi Wien",
@@ -24376,6 +24415,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-03-08T13:45:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "KSC / FCB Donaustadt",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-03-08T15:30:00",
       "Heimmannschaft": "Austria XVII",
       "Gastmannschaft": "Prater SV",
@@ -24387,6 +24439,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-03-08T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "KSC / FCB Donaustadt",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-08T16:45:00",
@@ -24452,19 +24517,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
@@ -24689,19 +24741,6 @@
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "KSC / FCB Donaustadt",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "FCJ Alt-Ottakring",
       "Typ": "Männer",
@@ -24725,19 +24764,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -25040,19 +25066,6 @@
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "KSC / FCB Donaustadt",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "FCJ Alt-Ottakring",
       "Typ": "Männer",
@@ -25302,19 +25315,6 @@
       "Spieldatum": "2026-03-12T22:22:00",
       "Heimmannschaft": "DSG O Jessas",
       "Gastmannschaft": "DSG Real Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-03-12T22:22:00",
-      "Heimmannschaft": "Marianum 1b",
-      "Gastmannschaft": "DSG Porzelona Future Team",
       "Typ": "Männer",
       "Liga": "DSG 2. Klasse A",
       "Spielort": "Post Sportanlage",
@@ -26015,6 +26015,19 @@
     },
     {
       "Spieldatum": "2026-03-14T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-03-14T16:00:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "WAF pinova Telekom",
       "Typ": "Männer",
@@ -26038,6 +26051,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-03-14T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-03-14T19:00:00",
@@ -26298,19 +26324,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -26584,19 +26597,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -28172,6 +28172,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-03-22T11:30:00",
+      "Heimmannschaft": "Marianum 1b",
+      "Gastmannschaft": "DSG Real Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-03-22T13:00:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "AKA Vorarlberg – SCR Altach",
@@ -28211,6 +28224,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-03-22T13:45:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-03-22T15:30:00",
       "Heimmannschaft": "Austria XVII",
       "Gastmannschaft": "Elite",
@@ -28222,6 +28248,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-03-22T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-22T16:30:00",
@@ -28482,19 +28521,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -29005,19 +29031,6 @@
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Torin Adler",
       "Typ": "Männer",
@@ -29353,19 +29366,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "Marianum 1b",
-      "Gastmannschaft": "DSG Real Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-03-26T22:22:00",
@@ -29941,6 +29941,19 @@
     },
     {
       "Spieldatum": "2026-03-28T14:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-03-28T14:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "SC Mannswörth",
       "Typ": "Männer",
@@ -30005,6 +30018,32 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2026-03-28T16:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-03-28T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Prater SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
       "Spieldatum": "2026-03-29T00:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "Union LUV Graz",
@@ -30042,19 +30081,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-03-29T21:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
@@ -30331,19 +30357,6 @@
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "Penzinger SV",
       "Typ": "Männer",
@@ -30471,19 +30484,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Prater SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -31526,6 +31526,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-12T13:45:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-04-12T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
@@ -31565,6 +31578,32 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-12T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Vorwärts Wien 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-04-12T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-04-12T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -31589,6 +31628,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-04-12T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Vorwärts Wien 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-04-12T18:30:00",
@@ -31735,19 +31787,6 @@
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
       "Heimmannschaft": "WBC-IX",
       "Gastmannschaft": "Real Wien",
       "Typ": "Männer",
@@ -31862,19 +31901,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
@@ -32044,19 +32070,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32369,19 +32382,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -33333,6 +33333,19 @@
       "Longitude": 16.443979
     },
     {
+      "Spieldatum": "2026-04-18T14:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-04-18T14:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Post SV",
@@ -33383,6 +33396,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-04-18T16:30:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-04-18T16:30:00",
@@ -33474,19 +33500,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-04-19T21:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-04-19T21:00:00",
@@ -33760,19 +33773,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -34503,6 +34503,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-04-22T19:45:00",
+      "Heimmannschaft": "Marianum 1b",
+      "Gastmannschaft": "DSG Young Boys Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-04-23T22:22:00",
       "Heimmannschaft": "DSG Atemnot",
       "Gastmannschaft": "DSG Lokomotive Traisen FC",
@@ -34644,19 +34657,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "Marianum 1b",
-      "Gastmannschaft": "DSG Young Boys Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
@@ -35297,6 +35297,19 @@
     },
     {
       "Spieldatum": "2026-04-25T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-04-25T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -35346,6 +35359,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-04-25T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-04-25T19:00:00",
@@ -35476,6 +35502,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-04-26T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "SR Donaufeld 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-26T16:30:00",
@@ -35671,19 +35710,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
@@ -35986,19 +36012,6 @@
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "SV Essling",
       "Typ": "Männer",
@@ -36282,19 +36295,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "SR Donaufeld 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -37247,6 +37247,19 @@
     },
     {
       "Spieldatum": "2026-05-02T15:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-05-02T15:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -37309,6 +37322,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-05-02T17:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-05-02T17:30:00",
@@ -37413,19 +37439,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-05-03T21:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-05-03T21:00:00",
@@ -37686,19 +37699,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -39249,6 +39249,19 @@
     },
     {
       "Spieldatum": "2026-05-09T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-05-09T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
@@ -39300,6 +39313,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-05-09T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
       "Spieldatum": "2026-05-10T00:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "SG SK Austria Klagenfurt",
@@ -39326,6 +39352,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-05-10T11:30:00",
+      "Heimmannschaft": "Marianum 1b",
+      "Gastmannschaft": "DSG 1150 Allstars FC",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-05-10T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "SV Essling",
@@ -39350,6 +39389,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-10T13:45:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-10T14:00:00",
@@ -39402,6 +39454,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-10T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-10T16:30:00",
@@ -39600,19 +39665,6 @@
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
       "Heimmannschaft": "Gradisce",
       "Gastmannschaft": "Kalksburg-Rodaun",
       "Typ": "Männer",
@@ -39688,19 +39740,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
@@ -39896,19 +39935,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -40195,19 +40221,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -40611,19 +40624,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "Marianum 1b",
-      "Gastmannschaft": "DSG 1150 Allstars FC",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
@@ -41212,6 +41212,19 @@
     },
     {
       "Spieldatum": "2026-05-16T17:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Wiener Viktoria 1b",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-05-16T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "FC Marchfeld Donauauen",
       "Typ": "Männer",
@@ -41625,19 +41638,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Wiener Viktoria 1b",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
@@ -43968,6 +43968,19 @@
     },
     {
       "Spieldatum": "2026-05-30T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-05-30T16:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "SV Essling",
       "Typ": "Männer",
@@ -44030,6 +44043,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-05-30T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-05-30T18:00:00",
@@ -44251,19 +44277,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-31T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -44563,19 +44576,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
@@ -45683,6 +45683,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-06-06T15:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-06-06T16:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "DSV Fortuna 05",
@@ -45748,6 +45761,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-06-06T17:30:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-06-07T00:00:00",
       "Heimmannschaft": "FC Mauerwerk Immo",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
@@ -45787,6 +45813,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-06-07T16:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-06-07T17:00:00",
       "Heimmannschaft": "DSG Alxingergasse",
       "Gastmannschaft": "Paulaner Wieden",
@@ -45798,19 +45837,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
@@ -46058,19 +46084,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
@@ -46464,19 +46477,6 @@
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
       "Heimmannschaft": "SR Donaufeld 1b",
       "Gastmannschaft": "Torin Adler",
       "Typ": "Männer",
@@ -46632,6 +46632,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-06-13T16:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
       "Spieldatum": "2026-06-13T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Post SV",
@@ -46643,6 +46656,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-06-13T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-06-14T12:00:00",
@@ -46786,19 +46812,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
@@ -47111,19 +47124,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
