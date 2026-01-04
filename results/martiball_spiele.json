@@ -24272,6 +24272,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-03-07T15:30:00",
+      "Heimmannschaft": "DSG Sektor 17",
+      "Gastmannschaft": "DSG Meidling",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-03-07T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Retz",
@@ -24480,7 +24493,7 @@
       "Longitude": 16.265628
     },
     {
-      "Spieldatum": "2026-03-08T17:45:00",
+      "Spieldatum": "2026-03-08T18:15:00",
       "Heimmannschaft": "DSG Young Boys Döbling",
       "Gastmannschaft": "DSG Dritter FC Bock",
       "Typ": "Männer",
@@ -25716,19 +25729,6 @@
     },
     {
       "Spieldatum": "2026-03-12T22:22:00",
-      "Heimmannschaft": "DSG Sektor 17",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-03-12T22:22:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Play Together Now",
       "Typ": "Männer",
@@ -25923,6 +25923,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-03-14T13:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Kalksburg-Rodaun",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-03-14T13:30:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Gradisce",
@@ -25962,6 +25975,19 @@
       "Longitude": 16.38679
     },
     {
+      "Spieldatum": "2026-03-14T14:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-03-14T15:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "SC Großfeld",
@@ -25986,6 +26012,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-03-14T15:15:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Kalksburg-Rodaun",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-14T15:30:00",
@@ -26051,6 +26090,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-03-14T16:45:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-14T18:00:00",
@@ -26144,6 +26196,32 @@
       "Longitude": 16.382252
     },
     {
+      "Spieldatum": "2026-03-15T14:00:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Rudolfsheim I.F.",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-03-15T16:00:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
       "Spieldatum": "2026-03-15T16:00:00",
       "Heimmannschaft": "Dsg Celtic Hernals",
       "Gastmannschaft": "Dsg Endstation Hernals",
@@ -26171,6 +26249,19 @@
     },
     {
       "Spieldatum": "2026-03-15T18:00:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-03-15T18:00:00",
       "Heimmannschaft": "DSG Vienna Vibes",
       "Gastmannschaft": "DSG Vienna Internationals",
       "Typ": "Männer",
@@ -26194,19 +26285,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-03-15T20:45:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -26415,19 +26493,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -26808,19 +26873,6 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
@@ -26909,19 +26961,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -27432,19 +27471,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Union 13",
       "Typ": "Männer",
@@ -27653,19 +27679,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Argos United 09",
       "Gastmannschaft": "DSG Dynamo Deluxe",
       "Typ": "Männer",
@@ -27702,19 +27715,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Rudolfsheim I.F.",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
@@ -27965,6 +27965,19 @@
     },
     {
       "Spieldatum": "2026-03-21T14:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-03-21T14:30:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SV druckmittel.at Gloggnitz",
       "Typ": "Männer",
@@ -28001,6 +28014,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-03-21T16:00:00",
+      "Heimmannschaft": "DSG Sektor 17",
+      "Gastmannschaft": "DSG Porzelona",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-03-21T16:00:00",
@@ -29018,19 +29044,6 @@
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Torin Adler",
       "Typ": "Männer",
@@ -29746,19 +29759,6 @@
     },
     {
       "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "DSG Sektor 17",
-      "Gastmannschaft": "DSG Porzelona",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Hotel Kalcio",
       "Typ": "Männer",
@@ -29940,6 +29940,19 @@
       "Longitude": 16.443979
     },
     {
+      "Spieldatum": "2026-03-28T13:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Wacker Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-03-28T14:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Vienna 2016",
@@ -29992,6 +30005,19 @@
       "Longitude": 16.443979
     },
     {
+      "Spieldatum": "2026-03-28T14:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "FCJ Alt-Ottakring",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-03-28T15:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "SR Donaufeld 1b",
@@ -30003,6 +30029,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-03-28T15:15:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Wacker Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-03-28T16:00:00",
@@ -30029,6 +30068,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-03-28T16:45:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "FCJ Alt-Ottakring",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-28T18:00:00",
@@ -30227,19 +30279,6 @@
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-03-29T21:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Triester",
       "Typ": "Männer",
@@ -30302,19 +30341,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-03-29T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "FCJ Alt-Ottakring",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
@@ -30708,19 +30734,6 @@
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Triester",
       "Typ": "Männer",
@@ -30809,19 +30822,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "FCJ Alt-Ottakring",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -31344,6 +31344,32 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-11T12:00:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Hirschstetten",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-04-11T14:15:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Hirschstetten",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-04-11T15:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "SV Essling",
@@ -31539,6 +31565,19 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-04-12T14:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Porzelona",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
       "Spieldatum": "2026-04-12T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
@@ -31615,6 +31654,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-12T16:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Meetup United",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-04-12T17:30:00",
@@ -31888,19 +31940,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
@@ -32369,19 +32408,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -33048,19 +33074,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Meetup United",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Ukraina Wien SKV",
       "Typ": "Männer",
@@ -33097,19 +33110,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Porzelona",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
@@ -33320,6 +33320,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-04-18T13:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "FK Adige",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-04-18T14:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Marianum",
@@ -33383,6 +33396,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-04-18T15:15:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "FK Adige",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-18T15:45:00",
+      "Heimmannschaft": "DSG Sektor 17",
+      "Gastmannschaft": "DSG Spice Balls All Stars",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-04-18T16:00:00",
@@ -33656,19 +33695,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-04-19T21:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-04-19T21:00:00",
@@ -34176,19 +34202,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.252577,
       "Longitude": 16.392631
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -35089,19 +35102,6 @@
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "DSG Sektor 17",
-      "Gastmannschaft": "DSG Spice Balls All Stars",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
       "Heimmannschaft": "DSG Hotel Kalcio",
       "Gastmannschaft": "DSG Kasnudl Athletic Club",
       "Typ": "Männer",
@@ -35283,6 +35283,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-04-25T13:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-04-25T14:30:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "SC Ostbahn XI",
@@ -35294,6 +35307,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-04-25T15:45:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-25T16:00:00",
@@ -35804,19 +35830,6 @@
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
@@ -36282,19 +36295,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -37286,6 +37286,19 @@
     },
     {
       "Spieldatum": "2026-05-02T16:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Torpedo Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-05-02T16:30:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -37348,6 +37361,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-02T18:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-05-03T00:00:00",
@@ -38911,19 +38937,6 @@
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
       "Heimmannschaft": "DSG Ukraina Wien SKV",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -38999,19 +39012,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Torpedo Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
@@ -39222,6 +39222,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-09T12:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-05-09T14:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "Cro-Vienna",
@@ -39233,6 +39246,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-05-09T14:45:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-05-09T15:00:00",
@@ -39730,19 +39756,6 @@
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Gartenstadt",
       "Typ": "Männer",
@@ -40208,19 +40221,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -41365,6 +41365,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-17T18:00:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Hernalser Spartans FC",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-05-17T20:00:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Hernalser Spartans FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-05-17T21:00:00",
@@ -42811,19 +42837,6 @@
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Hernalser Spartans FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
       "Heimmannschaft": "DSG Ukraina Wien SKV",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
@@ -42899,19 +42912,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Hernalser Spartans FC",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
@@ -43929,6 +43929,19 @@
     },
     {
       "Spieldatum": "2026-05-29T19:30:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "SR Donaufeld 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-05-29T19:30:00",
       "Heimmannschaft": "Wiener Sport-Club",
       "Gastmannschaft": "SV Leobendorf",
       "Typ": "Männer",
@@ -43965,6 +43978,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-05-30T15:30:00",
+      "Heimmannschaft": "DSG Sektor 17",
+      "Gastmannschaft": "DSG Südtirol 16",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-05-30T16:00:00",
@@ -44097,6 +44123,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-31T14:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Milord BLANCO FC",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
       "Spieldatum": "2026-05-31T14:50:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Altera Porta 1b",
@@ -44121,6 +44160,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-31T16:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "Dsg Celtic Salmannsd.",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-05-31T17:00:00",
@@ -44839,19 +44891,6 @@
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "SR Donaufeld 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Marianum",
       "Typ": "Männer",
@@ -45385,19 +45424,6 @@
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "Dsg Celtic Salmannsd.",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
       "Heimmannschaft": "DSG Ukraina Wien SKV",
       "Gastmannschaft": "DSG Vienna Vibes",
       "Typ": "Männer",
@@ -45447,32 +45473,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Sektor 17",
-      "Gastmannschaft": "DSG Südtirol 16",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Milord BLANCO FC",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
@@ -45644,6 +45644,19 @@
       "Longitude": 16.473635
     },
     {
+      "Spieldatum": "2026-06-06T13:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Kurdroj",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-06-06T14:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Royal Persia",
@@ -45694,6 +45707,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-06-06T15:15:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Kurdroj",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-06-06T16:00:00",
@@ -45980,19 +46006,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
@@ -46373,19 +46386,6 @@
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Rennweger SV",
       "Typ": "Männer",
@@ -46619,6 +46619,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-06-13T13:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-06-13T14:45:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-06-13T15:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Sportunion Mauer 1b",
@@ -46630,6 +46656,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-06-13T15:15:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-06-13T16:00:00",
@@ -46656,6 +46695,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-06-13T17:00:00",
+      "Heimmannschaft": "KSC / FCB Donaustadt",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-06-13T18:00:00",
@@ -46828,19 +46880,6 @@
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-14T21:00:00",
       "Heimmannschaft": "Gradisce",
       "Gastmannschaft": "FK Adige",
       "Typ": "Männer",
@@ -46929,19 +46968,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
@@ -47166,19 +47192,6 @@
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
       "Heimmannschaft": "Gradisce",
       "Gastmannschaft": "FK Adige",
       "Typ": "Männer",
@@ -47280,19 +47293,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
