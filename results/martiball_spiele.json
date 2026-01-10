@@ -1184,19 +1184,6 @@
       "Longitude": 16.398671
     },
     {
-      "Spieldatum": "2025-08-30T17:15:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Inzersdorf",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-08-30T17:30:00",
       "Heimmannschaft": "Ankerbrot",
       "Gastmannschaft": "Cro-Vienna",
@@ -1338,19 +1325,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2025-08-30T19:15:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Inzersdorf",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-08-30T19:30:00",
@@ -3342,19 +3316,6 @@
       "Longitude": 16.48207
     },
     {
-      "Spieldatum": "2025-09-07T13:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-09-07T14:00:00",
       "Heimmannschaft": "FavAC 1b",
       "Gastmannschaft": "Gipsy Kings Vienna",
@@ -3457,19 +3418,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2025-09-07T15:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-09-07T16:00:00",
@@ -4562,19 +4510,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2025-09-13T16:30:00",
-      "Heimmannschaft": "Sportunion Mauer 1b",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2025-09-13T16:30:00",
@@ -7099,19 +7034,6 @@
       "Longitude": 16.48207
     },
     {
-      "Spieldatum": "2025-09-21T13:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-09-21T13:45:00",
       "Heimmannschaft": "Real Wien",
       "Gastmannschaft": "WBC-IX",
@@ -7201,19 +7123,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2025-09-21T15:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-09-21T16:00:00",
@@ -8062,19 +7971,6 @@
     },
     {
       "Spieldatum": "2025-09-27T14:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2025-09-27T14:00:00",
       "Heimmannschaft": "FCJ Alt-Ottakring",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -8280,19 +8176,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2025-09-27T16:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2025-09-27T16:00:00",
@@ -11064,19 +10947,6 @@
       "Longitude": 16.371731
     },
     {
-      "Spieldatum": "2025-10-05T13:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Ober St.Veit",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-10-05T13:45:00",
       "Heimmannschaft": "Real Wien",
       "Gastmannschaft": "SC Kopten",
@@ -11205,19 +11075,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2025-10-05T15:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Ober St.Veit",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-10-05T16:00:00",
@@ -11936,19 +11793,6 @@
     },
     {
       "Spieldatum": "2025-10-11T14:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2025-10-11T14:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "SR Donaufeld 1b",
       "Typ": "Männer",
@@ -12206,19 +12050,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2025-10-11T16:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2025-10-11T16:00:00",
@@ -14718,19 +14549,6 @@
     },
     {
       "Spieldatum": "2025-10-19T11:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Wiener Sport-Club 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2025-10-19T11:30:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -15718,19 +15536,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2025-10-25T13:30:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
       "Spieldatum": "2025-10-25T13:45:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "SC Großfeld",
@@ -15937,19 +15742,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2025-10-25T15:30:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2025-10-25T15:30:00",
@@ -16953,19 +16745,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2025-11-01T12:00:00",
-      "Heimmannschaft": "Rennweger SV",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
       "Spieldatum": "2025-11-01T12:30:00",
       "Heimmannschaft": "DSG Porzelona",
       "Gastmannschaft": "DSG Hernalser Spartans FC",
@@ -17094,19 +16873,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2025-11-01T14:00:00",
-      "Heimmannschaft": "Rennweger SV",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2025-11-01T14:00:00",
@@ -18773,19 +18539,6 @@
       "Longitude": 16.291942
     },
     {
-      "Spieldatum": "2025-11-08T13:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "FC Bhf. Favoriten",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-08T13:45:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "Gartenstadt",
@@ -19109,19 +18862,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2025-11-08T15:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "FC Bhf. Favoriten",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-11-08T15:30:00",
@@ -20437,19 +20177,6 @@
       "Longitude": 16.398671
     },
     {
-      "Spieldatum": "2025-11-15T12:00:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
       "Spieldatum": "2025-11-15T12:45:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "Wollers Komet",
@@ -20669,19 +20396,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2025-11-15T14:15:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2025-11-15T15:00:00",
@@ -22816,19 +22530,6 @@
       "Longitude": 16.304792
     },
     {
-      "Spieldatum": "2025-11-23T13:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-23T14:00:00",
       "Heimmannschaft": "FavAC 1b",
       "Gastmannschaft": "FC Eintracht Wien",
@@ -22905,19 +22606,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2025-11-23T15:30:00",
-      "Heimmannschaft": "Kurdroj",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2025-11-23T16:00:00",
@@ -23869,6 +23557,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-03-01T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
       "Spieldatum": "2026-03-01T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "ASV 13",
@@ -23880,6 +23581,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-03-01T14:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "Dsg Cover-Direct SC",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-03-01T16:00:00",
@@ -23932,19 +23646,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.225324870552456,
       "Longitude": 16.328420452719126
-    },
-    {
-      "Spieldatum": "2026-03-01T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-03-01T23:00:00",
@@ -24010,19 +23711,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-03-05T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "Dsg Cover-Direct SC",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-03-05T22:22:00",
@@ -24130,6 +23818,19 @@
     },
     {
       "Spieldatum": "2026-03-07T12:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-03-07T12:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -24153,6 +23854,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-03-07T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-03-07T14:00:00",
@@ -24389,6 +24103,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-03-07T18:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Wiener Viktoria 1b",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-03-07T18:30:00",
       "Heimmannschaft": "RB Jedlesee",
       "Gastmannschaft": "Elite",
@@ -24467,6 +24194,19 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-03-08T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "Dsg Celtic Hernals",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-03-08T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Maccabi Wien",
@@ -24530,6 +24270,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-03-08T15:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-03-08T15:30:00",
@@ -24780,19 +24533,6 @@
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -24923,19 +24663,6 @@
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Wiener Viktoria 1b",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Polska",
       "Typ": "Männer",
@@ -25040,19 +24767,6 @@
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -25154,19 +24868,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -25742,19 +25443,6 @@
     },
     {
       "Spieldatum": "2026-03-12T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "Dsg Celtic Hernals",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-12T22:22:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG Hotel Kalcio",
       "Typ": "Männer",
@@ -26157,6 +25845,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-03-14T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG 1. FC FI",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-03-14T19:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "USC Landhaus 1c",
@@ -26168,6 +25869,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-03-14T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Klosterneuburg",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-03-15T00:00:00",
@@ -26235,6 +25949,32 @@
       "Longitude": 16.359464
     },
     {
+      "Spieldatum": "2026-03-15T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "SV Essling",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-03-15T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-03-15T12:00:00",
       "Heimmannschaft": "DSG Hernalser Spartans FC",
       "Gastmannschaft": "DSG Sektor 17",
@@ -26246,6 +25986,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-03-15T12:30:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Penzinger SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-15T14:00:00",
@@ -26288,6 +26041,19 @@
     },
     {
       "Spieldatum": "2026-03-15T14:00:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "Altera Porta 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-03-15T14:00:00",
       "Heimmannschaft": "Wiener Sport-Club 1b",
       "Gastmannschaft": "Essling",
       "Typ": "Frauen",
@@ -26298,6 +26064,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-03-15T14:30:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Penzinger SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-03-15T16:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-03-15T16:00:00",
@@ -26391,6 +26183,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-03-15T18:10:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Los Andes FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
       "Spieldatum": "2026-03-15T20:00:00",
       "Heimmannschaft": "DSG Vienna Vibes",
       "Gastmannschaft": "DSG Meetup United",
@@ -26454,19 +26259,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Penzinger SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -26717,19 +26509,6 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Penzinger SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "SC Kopten",
       "Typ": "Männer",
@@ -26808,19 +26587,6 @@
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "SV Essling",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "SC Ostbahn XI",
       "Gastmannschaft": "TWL Elektra 1b",
       "Typ": "Männer",
@@ -26883,19 +26649,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "Altera Porta 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -27497,19 +27250,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Klosterneuburg",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "DSG SUSA Vienna",
       "Typ": "Männer",
@@ -27559,19 +27299,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
@@ -27666,32 +27393,6 @@
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Los Andes FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "Dsg Celtic Salmannsd.",
       "Typ": "Männer",
@@ -27728,19 +27429,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-03-19T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG 1. FC FI",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-03-19T22:22:00",
@@ -27925,6 +27613,19 @@
       "Longitude": 16.399002
     },
     {
+      "Spieldatum": "2026-03-21T12:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-03-21T14:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "DSV Fortuna 05",
@@ -27949,6 +27650,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-03-21T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-03-21T14:00:00",
@@ -28053,6 +27767,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-03-21T15:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-03-21T16:00:00",
@@ -28328,6 +28055,32 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-03-22T12:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-03-22T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Vienna Falcons",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-03-22T13:00:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "AKA Vorarlberg – SCR Altach",
@@ -28378,6 +28131,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2026-03-22T14:15:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-22T15:30:00",
@@ -28445,6 +28211,19 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-03-22T20:00:00",
+      "Heimmannschaft": "DSG Union 13",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-03-22T21:00:00",
       "Heimmannschaft": "FC Eintracht Wien",
       "Gastmannschaft": "Penarol Wien",
@@ -28482,19 +28261,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -28573,19 +28339,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
@@ -28742,19 +28495,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -29005,19 +28745,6 @@
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "FC Bhf. Favoriten",
       "Typ": "Männer",
@@ -29171,19 +28898,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -29538,19 +29252,6 @@
     },
     {
       "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "DSG Union 13",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Philadelphia AC",
       "Typ": "Männer",
@@ -29772,19 +29473,6 @@
     },
     {
       "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Vienna Falcons",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG Kasnudl Athletic Club",
       "Typ": "Männer",
@@ -29992,6 +29680,19 @@
       "Longitude": 16.304792
     },
     {
+      "Spieldatum": "2026-03-28T14:00:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "USC Landhaus 1c",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-03-28T14:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Columbia Floridsdorf",
@@ -30135,6 +29836,32 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-03-29T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-03-29T13:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "FC Eintracht Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-03-29T14:00:00",
       "Heimmannschaft": "Wiener Sport-Club 1b",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
@@ -30146,6 +29873,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-03-29T15:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "FC Eintracht Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-29T16:00:00",
@@ -30237,19 +29977,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-29T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "FC Eintracht Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
@@ -30500,19 +30227,6 @@
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "FC Eintracht Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
@@ -30575,19 +30289,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.225324870552456,
       "Longitude": 16.328420452719126
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "NAC",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -30666,19 +30367,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-03-29T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "USC Landhaus 1c",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-03-29T23:00:00",
@@ -31383,6 +31071,19 @@
       "Longitude": 16.399002
     },
     {
+      "Spieldatum": "2026-04-11T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-04-11T14:15:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "Hirschstetten",
@@ -31422,6 +31123,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-04-11T15:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "SV Schwechat",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
       "Spieldatum": "2026-04-11T16:00:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Cro-Vienna",
@@ -31449,6 +31163,19 @@
     },
     {
       "Spieldatum": "2026-04-11T16:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-04-11T16:00:00",
       "Heimmannschaft": "DSG Kasnudl Athletic Club",
       "Gastmannschaft": "DSG Play Together Now",
       "Typ": "Männer",
@@ -31459,6 +31186,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-04-11T16:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-04-11T16:00:00",
@@ -31513,6 +31253,32 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2026-04-11T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-04-11T18:10:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
       "Spieldatum": "2026-04-11T18:30:00",
       "Heimmannschaft": "SU Schönbrunn",
       "Gastmannschaft": "Essling",
@@ -31550,6 +31316,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-04-11T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Dynamo Deluxe",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-04-11T20:01:00",
@@ -31602,6 +31381,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-04-12T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG LGV Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-04-12T12:30:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-12T12:30:00",
@@ -31667,6 +31472,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-04-12T14:30:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-12T14:30:00",
@@ -31891,19 +31709,6 @@
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Penzinger SV",
       "Typ": "Männer",
@@ -31979,19 +31784,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
@@ -32135,19 +31927,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32385,19 +32164,6 @@
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Kalksburg-Rodaun",
       "Typ": "Männer",
@@ -32551,19 +32317,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32905,19 +32658,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "DSG Wolf Park Rangers",
       "Typ": "Männer",
@@ -32967,19 +32707,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
@@ -33074,19 +32801,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
@@ -33126,19 +32840,6 @@
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Dynamo Deluxe",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
       "Heimmannschaft": "DSG Torpedo Wien",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
       "Typ": "Männer",
@@ -33162,19 +32863,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG LGV Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-16T22:22:00",
@@ -33489,6 +33177,19 @@
       "Longitude": 16.443979
     },
     {
+      "Spieldatum": "2026-04-18T16:45:00",
+      "Heimmannschaft": "Wiener Sport-Club 1b",
+      "Gastmannschaft": "FC Altera Porta",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
+    },
+    {
       "Spieldatum": "2026-04-18T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
@@ -33567,6 +33268,58 @@
       "Longitude": 16.449018
     },
     {
+      "Spieldatum": "2026-04-19T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Ankerbrot",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-04-19T11:30:00",
+      "Heimmannschaft": "DSG Union 13",
+      "Gastmannschaft": "DSG Kollegium / Kalksburg",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-04-19T12:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Gipsy Kings Vienna",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-04-19T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-04-19T12:30:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "WBC-IX",
@@ -33578,6 +33331,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-04-19T14:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Gipsy Kings Vienna",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-19T14:00:00",
@@ -33604,6 +33370,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-19T15:30:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-19T16:00:00",
@@ -33695,19 +33474,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-19T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Gipsy Kings Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-19T21:00:00",
@@ -33958,19 +33724,6 @@
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Gipsy Kings Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
@@ -34046,19 +33799,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.225324870552456,
       "Longitude": 16.328420452719126
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -34176,19 +33916,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -34436,19 +34163,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19799058337352,
       "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2026-04-19T23:00:00",
-      "Heimmannschaft": "Wiener Sport-Club 1b",
-      "Gastmannschaft": "FC Altera Porta",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-04-19T23:00:00",
@@ -34881,19 +34595,6 @@
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "DSG Union 13",
-      "Gastmannschaft": "DSG Kollegium / Kalksburg",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
       "Heimmannschaft": "DSG WU Kickers",
       "Gastmannschaft": "DSG Ebu Hanife Wien",
       "Typ": "Männer",
@@ -34982,19 +34683,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
@@ -35296,6 +34984,32 @@
       "Longitude": 16.449018
     },
     {
+      "Spieldatum": "2026-04-25T14:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Ebu Hanife Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-04-25T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "FC Bhf. Favoriten",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-04-25T14:30:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "SC Ostbahn XI",
@@ -35320,6 +35034,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-04-25T15:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "LAC-Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-04-25T15:45:00",
@@ -35362,6 +35089,32 @@
     },
     {
       "Spieldatum": "2026-04-25T16:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Meidling",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-04-25T16:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "FC Bhf. Favoriten",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-04-25T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -35372,6 +35125,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-04-25T16:10:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Spice Balls All Stars",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-04-25T16:30:00",
@@ -35450,6 +35216,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-04-25T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Torpedo Lainz",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-04-25T19:00:00",
@@ -35543,6 +35322,32 @@
       "Longitude": 16.265119314193726
     },
     {
+      "Spieldatum": "2026-04-26T11:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Penzinger SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-04-26T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Wiener SK Lation",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-04-26T12:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Cro-Vienna",
@@ -35554,6 +35359,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-04-26T13:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Penzinger SV",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-26T13:30:00",
@@ -35752,19 +35570,6 @@
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Penzinger SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Vorwärts Wien 2016",
       "Typ": "Männer",
@@ -35827,19 +35632,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "FC Bhf. Favoriten",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
@@ -36009,19 +35801,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Penzinger SV",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -36246,19 +36025,6 @@
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "FC Bhf. Favoriten",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Wacker Wien",
       "Typ": "Männer",
@@ -36467,19 +36233,6 @@
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "LAC-Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "SV Schwechat",
       "Typ": "Männer",
@@ -36555,6 +36308,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-04-30T18:00:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "DSV Fortuna 05",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-04-30T20:00:00",
@@ -36818,19 +36584,6 @@
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Torpedo Lainz",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
@@ -36867,19 +36620,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Ebu Hanife Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
@@ -37000,19 +36740,6 @@
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Spice Balls All Stars",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "DSG Meetup United",
       "Typ": "Männer",
@@ -37078,19 +36805,6 @@
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
       "Heimmannschaft": "DSG Torpedo Wien",
       "Gastmannschaft": "DSG Porzelona",
       "Typ": "Männer",
@@ -37101,19 +36815,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-04-30T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Wiener SK Lation",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-30T22:22:00",
@@ -37129,17 +36830,30 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-05-01T16:00:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Spieldatum": "2026-05-01T16:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Torpedo Wien",
       "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
+      "Liga": "DSG Unterliga A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
       "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-05-01T17:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-05-01T18:00:00",
@@ -37155,17 +36869,17 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2026-05-01T19:00:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Spieldatum": "2026-05-01T18:30:00",
+      "Heimmannschaft": "DSG Spice Balls All Stars",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
+      "Liga": "DSG Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
       "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-05-01T19:10:00",
@@ -37299,19 +37013,6 @@
     },
     {
       "Spieldatum": "2026-05-02T16:30:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Torpedo Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-05-02T16:30:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -37374,19 +37075,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-02T18:30:00",
-      "Heimmannschaft": "DSG Spice Balls All Stars",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-05-03T00:00:00",
@@ -37467,6 +37155,45 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-05-03T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-05-03T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Vienna Vibes",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-05-03T12:30:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-05-03T13:00:00",
       "Heimmannschaft": "Altera Porta 1d",
       "Gastmannschaft": "DSG Los Andes FC 1b",
@@ -37519,6 +37246,19 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-05-03T14:30:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-05-03T15:00:00",
       "Heimmannschaft": "DSG Alxingergasse",
       "Gastmannschaft": "DSG Vienna Warriors",
@@ -37558,6 +37298,19 @@
       "Longitude": 16.409595
     },
     {
+      "Spieldatum": "2026-05-03T16:00:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "Wiener Viktoria 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-03T17:00:00",
       "Heimmannschaft": "Altera Porta 1b",
       "Gastmannschaft": "USC Landhaus 1c",
@@ -37582,6 +37335,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-03T18:00:00",
+      "Heimmannschaft": "DSG Union 13",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-05-03T18:30:00",
@@ -37634,19 +37400,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-03T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-05-03T21:00:00",
@@ -37923,19 +37676,6 @@
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
       "Heimmannschaft": "FC Brigittenau",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
@@ -38024,19 +37764,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.225324870552456,
       "Longitude": 16.328420452719126
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -38154,19 +37881,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "Wiener Viktoria 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -38807,19 +38521,6 @@
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Union 13",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
       "Heimmannschaft": "DSG WU Kickers",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -38908,19 +38609,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
@@ -39274,6 +38962,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2026-05-09T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Kalksburg-Rodaun",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-05-09T14:45:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "Aspern",
@@ -39314,6 +39015,32 @@
     },
     {
       "Spieldatum": "2026-05-09T16:00:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-05-09T16:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Kalksburg-Rodaun",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-05-09T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
@@ -39324,6 +39051,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-05-09T16:30:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Magic Unicorns",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-05-09T16:30:00",
@@ -39366,6 +39106,19 @@
     },
     {
       "Spieldatum": "2026-05-09T18:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "FC Eintracht Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-05-09T18:00:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -39389,6 +39142,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-05-09T18:30:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Spice Balls All Stars",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-05-09T20:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "FC Eintracht Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-05-10T00:00:00",
@@ -39428,6 +39207,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2026-05-10T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Play Together Now",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-05-10T12:30:00",
@@ -39678,19 +39470,6 @@
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "FC Eintracht Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "FC Brigittenau",
       "Typ": "Männer",
@@ -39753,19 +39532,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
@@ -39925,19 +39691,6 @@
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "FC Eintracht Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
       "Heimmannschaft": "Wiener Viktoria 1b",
       "Gastmannschaft": "Yellow Star",
       "Typ": "Männer",
@@ -40068,19 +39821,6 @@
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
       "Heimmannschaft": "Mariahilf 1b",
       "Gastmannschaft": "Altera Porta 1b",
       "Typ": "Frauen",
@@ -40169,19 +39909,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Kalksburg-Rodaun",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -40679,19 +40406,6 @@
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Magic Unicorns",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "Dsg Cover-Direct SC",
       "Typ": "Männer",
@@ -40926,19 +40640,6 @@
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Spice Balls All Stars",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
       "Heimmannschaft": "DSG Torpedo Wien",
       "Gastmannschaft": "DSG Argos United 09",
       "Typ": "Männer",
@@ -40949,19 +40650,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-05-14T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Play Together Now",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-14T22:22:00",
@@ -41432,6 +41120,45 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-05-17T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "TWL Elektra 1b",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-05-17T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-05-17T13:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "FavAC 1b",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-05-17T13:00:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "SC Kopten",
@@ -41510,6 +41237,19 @@
       "Longitude": 16.409595
     },
     {
+      "Spieldatum": "2026-05-17T16:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Kollegium / Kalksburg",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
       "Spieldatum": "2026-05-17T17:00:00",
       "Heimmannschaft": "DSG Alxingergasse",
       "Gastmannschaft": "Wiener Viktoria 1b",
@@ -41537,6 +41277,19 @@
     },
     {
       "Spieldatum": "2026-05-17T18:00:00",
+      "Heimmannschaft": "DSG Union 13",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-05-17T18:00:00",
       "Heimmannschaft": "DSG Spice Balls All Stars",
       "Gastmannschaft": "DSG Hernalser Spartans FC",
       "Typ": "Männer",
@@ -41547,6 +41300,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-05-17T18:10:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Vienna Vibes",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-05-17T18:30:00",
@@ -41888,19 +41654,6 @@
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "FavAC 1b",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
       "Heimmannschaft": "FC Brigittenau",
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
@@ -41976,19 +41729,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.225324870552456,
       "Longitude": 16.328420452719126
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "TWL Elektra 1b",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
@@ -42694,19 +42434,6 @@
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Kollegium / Kalksburg",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
       "Heimmannschaft": "DSG Royal Rainer",
       "Gastmannschaft": "DSG Rudell SKF",
       "Typ": "Männer",
@@ -42730,19 +42457,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Union 13",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
@@ -42821,32 +42535,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-05-21T22:22:00",
@@ -43148,6 +42836,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-05-23T14:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Torpedo Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-05-23T16:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "Sportunion Schönbrunn",
@@ -43159,6 +42860,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-05-23T16:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Sektion Westside",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-05-23T16:00:00",
@@ -43252,6 +42966,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-05-24T11:00:00",
+      "Heimmannschaft": "DSG Union 13",
+      "Gastmannschaft": "DSG WU Kickers",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
+    },
+    {
       "Spieldatum": "2026-05-24T12:00:00",
       "Heimmannschaft": "DSG Hernalser Spartans FC",
       "Gastmannschaft": "DSG Argos United 09",
@@ -43263,6 +42990,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-05-24T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG District West AS",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-05-24T14:00:00",
@@ -43526,19 +43266,6 @@
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Sektion Westside",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "Dsg Spice Balls",
       "Typ": "Männer",
@@ -43601,19 +43328,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Union 13",
-      "Gastmannschaft": "DSG WU Kickers",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
@@ -43799,32 +43513,6 @@
     },
     {
       "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Torpedo Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG District West AS",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG LGV Wien",
       "Typ": "Männer",
@@ -43874,6 +43562,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-05-29T18:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "FAC Wien Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-05-29T18:00:00",
@@ -43993,6 +43694,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-05-30T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Wacker Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-05-30T15:30:00",
       "Heimmannschaft": "DSG Sektor 17",
       "Gastmannschaft": "DSG Südtirol 16",
@@ -44046,6 +43760,19 @@
     },
     {
       "Spieldatum": "2026-05-30T16:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "Wacker Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-05-30T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -44082,6 +43809,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-05-30T17:00:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-05-30T17:00:00",
@@ -44136,6 +43876,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-05-30T19:10:00",
+      "Heimmannschaft": "DSG Paulaner Wieden",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
       "Spieldatum": "2026-05-30T20:00:00",
       "Heimmannschaft": "DSG Kasnudl Athletic Club",
       "Gastmannschaft": "DSG Meetup United",
@@ -44160,6 +43913,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-05-31T12:00:00",
+      "Heimmannschaft": "DSG Meetup United",
+      "Gastmannschaft": "DSG Los Andes FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-05-31T12:30:00",
@@ -44225,6 +43991,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-05-31T15:30:00",
+      "Heimmannschaft": "FSC Favoriten",
+      "Gastmannschaft": "DSG Alxingergasse",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-05-31T16:30:00",
@@ -44394,19 +44173,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-31T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
@@ -44722,19 +44488,6 @@
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "FSC Favoriten",
-      "Gastmannschaft": "DSG Alxingergasse",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
       "Heimmannschaft": "Mariahilf 1b",
       "Gastmannschaft": "USC Landhaus 1c",
       "Typ": "Frauen",
@@ -44823,19 +44576,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "Wacker Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
@@ -44992,19 +44732,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "FAC Wien Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
@@ -45281,19 +45008,6 @@
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
       "Heimmannschaft": "DSG Royal Rainer",
       "Gastmannschaft": "DSG Union 13",
       "Typ": "Männer",
@@ -45382,32 +45096,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Meetup United",
-      "Gastmannschaft": "DSG Los Andes FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-06-04T22:22:00",
-      "Heimmannschaft": "DSG Paulaner Wieden",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-06-04T22:22:00",
@@ -45631,6 +45319,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2026-06-06T12:00:00",
+      "Heimmannschaft": "FC Bhf. Favoriten",
+      "Gastmannschaft": "Kurdroj",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-06-06T12:45:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Marswiese",
@@ -45644,11 +45345,11 @@
       "Longitude": 16.473635
     },
     {
-      "Spieldatum": "2026-06-06T13:00:00",
+      "Spieldatum": "2026-06-06T14:00:00",
       "Heimmannschaft": "FC Bhf. Favoriten",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
+      "Liga": "Oberliga A",
       "Spielort": "Rax-Platz",
       "Spielort Straße": "Raxstr. 3",
       "Spielort PLZ": 1100,
@@ -45722,19 +45423,6 @@
       "Longitude": 16.3216495513916
     },
     {
-      "Spieldatum": "2026-06-06T15:15:00",
-      "Heimmannschaft": "FC Bhf. Favoriten",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2026-06-06T16:00:00",
       "Heimmannschaft": "Columbia Floridsdorf",
       "Gastmannschaft": "DSV Fortuna 05",
@@ -45746,6 +45434,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-06-06T16:00:00",
+      "Heimmannschaft": "DSG Alxingergasse",
+      "Gastmannschaft": "Paulaner Wieden",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-06-06T16:00:00",
@@ -45853,6 +45554,19 @@
     },
     {
       "Spieldatum": "2026-06-07T11:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Penarol Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-06-07T11:00:00",
       "Heimmannschaft": "Gartenstadt",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -45863,6 +45577,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-06-07T11:30:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-06-07T13:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "Penarol Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-07T13:00:00",
@@ -45904,6 +45644,19 @@
       "Longitude": 16.399002
     },
     {
+      "Spieldatum": "2026-06-07T15:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-06-07T16:00:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "Patron Wien",
@@ -45931,16 +45684,16 @@
     },
     {
       "Spieldatum": "2026-06-07T17:00:00",
-      "Heimmannschaft": "DSG Alxingergasse",
-      "Gastmannschaft": "Paulaner Wieden",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
@@ -45967,32 +45720,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Penarol Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
@@ -46045,32 +45772,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "Wollers Komet",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
@@ -46204,19 +45905,6 @@
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Wiener Viktoria 1b",
       "Typ": "Männer",
@@ -46227,19 +45915,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "Penarol Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
@@ -46305,19 +45980,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-06-07T23:00:00",
@@ -46593,6 +46255,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2026-06-12T18:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
       "Spieldatum": "2026-06-12T19:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 1c",
       "Gastmannschaft": "DSG Paulaner Wieden 1c",
@@ -46630,6 +46305,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-06-13T14:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "FK Adige",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-06-13T14:45:00",
@@ -46684,6 +46372,19 @@
       "Longitude": 16.371731
     },
     {
+      "Spieldatum": "2026-06-13T16:00:00",
+      "Heimmannschaft": "Gradisce",
+      "Gastmannschaft": "FK Adige",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-06-13T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Post SV",
@@ -46724,6 +46425,19 @@
     },
     {
       "Spieldatum": "2026-06-14T12:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-06-14T12:00:00",
       "Heimmannschaft": "Cro-Vienna",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -46734,6 +46448,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-06-14T14:00:00",
+      "Heimmannschaft": "Yellow Star",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
@@ -46786,19 +46513,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
@@ -46877,19 +46591,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
@@ -47075,19 +46776,6 @@
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Yellow Star",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "WBC-IX",
       "Typ": "Männer",
@@ -47189,19 +46877,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Gradisce",
-      "Gastmannschaft": "FK Adige",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
@@ -47358,19 +47033,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
