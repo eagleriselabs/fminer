@@ -26236,6 +26236,19 @@
     },
     {
       "Spieldatum": "2026-03-14T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-03-14T18:00:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Austria XVII",
       "Typ": "Männer",
@@ -27182,19 +27195,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-03-15T23:00:00",
@@ -28238,6 +28238,19 @@
     },
     {
       "Spieldatum": "2026-03-21T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "Vorwärts Wien 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-03-21T18:00:00",
       "Heimmannschaft": "DSG Wien West",
       "Gastmannschaft": "DSG Athletes In Action",
       "Typ": "Männer",
@@ -29197,19 +29210,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -30942,6 +30942,19 @@
     },
     {
       "Spieldatum": "2026-04-10T20:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "Elite",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-04-10T20:00:00",
       "Heimmannschaft": "Ankerbrot",
       "Gastmannschaft": "NAC",
       "Typ": "Männer",
@@ -31160,6 +31173,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-04-11T14:00:00",
+      "Heimmannschaft": "Altera Porta 1b",
+      "Gastmannschaft": "Dynama*Dynamo Donau FC",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-04-11T14:00:00",
@@ -31459,6 +31485,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-04-11T17:15:00",
+      "Heimmannschaft": "DSG Porzelona Future Team",
+      "Gastmannschaft": "DSG Danubia CSV FC",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-04-11T17:30:00",
@@ -31914,19 +31953,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-04-12T14:00:00",
-      "Heimmannschaft": "Altera Porta 1b",
-      "Gastmannschaft": "Dynama*Dynamo Donau FC",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-04-12T14:00:00",
@@ -32567,19 +32593,6 @@
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
       "Heimmannschaft": "SC Kopten",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -32772,19 +32785,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-04-16T22:22:00",
-      "Heimmannschaft": "DSG Porzelona Future Team",
-      "Gastmannschaft": "DSG Danubia CSV FC",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-04-17T18:00:00",
@@ -36285,6 +36285,19 @@
     },
     {
       "Spieldatum": "2026-04-26T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "FC Brigittenau",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-04-26T18:00:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "DSG Wien Wanderers FC",
       "Typ": "Männer",
@@ -36503,19 +36516,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -40250,6 +40250,19 @@
     },
     {
       "Spieldatum": "2026-05-10T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "Bozok Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-05-10T18:00:00",
       "Heimmannschaft": "Dsg Blue Danube",
       "Gastmannschaft": "DSG Wien Wanderers FC",
       "Typ": "Männer",
@@ -40403,19 +40416,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -43356,6 +43356,19 @@
       "Longitude": 16.310258
     },
     {
+      "Spieldatum": "2026-05-25T16:00:00",
+      "Heimmannschaft": "DSG Tudi Wien F.C.",
+      "Gastmannschaft": "Dsg Dynamo Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2026-05-25T18:00:00",
       "Heimmannschaft": "DSG Vienna Vibes",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
@@ -43437,19 +43450,6 @@
       "Spieldatum": "2026-05-28T22:22:00",
       "Heimmannschaft": "DSG Eurasya",
       "Gastmannschaft": "DSG Irgendwelche FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-05-28T22:22:00",
-      "Heimmannschaft": "DSG Tudi Wien F.C.",
-      "Gastmannschaft": "Dsg Dynamo Döbling",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse B",
       "Spielort": "Wienerberg Arena",
@@ -44839,6 +44839,19 @@
     },
     {
       "Spieldatum": "2026-05-31T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "WBC-IX",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-05-31T18:00:00",
       "Heimmannschaft": "DSG Torpedo Lainz",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
@@ -44992,19 +45005,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "WBC-IX",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
@@ -46672,6 +46672,19 @@
     },
     {
       "Spieldatum": "2026-06-13T18:00:00",
+      "Heimmannschaft": "Prater SV",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-06-13T18:00:00",
       "Heimmannschaft": "FC Brigittenau",
       "Gastmannschaft": "Bozok Wien",
       "Typ": "Männer",
@@ -46968,19 +46981,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-06-14T23:00:00",
-      "Heimmannschaft": "Prater SV",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-06-14T23:00:00",
