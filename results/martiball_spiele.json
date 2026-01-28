@@ -23922,6 +23922,19 @@
     },
     {
       "Spieldatum": "2026-03-07T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-03-07T14:00:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Eventus Wien",
       "Typ": "Männer",
@@ -24166,6 +24179,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-03-07T16:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-03-07T16:00:00",
@@ -24923,6 +24949,19 @@
     },
     {
       "Spieldatum": "2026-03-08T16:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-03-08T16:00:00",
       "Heimmannschaft": "DSG Hernalser Spartans FC",
       "Gastmannschaft": "DSG Vienna Vibes",
       "Typ": "Männer",
@@ -25024,6 +25063,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-03-08T18:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-03-08T18:00:00",
@@ -25157,19 +25209,6 @@
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
@@ -25180,19 +25219,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
@@ -25232,32 +25258,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -27679,6 +27679,19 @@
     },
     {
       "Spieldatum": "2026-03-21T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-03-21T14:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Männer",
@@ -27988,6 +28001,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-03-21T16:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-03-21T16:00:00",
@@ -28849,6 +28875,19 @@
     },
     {
       "Spieldatum": "2026-03-22T16:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-03-22T16:00:00",
       "Heimmannschaft": "DSG Union Latina",
       "Gastmannschaft": "DSG Tudi Wien F.C.",
       "Typ": "Männer",
@@ -29018,6 +29057,19 @@
     },
     {
       "Spieldatum": "2026-03-22T18:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-03-22T18:00:00",
       "Heimmannschaft": "Dsg Blue Danube",
       "Gastmannschaft": "DSG Eurasya",
       "Typ": "Männer",
@@ -29096,6 +29148,19 @@
     },
     {
       "Spieldatum": "2026-03-22T20:00:00",
+      "Heimmannschaft": "DSG 1150 Allstars FC",
+      "Gastmannschaft": "DSG Porzelona Future Team",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-03-22T20:00:00",
       "Heimmannschaft": "DSG Union 13",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -29148,32 +29213,6 @@
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-03-22T21:00:00",
       "Heimmannschaft": "Wacker Wien",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
@@ -29210,32 +29249,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
@@ -29405,19 +29418,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-03-26T22:22:00",
-      "Heimmannschaft": "DSG 1150 Allstars FC",
-      "Gastmannschaft": "DSG Porzelona Future Team",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-03-27T00:00:00",
@@ -31163,6 +31163,19 @@
     },
     {
       "Spieldatum": "2026-04-11T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-04-11T14:00:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "SC Ostbahn XI",
       "Typ": "Männer",
@@ -31316,6 +31329,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-04-11T16:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-04-11T16:00:00",
@@ -32086,6 +32112,19 @@
     },
     {
       "Spieldatum": "2026-04-12T16:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-04-12T16:00:00",
       "Heimmannschaft": "DSG PlayTogetherNow Funs",
       "Gastmannschaft": "DSG Alxingergasse",
       "Typ": "Männer",
@@ -32304,6 +32343,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-04-12T18:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-04-12T18:00:00",
@@ -32528,32 +32580,6 @@
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
@@ -32590,32 +32616,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -32876,19 +32876,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-04-17T19:45:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Altera Porta 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-04-17T20:00:00",
@@ -33331,6 +33318,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2026-04-18T15:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Altera Porta 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Schmelz",
+      "Spielort Straße": "Auf der Schmelz 10",
+      "Spielort PLZ": 1150,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204006,
+      "Longitude": 16.320261
     },
     {
       "Spieldatum": "2026-04-18T15:00:00",
@@ -33968,6 +33968,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-04-19T12:00:00",
+      "Heimmannschaft": "DSG 1150 Allstars FC",
+      "Gastmannschaft": "DSG Real Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-04-19T12:00:00",
@@ -34735,19 +34748,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-23T22:22:00",
-      "Heimmannschaft": "DSG 1150 Allstars FC",
-      "Gastmannschaft": "DSG Real Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-04-23T22:22:00",
@@ -36116,6 +36116,19 @@
     },
     {
       "Spieldatum": "2026-04-26T16:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-04-26T16:00:00",
       "Heimmannschaft": "DSG Union Latina",
       "Gastmannschaft": "Dsg V.E.T.",
       "Typ": "Männer",
@@ -36298,6 +36311,19 @@
     },
     {
       "Spieldatum": "2026-04-26T18:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-04-26T18:00:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "DSG Wien Wanderers FC",
       "Typ": "Männer",
@@ -36467,19 +36493,6 @@
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
       "Heimmannschaft": "Ober St.Veit",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
@@ -36516,19 +36529,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -37052,6 +37052,19 @@
     },
     {
       "Spieldatum": "2026-05-02T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-05-02T14:00:00",
       "Heimmannschaft": "Kalksburg-Rodaun",
       "Gastmannschaft": "FK Adige",
       "Typ": "Männer",
@@ -37231,6 +37244,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-05-02T16:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-05-02T16:00:00",
@@ -38326,6 +38352,19 @@
     },
     {
       "Spieldatum": "2026-05-03T19:00:00",
+      "Heimmannschaft": "DSG 1150 Allstars FC",
+      "Gastmannschaft": "DSG Young Boys Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-05-03T19:00:00",
       "Heimmannschaft": "DSG Porzelona Future Team",
       "Gastmannschaft": "DSG Real Döbling",
       "Typ": "Männer",
@@ -38417,19 +38456,6 @@
     },
     {
       "Spieldatum": "2026-05-03T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-05-03T21:00:00",
       "Heimmannschaft": "Wollers Komet",
       "Gastmannschaft": "Prater SV",
       "Typ": "Männer",
@@ -38466,19 +38492,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
-    },
-    {
-      "Spieldatum": "2026-05-03T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-05-03T23:00:00",
@@ -38661,19 +38674,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-05-07T22:22:00",
-      "Heimmannschaft": "DSG 1150 Allstars FC",
-      "Gastmannschaft": "DSG Young Boys Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-05-07T22:22:00",
@@ -40120,6 +40120,19 @@
     },
     {
       "Spieldatum": "2026-05-10T16:30:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-05-10T16:30:00",
       "Heimmannschaft": "TWL Elektra 1b",
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
@@ -40302,6 +40315,19 @@
     },
     {
       "Spieldatum": "2026-05-10T18:30:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-05-10T18:30:00",
       "Heimmannschaft": "Dsg Endstation Hernals",
       "Gastmannschaft": "DSG Nepomuk",
       "Typ": "Männer",
@@ -40392,19 +40418,6 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
       "Spieldatum": "2026-05-10T23:00:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Vienna 2016",
@@ -40416,19 +40429,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -40910,6 +40910,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-05-16T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-05-16T14:00:00",
@@ -42174,6 +42187,19 @@
     },
     {
       "Spieldatum": "2026-05-17T18:00:00",
+      "Heimmannschaft": "DSG 1150 Allstars FC",
+      "Gastmannschaft": "Marswiese 1b",
+      "Typ": "Männer",
+      "Liga": "DSG 2. Klasse A",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-05-17T18:00:00",
       "Heimmannschaft": "DSG Union 13",
       "Gastmannschaft": "DSG Großglockner Falken",
       "Typ": "Männer",
@@ -42382,19 +42408,6 @@
     },
     {
       "Spieldatum": "2026-05-17T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-05-17T23:00:00",
       "Heimmannschaft": "GEPS 21 FC 1b",
       "Gastmannschaft": "LAC-Inter",
       "Typ": "Frauen",
@@ -42587,19 +42600,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-05-21T22:22:00",
-      "Heimmannschaft": "DSG 1150 Allstars FC",
-      "Gastmannschaft": "Marswiese 1b",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse A",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-05-22T18:00:00",
@@ -45385,6 +45385,19 @@
     },
     {
       "Spieldatum": "2026-06-06T14:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-06-06T14:00:00",
       "Heimmannschaft": "FC Bhf. Favoriten",
       "Gastmannschaft": "Kurdroj",
       "Typ": "Männer",
@@ -45525,6 +45538,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-06-06T16:00:00",
+      "Heimmannschaft": "WBC-IX",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-06-06T16:00:00",
@@ -46061,6 +46087,19 @@
     },
     {
       "Spieldatum": "2026-06-07T18:00:00",
+      "Heimmannschaft": "SC Kopten",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-06-07T18:00:00",
       "Heimmannschaft": "Cro-Vienna",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -46126,19 +46165,6 @@
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
       "Heimmannschaft": "Marianum",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -46149,32 +46175,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-06-07T23:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-06-12T18:00:00",
