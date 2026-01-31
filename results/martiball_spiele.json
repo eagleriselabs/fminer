@@ -23102,7 +23102,7 @@
       "Longitude": 16.265628
     },
     {
-      "Spieldatum": "2026-02-14T13:00:00",
+      "Spieldatum": "2026-02-14T14:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "SVK Wildcats Elektro Service Fuchs",
       "Typ": "Frauen",
@@ -27093,6 +27093,19 @@
       "Longitude": 16.48207
     },
     {
+      "Spieldatum": "2026-03-15T19:00:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "Bozok Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-03-15T20:00:00",
       "Heimmannschaft": "Patron Wien",
       "Gastmannschaft": "RB Jedlesee",
@@ -27156,19 +27169,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
@@ -30460,6 +30460,19 @@
       "Longitude": 16.409595
     },
     {
+      "Spieldatum": "2026-03-29T19:00:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-03-29T21:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Football ProSchool Vienna",
@@ -30484,19 +30497,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
-    },
-    {
-      "Spieldatum": "2026-03-29T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-03-29T21:00:00",
@@ -33021,19 +33021,6 @@
       "Longitude": 16.377702
     },
     {
-      "Spieldatum": "2026-04-18T11:00:00",
-      "Heimmannschaft": "Wiener Viktoria 1b",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1. Klasse",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
       "Spieldatum": "2026-04-18T11:30:00",
       "Heimmannschaft": "DSG Recht Entspannt",
       "Gastmannschaft": "Dsg Panda",
@@ -34022,6 +34009,19 @@
       "Longitude": 16.409595
     },
     {
+      "Spieldatum": "2026-04-19T12:00:00",
+      "Heimmannschaft": "Wiener Viktoria 1b",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1. Klasse",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
+    },
+    {
       "Spieldatum": "2026-04-19T12:15:00",
       "Heimmannschaft": "Essling",
       "Gastmannschaft": "USC Landhaus 1b",
@@ -34176,6 +34176,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-04-19T14:30:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "WBC-IX",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-19T14:30:00",
@@ -34540,19 +34553,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-04-19T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "WBC-IX",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-04-19T21:00:00",
@@ -38026,6 +38026,19 @@
       "Longitude": 16.399002
     },
     {
+      "Spieldatum": "2026-05-03T15:15:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
       "Spieldatum": "2026-05-03T15:30:00",
       "Heimmannschaft": "DSG Dynamo Deluxe",
       "Gastmannschaft": "DSG Milord BLANCO FC",
@@ -38440,19 +38453,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-05-03T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-05-03T21:00:00",
@@ -39210,6 +39210,19 @@
     },
     {
       "Spieldatum": "2026-05-09T15:00:00",
+      "Heimmannschaft": "DSG Eurasya",
+      "Gastmannschaft": "DSG Fallen Angels FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-05-09T15:00:00",
       "Heimmannschaft": "DSG O Jessas",
       "Gastmannschaft": "DSG Porzelona Future Team",
       "Typ": "Männer",
@@ -39532,19 +39545,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-05-09T17:30:00",
-      "Heimmannschaft": "DSG Eurasya",
-      "Gastmannschaft": "DSG Fallen Angels FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-05-09T18:00:00",
@@ -41966,6 +41966,19 @@
     },
     {
       "Spieldatum": "2026-05-17T15:00:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "SC Kopten",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-05-17T15:00:00",
       "Heimmannschaft": "DSG Alxingergasse",
       "Gastmannschaft": "DSG Lokomotive Traisen FC",
       "Typ": "Männer",
@@ -42356,19 +42369,6 @@
     },
     {
       "Spieldatum": "2026-05-17T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "SC Kopten",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-05-17T21:00:00",
       "Heimmannschaft": "WBC-IX",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
@@ -42548,6 +42548,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-05-20T18:00:00",
+      "Heimmannschaft": "Austria XIII Auhof Center",
+      "Gastmannschaft": "First Vienna FC 1894 Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
     },
     {
       "Spieldatum": "2026-05-21T18:00:00",
@@ -42992,19 +43005,6 @@
       "Longitude": 16.399002
     },
     {
-      "Spieldatum": "2026-05-23T16:00:00",
-      "Heimmannschaft": "Austria XIII Auhof Center",
-      "Gastmannschaft": "First Vienna FC 1894 Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
       "Spieldatum": "2026-05-23T16:15:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Spice Balls All Stars",
@@ -43343,19 +43343,6 @@
       "Longitude": 16.408953
     },
     {
-      "Spieldatum": "2026-05-24T23:00:00",
-      "Heimmannschaft": "SV Dinamo Helfort",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
       "Spieldatum": "2026-05-25T16:00:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "Dsg Dynamo Döbling",
@@ -43367,6 +43354,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-05-25T17:00:00",
+      "Heimmannschaft": "SV Dinamo Helfort",
+      "Gastmannschaft": "SV Schwechat",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-05-25T18:00:00",
@@ -45684,6 +45684,19 @@
     },
     {
       "Spieldatum": "2026-06-06T17:00:00",
+      "Heimmannschaft": "Vorwärts Wien 2016",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-06-06T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "TWL Elektra 1b",
       "Typ": "Männer",
@@ -46152,19 +46165,6 @@
     },
     {
       "Spieldatum": "2026-06-07T21:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-06-07T21:00:00",
       "Heimmannschaft": "Marianum",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -46619,6 +46619,19 @@
       "Longitude": 16.276404
     },
     {
+      "Spieldatum": "2026-06-13T16:00:00",
+      "Heimmannschaft": "SK Slovan HAC",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-06-13T17:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Post SV",
@@ -46877,19 +46890,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-06-14T16:00:00",
-      "Heimmannschaft": "SK Slovan HAC",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-06-14T18:00:00",
