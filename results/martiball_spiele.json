@@ -25651,6 +25651,19 @@
     },
     {
       "Spieldatum": "2026-03-14T13:00:00",
+      "Heimmannschaft": "Patron Wien",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-03-14T13:00:00",
       "Heimmannschaft": "Liesing ASK",
       "Gastmannschaft": "Wacker Wien",
       "Typ": "Männer",
@@ -25895,6 +25908,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-03-14T15:00:00",
+      "Heimmannschaft": "Patron Wien",
+      "Gastmannschaft": "RB Jedlesee",
+      "Typ": "Männer",
+      "Liga": "1. Klasse B Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-03-14T15:00:00",
@@ -26990,19 +27016,6 @@
     },
     {
       "Spieldatum": "2026-03-15T18:00:00",
-      "Heimmannschaft": "Patron Wien",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-03-15T18:00:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Semper Victoria",
       "Typ": "Männer",
@@ -27104,19 +27117,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2026-03-15T20:00:00",
-      "Heimmannschaft": "Patron Wien",
-      "Gastmannschaft": "RB Jedlesee",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-03-15T20:00:00",
@@ -29485,19 +29485,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-03-27T19:00:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "SC / ESV Parndorf 1919",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
       "Spieldatum": "2026-03-27T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
@@ -29769,6 +29756,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-03-28T14:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "SC / ESV Parndorf 1919",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-03-28T14:00:00",
