@@ -23198,12 +23198,12 @@
       "Gastmannschaft": "Retz",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-02-20T20:30:00",
@@ -23412,19 +23412,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-02-28T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien U20",
-      "Gastmannschaft": "SKN St. Pölten Frauen FL",
-      "Typ": "Frauen",
-      "Liga": "Frauen Future League",
-      "Spielort": "Austria Mädchen AKA Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-02-28T14:00:00",
@@ -23705,12 +23692,12 @@
       "Gastmannschaft": "FavAC",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-03-06T20:00:00",
@@ -23815,6 +23802,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2026-03-07T12:00:00",
+      "Heimmannschaft": "Young Violets Austria Wien U20",
+      "Gastmannschaft": "SKN St. Pölten Frauen FL",
+      "Typ": "Frauen",
+      "Liga": "Frauen Future League",
+      "Spielort": "Austria Mädchen AKA Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-03-07T12:00:00",
@@ -29503,12 +29503,12 @@
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-03-27T20:00:00",
@@ -30660,12 +30660,12 @@
       "Gastmannschaft": "SG Kremser SC / Rehberg KM I",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-04-04T13:00:00",
@@ -30777,12 +30777,12 @@
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-04-09T20:15:00",
@@ -30939,6 +30939,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-04-10T19:30:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-04-10T20:00:00",
@@ -31433,19 +31446,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-04-11T16:00:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-04-11T16:00:00",
@@ -32870,12 +32870,12 @@
       "Gastmannschaft": "SV Horn",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-04-17T20:00:00",
@@ -34893,6 +34893,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2026-04-24T19:30:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
+    },
+    {
       "Spieldatum": "2026-04-24T20:00:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -35450,19 +35463,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-04-25T16:30:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-04-25T16:30:00",
@@ -36861,12 +36861,12 @@
       "Gastmannschaft": "FC Marchfeld Donauauen",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-05-01T20:00:00",
@@ -38845,6 +38845,19 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2026-05-08T19:30:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "SV Donau",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
+    },
+    {
       "Spieldatum": "2026-05-08T20:00:00",
       "Heimmannschaft": "Dsg AFC Hietzing",
       "Gastmannschaft": "Dsg Cover-Direct SC",
@@ -39480,19 +39493,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-05-09T16:30:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "SV Donau",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-05-09T17:00:00",
@@ -40709,12 +40709,12 @@
       "Gastmannschaft": "SV Klöcher Bau Oberwart",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-05-15T20:00:00",
@@ -42706,19 +42706,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-05-22T19:00:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "SC Neusiedl am See 1919",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
-    },
-    {
       "Spieldatum": "2026-05-22T19:30:00",
       "Heimmannschaft": "DSG Billroth Fc",
       "Gastmannschaft": "DSG Going Toulouse",
@@ -42756,6 +42743,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-05-22T19:30:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "SC Neusiedl am See 1919",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-05-22T20:00:00",
@@ -43582,12 +43582,12 @@
       "Gastmannschaft": "SV Leobendorf",
       "Typ": "Männer",
       "Liga": "Regionalliga Ost",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-05-29T20:00:00",
