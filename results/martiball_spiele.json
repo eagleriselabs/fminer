@@ -23284,7 +23284,7 @@
       "Longitude": 16.324931
     },
     {
-      "Spieldatum": "2026-02-22T14:00:00",
+      "Spieldatum": "2026-02-22T14:30:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "SpG Südburgenland  /  TSV Hartberg",
       "Typ": "Frauen",
@@ -23297,7 +23297,7 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-02-22T17:00:00",
+      "Spieldatum": "2026-02-22T17:30:00",
       "Heimmannschaft": "Young Violets Austria Wien U20",
       "Gastmannschaft": "FC Südburgenland  /  BFV Frauen-Akademie",
       "Typ": "Frauen",
@@ -29421,19 +29421,6 @@
     },
     {
       "Spieldatum": "2026-03-27T00:00:00",
-      "Heimmannschaft": "Royal Persia",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-03-27T00:00:00",
       "Heimmannschaft": "Torin Adler",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -29457,6 +29444,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-03-27T18:30:00",
+      "Heimmannschaft": "Royal Persia",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-03-27T19:00:00",
@@ -44825,6 +44825,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-05-31T17:30:00",
+      "Heimmannschaft": "Dsg Spice Balls",
+      "Gastmannschaft": "DSG Klosterneuburg",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
       "Spieldatum": "2026-05-31T18:00:00",
       "Heimmannschaft": "Polska",
       "Gastmannschaft": "Yellow Star",
@@ -44888,19 +44901,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-05-31T19:30:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Klosterneuburg",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-05-31T20:00:00",
