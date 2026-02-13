@@ -1536,19 +1536,6 @@
     },
     {
       "Spieldatum": "2025-08-31T14:00:00",
-      "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2025-08-31T14:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "SG MALEREI GLANZER Geretsberg / Bürmoos",
       "Typ": "Frauen",
@@ -5046,19 +5033,6 @@
     },
     {
       "Spieldatum": "2025-09-14T13:45:00",
-      "Heimmannschaft": "Real Wien",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2025-09-14T13:45:00",
       "Heimmannschaft": "Marianum",
       "Gastmannschaft": "UFK Schwemm",
       "Typ": "Männer",
@@ -6252,19 +6226,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2025-09-20T16:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2025-09-20T16:00:00",
@@ -7864,19 +7825,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2025-09-27T14:00:00",
-      "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2025-09-27T14:00:00",
@@ -10103,19 +10051,6 @@
     },
     {
       "Spieldatum": "2025-10-04T15:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-10-04T15:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "ASV 13",
       "Typ": "Männer",
@@ -11686,19 +11621,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2025-10-11T14:00:00",
-      "Heimmannschaft": "RB Jedlesee",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2025-10-11T14:00:00",
@@ -14835,19 +14757,6 @@
     },
     {
       "Spieldatum": "2025-10-19T16:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-10-19T16:00:00",
       "Heimmannschaft": "DSG Lokomotive Traisen FC",
       "Gastmannschaft": "DSG Lagerwiese",
       "Typ": "Männer",
@@ -16148,19 +16057,6 @@
     },
     {
       "Spieldatum": "2025-10-26T16:00:00",
-      "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2025-10-26T16:00:00",
       "Heimmannschaft": "Marianum",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
@@ -16886,19 +16782,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2025-11-01T15:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2025-11-01T15:00:00",
@@ -19839,19 +19722,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2025-11-12T19:30:00",
-      "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Vorwärts Wien 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2025-11-12T19:45:00",
       "Heimmannschaft": "Marianum 1b",
       "Gastmannschaft": "DSG Danubia CSV FC",
@@ -22687,19 +22557,6 @@
     },
     {
       "Spieldatum": "2025-11-27T19:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Wollers Komet",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
-      "Spieldatum": "2025-11-27T19:00:00",
       "Heimmannschaft": "SK Slovan HAC",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -23245,7 +23102,7 @@
       "Longitude": 16.421625
     },
     {
-      "Spieldatum": "2026-02-21T16:15:00",
+      "Spieldatum": "2026-02-21T16:45:00",
       "Heimmannschaft": "First Vienna FC 1894 U20",
       "Gastmannschaft": "USV Neulengbach Juniors",
       "Typ": "Frauen",
@@ -24819,6 +24676,19 @@
     },
     {
       "Spieldatum": "2026-03-08T14:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-03-08T14:00:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -24933,6 +24803,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-03-08T16:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-03-08T16:00:00",
@@ -25183,19 +25066,6 @@
     },
     {
       "Spieldatum": "2026-03-08T21:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-08T21:00:00",
       "Heimmannschaft": "Austria XVII",
       "Gastmannschaft": "Prater SV",
       "Typ": "Männer",
@@ -25245,19 +25115,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-03-08T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-03-08T23:00:00",
@@ -28875,6 +28732,19 @@
     },
     {
       "Spieldatum": "2026-03-22T16:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "FavAC 1b",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-03-22T16:00:00",
       "Heimmannschaft": "SC Kopten",
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
@@ -29239,19 +29109,6 @@
     },
     {
       "Spieldatum": "2026-03-22T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "FavAC 1b",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-03-22T23:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "GEPS 21 FC 1b",
       "Typ": "Frauen",
@@ -29420,19 +29277,6 @@
       "Longitude": 16.360667
     },
     {
-      "Spieldatum": "2026-03-27T00:00:00",
-      "Heimmannschaft": "Torin Adler",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
       "Spieldatum": "2026-03-27T18:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Triester",
@@ -29535,6 +29379,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-03-27T20:00:00",
+      "Heimmannschaft": "Torin Adler",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-03-27T20:15:00",
@@ -31930,6 +31787,19 @@
     },
     {
       "Spieldatum": "2026-04-12T14:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Penarol Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-04-12T14:00:00",
       "Heimmannschaft": "Wiener Viktoria 1b",
       "Gastmannschaft": "ESV Ottakring",
       "Typ": "Männer",
@@ -32096,6 +31966,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-04-12T16:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Penarol Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-04-12T16:00:00",
@@ -32541,19 +32424,6 @@
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Penarol Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-12T21:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
@@ -32603,19 +32473,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-04-12T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Penarol Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-04-12T23:00:00",
@@ -36103,6 +35960,19 @@
     },
     {
       "Spieldatum": "2026-04-26T16:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-04-26T16:00:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Yellow Star",
       "Typ": "Männer",
@@ -36285,6 +36155,19 @@
     },
     {
       "Spieldatum": "2026-04-26T18:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-04-26T18:00:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Yellow Star",
       "Typ": "Männer",
@@ -36454,19 +36337,6 @@
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-04-26T21:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -36516,19 +36386,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-04-26T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-04-26T23:00:00",
@@ -36776,6 +36633,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-05-01T17:30:00",
+      "Heimmannschaft": "SK Rapid 1b",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-01T18:00:00",
@@ -37465,19 +37335,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-02T17:30:00",
-      "Heimmannschaft": "SK Rapid 1b",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-05-02T18:00:00",
@@ -39496,6 +39353,19 @@
     },
     {
       "Spieldatum": "2026-05-09T17:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-05-09T17:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "SG SK Austria Klagenfurt",
       "Typ": "Frauen",
@@ -39649,6 +39519,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-05-09T19:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-05-09T19:00:00",
@@ -40380,19 +40263,6 @@
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-10T21:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Real Wien",
       "Typ": "Männer",
@@ -40416,19 +40286,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-05-10T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-05-10T23:00:00",
@@ -44332,6 +44189,19 @@
     },
     {
       "Spieldatum": "2026-05-31T10:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-05-31T10:00:00",
       "Heimmannschaft": "FC Brigittenau",
       "Gastmannschaft": "Vorwärts Wien 2016",
       "Typ": "Männer",
@@ -44420,6 +44290,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-05-31T12:00:00",
+      "Heimmannschaft": "Gipsy Kings Vienna",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "1. Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-05-31T12:00:00",
@@ -44930,19 +44813,6 @@
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-05-31T21:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "RB Jedlesee",
       "Typ": "Männer",
@@ -44992,19 +44862,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-05-31T23:00:00",
-      "Heimmannschaft": "Gipsy Kings Vienna",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-05-31T23:00:00",
