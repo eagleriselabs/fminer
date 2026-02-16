@@ -16525,19 +16525,6 @@
     },
     {
       "Spieldatum": "2025-11-01T12:00:00",
-      "Heimmannschaft": "Kalksburg-Rodaun",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Kalksburg",
-      "Spielort Straße": "Zangerlestraße",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.136474,
-      "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2025-11-01T12:00:00",
       "Heimmannschaft": "FC Bhf. Favoriten",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -45007,6 +44994,32 @@
       "Longitude": 16.428909
     },
     {
+      "Spieldatum": "2026-06-04T13:00:00",
+      "Heimmannschaft": "Triester",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-06-04T15:00:00",
+      "Heimmannschaft": "Triester",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-06-04T22:22:00",
       "Heimmannschaft": "DSG Irgendwelche FC",
       "Gastmannschaft": "DSG Tudi Wien F.C.",
@@ -45268,19 +45281,6 @@
     },
     {
       "Spieldatum": "2026-06-06T14:00:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-06-06T14:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -45499,19 +45499,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-06-06T16:15:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-06-06T16:30:00",
