@@ -16525,6 +16525,19 @@
     },
     {
       "Spieldatum": "2025-11-01T12:00:00",
+      "Heimmannschaft": "Kalksburg-Rodaun",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Kalksburg",
+      "Spielort Straße": "Zangerlestraße",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.136474,
+      "Longitude": 16.22808
+    },
+    {
+      "Spieldatum": "2025-11-01T12:00:00",
       "Heimmannschaft": "FC Bhf. Favoriten",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
