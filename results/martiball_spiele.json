@@ -23011,45 +23011,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-02-20T18:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "SW Bregenz",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-02-20T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-02-20T19:30:00",
-      "Heimmannschaft": "Wiener Sport-Club",
-      "Gastmannschaft": "Retz",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2026-02-20T20:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "SKN St. Pölten",
@@ -23061,19 +23022,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-02-21T16:00:00",
-      "Heimmannschaft": "SV Donau",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-02-21T16:45:00",
@@ -23139,6 +23087,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-02-24T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-02-25T20:00:00",
@@ -25208,6 +25169,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-03-10T18:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "SW Bregenz",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2026-03-10T20:15:00",
       "Heimmannschaft": "DSG Twentyone Sen.",
       "Gastmannschaft": "Wien United 05 Sen.",
@@ -27182,6 +27156,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-03-17T19:00:00",
+      "Heimmannschaft": "SV Donau",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-03-17T20:15:00",
@@ -32590,6 +32577,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-04-14T19:30:00",
+      "Heimmannschaft": "Wiener Sport-Club",
+      "Gastmannschaft": "Retz",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Sportclub-Platz",
+      "Spielort Straße": "Alszeile 19",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.226636,
+      "Longitude": 16.311161
     },
     {
       "Spieldatum": "2026-04-14T20:15:00",
