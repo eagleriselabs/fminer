@@ -965,7 +965,7 @@
     {
       "Spieldatum": "2025-08-30T16:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "ASKÖ XX",
@@ -2681,7 +2681,7 @@
     {
       "Spieldatum": "2025-09-06T16:00:00",
       "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Donaustadt - Gemeinde Wien 22",
@@ -5384,7 +5384,7 @@
     },
     {
       "Spieldatum": "2025-09-14T17:30:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -6217,7 +6217,7 @@
     {
       "Spieldatum": "2025-09-20T16:00:00",
       "Heimmannschaft": "Elite",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Leopoldau",
@@ -8504,7 +8504,7 @@
     },
     {
       "Spieldatum": "2025-09-28T09:45:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Patron Wien",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -10559,7 +10559,7 @@
     {
       "Spieldatum": "2025-10-04T20:00:00",
       "Heimmannschaft": "FC Brigittenau",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "WAF Gruabn",
@@ -12911,7 +12911,7 @@
     },
     {
       "Spieldatum": "2025-10-12T17:30:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -14732,7 +14732,7 @@
     {
       "Spieldatum": "2025-10-19T16:00:00",
       "Heimmannschaft": "Bozok Wien",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Nord Wien Platz",
@@ -16148,7 +16148,7 @@
     },
     {
       "Spieldatum": "2025-10-26T17:30:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Real Wien",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -16591,7 +16591,7 @@
     {
       "Spieldatum": "2025-11-01T13:00:00",
       "Heimmannschaft": "WBC-IX",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Siemens",
@@ -18904,7 +18904,7 @@
     },
     {
       "Spieldatum": "2025-11-08T17:30:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "RB Jedlesee",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -20998,7 +20998,7 @@
     {
       "Spieldatum": "2025-11-16T18:00:00",
       "Heimmannschaft": "SC Kopten",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Stadlau",
@@ -22427,7 +22427,7 @@
     },
     {
       "Spieldatum": "2025-11-23T17:30:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Austria XVII",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -23518,6 +23518,19 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2026-03-06T20:00:00",
+      "Heimmannschaft": "Dsg AFC Hietzing",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
+    },
+    {
       "Spieldatum": "2026-03-06T20:15:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 1b",
       "Gastmannschaft": "DSG Finanzprofis Wr. Neustadt",
@@ -23753,19 +23766,6 @@
     },
     {
       "Spieldatum": "2026-03-07T14:00:00",
-      "Heimmannschaft": "SV Dinamo Helfort",
-      "Gastmannschaft": "LAC-Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-03-07T14:00:00",
       "Heimmannschaft": "SV Wienerberg 1921",
       "Gastmannschaft": "SV Schwechat",
       "Typ": "Männer",
@@ -23828,19 +23828,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2026-03-07T14:30:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "FC Hertha Wels",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-03-07T14:30:00",
@@ -24023,6 +24010,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-03-07T16:00:00",
+      "Heimmannschaft": "SV Dinamo Helfort",
+      "Gastmannschaft": "LAC-Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-03-07T16:15:00",
@@ -24363,19 +24363,6 @@
       "Longitude": 16.377702
     },
     {
-      "Spieldatum": "2026-03-07T20:01:00",
-      "Heimmannschaft": "DSG Blau-Weiß Donau",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse B",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
       "Spieldatum": "2026-03-08T00:00:00",
       "Heimmannschaft": "FC Mauerwerk Immo",
       "Gastmannschaft": "1.Simmeringer SC",
@@ -24690,7 +24677,7 @@
     {
       "Spieldatum": "2026-03-08T15:30:00",
       "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Polizei Sportanlage",
@@ -24989,7 +24976,7 @@
     {
       "Spieldatum": "2026-03-08T21:00:00",
       "Heimmannschaft": "Austria XVII",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "Polizei Sportanlage",
@@ -26041,7 +26028,7 @@
     },
     {
       "Spieldatum": "2026-03-14T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -26938,7 +26925,7 @@
     },
     {
       "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -28069,7 +28056,7 @@
     },
     {
       "Spieldatum": "2026-03-21T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Vorwärts Wien 2016",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -29018,7 +29005,7 @@
     },
     {
       "Spieldatum": "2026-03-22T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Vorwärts Wien 2016",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -29955,7 +29942,7 @@
     {
       "Spieldatum": "2026-03-28T18:00:00",
       "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "ASKÖ XX",
@@ -30358,7 +30345,7 @@
     {
       "Spieldatum": "2026-03-29T21:00:00",
       "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "ASKÖ XX",
@@ -30591,6 +30578,19 @@
     },
     {
       "Spieldatum": "2026-04-06T14:00:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "SC Austria Lustenau",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-04-06T14:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "SV Horn",
       "Typ": "Männer",
@@ -30603,7 +30603,7 @@
       "Longitude": 16.277243
     },
     {
-      "Spieldatum": "2026-04-06T14:30:00",
+      "Spieldatum": "2026-04-06T16:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -30616,17 +30616,17 @@
       "Longitude": 16.3925
     },
     {
-      "Spieldatum": "2026-04-06T14:30:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "SC Austria Lustenau",
+      "Spieldatum": "2026-04-06T16:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "FAC Wien Amat.",
       "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
       "Spielort PLZ": 1100,
       "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-04-06T16:30:00",
@@ -30692,19 +30692,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-04-10T18:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SK STURM GRAZ II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-04-10T18:00:00",
@@ -30825,7 +30812,7 @@
     },
     {
       "Spieldatum": "2026-04-10T20:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -31657,6 +31644,19 @@
     },
     {
       "Spieldatum": "2026-04-12T10:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SK STURM GRAZ II",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-04-12T10:30:00",
       "Heimmannschaft": "SK Slovan HAC",
       "Gastmannschaft": "FC Stadlau",
       "Typ": "Männer",
@@ -32450,7 +32450,7 @@
     },
     {
       "Spieldatum": "2026-04-12T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -32893,7 +32893,7 @@
     {
       "Spieldatum": "2026-04-18T11:00:00",
       "Heimmannschaft": "Patron Wien",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "WAF Gruabn",
@@ -34427,7 +34427,7 @@
     {
       "Spieldatum": "2026-04-19T21:00:00",
       "Heimmannschaft": "Patron Wien",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "WAF Gruabn",
@@ -36207,7 +36207,7 @@
     },
     {
       "Spieldatum": "2026-04-26T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "FC Brigittenau",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -36376,7 +36376,7 @@
     },
     {
       "Spieldatum": "2026-04-26T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "FC Brigittenau",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -36624,7 +36624,7 @@
     {
       "Spieldatum": "2026-05-01T14:00:00",
       "Heimmannschaft": "Wollers Komet",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "WAF Gruabn",
@@ -38340,7 +38340,7 @@
     {
       "Spieldatum": "2026-05-03T21:00:00",
       "Heimmannschaft": "Wollers Komet",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "WAF Gruabn",
@@ -40172,7 +40172,7 @@
     },
     {
       "Spieldatum": "2026-05-10T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Bozok Wien",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -40302,7 +40302,7 @@
     },
     {
       "Spieldatum": "2026-05-10T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "Bozok Wien",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -41044,7 +41044,7 @@
     {
       "Spieldatum": "2026-05-16T16:00:00",
       "Heimmannschaft": "Real Wien",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Essling",
@@ -42240,7 +42240,7 @@
     {
       "Spieldatum": "2026-05-17T21:00:00",
       "Heimmannschaft": "Real Wien",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "Essling",
@@ -44761,7 +44761,7 @@
     },
     {
       "Spieldatum": "2026-05-31T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "WBC-IX",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -44852,7 +44852,7 @@
     },
     {
       "Spieldatum": "2026-05-31T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "WBC-IX",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
@@ -45646,7 +45646,7 @@
     {
       "Spieldatum": "2026-06-06T18:30:00",
       "Heimmannschaft": "RB Jedlesee",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
       "Spielort": "Columbia",
@@ -46023,7 +46023,7 @@
     {
       "Spieldatum": "2026-06-07T21:00:00",
       "Heimmannschaft": "RB Jedlesee",
-      "Gastmannschaft": "Prater SV",
+      "Gastmannschaft": "Kaiserebersdorf 1923",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
       "Spielort": "Columbia",
@@ -46568,7 +46568,7 @@
     },
     {
       "Spieldatum": "2026-06-13T18:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "SC Kopten",
       "Typ": "Männer",
       "Liga": "1. Klasse B",
@@ -46828,7 +46828,7 @@
     },
     {
       "Spieldatum": "2026-06-14T21:00:00",
-      "Heimmannschaft": "Prater SV",
+      "Heimmannschaft": "Kaiserebersdorf 1923",
       "Gastmannschaft": "SC Kopten",
       "Typ": "Männer",
       "Liga": "1. Klasse B Reserve",
