@@ -25650,19 +25650,6 @@
       "Longitude": 16.370454
     },
     {
-      "Spieldatum": "2026-03-14T17:00:00",
-      "Heimmannschaft": "FCJ Alt-Ottakring",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
       "Spieldatum": "2026-03-14T17:15:00",
       "Heimmannschaft": "DSG Porzelona Future Team",
       "Gastmannschaft": "Marswiese 1b",
@@ -26534,19 +26521,6 @@
       "Longitude": 16.48207
     },
     {
-      "Spieldatum": "2026-03-15T19:00:00",
-      "Heimmannschaft": "Vorwärts Wien 2016",
-      "Gastmannschaft": "Bozok Wien",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
-    },
-    {
       "Spieldatum": "2026-03-15T20:00:00",
       "Heimmannschaft": "DSG Going Toulouse",
       "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
@@ -26586,84 +26560,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Kaiserebersdorf 1923",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1. Klasse B Reserve",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "Kurdroj",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien Inzersdorf",
-      "Spielort Straße": "Vorarlberger Allee 22",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.135722,
-      "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2026-03-15T21:00:00",
-      "Heimmannschaft": "FCJ Alt-Ottakring",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "GEPS 21 FC 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "DSG Paulaner Wieden 1b",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "GEPS 20-U18",
-      "Gastmannschaft": "FC Hernalser Spartans",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2. Klasse ",
-      "Spielort": "WFV-21 Pichelwangergasse",
-      "Spielort Straße": "Pichelwangerg. 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.252577,
-      "Longitude": 16.392631
-    },
-    {
       "Spieldatum": "2026-03-15T23:00:00",
       "Heimmannschaft": "Inzersdorf",
       "Gastmannschaft": "Kurdroj",
@@ -26675,19 +26571,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2026-03-15T23:00:00",
-      "Heimmannschaft": "LAC-Inter",
-      "Gastmannschaft": "FC Mauerwerk Immo",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-03-16T20:00:00",
