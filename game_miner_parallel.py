@@ -130,8 +130,14 @@ def mine_game(weblink: str, driver: webdriver.Chrome) -> Dict:
         # teams
         team_links = container.find_elements(By.CSS_SELECTOR, ".teams > a")
         if len(team_links) < 2:
-            wait.until(lambda d: len(container.find_elements(By.CSS_SELECTOR, ".teams > a")) >= 2)
+            try:
+                wait.until(lambda d: len(container.find_elements(By.CSS_SELECTOR, ".teams > a")) >= 2)
+            except TimeoutException:
+                raise ValueError(f"Weniger als 2 Team-Links gefunden ({len(team_links)}) – vermutlich keine Spielseite")
             team_links = container.find_elements(By.CSS_SELECTOR, ".teams > a")
+
+        if len(team_links) < 2:
+            raise ValueError(f"Weniger als 2 Team-Links gefunden ({len(team_links)})")
 
         heim_a, gast_a = team_links[0], team_links[1]
         heim_name = heim_a.get_attribute("title") or get_text_safe(heim_a)
@@ -228,7 +234,7 @@ def run_parallel(
 ) -> None:
 
     # 1) Links laden
-    links_all = load_links(input_csv)
+    links_all = [l for l in load_links(input_csv) if "/Spielplan/" not in l]
 
     # 2) Bereits vorhandene Ergebnisse laden/merken (Resume)
     if os.path.exists(out_csv):

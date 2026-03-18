@@ -100,6 +100,8 @@ def collect_links_from_page(driver: webdriver.Chrome, source_url: str) -> List[T
             continue
         if "oefb.at" not in href:
             continue
+        if "/Spielplan/" in href or "/Bewerb/" in href:
+            continue
         seen_local.add(href)
         out.append((text, href, source_url, now_iso))
     print(f"[SCRAPE] {len(out)} gültige Links gesammelt (nach Filterung).")
