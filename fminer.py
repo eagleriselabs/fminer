@@ -21,44 +21,20 @@ from webdriver_manager.chrome import ChromeDriverManager
 # Konfiguration
 # =========================
 DEFAULT_OUTFILE = "oefb_links_gesamt.csv"
+DEFAULT_SPIELPLAN_CSV = os.path.join(os.path.dirname(__file__), "results", "spielplan_urls.csv")
 
-URLS = [
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227113?ADMIRAL-Bundesliga-Grunddurchgang",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227112?ADMIRAL-2-Liga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226510?Regionalliga-Ost",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226635?Wiener-Stadtliga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226684?2-Landesliga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226695?Oberliga-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226591?Oberliga-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227122?Oberliga-A-Reserve",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227123?Oberliga-B-Reserve",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226633?1-Klasse-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226627?1-Klasse-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227124?1-Klasse-A-Reserve",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227125?1-Klasse-B-Reserve",
-    "https://www.oefb.at/oefb/Bewerb/Spielplan/226894?ADMIRAL-Frauen-Bundesliga-Grunddurchgang",
-    "https://www.oefb.at/oefb/Bewerb/Spielplan/226892?Frauen-Future-League",
-    "https://www.oefb.at/oefb/Bewerb/Spielplan/226893?2-Frauen-Bundesliga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226649?Wiener-Frauen-Landesliga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226662?Frauen-1-Klasse",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226664?Frauen-2-Klasse-",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226672?Frauen-Newcomer-Liga",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226618?DSG-LIGA",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226621?DSG-Oberliga-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226646?DSG-Oberliga-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226631?DSG-Unterliga-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226682?DSG-Unterliga-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226610?DSG-1-Klasse-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226615?DSG-1-Klasse-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226694?DSG-2-Klasse-A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226678?DSG-2-Klasse-B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/227359?DSG-Reserve",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226697?DSG-Cup",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226690?DSG-Frauen-Maedchen",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226665?DSG-Senioren-1A",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226673?DSG-Senioren-1B",
-    "https://www.oefb.at/bewerbe/Bewerb/Spielplan/226652?DSG-Senioren-2"
-]
+
+def load_urls_from_csv(csv_path: str) -> List[str]:
+    """Liest Spielplan-URLs aus der von mine_spielplan_urls.py erzeugten CSV."""
+    urls: List[str] = []
+    with open(csv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter=";")
+        for row in reader:
+            link = (row.get("link") or "").strip()
+            if link:
+                urls.append(link)
+    print(f"[CSV] {len(urls)} Spielplan-URLs aus {csv_path} geladen.")
+    return urls
 
 
 @dataclass
@@ -296,12 +272,15 @@ def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless:
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Sammelt Links aus mehreren ÖFB-Planungsseiten und schreibt sie in Echtzeit ins CSV.")
-    parser.add_argument("--urls", nargs="*", default=URLS)
+    parser.add_argument("--csv", default=DEFAULT_SPIELPLAN_CSV,
+                        help="Pfad zur spielplan_urls.csv (Standard: results/spielplan_urls.csv)")
     parser.add_argument("--outfile", default=None)
     parser.add_argument("--out", default=None)
     parser.add_argument("--no-headless", action="store_true")
     parser.add_argument("--fresh", action="store_true")
     args = parser.parse_args()
+
+    urls = load_urls_from_csv(args.csv)
 
     if args.outfile:
         out_path = Path(args.outfile)
@@ -321,7 +300,7 @@ if __name__ == "__main__":
 
     print("[MAIN] Starte Scraping-Prozess …")
     scrape_multiple_urls_streaming(
-        args.urls,
+        urls,
         outfile=out_path,
         headless=not args.no_headless,
         already_seen=existing_hrefs,
