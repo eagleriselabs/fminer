@@ -2,7 +2,7 @@ name: "01_fminer"
 
 on:
   schedule:
-    - cron: "0 5 */3 * *"   # alle 3 Tage um 05:00 UTC
+    - cron: "0 22 * * 3"  
   workflow_dispatch:
 
 permissions:
