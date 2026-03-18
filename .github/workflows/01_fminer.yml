@@ -15,7 +15,6 @@ concurrency:
 jobs:
   fminer:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
 
     env:
       PYTHON_VERSION: "3.11"

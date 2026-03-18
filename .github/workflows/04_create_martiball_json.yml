@@ -21,7 +21,6 @@ jobs:
       github.event_name == 'workflow_dispatch' ||
       github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
 
     env:
       PYTHON_VERSION: "3.11"
