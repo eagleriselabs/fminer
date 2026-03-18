@@ -1,0 +1,78 @@
+name: "01_fminer"
+
+on:
+  schedule:
+    - cron: "0 5 */3 * *"   # alle 3 Tage um 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pipeline-01-fminer
+  cancel-in-progress: true
+
+jobs:
+  fminer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      PYTHON_VERSION: "3.11"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install Google Chrome (stable)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub \
+            | sudo gpg --dearmor -o /usr/share/keyrings/google-linux-signing-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-signing-keyring.gpg] \
+            http://dl.google.com/linux/chrome/deb/ stable main" \
+            | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "CHROME_BIN=$(which google-chrome-stable)" >> "$GITHUB_ENV"
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          pip install "pandas>=2.0" "selenium>=4.21" "webdriver-manager>=4.0"
+
+      - name: Prepare output folder
+        run: mkdir -p results/fminer
+
+      - name: Run fminer.py
+        run: |
+          set -e
+          python fminer.py --out results/fminer
+
+      - name: Upload fminer results
+        uses: actions/upload-artifact@v4
+        with:
+          name: fminer-results
+          path: results/fminer/
+          retention-days: 7

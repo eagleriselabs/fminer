@@ -8,6 +8,7 @@ import contextlib
 from typing import Tuple, Optional, List, Dict
 
 import pandas as pd
+import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from selenium import webdriver
@@ -23,7 +24,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 def get_coordinates(container) -> Tuple[Optional[float], Optional[float]]:
     driver = container.parent
     try:
-        WebDriverWait(driver, 20).until(
+        WebDriverWait(driver, 10).until(
             lambda d: d.execute_script("""
                 const ap = window.SG?.container?.appPreloads;
                 if (!ap) return false;
@@ -60,7 +61,7 @@ def get_coordinates(container) -> Tuple[Optional[float], Optional[float]]:
 
 def get_bewerb(container) -> Optional[str]:
     driver = container.parent
-    WebDriverWait(driver, 20).until(
+    WebDriverWait(driver, 10).until(
         lambda d: d.execute_script("return !!(window.SG && SG.container && SG.container.appPreloads);")
     )
     bewerb = driver.execute_script("""
@@ -97,7 +98,7 @@ def build_chrome_options(headless: bool = True) -> webdriver.ChromeOptions:
 def open_driver(driver_path: str, headless: bool = True) -> webdriver.Chrome:
     options = build_chrome_options(headless=headless)
     driver = webdriver.Chrome(service=Service(driver_path), options=options)
-    driver.set_page_load_timeout(60)
+    driver.set_page_load_timeout(30)
     return driver
 
 def safe_get(driver: webdriver.Chrome, url: str, attempts: int = 3, backoff: float = 1.5) -> None:
@@ -113,14 +114,13 @@ def safe_get(driver: webdriver.Chrome, url: str, attempts: int = 3, backoff: flo
 
 # ============== Core scraping ==============
 
-def mine_game(weblink: str, driver_path: str, headless: bool = True) -> Dict:
+def mine_game(weblink: str, driver: webdriver.Chrome) -> Dict:
     def get_text_safe(el):
         return el.text.strip() if el else ""
 
-    driver = open_driver(driver_path, headless=headless)
     try:
         safe_get(driver, weblink, attempts=3)
-        wait = WebDriverWait(driver, 25)
+        wait = WebDriverWait(driver, 15)
         container = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".round_overview_container")))
 
         # basic top fields
@@ -206,9 +206,6 @@ def mine_game(weblink: str, driver_path: str, headless: bool = True) -> Dict:
             "Quelle": weblink, "link": weblink.replace("/Spielbericht/", "/"),
             "error": str(e),
         }
-    finally:
-        with contextlib.suppress(Exception):
-            driver.quit()
 
 # ============== Controller ==============
 
@@ -261,23 +258,52 @@ def run_parallel(
         pd.DataFrame(results).to_csv(out_csv, index=False, encoding="utf-8-sig", sep=";")
         print(f"Zwischenspeicher: {len(results)} Einträge -> {out_csv}", flush=True)
 
-    with ThreadPoolExecutor(max_workers=max_workers) as ex:
-        future_map = {ex.submit(mine_game, link, driver_path, headless): link for link in todo}
-        for fut in as_completed(future_map):
-            link = future_map[fut]
-            try:
-                row = fut.result()
-            except Exception as e:
-                row = {"Quelle": link, "link": link, "error": f"FutureException: {e}"}
-            results.append(row)
-            have.add(row.get("link", link))
-            completed_since_flush += 1
+    # Thread-lokale Driver wiederverwenden statt pro Link neu zu starten
+    tls = threading.local()
+    all_drivers = []
+    drv_lock = threading.Lock()
 
-            print(f"Fertig: {link}  ({len(have)}/{len(links_all)})", flush=True)
+    def get_driver():
+        if not hasattr(tls, 'driver') or tls.driver is None:
+            d = open_driver(driver_path, headless)
+            tls.driver = d
+            with drv_lock:
+                all_drivers.append(d)
+        return tls.driver
 
-            if completed_since_flush >= flush_every:
-                write_out()
-                completed_since_flush = 0
+    def worker(link):
+        driver = get_driver()
+        try:
+            return mine_game(link, driver)
+        except WebDriverException:
+            with contextlib.suppress(Exception):
+                driver.quit()
+            tls.driver = None
+            return {"Quelle": link, "link": link, "error": "WebDriver crashed"}
+
+    try:
+        with ThreadPoolExecutor(max_workers=max_workers) as ex:
+            future_map = {ex.submit(worker, link): link for link in todo}
+            for fut in as_completed(future_map):
+                link = future_map[fut]
+                try:
+                    row = fut.result()
+                except Exception as e:
+                    row = {"Quelle": link, "link": link, "error": f"FutureException: {e}"}
+                results.append(row)
+                have.add(row.get("link", link))
+                completed_since_flush += 1
+
+                print(f"Fertig: {link}  ({len(have)}/{len(links_all)})", flush=True)
+
+                if completed_since_flush >= flush_every:
+                    write_out()
+                    completed_since_flush = 0
+    finally:
+        for d in all_drivers:
+            with contextlib.suppress(Exception):
+                d.quit()
+        print(f"[EXIT] {len(all_drivers)} WebDriver beendet.", flush=True)
 
     # final write
     write_out()

@@ -1,0 +1,112 @@
+name: "02_game_miner"
+
+on:
+  workflow_run:
+    workflows: ["01_fminer"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: pipeline-02-game-miner
+  cancel-in-progress: true
+
+jobs:
+  game-miner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    # Nur laufen wenn Vorgänger erfolgreich war ODER manuell getriggert
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+
+    env:
+      PYTHON_VERSION: "3.11"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install Google Chrome (stable)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub \
+            | sudo gpg --dearmor -o /usr/share/keyrings/google-linux-signing-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-signing-keyring.gpg] \
+            http://dl.google.com/linux/chrome/deb/ stable main" \
+            | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "CHROME_BIN=$(which google-chrome-stable)" >> "$GITHUB_ENV"
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          pip install "pandas>=2.0" "selenium>=4.21" "webdriver-manager>=4.0"
+
+      # Artefakt vom Vorgänger-Workflow herunterladen
+      - name: Download fminer results (from pipeline)
+        if: github.event_name == 'workflow_run'
+        uses: actions/download-artifact@v4
+        with:
+          name: fminer-results
+          path: results/fminer/
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Fallback für manuellen Dispatch: committete CSV aus dem Repo nutzen
+      - name: Fallback – use repo CSV (manual dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          mkdir -p results/fminer
+          if [ -f results/oefb_links_gesamt.csv ]; then
+            cp results/oefb_links_gesamt.csv results/fminer/oefb_links_gesamt.csv
+          else
+            echo "::error::results/oefb_links_gesamt.csv nicht im Repo gefunden. Bitte zuerst 01_fminer ausführen."
+            exit 1
+          fi
+
+      - name: Prepare output folder
+        run: mkdir -p results/game_miner
+
+      - name: Run game_miner_parallel.py
+        run: |
+          set -e
+          python game_miner_parallel.py \
+            --in results/fminer/oefb_links_gesamt.csv \
+            --out results/game_miner
+
+      # Beide Ergebnisse bündeln, damit Workflow 03 alles in einem Artefakt bekommt
+      - name: Upload pipeline results (fminer + game_miner)
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-step2-results
+          path: |
+            results/fminer/
+            results/game_miner/
+          retention-days: 7

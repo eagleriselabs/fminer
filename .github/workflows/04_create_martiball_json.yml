@@ -1,21 +1,25 @@
-name: Build martiball JSON
+name: "04_create_martiball_json"
 
 on:
   workflow_run:
-    workflows: ["Daily Data Pipeline"]   # auslösender Workflow
+    workflows: ["03_post_processing"]
     types: [completed]
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
-  group: martiball-json
+  group: pipeline-04-create-martiball-json
   cancel-in-progress: true
 
 jobs:
   build-json:
-    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
+    # Nur laufen wenn Vorgänger erfolgreich war ODER manuell getriggert
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -55,7 +59,7 @@ jobs:
           set -e
           python create_martiball_json.py --in "${INPUT_CSV}" --out "${OUTPUT_JSON}"
 
-      - name: Commit & push JSON (only if changed)
+      - name: Commit & push JSON (rebase-safe)
         run: |
           set -e
           if [ ! -f "${OUTPUT_JSON}" ]; then
@@ -72,6 +76,15 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update martiball_spiele.json"
-          git pull --rebase
+          git commit -m "chore: update martiball_spiele.json [skip ci]"
+
+          BRANCH="${{ github.ref_name }}"
+          git fetch origin "$BRANCH"
+
+          if ! git rebase "origin/$BRANCH"; then
+            echo "Rebase-Konflikt – fallback auf Merge mit 'ours'-Strategie."
+            git rebase --abort || true
+            git pull --no-edit -X ours origin "$BRANCH"
+          fi
+
           git push

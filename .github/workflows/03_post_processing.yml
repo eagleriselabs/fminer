@@ -1,27 +1,34 @@
-name: Daily Data Pipeline
+name: "03_post_processing"
 
 on:
-  schedule:
-    - cron: "0 5 */3 * *"   # alle 3 Tage um 05:00 UTC
+  workflow_run:
+    workflows: ["02_game_miner"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
-  contents: write          # erlaubt Push mit GITHUB_TOKEN
+  contents: write
+  actions: read
 
 concurrency:
-  group: daily-pipeline
+  group: pipeline-03-post-processing
   cancel-in-progress: true
 
 jobs:
-  run-daily:
+  post-processing:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 15
+
+    # Nur laufen wenn Vorgänger erfolgreich war ODER manuell getriggert
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
 
     env:
       PYTHON_VERSION: "3.11"
 
     steps:
-      - name: Checkout repo (vollständige History)
+      - name: Checkout repo (vollständige History für Push)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -42,55 +49,56 @@ jobs:
       - name: Upgrade pip
         run: python -m pip install --upgrade pip
 
-      # Headless Chrome für Selenium
-      - name: Install Google Chrome (stable)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget gnupg
-          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-linux-signing-keyring.gpg
-          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-signing-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | \
-            sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          echo "CHROME_BIN=$(which google-chrome-stable)" >> $GITHUB_ENV
-
-      - name: Install Python dependencies (inkl. pandas, selenium)
+      # Kein Chrome nötig – post_processing.py nutzt nur pandas
+      - name: Install Python dependencies
         run: |
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
-          pip install "pandas>=2.0" "selenium>=4.21" "webdriver-manager>=4.0"
+          pip install "pandas>=2.0"
 
-      - name: Prepare result folders
-        run: mkdir -p results/fminer results/game_miner results/post_processing
+      # Gebündelte Artefakte (fminer + game_miner) vom Vorgänger herunterladen
+      - name: Download pipeline results (fminer + game_miner)
+        if: github.event_name == 'workflow_run'
+        uses: actions/download-artifact@v4
+        with:
+          name: pipeline-step2-results
+          path: results/
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 1) fminer.py -> results/fminer/oefb_links_gesamt.csv
-      - name: Run fminer.py
+      # Fallback für manuellen Dispatch: committete CSVs aus dem Repo nutzen
+      - name: Fallback – use repo CSVs (manual dispatch)
+        if: github.event_name == 'workflow_dispatch'
         run: |
-          set -e
-          python fminer.py --out results/fminer
+          mkdir -p results/fminer results/game_miner
+          if [ -f results/oefb_links_gesamt.csv ]; then
+            cp results/oefb_links_gesamt.csv results/fminer/oefb_links_gesamt.csv
+          fi
+          if [ -f results/spiel_infos.csv ]; then
+            cp results/spiel_infos.csv results/game_miner/spiel_infos.csv
+          else
+            echo "::error::results/spiel_infos.csv nicht im Repo gefunden. Bitte zuerst 01_fminer und 02_game_miner ausführen."
+            exit 1
+          fi
 
-      # 2) game_miner_parallel.py -> results/game_miner/spiel_infos.csv
-      - name: Run game_miner_parallel.py
-        run: |
-          set -e
-          python game_miner_parallel.py --in results/fminer/oefb_links_gesamt.csv --out results/game_miner
+      - name: Prepare output folder
+        run: mkdir -p results/post_processing
 
-      # 3) post_processing.py -> results/post_processing/{martiballtermine_wien.csv,fails.csv}
       - name: Run post_processing.py
         run: |
           set -e
-          python post_processing.py --in results/game_miner/spiel_infos.csv --out results/post_processing
+          python post_processing.py \
+            --in results/game_miner/spiel_infos.csv \
+            --out results/post_processing
 
       # Dateien an die getrackten Repo-Pfade kopieren
       - name: Stage generated files
         run: |
           set -e
-          mkdir -p results
           cp -f results/fminer/oefb_links_gesamt.csv              results/oefb_links_gesamt.csv
           cp -f results/game_miner/spiel_infos.csv                results/spiel_infos.csv
           cp -f results/post_processing/martiballtermine_wien.csv results/martiballtermine_wien.csv
-
 
       - name: Show outputs (debug)
         run: |
@@ -104,7 +112,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Dateien zum Commit vorbereiten
           git add results/oefb_links_gesamt.csv results/spiel_infos.csv results/martiballtermine_wien.csv
           if git diff --staged --quiet; then
             echo "No changes to commit."
@@ -113,24 +120,20 @@ jobs:
 
           git commit -m "chore: update generated CSVs [skip ci]"
 
-          # Aktuellen Remote-Stand holen und unseren Commit obendrauf setzen
           BRANCH="${{ github.ref_name }}"
           git fetch origin "$BRANCH"
 
-          # Versuch: rebase (saubere, lineare History)
           if ! git rebase "origin/$BRANCH"; then
-            echo "Rebase-Konflikt – fallback auf Merge mit 'ours'-Strategie (behalte unsere generierten CSVs)."
+            echo "Rebase-Konflikt – fallback auf Merge mit 'ours'-Strategie."
             git rebase --abort || true
             git pull --no-edit -X ours origin "$BRANCH"
           fi
 
-          # Jetzt sollte der Push ein Fast-Forward sein
           git push
 
-
-      # Optional: Artefakt zum Download in der Run-Ansicht
       - name: Upload artifact (daily-results)
         uses: actions/upload-artifact@v4
         with:
           name: daily-results
           path: results/
+          retention-days: 7

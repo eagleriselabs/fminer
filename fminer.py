@@ -7,6 +7,8 @@ import contextlib
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, List, Tuple, Set, Optional
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, WebDriverException
@@ -69,12 +71,13 @@ def make_driver(headless: bool = True, page_load_timeout: int = 60) -> webdriver
     return driver
 
 
-def wait_for_schedule_table(driver: webdriver.Chrome, timeout: int = 30) -> None:
-    print(f"[WAIT] Warte bis 'schedule_table' geladen ist (Timeout {timeout}s) …")
+def wait_for_schedule_table(driver: webdriver.Chrome, url: str = "", timeout: int = 30) -> None:
+    tag = f" ({url.split('?')[-1]})" if url else ""
+    print(f"[WAIT]{tag} Warte bis 'schedule_table' geladen ist (Timeout {timeout}s) \u2026")
     WebDriverWait(driver, timeout).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "div.schedule_table"))
     )
-    print("[WAIT] 'schedule_table' gefunden.")
+    print(f"[WAIT]{tag} 'schedule_table' gefunden.")
 
 
 def collect_links_from_page(driver: webdriver.Chrome, source_url: str) -> List[Tuple[str, str, str, str]]:
@@ -136,10 +139,6 @@ def ensure_csv_with_header(csv_path: Path) -> None:
 def append_row_immediate(fh, writer: csv.writer, row: Tuple[str, str, str]) -> None:
     writer.writerow(row)
     fh.flush()
-    try:
-        os.fsync(fh.fileno())
-    except OSError:
-        pass
     print(f"[WRITE] Neuer Eintrag: {row[0]}")
 
 
@@ -202,7 +201,7 @@ def click_more_until_stable(driver: webdriver.Chrome, max_clicks: int = 10_000) 
             btn.click()
             clicks += 1
             print(f"[CLICK] 'Mehr'-Button geklickt ({clicks}).")
-            time.sleep(0.8 + random.random() * 0.4)
+            time.sleep(0.3 + random.random() * 0.2)
         except TimeoutException:
             print("[CLICK] Keine weiteren Buttons gefunden.")
             break
@@ -211,59 +210,63 @@ def click_more_until_stable(driver: webdriver.Chrome, max_clicks: int = 10_000) 
             continue
 
 
-def stream_links_from_url(driver: webdriver.Chrome, url: str, seen: Set[str], fh, writer: csv.writer) -> Tuple[int, int]:
-    print(f"[RUN] Beginne Streaming für {url}")
-    safe_get(driver, url, attempts=3)
-    wait_for_schedule_table(driver, timeout=45)
-
-    total_found = 0
-    total_new = 0
-
-    items = collect_links_from_page(driver, source_url=url)
-    total_found = max(total_found, len(items))
-    for text, href, src, ts in items:
-        if href not in seen:
-            seen.add(href)
-            append_row_immediate(fh, writer, (href, src, ts))
-            total_new += 1
-
-    click_more_until_stable(driver)
-    items = collect_links_from_page(driver, source_url=url)
-    total_found = max(total_found, len(items))
-    new_round = 0
-    for text, href, src, ts in items:
-        if href not in seen:
-            seen.add(href)
-            append_row_immediate(fh, writer, (href, src, ts))
-            total_new += 1
-            new_round += 1
-    if new_round:
-        print(f"[STREAM] {url}: +{new_round} neu (ins CSV geschrieben).")
-
-    print(f"[DONE] {url}: sichtbar {total_found} Links, {total_new} neue.")
-    return total_found, total_new
-
-
-def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless: bool = True, already_seen: Optional[Set[str]] = None) -> None:
+def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless: bool = True, already_seen: Optional[Set[str]] = None, max_workers: int = 4) -> None:
     csv_path = Path(outfile)
     ensure_csv_with_header(csv_path)
     global_seen: Set[str] = set(already_seen or set())
-    driver = make_driver(headless=headless)
+
+    local = threading.local()
+    drivers: list = []
+    drivers_lock = threading.Lock()
+
+    def get_driver():
+        if not hasattr(local, 'driver') or local.driver is None:
+            d = make_driver(headless=headless)
+            local.driver = d
+            with drivers_lock:
+                drivers.append(d)
+        return local.driver
+
+    def process_url(url: str):
+        driver = get_driver()
+        tag = url.split('?')[-1] if '?' in url else url.split('/')[-1]
+        try:
+            safe_get(driver, url, attempts=3)
+            wait_for_schedule_table(driver, url=url, timeout=45)
+            click_more_until_stable(driver)
+            return url, collect_links_from_page(driver, source_url=url)
+        except Exception as e:
+            print(f"[FEHLER] {tag}: {e}", file=sys.stderr)
+            return url, []
 
     try:
         lock_path = csv_path.with_suffix(csv_path.suffix + ".lock")
         with file_lock(lock_path):
             with open(csv_path, "a", newline="", encoding="utf-8") as fh:
                 writer = csv.writer(fh)
-                for url in urls:
-                    try:
-                        stream_links_from_url(driver, url, global_seen, fh, writer)
-                    except Exception as e:
-                        print(f"[FEHLER] {url}: {e}", file=sys.stderr)
+                url_list = list(urls)
+                with ThreadPoolExecutor(max_workers=max_workers) as ex:
+                    futures = {ex.submit(process_url, url): url for url in url_list}
+                    for fut in as_completed(futures):
+                        try:
+                            url, items = fut.result()
+                        except Exception as e:
+                            print(f"[FEHLER] {futures[fut]}: {e}", file=sys.stderr)
+                            continue
+                        new_count = 0
+                        for _, href, src, ts in items:
+                            if href not in global_seen:
+                                global_seen.add(href)
+                                writer.writerow((href, src, ts))
+                                new_count += 1
+                        if new_count:
+                            fh.flush()
+                        print(f"[DONE] {url}: {new_count} neue Links")
     finally:
-        with contextlib.suppress(Exception):
-            driver.quit()
-            print("[EXIT] WebDriver beendet.")
+        for d in drivers:
+            with contextlib.suppress(Exception):
+                d.quit()
+        print(f"[EXIT] {len(drivers)} WebDriver beendet.")
 
 
 # =========================
@@ -278,6 +281,7 @@ if __name__ == "__main__":
     parser.add_argument("--out", default=None)
     parser.add_argument("--no-headless", action="store_true")
     parser.add_argument("--fresh", action="store_true")
+    parser.add_argument("--workers", type=int, default=4, help="Anzahl paralleler Browser-Instanzen.")
     args = parser.parse_args()
 
     urls = load_urls_from_csv(args.csv)
@@ -304,6 +308,7 @@ if __name__ == "__main__":
         outfile=out_path,
         headless=not args.no_headless,
         already_seen=existing_hrefs,
+        max_workers=max(1, args.workers),
     )
 
     print("[MAIN] Fertig.")
