@@ -212,6 +212,13 @@ def click_more_until_stable(driver: webdriver.Chrome, max_clicks: int = 10_000) 
             continue
 
 
+def ensure_spielplan_url(url: str) -> str:
+    """Stellt sicher, dass die URL auf den Spielplan-Tab zeigt, nicht auf die Standard-Ansicht."""
+    if "/Bewerb/" in url and "/Spielplan/" not in url:
+        return url.replace("/Bewerb/", "/Bewerb/Spielplan/", 1)
+    return url
+
+
 def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless: bool = True, already_seen: Optional[Set[str]] = None, max_workers: int = 4) -> None:
     csv_path = Path(outfile)
     ensure_csv_with_header(csv_path)
@@ -231,10 +238,11 @@ def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless:
 
     def process_url(url: str):
         driver = get_driver()
+        spielplan_url = ensure_spielplan_url(url)
         tag = url.split('?')[-1] if '?' in url else url.split('/')[-1]
         try:
-            safe_get(driver, url, attempts=3)
-            wait_for_schedule_table(driver, url=url, timeout=45)
+            safe_get(driver, spielplan_url, attempts=3)
+            wait_for_schedule_table(driver, url=spielplan_url, timeout=45)
             click_more_until_stable(driver)
             return url, collect_links_from_page(driver, source_url=url)
         except Exception as e:
@@ -282,7 +290,6 @@ if __name__ == "__main__":
     parser.add_argument("--outfile", default=None)
     parser.add_argument("--out", default=None)
     parser.add_argument("--no-headless", action="store_true")
-    parser.add_argument("--fresh", action="store_true")
     parser.add_argument("--workers", type=int, default=4, help="Anzahl paralleler Browser-Instanzen.")
     args = parser.parse_args()
 
@@ -295,14 +302,8 @@ if __name__ == "__main__":
         out_dir.mkdir(parents=True, exist_ok=True)
         out_path = out_dir / DEFAULT_OUTFILE
 
-    if args.fresh:
-        existing_hrefs = set()
-        if out_path.exists():
-            out_path.unlink()
-        print(f"[INFO] Fresh-Run: {out_path} wird neu angelegt.")
-    else:
-        existing_hrefs = load_existing_hrefs(out_path)
-        print(f"[INFO] Resume: {len(existing_hrefs)} vorhandene Links werden übersprungen.")
+    existing_hrefs = load_existing_hrefs(out_path)
+    print(f"[INFO] Resume: {len(existing_hrefs)} vorhandene Links werden übersprungen.")
 
     print("[MAIN] Starte Scraping-Prozess …")
     scrape_multiple_urls_streaming(
