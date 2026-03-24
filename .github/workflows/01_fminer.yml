@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: pipeline-01-fminer
@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -68,6 +68,28 @@ jobs:
         run: |
           set -e
           python fminer.py --out results/fminer
+
+      - name: Stage & commit fminer results
+        run: |
+          set -e
+          cp -f results/fminer/oefb_links_gesamt.csv results/oefb_links_gesamt.csv
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add results/oefb_links_gesamt.csv
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update oefb_links_gesamt.csv [skip ci]"
+            BRANCH="${{ github.ref_name }}"
+            git fetch origin "$BRANCH"
+            if ! git rebase "origin/$BRANCH"; then
+              git rebase --abort || true
+              git pull --no-edit -X ours origin "$BRANCH"
+            fi
+            git push
+          fi
 
       - name: Upload fminer results
         uses: actions/upload-artifact@v4
