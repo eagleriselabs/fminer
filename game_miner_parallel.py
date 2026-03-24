@@ -2,221 +2,201 @@ import os
 import sys
 import json
 import time
-import random
+import re
+import asyncio
 import argparse
-import contextlib
-from typing import Tuple, Optional, List, Dict
+from datetime import datetime, timezone
+from typing import Optional, List, Dict
 
 import pandas as pd
-import threading
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import aiohttp
 
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, WebDriverException, StaleElementReferenceException
-from webdriver_manager.chrome import ChromeDriverManager
+# ============== Konstanten ==============
 
-# ============== Helpers from original ==============
+_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Accept-Language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
-def get_coordinates(container) -> Tuple[Optional[float], Optional[float]]:
-    driver = container.parent
-    try:
-        WebDriverWait(driver, 10).until(
-            lambda d: d.execute_script("""
-                const ap = window.SG?.container?.appPreloads;
-                if (!ap) return false;
-                for (const k in ap) {
-                    const arr = Array.isArray(ap[k]) ? ap[k] : [ap[k]];
-                    for (const obj of arr) {
-                        if (obj && typeof obj.longitude === 'number' && typeof obj.latitude === 'number') {
-                            if (!(obj.longitude === 0 && obj.latitude === 0)) return true;
-                        }
-                    }
-                }
-                return false;
-            """)
-        )
-        result = driver.execute_script("""
-            const ap = window.SG?.container?.appPreloads || {};
-            for (const k in ap) {
-                const arr = Array.isArray(ap[k]) ? ap[k] : [ap[k]];
-                for (const obj of arr) {
-                    if (obj && typeof obj.longitude === 'number' && typeof obj.latitude === 'number') {
-                        if (!(obj.longitude === 0 && obj.latitude === 0)) {
-                            return [obj.latitude, obj.longitude];
-                        }
-                    }
-                }
-            }
-            return null;
-        """)
-        if result:
-            return tuple(result)
-        return None, None
-    except Exception:
-        return None, None
+_PRELOADS_RE = re.compile(
+    r"SG\.container\.appPreloads\['[^']+'\]\s*=\s*(\[.*?\])\s*;",
+    re.DOTALL,
+)
 
-def get_bewerb(container) -> Optional[str]:
-    driver = container.parent
-    WebDriverWait(driver, 10).until(
-        lambda d: d.execute_script("return !!(window.SG && SG.container && SG.container.appPreloads);")
-    )
-    bewerb = driver.execute_script("""
-        const ap = window.SG.container.appPreloads || {};
-        for (const k in ap) {
-            const arr = Array.isArray(ap[k]) ? ap[k] : [ap[k]];
-            for (const obj of arr) {
-                if (obj && typeof obj.bewerb === 'string' && obj.bewerb.trim()) return obj.bewerb;
-            }
-        }
-        return null;
-    """)
-    return bewerb
 
-# ============== WebDriver utilities ==============
+# ============== HTML → JSON-Extraktion ==============
 
-def build_chrome_options(headless: bool = True) -> webdriver.ChromeOptions:
-    opts = webdriver.ChromeOptions()
-    chrome_bin = os.environ.get("CHROME_BIN") or os.environ.get("GOOGLE_CHROME_SHIM")
-    if chrome_bin:
-        opts.binary_location = chrome_bin
-    if headless:
-        opts.add_argument("--headless=new")
-    opts.add_argument("--no-sandbox")
-    opts.add_argument("--disable-dev-shm-usage")
-    opts.add_argument("--disable-gpu")
-    opts.add_argument("--window-size=1280,900")
-    opts.add_argument("--lang=de-DE,de")
-    opts.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari")
-    opts.add_argument("--disable-blink-features=AutomationControlled")
-    opts.add_argument("--remote-allow-origins=*")
-    return opts
-
-def open_driver(driver_path: str, headless: bool = True) -> webdriver.Chrome:
-    options = build_chrome_options(headless=headless)
-    driver = webdriver.Chrome(service=Service(driver_path), options=options)
-    driver.set_page_load_timeout(30)
-    return driver
-
-def safe_get(driver: webdriver.Chrome, url: str, attempts: int = 3, backoff: float = 1.5) -> None:
-    for i in range(1, attempts + 1):
+def _extract_preloads(html: str) -> List[dict]:
+    """Extrahiert alle appPreloads-JSON-Blöcke aus dem HTML."""
+    objects: List[dict] = []
+    for m in _PRELOADS_RE.finditer(html):
         try:
-            driver.get(url)
-            return
-        except (TimeoutException, WebDriverException) as e:
-            print(f"[WARN] GET failed ({i}/{attempts}) for {url}: {e}", file=sys.stderr, flush=True)
-            if i == attempts:
-                raise
-            time.sleep(backoff * i)
-
-# ============== Core scraping ==============
-
-def mine_game(weblink: str, driver: webdriver.Chrome) -> Dict:
-    def get_text_safe(el):
-        return el.text.strip() if el else ""
-
-    try:
-        safe_get(driver, weblink, attempts=3)
-        wait = WebDriverWait(driver, 15)
-        container = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".round_overview_container")))
-
-        # basic top fields
-        runde = get_text_safe(container.find_element(By.CSS_SELECTOR, ".round"))
-        datum = get_text_safe(container.find_element(By.CSS_SELECTOR, ".date"))
-
-        # teams
-        team_links = container.find_elements(By.CSS_SELECTOR, ".teams > a")
-        if len(team_links) < 2:
-            try:
-                wait.until(lambda d: len(container.find_elements(By.CSS_SELECTOR, ".teams > a")) >= 2)
-            except TimeoutException:
-                raise ValueError(f"Weniger als 2 Team-Links gefunden ({len(team_links)}) – vermutlich keine Spielseite")
-            team_links = container.find_elements(By.CSS_SELECTOR, ".teams > a")
-
-        if len(team_links) < 2:
-            raise ValueError(f"Weniger als 2 Team-Links gefunden ({len(team_links)})")
-
-        heim_a, gast_a = team_links[0], team_links[1]
-        heim_name = heim_a.get_attribute("title") or get_text_safe(heim_a)
-        gast_name = gast_a.get_attribute("title") or get_text_safe(gast_a)
-        heim_link = heim_a.get_attribute("href") or ""
-        gast_link = gast_a.get_attribute("href") or ""
-
-        liga = get_bewerb(container) or ""
-
-        def value_after(label):
-            xpath = f'.//div[@class="detail"]//span[normalize-space()="{label}"]/following-sibling::span[1]'
-            try:
-                return container.find_element(By.XPATH, xpath).text.strip()
-            except Exception:
-                return ""
-
-        spielbeginn = value_after("Spielbeginn:")
-
-        # Spielort & Adresse
-        spielort_name, adresse = "", ""
-        try:
-            place_blocks = driver.find_elements(By.CSS_SELECTOR, ".game_place_content_1")
-            for blk in place_blocks:
-                try:
-                    h4 = blk.find_element(By.TAG_NAME, "h4").text.strip().lower()
-                except Exception:
-                    continue
-                if "adresse" in h4 and "anfahrt" in h4:
-                    try:
-                        spielort_name = blk.find_element(By.CSS_SELECTOR, "h5.highlight").text.strip()
-                    except Exception:
-                        spielort_name = ""
-                    lines = [ln.strip() for ln in blk.text.splitlines() if ln.strip()]
-                    if lines and lines[0].lower().startswith("adresse"):
-                        lines = lines[1:]
-                    if lines and spielort_name and lines[0] == spielort_name:
-                        lines = lines[1:]
-                    adresse = ", ".join(lines)
-                    break
-        except Exception:
+            arr = json.loads(m.group(1))
+            if isinstance(arr, list):
+                for obj in arr:
+                    if isinstance(obj, dict):
+                        objects.append(obj)
+        except (json.JSONDecodeError, ValueError):
             pass
+    return objects
 
-        lat, lon = get_coordinates(container)
 
-        # combine date+time
-        datetime_str = f"{datum} {spielbeginn}".strip()
-        datum_dt = pd.to_datetime(datetime_str, format="%d.%m.%Y %H:%M", errors="coerce")
+def _find_game_data(preloads: List[dict]) -> Optional[dict]:
+    """Findet den Block mit Spielinfo.
 
-        row = {
-            "Datum": datum_dt,
-            "Liga": liga,
-            "Typ": "Frau" if (isinstance(liga, str) and "Frau" in liga) else "Mann",
-            "Runde": runde,
-            "Heim": heim_name,
-            "Gast": gast_name,
-            "Heim_Link": heim_link,
-            "Gast_Link": gast_link,
-            "Spielort_Name": spielort_name,
-            "Adresse": adresse,
-            "Latitude": lat,
-            "Longitude": lon,
-            "Quelle": weblink,
-            "link": weblink.replace("/Spielbericht/", "/"),
-        }
-        return row
+    Format A: hat 'spielUid' + 'heimMannschaft' (detaillierte Spielinfo).
+    Format B: hat 'heimMannschaft' + 'start' ohne 'spielUid' (Besetzungs-Block).
+    """
+    # Bevorzuge Format A (enthält runde, datum, heimUrl)
+    for obj in preloads:
+        if "spielUid" in obj and "heimMannschaft" in obj:
+            return obj
+    # Fallback: Format B (enthält start, heimMannschaftLink, kein spielUid)
+    for obj in preloads:
+        if "heimMannschaft" in obj and "start" in obj and "bewerb" in obj:
+            return obj
+    return None
 
-    except Exception as e:
+
+def _find_venue_data(preloads: List[dict]) -> Optional[dict]:
+    """Findet den Block mit Spielort-Koordinaten (hat 'latitude'+'bezeichnung')."""
+    for obj in preloads:
+        lat = obj.get("latitude")
+        lon = obj.get("longitude")
+        if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+            if lat != 0 or lon != 0:
+                return obj
+    return None
+
+
+def _find_bewerb(preloads: List[dict]) -> str:
+    """Holt den Bewerb-String aus den Preloads."""
+    for obj in preloads:
+        b = obj.get("bewerb")
+        if isinstance(b, str) and b.strip():
+            return b.strip()
+    return ""
+
+
+def _epoch_ms_to_datetime(epoch_ms) -> Optional[str]:
+    """Konvertiert einen Epoch-Millisekunden-Wert in 'YYYY-MM-DD HH:MM:SS' (Europe/Vienna)."""
+    if not isinstance(epoch_ms, (int, float)):
+        return None
+    try:
+        dt = datetime.fromtimestamp(epoch_ms / 1000, tz=timezone.utc)
+        # oefb.at timestamps are CET/CEST; offset +1/+2
+        # Use a fixed +1h offset as a simple fallback (matches the original scraper behaviour
+        # which read local-time text from the page).
+        from zoneinfo import ZoneInfo
+        dt = dt.astimezone(ZoneInfo("Europe/Vienna"))
+        return dt.strftime("%Y-%m-%d %H:%M:%S")
+    except (OSError, ValueError):
+        return None
+
+
+# ============== Core scraping (HTTP-only) ==============
+
+def _parse_game(html: str, weblink: str) -> Dict:
+    """Parst Spieldaten aus dem HTML einer Spielseite."""
+    preloads = _extract_preloads(html)
+    game = _find_game_data(preloads)
+    venue = _find_venue_data(preloads)
+    liga = _find_bewerb(preloads)
+
+    if not game:
         return {
             "Datum": None, "Liga": None, "Typ": None, "Runde": None,
             "Heim": None, "Gast": None, "Heim_Link": None, "Gast_Link": None,
             "Spielort_Name": None, "Adresse": None, "Latitude": None, "Longitude": None,
             "Quelle": weblink, "link": weblink.replace("/Spielbericht/", "/"),
-            "error": str(e),
+            "error": "Keine Spielinfo in appPreloads gefunden",
         }
+
+    # Format A: 'datum', Format B: 'start'
+    datum_str = _epoch_ms_to_datetime(game.get("datum") or game.get("start"))
+
+    spielort_name = ""
+    adresse = ""
+    lat, lon = None, None
+    if venue:
+        spielort_name = venue.get("bezeichnung", "")
+        parts = [venue.get("strasseHausnummer", ""), venue.get("plzOrt", "")]
+        anfahrt = venue.get("anfahrtPKW") or ""
+        parts = [p for p in parts if p]
+        if anfahrt:
+            parts.append(anfahrt.replace("\r\n", ", ").replace("\n", ", "))
+        adresse = ", ".join(parts)
+        lat = venue.get("latitude")
+        lon = venue.get("longitude")
+
+    # Format A: heimUrl/gastUrl, Format B: heimMannschaftLink/gastMannschaftLink
+    heim_link = game.get("heimUrl") or game.get("heimMannschaftLink", "")
+    gast_link = game.get("gastUrl") or game.get("gastMannschaftLink", "")
+
+    row = {
+        "Datum": datum_str,
+        "Liga": liga,
+        "Typ": "Frau" if (isinstance(liga, str) and "Frau" in liga) else "Mann",
+        "Runde": game.get("runde", ""),
+        "Heim": game.get("heimMannschaft", ""),
+        "Gast": game.get("gastMannschaft", ""),
+        "Heim_Link": heim_link,
+        "Gast_Link": gast_link,
+        "Spielort_Name": spielort_name,
+        "Adresse": adresse,
+        "Latitude": lat,
+        "Longitude": lon,
+        "Quelle": weblink,
+        "link": weblink.replace("/Spielbericht/", "/"),
+    }
+    return row
+
+
+async def _fetch_and_parse(
+    session: aiohttp.ClientSession,
+    url: str,
+    semaphore: asyncio.Semaphore,
+    retries: int = 4,
+) -> Dict:
+    """Lädt eine Spielseite per HTTP und parst die JSON-Daten.
+
+    Enthält Retry-Logik: Wenn der CDN eine gekürzte Seite ohne Spieldaten
+    liefert, wird der Request mit Backoff wiederholt.
+    """
+    for attempt in range(1, retries + 1):
+        try:
+            async with semaphore:
+                async with session.get(url, timeout=aiohttp.ClientTimeout(total=20)) as resp:
+                    if resp.status != 200:
+                        raise aiohttp.ClientError(f"HTTP {resp.status}")
+                    html = await resp.text()
+                # Kleine Pause innerhalb des Semaphors, um Burst-Traffic zu vermeiden
+                await asyncio.sleep(0.15)
+            row = _parse_game(html, url)
+            # Wenn Spieldaten fehlen (CDN hat gekürzte Seite geliefert) → retry
+            if "error" in row and attempt < retries:
+                await asyncio.sleep(2.0 * attempt)
+                continue
+            return row
+        except Exception as e:
+            if attempt == retries:
+                return {
+                    "Datum": None, "Liga": None, "Typ": None, "Runde": None,
+                    "Heim": None, "Gast": None, "Heim_Link": None, "Gast_Link": None,
+                    "Spielort_Name": None, "Adresse": None, "Latitude": None, "Longitude": None,
+                    "Quelle": url, "link": url.replace("/Spielbericht/", "/"),
+                    "error": f"HTTP-Fehler ({attempt}/{retries}): {e}",
+                }
+            await asyncio.sleep(1.5 * attempt)
+
 
 # ============== Controller ==============
 
 def normalize_link(u: str) -> str:
     return (u or "").replace("/Spielbericht/", "/")
+
 
 def load_links(input_csv: str) -> List[str]:
     df = pd.read_csv(input_csv, encoding="utf-8-sig")
@@ -225,12 +205,46 @@ def load_links(input_csv: str) -> List[str]:
     links = [normalize_link(x) for x in df["href"].astype(str).tolist()]
     return links
 
+
+async def _run_async(
+    todo: List[str],
+    results: List[dict],
+    have: set,
+    links_all: List[str],
+    out_csv: str,
+    max_workers: int,
+    flush_every: int,
+) -> None:
+    semaphore = asyncio.Semaphore(max_workers)
+    connector = aiohttp.TCPConnector(limit=max_workers, limit_per_host=max_workers)
+    completed_since_flush = 0
+
+    def write_out():
+        pd.DataFrame(results).to_csv(out_csv, index=False, encoding="utf-8-sig", sep=";")
+        print(f"Zwischenspeicher: {len(results)} Einträge -> {out_csv}", flush=True)
+
+    async with aiohttp.ClientSession(headers=_HEADERS, connector=connector) as session:
+        tasks = [_fetch_and_parse(session, url, semaphore) for url in todo]
+        for coro in asyncio.as_completed(tasks):
+            row = await coro
+            link = row.get("link", "")
+            results.append(row)
+            have.add(link)
+            completed_since_flush += 1
+            print(f"Fertig: {link}  ({len(have)}/{len(links_all)})", flush=True)
+            if completed_since_flush >= flush_every:
+                write_out()
+                completed_since_flush = 0
+
+    write_out()
+
+
 def run_parallel(
     input_csv: str,
     out_csv: str,
-    max_workers: int = 6,
-    flush_every: int = 25,
-    headless: bool = True,
+    max_workers: int = 10,
+    flush_every: int = 50,
+    headless: bool = True,  # kept for CLI compat, unused now
 ) -> None:
 
     # 1) Links laden
@@ -249,70 +263,12 @@ def run_parallel(
     todo = [l for l in links_all if l not in have]
     if not todo:
         print("Alles erledigt – keine neuen Links.", flush=True)
-        # trotzdem sicherstellen, dass Datei existiert:
         if not os.path.exists(out_csv):
             pd.DataFrame(results).to_csv(out_csv, index=False, encoding="utf-8-sig", sep=";")
         return
 
-    # 4) Chromedriver nur einmal installieren
-    driver_path = ChromeDriverManager().install()
-
-    print(f"Starte parallel: {len(todo)} Seiten, max_workers={max_workers}", flush=True)
-    completed_since_flush = 0
-
-    def write_out():
-        pd.DataFrame(results).to_csv(out_csv, index=False, encoding="utf-8-sig", sep=";")
-        print(f"Zwischenspeicher: {len(results)} Einträge -> {out_csv}", flush=True)
-
-    # Thread-lokale Driver wiederverwenden statt pro Link neu zu starten
-    tls = threading.local()
-    all_drivers = []
-    drv_lock = threading.Lock()
-
-    def get_driver():
-        if not hasattr(tls, 'driver') or tls.driver is None:
-            d = open_driver(driver_path, headless)
-            tls.driver = d
-            with drv_lock:
-                all_drivers.append(d)
-        return tls.driver
-
-    def worker(link):
-        driver = get_driver()
-        try:
-            return mine_game(link, driver)
-        except WebDriverException:
-            with contextlib.suppress(Exception):
-                driver.quit()
-            tls.driver = None
-            return {"Quelle": link, "link": link, "error": "WebDriver crashed"}
-
-    try:
-        with ThreadPoolExecutor(max_workers=max_workers) as ex:
-            future_map = {ex.submit(worker, link): link for link in todo}
-            for fut in as_completed(future_map):
-                link = future_map[fut]
-                try:
-                    row = fut.result()
-                except Exception as e:
-                    row = {"Quelle": link, "link": link, "error": f"FutureException: {e}"}
-                results.append(row)
-                have.add(row.get("link", link))
-                completed_since_flush += 1
-
-                print(f"Fertig: {link}  ({len(have)}/{len(links_all)})", flush=True)
-
-                if completed_since_flush >= flush_every:
-                    write_out()
-                    completed_since_flush = 0
-    finally:
-        for d in all_drivers:
-            with contextlib.suppress(Exception):
-                d.quit()
-        print(f"[EXIT] {len(all_drivers)} WebDriver beendet.", flush=True)
-
-    # final write
-    write_out()
+    print(f"Starte async: {len(todo)} Seiten, max_workers={max_workers}", flush=True)
+    asyncio.run(_run_async(todo, results, have, links_all, out_csv, max_workers, flush_every))
     print(f"Fertig! Gesamt: {len(results)} Einträge -> {out_csv}", flush=True)
 
 # ============== CLI ==============
@@ -325,9 +281,9 @@ def main():
                         help="Ausgabe-Ordner (Datei 'spiel_infos.csv' wird dort angelegt).")
     parser.add_argument("--outfile", dest="out_file", default=None,
                         help="Optional: expliziter Ausgabedateiname (überschreibt --out).")
-    parser.add_argument("--workers", type=int, default=10, help="Maximale Parallelität.")
-    parser.add_argument("--flush-every", type=int, default=25, help="Nach wie vielen Ergebnissen Zwischen-Speichern.")
-    parser.add_argument("--no-headless", action="store_true", help="Nicht headless (Debug).")
+    parser.add_argument("--workers", type=int, default=10, help="Maximale Parallelität (async HTTP-Requests).")
+    parser.add_argument("--flush-every", type=int, default=50, help="Nach wie vielen Ergebnissen Zwischen-Speichern.")
+    parser.add_argument("--no-headless", action="store_true", help="Ignoriert (kein Browser mehr nötig).")
 
     args = parser.parse_args()
 

@@ -1,23 +1,24 @@
+"""fminer – Sammelt Spiel-Links aus ÖFB-Spielplan-Seiten via REST-API.
+
+Liest Spielplan-URLs aus results/spielplan_urls.csv, holt pro Bewerb
+alle Runden über die REST-API und extrahiert die Spiel-/Spielbericht-Links
+nach results/fminer/oefb_links_gesamt.csv.
+
+Benötigt: aiohttp, pandas (optional für Analyse).
+"""
+
+import asyncio
 import csv
+import json
 import os
+import re
 import sys
 import time
-import random
-import contextlib
-from dataclasses import dataclass
+import urllib.parse
 from pathlib import Path
-from typing import Iterable, List, Tuple, Set, Optional
-import threading
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import List, Set, Tuple
 
-from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, WebDriverException
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
+import aiohttp
 
 # =========================
 # Konfiguration
@@ -25,93 +26,45 @@ from webdriver_manager.chrome import ChromeDriverManager
 DEFAULT_OUTFILE = "oefb_links_gesamt.csv"
 DEFAULT_SPIELPLAN_CSV = os.path.join(os.path.dirname(__file__), "results", "spielplan_urls.csv")
 
+_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/131.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "de-DE,de;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
-def load_urls_from_csv(csv_path: str) -> List[str]:
+_API_ACCEPT_HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+}
+
+_MAX_WORKERS = 10          # parallele API-Aufrufe
+_DELAY_BETWEEN = 0.12      # Sekunden zwischen API-Anfragen
+_API_TIMEOUT = 30           # Sekunden Timeout pro Request
+_MAX_RETRIES = 3            # Wiederholungsversuche
+
+# =========================
+# CSV-Helfer
+# =========================
+
+def load_urls_from_csv(csv_path: str) -> List[dict]:
     """Liest Spielplan-URLs aus der von mine_spielplan_urls.py erzeugten CSV."""
-    urls: List[str] = []
+    rows: List[dict] = []
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
             link = (row.get("link") or "").strip()
             if link:
-                urls.append(link)
-    print(f"[CSV] {len(urls)} Spielplan-URLs aus {csv_path} geladen.")
-    return urls
-
-
-@dataclass
-class ScrapeResult:
-    url: str
-    items: List[Tuple[str, str]]  # (text, href)
-
-
-# =========================
-# Setup & Utilities
-# =========================
-def make_driver(headless: bool = True, page_load_timeout: int = 60) -> webdriver.Chrome:
-    chrome_options = Options()
-    chrome_bin = os.environ.get("CHROME_BIN") or os.environ.get("GOOGLE_CHROME_SHIM")
-    if chrome_bin:
-        chrome_options.binary_location = chrome_bin
-    if headless:
-        chrome_options.add_argument("--headless=new")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    chrome_options.add_argument("--remote-allow-origins=*")
-    chrome_options.add_argument("--lang=de-DE,de")
-    chrome_options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari")
-
-    print("[INIT] Chrome WebDriver wird gestartet …")
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    driver.set_page_load_timeout(page_load_timeout)
-    print("[INIT] Chrome WebDriver bereit.")
-    return driver
-
-
-def wait_for_schedule_table(driver: webdriver.Chrome, url: str = "", timeout: int = 30) -> None:
-    tag = f" ({url.split('?')[-1]})" if url else ""
-    print(f"[WAIT]{tag} Warte bis 'schedule_table' geladen ist (Timeout {timeout}s) \u2026")
-    WebDriverWait(driver, timeout).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, "div.schedule_table"))
-    )
-    print(f"[WAIT]{tag} 'schedule_table' gefunden.")
-
-
-def collect_links_from_page(driver: webdriver.Chrome, source_url: str) -> List[Tuple[str, str, str, str]]:
-    print(f"[SCRAPE] Sammle Links von Seite: {source_url}")
-    link_elements = driver.find_elements(By.CSS_SELECTOR, "div.schedule_table a[href]")
-    out: List[Tuple[str, str, str, str]] = []
-    seen_local: Set[str] = set()
-    now_iso = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-
-    print(f"[SCRAPE] {len(link_elements)} Link-Elemente gefunden. Filtere …")
-
-    for el in link_elements:
-        href = el.get_attribute("href") or ""
-        # Änderung: '/Spielbericht/' entfernen
-        href = href.replace("/Spielbericht/", "/")
-        text = (el.text or "").strip()
-        if not href or href in seen_local:
-            continue
-        if "verein" in href.lower():
-            continue
-        if "oefb.at" not in href:
-            continue
-        if "/Spielplan/" in href or "/Bewerb/" in href:
-            continue
-        seen_local.add(href)
-        out.append((text, href, source_url, now_iso))
-    print(f"[SCRAPE] {len(out)} gültige Links gesammelt (nach Filterung).")
-    return out
+                rows.append(row)
+    print(f"[CSV] {len(rows)} Spielplan-URLs aus {csv_path} geladen.")
+    return rows
 
 
 def load_existing_hrefs(csv_path: Path) -> Set[str]:
     existing: Set[str] = set()
     if not csv_path.exists():
-        print(f"[CSV] {csv_path} existiert noch nicht, keine bestehenden Links geladen.")
         return existing
     try:
         with open(csv_path, "r", newline="", encoding="utf-8") as f:
@@ -123,177 +76,207 @@ def load_existing_hrefs(csv_path: Path) -> Set[str]:
         print(f"[CSV] {len(existing)} bestehende hrefs aus {csv_path} geladen.")
     except Exception as e:
         print(f"[WARN] Konnte bestehende CSV nicht lesen: {e}")
-        return set()
     return existing
 
 
 def ensure_csv_with_header(csv_path: Path) -> None:
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     if not csv_path.exists() or csv_path.stat().st_size == 0:
-        print(f"[CSV] Neue Datei mit Header wird erstellt: {csv_path}")
         with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            writer.writerow(["href", "source_url", "first_seen_utc"])
-    else:
-        print(f"[CSV] Datei {csv_path} existiert bereits – Header bleibt unverändert.")
+            csv.writer(f).writerow(["href", "source_url", "first_seen_utc"])
 
 
-def append_row_immediate(fh, writer: csv.writer, row: Tuple[str, str, str]) -> None:
-    writer.writerow(row)
-    fh.flush()
-    print(f"[WRITE] Neuer Eintrag: {row[0]}")
+# =========================
+# API-Helfer
+# =========================
+
+def _extract_bewerb_id(url: str) -> str | None:
+    """Extrahiert die Bewerb-ID aus einer wfv.at-URL."""
+    m = re.search(r"/Bewerb/(?:Spielplan/)?(\d+)", url)
+    return m.group(1) if m else None
 
 
-@contextlib.contextmanager
-def file_lock(lock_path: Path, wait_secs: int = 30):
-    start = time.time()
-    print(f"[LOCK] Warte auf Lock-Datei: {lock_path}")
-    while lock_path.exists():
-        if time.time() - start > wait_secs:
+async def _get_page_config(session: aiohttp.ClientSession, page_url: str) -> Tuple[str, str, str]:
+    """Holt Proxy-Pfad und Project-OID aus einer Spielplan-Seite."""
+    spielplan_url = page_url.replace("/Bewerb/", "/Bewerb/Spielplan/", 1) if "/Spielplan/" not in page_url else page_url
+    async with session.get(spielplan_url, timeout=aiohttp.ClientTimeout(total=_API_TIMEOUT)) as resp:
+        html = await resp.text()
+
+    parsed = urllib.parse.urlparse(spielplan_url)
+    base_url = f"{parsed.scheme}://{parsed.netloc}"
+
+    proxy_match = re.search(r'"path"\s*:\s*"(/proxy/[^"]+)"', html)
+    proxy_path = proxy_match.group(1) if proxy_match else "/proxy/wfv3"
+
+    project_match = re.search(r'"oid"\s*:\s*"(\d+)"', html)
+    project_oid = project_match.group(1) if project_match else ""
+
+    return base_url, proxy_path, project_oid
+
+
+def _build_api_url(base_url: str, proxy_path: str, project_oid: str, bewerb_id: str, runde: int) -> str:
+    internal = (
+        f"http://portale-datenservice:8080/datenservice/rest/oefb/spielbetrieb/"
+        f"spielplanBewerbByPublicUid/{bewerb_id};runde={runde}"
+    )
+    cache_key = f"spielbetrieb_spielplanBewerbByPublicUid_{bewerb_id}_{runde}"
+    return f"{base_url}{proxy_path}/{project_oid}_{cache_key}?proxyUrl={urllib.parse.quote(internal, safe='')}"
+
+
+def _extract_links_from_entries(entries: list) -> List[str]:
+    """Extrahiert oefb.at-Spiellinks aus spiele/ergebnisse-Einträgen."""
+    links: list[str] = []
+    for entry in entries:
+        for link_obj in entry.get("links", []):
+            link = link_obj.get("link", "")
+            if link and "/bewerbe/" in link.lower():
+                # /Spielbericht/ => / normalisieren
+                link = link.replace("/Spielbericht/", "/")
+                links.append(link)
+    return links
+
+
+async def _fetch_bewerb_links(
+    session: aiohttp.ClientSession,
+    base_url: str,
+    proxy_path: str,
+    project_oid: str,
+    bewerb_id: str,
+    sem: asyncio.Semaphore,
+) -> List[str]:
+    """Holt alle Spiel-Links für einen Bewerb über alle Runden."""
+    all_links: list[str] = []
+    timeout = aiohttp.ClientTimeout(total=_API_TIMEOUT)
+
+    async def fetch_json(url: str) -> dict | None:
+        for attempt in range(1, _MAX_RETRIES + 1):
             try:
-                if time.time() - lock_path.stat().st_mtime > 3600:
-                    lock_path.unlink(missing_ok=True)
-                    print("[LOCK] Alte Lock-Datei entfernt (älter als 1h).")
-                    break
-            except Exception:
-                pass
-            time.sleep(1)
-        else:
-            time.sleep(0.5)
-    try:
-        lock_path.write_text(str(os.getpid()))
-        print("[LOCK] Lock gesetzt.")
-    except Exception:
-        pass
-    try:
-        yield
-    finally:
-        with contextlib.suppress(Exception):
-            lock_path.unlink(missing_ok=True)
-            print("[LOCK] Lock entfernt.")
+                async with sem:
+                    async with session.get(url, timeout=timeout, headers=_API_ACCEPT_HEADERS) as resp:
+                        return await resp.json(content_type=None)
+            except Exception as e:
+                if attempt == _MAX_RETRIES:
+                    print(f"[WARN] API-Fehler nach {_MAX_RETRIES} Versuchen für {bewerb_id}: {e}", file=sys.stderr)
+                    return None
+                await asyncio.sleep(1.0 * attempt)
+
+    # Runde 0 = aktuelle Woche, gleichzeitig Runden-Liste holen
+    url0 = _build_api_url(base_url, proxy_path, project_oid, bewerb_id, 0)
+    data = await fetch_json(url0)
+    if not data:
+        return []
+
+    runden = data.get("runden", [])
+    all_links.extend(_extract_links_from_entries(data.get("spiele", [])))
+    all_links.extend(_extract_links_from_entries(data.get("ergebnisse", [])))
+
+    # Verbleibende Runden sequenziell abrufen (schont den Server)
+    for runde_info in runden:
+        runde_nr = runde_info.get("runde", 0)
+        url = _build_api_url(base_url, proxy_path, project_oid, bewerb_id, runde_nr)
+        rdata = await fetch_json(url)
+        if rdata:
+            all_links.extend(_extract_links_from_entries(rdata.get("spiele", [])))
+            all_links.extend(_extract_links_from_entries(rdata.get("ergebnisse", [])))
+        await asyncio.sleep(_DELAY_BETWEEN)
+
+    # Deduplizieren, Reihenfolge beibehalten
+    return list(dict.fromkeys(all_links))
 
 
 # =========================
-# Kernlogik (Streaming)
+# Hauptlogik
 # =========================
-def safe_get(driver: webdriver.Chrome, url: str, attempts: int = 3) -> None:
-    for i in range(1, attempts + 1):
-        try:
-            print(f"[NAV] Öffne URL (Versuch {i}/{attempts}): {url}")
-            driver.get(url)
-            return
-        except (TimeoutException, WebDriverException) as e:
-            print(f"[WARN] get({url}) Versuch {i}/{attempts} fehlgeschlagen: {e}", file=sys.stderr)
-            if i == attempts:
-                raise
-            time.sleep(1.5 * i)
 
-
-def click_more_until_stable(driver: webdriver.Chrome, max_clicks: int = 10_000) -> None:
-    clicks = 0
-    print("[CLICK] Suche nach 'Mehr'-Buttons …")
-    while clicks < max_clicks:
-        try:
-            btn = WebDriverWait(driver, 2).until(
-                EC.element_to_be_clickable(
-                    (By.XPATH,
-                     "//button[contains(., 'Mehr') or contains(., 'Load') or contains(., 'Show') or contains(., 'Weitere')]")
-                )
-            )
-            btn.click()
-            clicks += 1
-            print(f"[CLICK] 'Mehr'-Button geklickt ({clicks}).")
-            time.sleep(0.3 + random.random() * 0.2)
-        except TimeoutException:
-            print("[CLICK] Keine weiteren Buttons gefunden.")
-            break
-        except StaleElementReferenceException:
-            time.sleep(0.5)
-            continue
-
-
-def ensure_spielplan_url(url: str) -> str:
-    """Stellt sicher, dass die URL auf den Spielplan-Tab zeigt, nicht auf die Standard-Ansicht."""
-    if "/Bewerb/" in url and "/Spielplan/" not in url:
-        return url.replace("/Bewerb/", "/Bewerb/Spielplan/", 1)
-    return url
-
-
-def scrape_multiple_urls_streaming(urls: Iterable[str], outfile: Path, headless: bool = True, already_seen: Optional[Set[str]] = None, max_workers: int = 4) -> None:
-    csv_path = Path(outfile)
-    ensure_csv_with_header(csv_path)
+async def scrape_all(
+    urls: List[dict],
+    outfile: Path,
+    already_seen: Set[str] | None = None,
+    max_workers: int = _MAX_WORKERS,
+) -> None:
+    ensure_csv_with_header(outfile)
     global_seen: Set[str] = set(already_seen or set())
+    sem = asyncio.Semaphore(max_workers)
 
-    local = threading.local()
-    drivers: list = []
-    drivers_lock = threading.Lock()
+    conn = aiohttp.TCPConnector(limit=max_workers + 5)
+    async with aiohttp.ClientSession(headers=_HEADERS, connector=conn) as session:
+        # Proxy-Konfiguration von erster Seite holen
+        first_link = urls[0]["link"].strip()
+        base_url, proxy_path, project_oid = await _get_page_config(session, first_link)
+        print(f"[CONFIG] Base={base_url}  Proxy={proxy_path}  OID={project_oid}")
 
-    def get_driver():
-        if not hasattr(local, 'driver') or local.driver is None:
-            d = make_driver(headless=headless)
-            local.driver = d
-            with drivers_lock:
-                drivers.append(d)
-        return local.driver
+        if not project_oid:
+            print("[FEHLER] Keine Project-OID gefunden – Abbruch.", file=sys.stderr)
+            return
 
-    def process_url(url: str):
-        driver = get_driver()
-        spielplan_url = ensure_spielplan_url(url)
-        tag = url.split('?')[-1] if '?' in url else url.split('/')[-1]
-        try:
-            safe_get(driver, spielplan_url, attempts=3)
-            wait_for_schedule_table(driver, url=spielplan_url, timeout=45)
-            click_more_until_stable(driver)
-            return url, collect_links_from_page(driver, source_url=url)
-        except Exception as e:
-            print(f"[FEHLER] {tag}: {e}", file=sys.stderr)
-            return url, []
+        now_iso = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 
-    try:
-        lock_path = csv_path.with_suffix(csv_path.suffix + ".lock")
-        with file_lock(lock_path):
-            with open(csv_path, "a", newline="", encoding="utf-8") as fh:
-                writer = csv.writer(fh)
-                url_list = list(urls)
-                with ThreadPoolExecutor(max_workers=max_workers) as ex:
-                    futures = {ex.submit(process_url, url): url for url in url_list}
-                    for fut in as_completed(futures):
-                        try:
-                            url, items = fut.result()
-                        except Exception as e:
-                            print(f"[FEHLER] {futures[fut]}: {e}", file=sys.stderr)
-                            continue
-                        new_count = 0
-                        for _, href, src, ts in items:
-                            if href not in global_seen:
-                                global_seen.add(href)
-                                writer.writerow((href, src, ts))
-                                new_count += 1
-                        if new_count:
-                            fh.flush()
-                        print(f"[DONE] {url}: {new_count} neue Links")
-    finally:
-        for d in drivers:
-            with contextlib.suppress(Exception):
-                d.quit()
-        print(f"[EXIT] {len(drivers)} WebDriver beendet.")
+        # Alle Bewerbe parallel abrufen (Semaphore begrenzt Gleichzeitigkeit)
+        async def fetch_one(row: dict) -> Tuple[str, List[str]]:
+            link = row["link"].strip()
+            bewerb_id = _extract_bewerb_id(link)
+            if not bewerb_id:
+                return link, []
+            return link, await _fetch_bewerb_links(
+                session, base_url, proxy_path, project_oid, bewerb_id, sem
+            )
+
+        tasks = [fetch_one(row) for row in urls]
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+
+        total_new = 0
+        with open(outfile, "a", newline="", encoding="utf-8") as fh:
+            writer = csv.writer(fh)
+
+            for i, result in enumerate(results, 1):
+                if isinstance(result, Exception):
+                    tag = urls[i - 1]["link"].split("?")[-1]
+                    print(f"[FEHLER] {tag}: {result}", file=sys.stderr)
+                    continue
+
+                link, links = result
+                tag = link.split("?")[-1] if "?" in link else link
+
+                new_count = 0
+                for href in links:
+                    if href not in global_seen:
+                        global_seen.add(href)
+                        writer.writerow((href, link, now_iso))
+                        new_count += 1
+
+                total_new += new_count
+                print(f"[{i}/{len(urls)}] {tag}: {len(links)} Links ({new_count} neu)")
+
+            fh.flush()
+
+    print(f"[FERTIG] {total_new} neue Links gesamt → {outfile}")
 
 
 # =========================
-# CLI-Einstiegspunkt
+# CLI
 # =========================
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Sammelt Links aus mehreren ÖFB-Planungsseiten und schreibt sie in Echtzeit ins CSV.")
-    parser.add_argument("--csv", default=DEFAULT_SPIELPLAN_CSV,
-                        help="Pfad zur spielplan_urls.csv (Standard: results/spielplan_urls.csv)")
+
+    parser = argparse.ArgumentParser(
+        description="Sammelt Spiel-Links aus ÖFB-Spielplänen via REST-API."
+    )
+    parser.add_argument(
+        "--csv", default=DEFAULT_SPIELPLAN_CSV,
+        help="Pfad zur spielplan_urls.csv (Standard: results/spielplan_urls.csv)",
+    )
     parser.add_argument("--outfile", default=None)
     parser.add_argument("--out", default="results/fminer")
-    parser.add_argument("--no-headless", action="store_true")
-    parser.add_argument("--workers", type=int, default=4, help="Anzahl paralleler Browser-Instanzen.")
+    parser.add_argument(
+        "--workers", type=int, default=_MAX_WORKERS,
+        help=f"Max. parallele API-Anfragen (Standard: {_MAX_WORKERS}).",
+    )
     args = parser.parse_args()
 
     urls = load_urls_from_csv(args.csv)
+    if not urls:
+        print("[FEHLER] Keine URLs gefunden – Abbruch.", file=sys.stderr)
+        sys.exit(1)
 
     if args.outfile:
         out_path = Path(args.outfile)
@@ -305,13 +288,4 @@ if __name__ == "__main__":
     existing_hrefs = load_existing_hrefs(out_path)
     print(f"[INFO] Resume: {len(existing_hrefs)} vorhandene Links werden übersprungen.")
 
-    print("[MAIN] Starte Scraping-Prozess …")
-    scrape_multiple_urls_streaming(
-        urls,
-        outfile=out_path,
-        headless=not args.no_headless,
-        already_seen=existing_hrefs,
-        max_workers=max(1, args.workers),
-    )
-
-    print("[MAIN] Fertig.")
+    asyncio.run(scrape_all(urls, out_path, already_seen=existing_hrefs, max_workers=args.workers))
