@@ -2,7 +2,7 @@ name: "01_fminer"
 
 on:
   schedule:
-    - cron: "0 22 * * 3"  
+    - cron: "0 4 * * *"  
   workflow_dispatch:
 
 permissions:
