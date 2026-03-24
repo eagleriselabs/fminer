@@ -288,7 +288,7 @@ if __name__ == "__main__":
     parser.add_argument("--csv", default=DEFAULT_SPIELPLAN_CSV,
                         help="Pfad zur spielplan_urls.csv (Standard: results/spielplan_urls.csv)")
     parser.add_argument("--outfile", default=None)
-    parser.add_argument("--out", default=None)
+    parser.add_argument("--out", default="results/fminer")
     parser.add_argument("--no-headless", action="store_true")
     parser.add_argument("--workers", type=int, default=4, help="Anzahl paralleler Browser-Instanzen.")
     args = parser.parse_args()
