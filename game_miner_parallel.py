@@ -1,3 +1,4 @@
+import hashlib
 import os
 import sys
 import json
@@ -5,11 +6,71 @@ import time
 import re
 import asyncio
 import argparse
+import urllib.parse
 from datetime import datetime, timezone
 from typing import Optional, List, Dict
 
 import pandas as pd
 import aiohttp
+
+# ============== Anubis PoW ==============
+
+def _solve_anubis_pow(random_data: str, difficulty: int) -> tuple[str, int]:
+    """Löst das Anubis Proof-of-Work-Challenge per SHA-256."""
+    full_bytes = difficulty // 2
+    half_nibble = difficulty % 2 != 0
+    nonce = 0
+    while True:
+        digest = hashlib.sha256((random_data + str(nonce)).encode("utf-8")).digest()
+        ok = all(digest[i] == 0 for i in range(full_bytes))
+        if ok and half_nibble:
+            ok = (digest[full_bytes] >> 4) == 0
+        if ok:
+            return digest.hex(), nonce
+        nonce += 1
+
+
+async def _solve_anubis_for_session(
+    session: aiohttp.ClientSession,
+    test_url: str,
+) -> None:
+    """Löst einmalig den Anubis-Challenge für die gegebene Domain.
+
+    Nach erfolgreicher Lösung enthält die Session ein Cookie, das für alle
+    nachfolgenden Requests gegen dieselbe Domain gilt.
+    """
+    async with session.get(test_url, timeout=aiohttp.ClientTimeout(total=20)) as resp:
+        html = await resp.text()
+        base = f"{resp.url.scheme}://{resp.url.host}"
+
+    if "anubis_challenge" not in html:
+        return  # Kein Challenge – Session bereits gültig
+
+    m = re.search(r'<script id="anubis_challenge"[^>]*>([\s\S]*?)</script>', html)
+    if not m:
+        print("[ANUBIS] Challenge-Block nicht parsebar.", flush=True)
+        return
+
+    anubis = json.loads(m.group(1).strip())
+    challenge = anubis["challenge"]
+    rules = anubis["rules"]
+    print(f"[ANUBIS] Challenge für {base} (Schwierigkeit={rules['difficulty']}), löse PoW...", flush=True)
+    t0 = time.time()
+    hash_hex, nonce = _solve_anubis_pow(challenge["randomData"], rules["difficulty"])
+    elapsed = int((time.time() - t0) * 1000)
+    print(f"[ANUBIS] Gelöst in {elapsed}ms (nonce={nonce})", flush=True)
+
+    params = urllib.parse.urlencode({
+        "id": challenge["id"],
+        "response": hash_hex,
+        "nonce": str(nonce),
+        "redir": test_url,
+        "elapsedTime": str(elapsed),
+    })
+    solve_url = f"{base}/.within.website/x/cmd/anubis/api/pass-challenge?{params}"
+    async with session.get(solve_url, timeout=aiohttp.ClientTimeout(total=20)) as _:
+        pass
+
 
 # ============== Konstanten ==============
 
@@ -224,6 +285,9 @@ async def _run_async(
         print(f"Zwischenspeicher: {len(results)} Einträge -> {out_csv}", flush=True)
 
     async with aiohttp.ClientSession(headers=_HEADERS, connector=connector) as session:
+        # Einmalig Anubis-Challenge lösen (Cookie gilt für alle nachfolgenden Requests)
+        await _solve_anubis_for_session(session, todo[0])
+
         tasks = [_fetch_and_parse(session, url, semaphore) for url in todo]
         for coro in asyncio.as_completed(tasks):
             row = await coro

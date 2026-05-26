@@ -9,6 +9,7 @@ Benötigt: aiohttp, pandas (optional für Analyse).
 
 import asyncio
 import csv
+import hashlib
 import json
 import os
 import re
@@ -96,11 +97,61 @@ def _extract_bewerb_id(url: str) -> str | None:
     return m.group(1) if m else None
 
 
-async def _get_page_config(session: aiohttp.ClientSession, page_url: str) -> Tuple[str, str, str]:
-    """Holt Proxy-Pfad und Project-OID aus einer Spielplan-Seite."""
+def _solve_anubis_pow(random_data: str, difficulty: int) -> tuple[str, int]:
+    """Löst das Anubis Proof-of-Work-Challenge per SHA-256."""
+    full_bytes = difficulty // 2
+    half_nibble = difficulty % 2 != 0
+    nonce = 0
+    while True:
+        digest = hashlib.sha256((random_data + str(nonce)).encode("utf-8")).digest()
+        ok = all(digest[i] == 0 for i in range(full_bytes))
+        if ok and half_nibble:
+            ok = (digest[full_bytes] >> 4) == 0
+        if ok:
+            return digest.hex(), nonce
+        nonce += 1
+
+
+async def _get_page_config(session: aiohttp.ClientSession, page_url: str) -> tuple[str, str, str]:
+    """Holt Proxy-Pfad und Project-OID aus einer Spielplan-Seite.
+
+    Löst automatisch einen Anubis-Botschutz-Challenge (Proof-of-Work),
+    falls die Seite einen solchen liefert.
+    """
     spielplan_url = page_url.replace("/Bewerb/", "/Bewerb/Spielplan/", 1) if "/Spielplan/" not in page_url else page_url
-    async with session.get(spielplan_url, timeout=aiohttp.ClientTimeout(total=_API_TIMEOUT)) as resp:
-        html = await resp.text()
+
+    for attempt in range(2):
+        async with session.get(spielplan_url, timeout=aiohttp.ClientTimeout(total=_API_TIMEOUT)) as resp:
+            html = await resp.text()
+            resp_base = f"{resp.url.scheme}://{resp.url.host}"
+
+        if "anubis_challenge" in html:
+            if attempt > 0:
+                print("[WARN] Anubis-Challenge nach Lösung immer noch aktiv.", file=sys.stderr)
+                break
+            m = re.search(r'<script id="anubis_challenge"[^>]*>([\s\S]*?)</script>', html)
+            if not m:
+                break
+            anubis = json.loads(m.group(1).strip())
+            challenge = anubis["challenge"]
+            rules = anubis["rules"]
+            print(f"[ANUBIS] Challenge erkannt (Schwierigkeit={rules['difficulty']}), löse PoW...")
+            t0 = time.time()
+            hash_hex, nonce = _solve_anubis_pow(challenge["randomData"], rules["difficulty"])
+            elapsed = int((time.time() - t0) * 1000)
+            print(f"[ANUBIS] Gelöst in {elapsed}ms (nonce={nonce})")
+            params = urllib.parse.urlencode({
+                "id": challenge["id"],
+                "response": hash_hex,
+                "nonce": str(nonce),
+                "redir": spielplan_url,
+                "elapsedTime": str(elapsed),
+            })
+            solve_url = f"{resp_base}/.within.website/x/cmd/anubis/api/pass-challenge?{params}"
+            async with session.get(solve_url, timeout=aiohttp.ClientTimeout(total=_API_TIMEOUT)) as _:
+                pass
+            continue  # Seite erneut abrufen, jetzt mit Cookie
+        break  # Keine Challenge – echte Seite erhalten
 
     parsed = urllib.parse.urlparse(spielplan_url)
     base_url = f"{parsed.scheme}://{parsed.netloc}"
