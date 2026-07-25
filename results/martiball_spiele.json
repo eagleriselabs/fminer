@@ -159199,19 +159199,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2026-09-04T17:30:00",
-      "Heimmannschaft": "FAC Wien Amat.",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
       "Spieldatum": "2026-09-04T18:00:00",
       "Heimmannschaft": "Ankerbrot",
       "Gastmannschaft": "Cro - Vienna",
@@ -159821,6 +159808,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-05T16:00:00",
+      "Heimmannschaft": "FAC Wien Amat.",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2026-09-05T16:00:00",
@@ -165075,6 +165075,19 @@
       "Longitude": 16.418322
     },
     {
+      "Spieldatum": "2026-09-07T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
+    },
+    {
       "Spieldatum": "2026-09-10T20:00:00",
       "Heimmannschaft": "DSG Südtirol 16",
       "Gastmannschaft": "DSG Latino Vienna City S.K.",
@@ -165203,19 +165216,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-09-10T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-09-10T22:22:00",
@@ -165713,6 +165713,19 @@
     },
     {
       "Spieldatum": "2026-09-12T14:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "Dsg Panda",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-09-12T14:00:00",
       "Heimmannschaft": "Triester",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -165957,6 +165970,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-09-12T16:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Rudell SKF",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-09-12T16:00:00",
@@ -171472,6 +171498,19 @@
     },
     {
       "Spieldatum": "2026-09-14T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Wolf Park Rangers",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-09-14T20:15:00",
       "Heimmannschaft": "DSG Wien Wanderers FC Sen.",
       "Gastmannschaft": "Wiener Sport - Club Sen.",
       "Typ": "Männer",
@@ -171719,19 +171758,6 @@
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Wolf Park Rangers",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Semper Victoria",
       "Typ": "Männer",
@@ -171768,19 +171794,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Rudell SKF",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
@@ -171846,19 +171859,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "Dsg Panda",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
@@ -172782,6 +172782,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-09-19T18:00:00",
+      "Heimmannschaft": "DSG Wolf Park Rangers",
+      "Gastmannschaft": "DSG Sektion Westside",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-09-19T18:00:00",
@@ -177894,6 +177907,19 @@
     },
     {
       "Spieldatum": "2026-09-21T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Eventus Wien",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-09-21T20:15:00",
       "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Gastmannschaft": "Borac Vienna Sen.",
       "Typ": "Männer",
@@ -177917,6 +177943,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-21T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "DSG Ukraina Wien SKV",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-09-22T20:15:00",
@@ -178050,32 +178089,6 @@
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Wolf Park Rangers",
-      "Gastmannschaft": "DSG Sektion Westside",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Eventus Wien",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
       "Heimmannschaft": "DSG Inter Leopoldau",
       "Gastmannschaft": "DSG Royal Rainer",
       "Typ": "Männer",
@@ -178099,19 +178112,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "DSG Ukraina Wien SKV",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
@@ -179506,6 +179506,19 @@
     },
     {
       "Spieldatum": "2026-09-27T13:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Los Andes FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-09-27T13:00:00",
       "Heimmannschaft": "DSG Royal Rainer",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
       "Typ": "Frauen",
@@ -179594,6 +179607,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-09-27T15:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Philadelphia AC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-09-27T15:00:00",
@@ -184589,19 +184615,6 @@
     },
     {
       "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Philadelphia AC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-10-01T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -184651,19 +184664,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Los Andes FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-10-01T22:22:00",
@@ -185626,6 +185626,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-10-03T19:30:00",
+      "Heimmannschaft": "DSG Wolf Park Rangers",
+      "Gastmannschaft": "DSG Torpedo Lainz",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-03T20:00:00",
@@ -190920,6 +190933,19 @@
     },
     {
       "Spieldatum": "2026-10-05T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Klosterneuburg",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-05T20:15:00",
       "Heimmannschaft": "DSV Fortuna 05 Sen.",
       "Gastmannschaft": "Wiener Sport - Club Sen.",
       "Typ": "Männer",
@@ -190943,6 +190969,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-10-05T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-10-06T20:15:00",
@@ -191102,32 +191141,6 @@
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Wolf Park Rangers",
-      "Gastmannschaft": "DSG Torpedo Lainz",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Klosterneuburg",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
       "Heimmannschaft": "DSG Inter Leopoldau",
       "Gastmannschaft": "Dsg Celtic Salmannsd.",
       "Typ": "Männer",
@@ -191151,19 +191164,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
@@ -192518,6 +192518,19 @@
       "Longitude": 16.305012
     },
     {
+      "Spieldatum": "2026-10-11T13:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "Marswiese 1b",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
       "Spieldatum": "2026-10-11T14:00:00",
       "Heimmannschaft": "Real Wien",
       "Gastmannschaft": "Wollers Komet",
@@ -192646,6 +192659,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.132162,
       "Longitude": 16.320427
+    },
+    {
+      "Spieldatum": "2026-10-11T15:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-10-11T16:00:00",
@@ -197329,19 +197355,6 @@
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Inter Leopoldau",
       "Typ": "Männer",
@@ -197404,19 +197417,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "Marswiese 1b",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
@@ -198262,6 +198262,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-10-17T17:15:00",
+      "Heimmannschaft": "DSG Wolf Park Rangers",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-17T17:15:00",
@@ -203894,6 +203907,19 @@
     },
     {
       "Spieldatum": "2026-10-19T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-19T20:15:00",
       "Heimmannschaft": "DSG Leon Guarani Sen.",
       "Gastmannschaft": "DSG Idee Sen.",
       "Typ": "Männer",
@@ -203930,6 +203956,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-19T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "DSG Going Toulouse",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-10-20T20:15:00",
@@ -204102,32 +204141,6 @@
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Wolf Park Rangers",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Südtirol 07",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Klosterneuburg",
       "Typ": "Männer",
@@ -204164,19 +204177,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "DSG Going Toulouse",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
@@ -210992,6 +210992,19 @@
     },
     {
       "Spieldatum": "2026-11-01T13:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-11-01T13:00:00",
       "Heimmannschaft": "DSG Royal Rainer",
       "Gastmannschaft": "Mariahilf 1c",
       "Typ": "Frauen",
@@ -211158,6 +211171,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-11-01T15:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Sonntag 2012",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-01T16:00:00",
@@ -211785,19 +211811,6 @@
     },
     {
       "Spieldatum": "2026-11-05T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Sonntag 2012",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-11-05T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Ukraina Wien SKV",
       "Typ": "Männer",
@@ -211834,19 +211847,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-11-05T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-05T22:22:00",
@@ -212812,6 +212812,19 @@
     },
     {
       "Spieldatum": "2026-11-07T18:00:00",
+      "Heimmannschaft": "DSG Wolf Park Rangers",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-11-07T18:00:00",
       "Heimmannschaft": "DSG Los Andes FC",
       "Gastmannschaft": "FC Hernalser Spartans",
       "Typ": "Frauen",
@@ -213121,6 +213134,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-11-08T15:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-08T15:00:00",
@@ -217778,6 +217804,19 @@
     },
     {
       "Spieldatum": "2026-11-09T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Torpedo Lainz",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-11-09T20:15:00",
       "Heimmannschaft": "Marianum Sen.",
       "Gastmannschaft": "Wiener Sport - Club Sen.",
       "Typ": "Männer",
@@ -217827,6 +217866,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-11-09T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "DSG Rudell SKF",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-11-10T20:15:00",
@@ -217999,32 +218051,6 @@
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Wolf Park Rangers",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Torpedo Lainz",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Südtirol 07",
       "Typ": "Männer",
@@ -218051,19 +218077,6 @@
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "DSG Rudell SKF",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
       "Heimmannschaft": "DSG Sonntag 2012",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -218087,19 +218100,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
@@ -224966,6 +224966,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-11-21T19:30:00",
+      "Heimmannschaft": "DSG Wolf Park Rangers",
+      "Gastmannschaft": "DSG SUSA Vienna",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-11-21T19:45:00",
       "Heimmannschaft": "RB Jedlesee",
       "Gastmannschaft": "Bozok Wien",
@@ -225224,6 +225237,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-11-22T15:00:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Going Toulouse",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-22T15:00:00",
@@ -229685,6 +229711,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-11-23T20:15:00",
+      "Heimmannschaft": "Dsg Cover - Direct SC",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-11-26T22:22:00",
       "Heimmannschaft": "DSG Aurora Athletics",
       "Gastmannschaft": "DSG Union Latina",
@@ -229764,32 +229803,6 @@
     },
     {
       "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "DSG Wolf Park Rangers",
-      "Gastmannschaft": "DSG SUSA Vienna",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "Dsg Cover - Direct SC",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Torpedo Lainz",
       "Typ": "Männer",
@@ -229839,19 +229852,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Going Toulouse",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-11-26T22:22:00",
@@ -232545,6 +232545,19 @@
       "Longitude": 16.303975
     },
     {
+      "Spieldatum": "2026-11-30T20:30:00",
+      "Heimmannschaft": "DSG Philadelphia AC",
+      "Gastmannschaft": "DSG Inter Leopoldau",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
+    },
+    {
       "Spieldatum": "2026-12-02T19:30:00",
       "Heimmannschaft": "DSG SUSA Vienna",
       "Gastmannschaft": "Dsg Cover - Direct SC",
@@ -232634,19 +232647,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-12-03T22:22:00",
-      "Heimmannschaft": "DSG Philadelphia AC",
-      "Gastmannschaft": "DSG Inter Leopoldau",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-12-03T22:22:00",
