@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -160042,6 +160042,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-09-05T19:15:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "Dsg Cover - Direct SC",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-09-05T19:30:00",
@@ -165258,19 +165271,6 @@
     },
     {
       "Spieldatum": "2026-09-10T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "Dsg Cover - Direct SC",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-09-10T22:22:00",
       "Heimmannschaft": "DSG Union Latina",
       "Gastmannschaft": "Dsg Neulandschule",
       "Typ": "Männer",
@@ -165973,6 +165973,19 @@
     },
     {
       "Spieldatum": "2026-09-12T16:00:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-09-12T16:00:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "DSG Rudell SKF",
       "Typ": "Männer",
@@ -166217,6 +166230,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-12T18:00:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve B",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-09-12T18:00:00",
@@ -171784,19 +171810,6 @@
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
@@ -171859,19 +171872,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve B",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
@@ -172577,6 +172577,19 @@
     },
     {
       "Spieldatum": "2026-09-19T16:00:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "DSG Hernalser Spartans FC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-19T16:00:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "Paulaner Wieden",
       "Typ": "Frauen",
@@ -172925,6 +172938,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-20T10:00:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Lokomotive Traisen FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-09-20T10:00:00",
@@ -177985,19 +178011,6 @@
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Lokomotive Traisen FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
       "Heimmannschaft": "DSG Football School",
       "Gastmannschaft": "Dsg Dynamo Döbling",
       "Typ": "Männer",
@@ -178151,19 +178164,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Salzachsturm",
-      "Gastmannschaft": "DSG Hernalser Spartans FC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
@@ -179311,6 +179311,19 @@
     },
     {
       "Spieldatum": "2026-09-26T18:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "Marianum 1b",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve B",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-09-26T18:30:00",
       "Heimmannschaft": "Donau 1b",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -179425,6 +179438,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-09-27T10:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Inter Leopoldau",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-09-27T10:30:00",
@@ -184602,19 +184628,6 @@
     },
     {
       "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Inter Leopoldau",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-01T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -184677,19 +184690,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "Marianum 1b",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve B",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-01T22:22:00",
@@ -185732,6 +185732,19 @@
       "Longitude": 16.305012
     },
     {
+      "Spieldatum": "2026-10-04T10:00:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Aurora Athletics",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
       "Spieldatum": "2026-10-04T11:00:00",
       "Heimmannschaft": "Gartenstadt",
       "Gastmannschaft": "Süssenbrunn",
@@ -186029,6 +186042,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-10-04T16:00:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "DSG Lokomotive Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-04T16:00:00",
@@ -191037,19 +191063,6 @@
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Aurora Athletics",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "DSG Lokomotive Traisen FC",
       "Typ": "Männer",
@@ -191190,19 +191203,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Salzachsturm",
-      "Gastmannschaft": "DSG Lokomotive Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
@@ -198421,6 +198421,19 @@
     },
     {
       "Spieldatum": "2026-10-18T10:00:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Young Boys Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-10-18T10:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -198626,6 +198639,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-18T14:00:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-18T14:00:00",
@@ -204050,19 +204076,6 @@
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Young Boys Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
       "Heimmannschaft": "DSG Lokomotive Traisen FC",
       "Gastmannschaft": "DSG Roter Stern",
       "Typ": "Männer",
@@ -204229,19 +204242,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Salzachsturm",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
@@ -212915,6 +212915,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-11-07T20:00:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "DSG Royal Vienna",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-11-08T09:00:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Post SV",
@@ -212926,6 +212939,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Atemnot",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-11-08T11:00:00",
@@ -217934,19 +217960,6 @@
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Atemnot",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
       "Heimmannschaft": "DSG Lokomotive Traisen FC",
       "Gastmannschaft": "DSG Union Latina",
       "Typ": "Männer",
@@ -218126,19 +218139,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Salzachsturm",
-      "Gastmannschaft": "DSG Royal Vienna",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
@@ -230725,6 +230725,19 @@
       "Longitude": 16.305012
     },
     {
+      "Spieldatum": "2026-11-29T10:00:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Athletik Kalksburg",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
       "Spieldatum": "2026-11-29T10:30:00",
       "Heimmannschaft": "SK Slovan HAC",
       "Gastmannschaft": "SV Dinamo Helfort",
@@ -232569,19 +232582,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-12-03T22:22:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Athletik Kalksburg",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-12-03T22:22:00",
