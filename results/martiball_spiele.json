@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -160031,6 +160031,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2026-09-05T18:30:00",
+      "Heimmannschaft": "Dsg Celtic Salmannsd.",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
       "Spieldatum": "2026-09-05T19:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "Kapellerfeld",
@@ -160354,6 +160367,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-06T14:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Torin Adler",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-09-06T14:40:00",
@@ -165075,19 +165101,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2026-09-06T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Torin Adler",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-09-07T20:30:00",
       "Heimmannschaft": "DSG Philadelphia AC",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
@@ -165281,19 +165294,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-09-10T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-09-10T22:22:00",
@@ -173227,6 +173227,19 @@
     },
     {
       "Spieldatum": "2026-09-20T14:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Donau 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-09-20T14:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "First Vienna FC 1894 1c",
       "Typ": "Frauen",
@@ -177919,19 +177932,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2026-09-20T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Donau 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-09-21T20:15:00",
       "Heimmannschaft": "Dsg Cover - Direct SC",
       "Gastmannschaft": "DSG Eventus Wien",
@@ -179386,6 +179386,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-26T19:30:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Elite",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-09-26T20:00:00",
@@ -184352,19 +184365,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-09-27T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
@@ -192388,6 +192388,19 @@
       "Longitude": 16.276404
     },
     {
+      "Spieldatum": "2026-10-10T20:00:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Sonntag 2012",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve B",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-10-11T10:00:00",
       "Heimmannschaft": "Penarol Wien",
       "Gastmannschaft": "Margaretner AC",
@@ -192425,6 +192438,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-10-11T10:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Sonntag 2012",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-11T10:30:00",
@@ -192620,6 +192646,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-10-11T14:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Marianum",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-10-11T14:00:00",
@@ -197107,19 +197146,6 @@
       "Longitude": 16.409595
     },
     {
-      "Spieldatum": "2026-10-11T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Marianum",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-10-12T19:00:00",
       "Heimmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Gastmannschaft": "Ostbahn XI Sen.",
@@ -197342,19 +197368,6 @@
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Sonntag 2012",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Inter Leopoldau",
       "Typ": "Männer",
@@ -197430,19 +197443,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Sonntag 2012",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve B",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
@@ -198381,6 +198381,19 @@
       "Longitude": 16.425843
     },
     {
+      "Spieldatum": "2026-10-17T19:45:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Vienna Vibes",
+      "Typ": "Männer",
+      "Liga": "DSG Reserve B",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-10-17T20:00:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "FC Brigittenau",
@@ -198444,6 +198457,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-18T10:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "Dsg Celtic Salmannsd.",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-18T11:00:00",
@@ -204206,19 +204232,6 @@
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "Dsg Celtic Salmannsd.",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Billroth Fc",
       "Typ": "Männer",
@@ -204294,19 +204307,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG Reserve B",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
@@ -205568,6 +205568,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-10-25T14:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Gartenstadt",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-10-25T14:00:00",
@@ -210016,19 +210029,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-10-25T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Gartenstadt",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-10-30T00:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "KSV 1919",
@@ -212265,6 +212265,19 @@
       "Longitude": 16.430898
     },
     {
+      "Spieldatum": "2026-11-07T11:30:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "KSC / FCB Donaustadt",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
+    },
+    {
       "Spieldatum": "2026-11-07T11:45:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Gerasdorf Stammersdorf",
@@ -212952,6 +212965,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-11-08T10:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Südtirol 16",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-11-08T11:00:00",
@@ -217777,19 +217803,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-11-08T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "KSC / FCB Donaustadt",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-11-09T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Gastmannschaft": "Ostbahn XI Sen.",
@@ -218100,19 +218113,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Südtirol 16",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
@@ -225044,6 +225044,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-11-22T10:30:00",
+      "Heimmannschaft": "DSG Ukraina Wien SKV",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2026-11-22T11:00:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "KSC / FCB Donaustadt",
@@ -225211,6 +225224,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2026-11-22T14:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Hirschstetten",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-11-22T14:45:00",
@@ -229672,19 +229698,6 @@
       "Longitude": 16.450798
     },
     {
-      "Spieldatum": "2026-11-22T23:59:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
       "Spieldatum": "2026-11-23T19:30:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "DSG 1. FC FI",
@@ -229839,19 +229852,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "DSG Ukraina Wien SKV",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-11-26T22:22:00",
