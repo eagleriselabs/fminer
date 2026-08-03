@@ -161540,6 +161540,19 @@
     },
     {
       "Spieldatum": "2026-09-06T09:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-09-06T09:00:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -161550,6 +161563,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-09-06T09:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-06T09:15:00",
@@ -161773,6 +161799,19 @@
       "Longitude": 16.360667
     },
     {
+      "Spieldatum": "2026-09-06T10:30:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
       "Spieldatum": "2026-09-06T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "A XIII Auhof Center",
@@ -161943,6 +161982,19 @@
     },
     {
       "Spieldatum": "2026-09-06T11:30:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 B-TEAMS",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2026-09-06T11:30:00",
       "Heimmannschaft": "FSC Favoriten",
       "Gastmannschaft": "Mannswörth 1b",
       "Typ": "Frauen",
@@ -162070,6 +162122,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-09-06T12:40:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-06T12:45:00",
@@ -162876,6 +162941,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-09-06T20:00:00",
+      "Heimmannschaft": "DSG District West AS",
+      "Gastmannschaft": "DSG Going Toulouse",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-06T20:00:00",
@@ -163789,19 +163867,6 @@
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
       "Heimmannschaft": "1210 Wien",
       "Gastmannschaft": "Wiener Akademik",
       "Typ": "Männer",
@@ -164322,19 +164387,6 @@
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
@@ -164501,19 +164553,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
@@ -164699,19 +164738,6 @@
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -164735,19 +164761,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
@@ -165372,19 +165385,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-10T22:22:00",
-      "Heimmannschaft": "DSG District West AS",
-      "Gastmannschaft": "DSG Going Toulouse",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-11T17:45:00",
@@ -169144,6 +169144,19 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-09-13T15:45:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG Real Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-09-13T16:00:00",
       "Heimmannschaft": "Polska",
       "Gastmannschaft": "ESV Ottakring",
@@ -169259,6 +169272,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-09-13T16:40:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-13T17:00:00",
@@ -170744,19 +170770,6 @@
     },
     {
       "Spieldatum": "2026-09-13T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-13T22:22:00",
       "Heimmannschaft": "Cro - Vienna A",
       "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
@@ -171966,19 +171979,6 @@
     },
     {
       "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Real Döbling",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
       "Heimmannschaft": "DSG Latino Vienna City S.K.",
       "Gastmannschaft": "DSG Instyle FC",
       "Typ": "Männer",
@@ -172275,6 +172275,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-18T20:15:00",
+      "Heimmannschaft": "DSG Lokomotive Döbling",
+      "Gastmannschaft": "DSG Nepomuk",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-19T00:00:00",
@@ -174422,6 +174435,19 @@
       "Longitude": 16.370454
     },
     {
+      "Spieldatum": "2026-09-19T20:00:00",
+      "Heimmannschaft": "DSG District West AS",
+      "Gastmannschaft": "Dsg Neulandschule",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-09-19T20:10:00",
       "Heimmannschaft": "DSG Real Döbling",
       "Gastmannschaft": "DSG Lagerwiese",
@@ -174553,6 +174579,19 @@
     },
     {
       "Spieldatum": "2026-09-20T09:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-09-20T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -174654,6 +174693,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-09-20T09:30:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Columbia Floridsdorf B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 B-TEAMS",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-09-20T09:30:00",
@@ -174784,6 +174836,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-09-20T10:30:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-20T10:30:00",
@@ -174940,6 +175005,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-09-20T11:20:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Elite C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-20T11:30:00",
@@ -177179,19 +177257,6 @@
     },
     {
       "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Elite C",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -177371,19 +177436,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-20T22:22:00",
@@ -177569,19 +177621,6 @@
     },
     {
       "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Columbia Floridsdorf B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -177605,19 +177644,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-20T22:22:00",
@@ -178323,19 +178349,6 @@
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Lokomotive Döbling",
-      "Gastmannschaft": "DSG Nepomuk",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
       "Heimmannschaft": "DSG Porzelona",
       "Gastmannschaft": "Dsg Celtic Salmannsd.",
       "Typ": "Männer",
@@ -178372,19 +178385,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG District West AS",
-      "Gastmannschaft": "Dsg Neulandschule",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-24T22:22:00",
@@ -181130,6 +181130,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-09-26T20:10:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG Dritter FC Bock",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-09-26T20:15:00",
       "Heimmannschaft": "Dsg Blue Danube",
       "Gastmannschaft": "DSG Real Döbling",
@@ -182259,6 +182272,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-27T14:30:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Ostbahn XI A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-09-27T14:30:00",
@@ -183744,19 +183770,6 @@
     },
     {
       "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Ostbahn XI A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
       "Heimmannschaft": "Cro - Vienna A",
       "Gastmannschaft": "Kapellerfeld C",
       "Typ": "Männer",
@@ -184807,19 +184820,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Dritter FC Bock",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-01T22:22:00",
@@ -187358,6 +187358,19 @@
     },
     {
       "Spieldatum": "2026-10-04T09:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-10-04T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -187420,6 +187433,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-04T09:30:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Gerasdorf Stammersdorf B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 B-TEAMS",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-10-04T09:30:00",
@@ -187578,6 +187604,19 @@
       "Longitude": 16.519334
     },
     {
+      "Spieldatum": "2026-10-04T10:20:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "SK Rapid G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
       "Spieldatum": "2026-10-04T10:30:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 C",
       "Gastmannschaft": "KSC / FCB Donaustadt",
@@ -187719,6 +187758,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-04T11:20:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-04T11:30:00",
@@ -190166,19 +190218,6 @@
     },
     {
       "Spieldatum": "2026-10-04T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-04T22:22:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Mariahilf B",
       "Typ": "Männer",
@@ -190358,19 +190397,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-10-04T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "SK Rapid G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-04T22:22:00",
@@ -190582,19 +190608,6 @@
     },
     {
       "Spieldatum": "2026-10-04T22:22:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Gerasdorf Stammersdorf B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-10-04T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -190618,19 +190631,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-10-04T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-04T22:22:00",
@@ -193792,6 +193792,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-10-10T20:10:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG PlayTogetherNow Funs",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-10-10T20:15:00",
       "Heimmannschaft": "Dsg Blue Danube",
       "Gastmannschaft": "DSG Dritter FC Bock",
@@ -194947,6 +194960,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-11T16:40:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Hellas Kagran A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-11T17:00:00",
@@ -196458,19 +196484,6 @@
     },
     {
       "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Hellas Kagran A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
       "Heimmannschaft": "Cro - Vienna A",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -197573,19 +197586,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG PlayTogetherNow Funs",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
@@ -200540,6 +200540,19 @@
     },
     {
       "Spieldatum": "2026-10-18T09:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-10-18T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -200617,6 +200630,19 @@
       "Longitude": 16.305012
     },
     {
+      "Spieldatum": "2026-10-18T09:30:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Post SV B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 B-TEAMS",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2026-10-18T10:00:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "Vienna 2016",
@@ -200667,6 +200693,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-10-18T10:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "First Vienna FC 1894 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-18T10:00:00",
@@ -201216,6 +201255,32 @@
     },
     {
       "Spieldatum": "2026-10-18T13:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-10-18T13:00:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "Ankerbrot A",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-10-18T13:00:00",
       "Heimmannschaft": "SU Schönbrunn A",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -201746,6 +201811,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2026-10-18T16:00:00",
+      "Heimmannschaft": "DSG District West AS",
+      "Gastmannschaft": "DSG 1. FC FI",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-18T16:00:00",
@@ -202789,19 +202867,6 @@
     },
     {
       "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-18T22:22:00",
       "Heimmannschaft": "1210 Wien",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -203322,19 +203387,6 @@
     },
     {
       "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Ankerbrot A",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-18T22:22:00",
       "Heimmannschaft": "Ankerbrot B",
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
@@ -203504,19 +203556,6 @@
     },
     {
       "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "First Vienna FC 1894 G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-18T22:22:00",
       "Heimmannschaft": "FCJ Alt - Ottakring",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
@@ -203673,19 +203712,6 @@
     },
     {
       "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Post SV B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-10-18T22:22:00",
       "Heimmannschaft": "Kalksburg - Rodaun",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -203696,19 +203722,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
-    },
-    {
-      "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-18T22:22:00",
@@ -204476,19 +204489,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG District West AS",
-      "Gastmannschaft": "DSG 1. FC FI",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-22T22:22:00",
@@ -205867,6 +205867,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-10-24T12:45:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "FCJ Alt - Ottakring",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 B-TEAMS",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-10-24T13:00:00",
@@ -209705,19 +209718,6 @@
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "FCJ Alt - Ottakring",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Wiener Akademik",
       "Typ": "Männer",
@@ -210914,6 +210914,19 @@
     },
     {
       "Spieldatum": "2026-10-31T17:15:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG Recht Entspannt / ABGB United",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-31T17:15:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "FC Hernalser Spartans",
       "Typ": "Frauen",
@@ -212029,19 +212042,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-11-05T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Recht Entspannt / ABGB United",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-11-05T22:22:00",
@@ -214785,6 +214785,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-11-07T20:10:00",
+      "Heimmannschaft": "Dsg Dynamo Döbling",
+      "Gastmannschaft": "DSG Lagerwiese",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-11-08T08:45:00",
@@ -218311,19 +218324,6 @@
     },
     {
       "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "Dsg Dynamo Döbling",
-      "Gastmannschaft": "DSG Lagerwiese",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
       "Heimmannschaft": "DSG 1150 Allstars FC",
       "Gastmannschaft": "DSG Equipo",
       "Typ": "Männer",
@@ -220976,6 +220976,19 @@
     },
     {
       "Spieldatum": "2026-11-15T10:40:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "FK Austria Wien G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-11-15T10:40:00",
       "Heimmannschaft": "Post SV A",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -221298,6 +221311,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-11-15T12:40:00",
+      "Heimmannschaft": "Srbija Wien",
+      "Gastmannschaft": "SC Großfeld",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-11-15T13:00:00",
@@ -223212,19 +223238,6 @@
     },
     {
       "Spieldatum": "2026-11-15T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "SC Großfeld",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-11-15T22:22:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Cro - Vienna A",
       "Typ": "Männer",
@@ -223547,19 +223560,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-11-15T22:22:00",
-      "Heimmannschaft": "Srbija Wien",
-      "Gastmannschaft": "FK Austria Wien G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-11-15T22:22:00",
@@ -228151,6 +228151,19 @@
       "Longitude": 16.3216495513916
     },
     {
+      "Spieldatum": "2026-11-22T18:00:00",
+      "Heimmannschaft": "DSG District West AS",
+      "Gastmannschaft": "Dsg Endstation Hernals",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-11-22T18:30:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Torpedo Lainz",
@@ -230099,19 +230112,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "DSG District West AS",
-      "Gastmannschaft": "Dsg Endstation Hernals",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-11-26T22:22:00",
