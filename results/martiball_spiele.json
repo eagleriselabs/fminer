@@ -169054,32 +169054,6 @@
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
-      "Heimmannschaft": "Hirschstetten A",
-      "Gastmannschaft": "FavAC",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 C",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T09:00:00",
-      "Heimmannschaft": "Hirschstetten B",
-      "Gastmannschaft": "FavAC I",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 D",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T09:00:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -169158,19 +169132,6 @@
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
-      "Heimmannschaft": "Hirschstetten A",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 E",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T09:00:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
@@ -169236,6 +169197,19 @@
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
+      "Heimmannschaft": "Hirschstetten A",
+      "Gastmannschaft": "SU Schönbrunn A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 B",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-09-13T09:00:00",
       "Heimmannschaft": "KSC / FCB Donaustadt A",
       "Gastmannschaft": "Ostbahn XI A",
       "Typ": "Männer",
@@ -169259,6 +169233,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-09-13T09:00:00",
+      "Heimmannschaft": "Hirschstetten B",
+      "Gastmannschaft": "SU Schönbrunn B",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 C",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
@@ -169337,6 +169324,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-09-13T09:00:00",
+      "Heimmannschaft": "Hirschstetten A",
+      "Gastmannschaft": "A XIII Auhof Center A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 B",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-09-13T09:00:00",
+      "Heimmannschaft": "Hirschstetten B",
+      "Gastmannschaft": "A XIII Auhof Center B",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 C",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
@@ -169716,58 +169729,6 @@
       "Longitude": 16.276184
     },
     {
-      "Spieldatum": "2026-09-13T10:15:00",
-      "Heimmannschaft": "Hirschstetten A",
-      "Gastmannschaft": "SU Schönbrunn A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 B",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T10:15:00",
-      "Heimmannschaft": "Hirschstetten B",
-      "Gastmannschaft": "SU Schönbrunn B",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 C",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T10:15:00",
-      "Heimmannschaft": "Hirschstetten A",
-      "Gastmannschaft": "A XIII Auhof Center A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U9 B",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-13T10:15:00",
-      "Heimmannschaft": "Hirschstetten B",
-      "Gastmannschaft": "A XIII Auhof Center B",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U9 C",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2026-09-13T10:30:00",
       "Heimmannschaft": "Dinamo Helfort A",
       "Gastmannschaft": "Gerasdorf Stammersdorf A",
@@ -169818,6 +169779,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-13T10:30:00",
+      "Heimmannschaft": "Hirschstetten A",
+      "Gastmannschaft": "FavAC",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 C",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-09-13T10:30:00",
+      "Heimmannschaft": "Hirschstetten B",
+      "Gastmannschaft": "FavAC I",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 D",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-09-13T10:30:00",
+      "Heimmannschaft": "Hirschstetten A",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 E",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-09-13T10:30:00",
@@ -173842,12 +173842,12 @@
       "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-19T11:00:00",
@@ -174518,12 +174518,12 @@
       "Gastmannschaft": "Mariahilf",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-19T13:00:00",
@@ -186647,12 +186647,12 @@
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-03T11:45:00",
@@ -187232,12 +187232,12 @@
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-03T13:30:00",
@@ -192380,12 +192380,12 @@
       "Gastmannschaft": "Ankerbrot A",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-10T09:45:00",
@@ -197679,6 +197679,19 @@
       "Longitude": 16.367574
     },
     {
+      "Spieldatum": "2026-10-15T18:30:00",
+      "Heimmannschaft": "SK Rapid G",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
+    },
+    {
       "Spieldatum": "2026-10-15T19:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "LAC - Inter",
@@ -198603,19 +198616,6 @@
     },
     {
       "Spieldatum": "2026-10-17T09:00:00",
-      "Heimmannschaft": "SK Rapid G",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2026-10-17T09:00:00",
       "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "Inzersdorf",
       "Typ": "Männer",
@@ -199283,12 +199283,12 @@
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-17T10:30:00",
@@ -205497,12 +205497,12 @@
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-24T10:00:00",
@@ -213089,12 +213089,12 @@
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-11-07T09:30:00",
