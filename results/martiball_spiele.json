@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -166532,6 +166532,19 @@
     },
     {
       "Spieldatum": "2026-09-12T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-09-12T10:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -166594,6 +166607,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-09-12T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "DSG Football School",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-12T10:15:00",
@@ -171732,19 +171758,6 @@
     },
     {
       "Spieldatum": "2026-09-13T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-09-13T22:22:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Mariahilf",
       "Typ": "Männer",
@@ -171755,19 +171768,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-09-13T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-14T19:30:00",
@@ -179363,6 +179363,19 @@
     },
     {
       "Spieldatum": "2026-09-26T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-09-26T10:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -179451,6 +179464,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-09-26T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-26T10:00:00",
@@ -184563,19 +184589,6 @@
     },
     {
       "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 G",
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
@@ -184599,19 +184612,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
@@ -192480,6 +192480,19 @@
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Elite G",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-10-10T10:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Wiener Akademik",
       "Typ": "Männer",
@@ -192568,6 +192581,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-10-10T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "SK Rapid G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
@@ -197407,19 +197433,6 @@
     },
     {
       "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Elite G",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 G",
       "Gastmannschaft": "Ankerbrot B",
       "Typ": "Männer",
@@ -197443,19 +197456,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "SK Rapid G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-12T19:00:00",
@@ -205714,6 +205714,19 @@
     },
     {
       "Spieldatum": "2026-10-24T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-10-24T10:00:00",
       "Heimmannschaft": "Ankerbrot A",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -208405,6 +208418,19 @@
     },
     {
       "Spieldatum": "2026-10-25T10:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-10-25T10:00:00",
       "Heimmannschaft": "1980 Wien A",
       "Gastmannschaft": "Ostbahn XI A",
       "Typ": "Männer",
@@ -208428,6 +208454,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-10-25T10:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "SU Schönbrunn C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-10-25T10:00:00",
@@ -208899,6 +208938,19 @@
     },
     {
       "Spieldatum": "2026-10-25T11:30:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "SK Rapid G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-10-25T11:30:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -209289,6 +209341,19 @@
     },
     {
       "Spieldatum": "2026-10-25T13:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "Srbija Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-10-25T13:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Hellas Kagran A",
       "Typ": "Männer",
@@ -209666,6 +209731,19 @@
     },
     {
       "Spieldatum": "2026-10-25T15:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "SU Schönbrunn",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U15",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-10-25T15:00:00",
       "Heimmannschaft": "Wiener Sport - Club 1b",
       "Gastmannschaft": "FCK Wien",
       "Typ": "Männer",
@@ -209965,32 +210043,6 @@
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "SU Schönbrunn C",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 G",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
       "Typ": "Männer",
@@ -210001,19 +210053,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "SK Rapid G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
@@ -210030,32 +210069,6 @@
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "Srbija Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "SU Schönbrunn",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U15",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -210066,19 +210079,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-28T19:30:00",
@@ -213332,6 +213332,19 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-11-07T10:00:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Männer",
@@ -213433,6 +213446,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-11-07T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
@@ -216296,6 +216322,19 @@
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -216319,6 +216358,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "Kalksburg - Rodaun",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
@@ -217479,6 +217531,19 @@
     },
     {
       "Spieldatum": "2026-11-08T14:30:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "Hellas Kagran A",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U15",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-11-08T14:30:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -218064,45 +218129,6 @@
     },
     {
       "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "Kalksburg - Rodaun",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 G",
       "Gastmannschaft": "DSG Football School",
       "Typ": "Männer",
@@ -218129,19 +218155,6 @@
     },
     {
       "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "Hellas Kagran A",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U15",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -218152,19 +218165,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-11-09T19:00:00",
@@ -227190,19 +227190,6 @@
     },
     {
       "Spieldatum": "2026-11-21T17:00:00",
-      "Heimmannschaft": "Wiener Sport - Club A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-11-21T17:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Dinamo Helfort A",
       "Typ": "Männer",
@@ -227213,6 +227200,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-11-21T17:00:00",
+      "Heimmannschaft": "Wiener Sport - Club B",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-11-21T17:15:00",
@@ -229790,6 +229790,19 @@
     },
     {
       "Spieldatum": "2026-11-22T16:30:00",
+      "Heimmannschaft": "Wiener Sport - Club A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-11-22T16:30:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -229800,19 +229813,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-11-22T16:30:00",
-      "Heimmannschaft": "Wiener Sport - Club B",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-11-22T16:45:00",
