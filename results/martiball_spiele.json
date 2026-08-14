@@ -159252,19 +159252,6 @@
     },
     {
       "Spieldatum": "2026-09-02T19:30:00",
-      "Heimmannschaft": "Ostbahn XI A",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-02T19:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "Columbia Floridsdorf A",
       "Typ": "Männer",
@@ -159574,32 +159561,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-09-05T08:30:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-05T08:30:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "SU Schönbrunn C",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-09-05T09:00:00",
@@ -165242,6 +165203,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-09-06T22:22:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-09-06T22:22:00",
+      "Heimmannschaft": "Ostbahn XI A",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-09-06T22:22:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "SU Schönbrunn C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
@@ -172082,32 +172082,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-09-18T00:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "FC Liefering",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-09-18T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "SK Rapid II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-09-18T18:00:00",
       "Heimmannschaft": "Royal Persia",
       "Gastmannschaft": "ASV 13",
@@ -172197,6 +172171,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-09-18T18:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "FC Liefering",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-09-18T18:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "SK Rapid II",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-09-18T19:00:00",
@@ -191517,6 +191517,32 @@
       "Longitude": 16.48207
     },
     {
+      "Spieldatum": "2026-10-09T16:30:00",
+      "Heimmannschaft": "LAC - Inter A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-09T16:30:00",
+      "Heimmannschaft": "LAC - Inter B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
       "Spieldatum": "2026-10-09T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "SC Mannswörth",
@@ -195220,32 +195246,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19799058337352,
       "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2026-10-11T09:15:00",
-      "Heimmannschaft": "LAC - Inter A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-10-11T09:15:00",
-      "Heimmannschaft": "LAC - Inter B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-10-11T09:30:00",
