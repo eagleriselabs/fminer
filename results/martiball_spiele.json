@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -158680,19 +158680,6 @@
     },
     {
       "Spieldatum": "2026-08-23T17:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "WSG Tirol",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
-      "Spieldatum": "2026-08-23T17:00:00",
       "Heimmannschaft": "FAC Wien Amat.",
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
       "Typ": "Männer",
@@ -159210,6 +159197,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-09-02T18:30:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "WSG Tirol",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-09-02T18:45:00",
@@ -165816,19 +165816,6 @@
       "Longitude": 16.425843
     },
     {
-      "Spieldatum": "2026-09-12T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SC Austria Lustenau",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-09-12T09:00:00",
       "Heimmannschaft": "Columbia Floridsdorf A",
       "Gastmannschaft": "A11 - R.Oberlaa A",
@@ -171004,6 +170991,19 @@
     },
     {
       "Spieldatum": "2026-09-13T14:30:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SC Austria Lustenau",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-09-13T14:30:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -172186,19 +172186,6 @@
       "Longitude": 16.3925
     },
     {
-      "Spieldatum": "2026-09-18T18:30:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "SK Rapid II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-09-18T19:00:00",
       "Heimmannschaft": "DSG Dornbach Sox Frauen*",
       "Gastmannschaft": "DSG Wiener SK Lation",
@@ -172236,6 +172223,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-09-18T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "WSG Tirol",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-09-18T19:30:00",
@@ -172405,19 +172405,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-09-19T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "WSG Tirol",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-09-19T09:00:00",
@@ -176604,6 +176591,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-09-20T10:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "SK Rapid II",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-09-20T10:30:00",
@@ -191478,32 +191478,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-09T00:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SKN St. Pölten",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-10-09T00:00:00",
-      "Heimmannschaft": "SK Rapid II",
-      "Gastmannschaft": "FC Wacker Innsbruck",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-10-09T16:30:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Liesing ASK",
@@ -191645,6 +191619,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-10-09T18:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SKN St. Pölten",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-09T19:00:00",
@@ -194050,6 +194037,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-10-10T15:30:00",
+      "Heimmannschaft": "SK Rapid II",
+      "Gastmannschaft": "FC Wacker Innsbruck",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-10-10T15:45:00",
@@ -197731,32 +197731,6 @@
       "Longitude": 16.3253127
     },
     {
-      "Spieldatum": "2026-10-16T00:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "Admira Wacker",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-10-16T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "FC Hertha Wels",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-10-16T16:30:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Hellas Kagran",
@@ -197859,6 +197833,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-10-16T18:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "FC Hertha Wels",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-10-16T19:00:00",
@@ -200771,6 +200758,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-10-17T15:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "Admira Wacker",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2026-10-17T15:30:00",
@@ -204569,32 +204569,6 @@
       "Longitude": 16.437126
     },
     {
-      "Spieldatum": "2026-10-23T00:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "FAC Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-10-23T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "SK STURM GRAZ II",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-10-23T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "Kapellerfeld",
@@ -204710,6 +204684,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-23T18:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "FAC Wien",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-10-23T18:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "SK STURM GRAZ II",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-10-23T18:30:00",
@@ -210146,20 +210146,7 @@
       "Longitude": 16.38053
     },
     {
-      "Spieldatum": "2026-10-30T00:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "KSV 1919",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-10-30T00:00:00",
+      "Spieldatum": "2026-10-30T18:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "FC Blau Weiss Linz",
       "Typ": "Männer",
@@ -210170,19 +210157,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-10-30T00:00:00",
-      "Heimmannschaft": "SK Rapid II",
-      "Gastmannschaft": "FC Liefering",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-10-30T19:00:00",
@@ -210846,6 +210820,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-10-31T15:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "KSV 1919",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-10-31T15:30:00",
+      "Heimmannschaft": "SK Rapid II",
+      "Gastmannschaft": "FC Liefering",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-10-31T16:00:00",
@@ -212252,19 +212252,6 @@
       "Longitude": 16.3253127
     },
     {
-      "Spieldatum": "2026-11-06T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-11-06T18:00:00",
       "Heimmannschaft": "Ankerbrot",
       "Gastmannschaft": "DSV Fortuna 05",
@@ -212354,6 +212341,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-11-06T18:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-11-06T18:30:00",
@@ -224472,45 +224472,6 @@
       "Longitude": 16.3253127
     },
     {
-      "Spieldatum": "2026-11-20T00:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "Young Violets Austria Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-11-20T00:00:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SW Bregenz",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-11-20T00:00:00",
-      "Heimmannschaft": "SK Rapid II",
-      "Gastmannschaft": "FC Blau Weiss Linz",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-11-20T15:30:00",
       "Heimmannschaft": "A XIII Auhof Center B",
       "Gastmannschaft": "ASV 13 B",
@@ -224613,6 +224574,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-11-20T18:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "Young Violets Austria Wien",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-11-20T18:30:00",
+      "Heimmannschaft": "SK Rapid II",
+      "Gastmannschaft": "FC Blau Weiss Linz",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-11-20T19:30:00",
@@ -226888,6 +226875,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-11-21T15:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SW Bregenz",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-11-21T15:30:00",
@@ -230231,19 +230231,6 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2026-11-27T00:00:00",
-      "Heimmannschaft": "SK Rapid II",
-      "Gastmannschaft": "KSV 1919",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-11-27T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "SV Essling",
@@ -231464,6 +231451,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2026-11-28T15:30:00",
+      "Heimmannschaft": "SK Rapid II",
+      "Gastmannschaft": "KSV 1919",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-11-28T15:30:00",
@@ -232948,20 +232948,7 @@
       "Longitude": 16.3253127
     },
     {
-      "Spieldatum": "2026-12-04T00:00:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "Voitsberg",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-12-04T00:00:00",
+      "Spieldatum": "2026-12-04T18:30:00",
       "Heimmannschaft": "Young Violets Austria Wien",
       "Gastmannschaft": "Admira Wacker",
       "Typ": "Männer",
@@ -233780,6 +233767,19 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2026-12-05T15:30:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "Voitsberg",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2026-12-05T16:00:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Cro - Vienna",
@@ -234300,7 +234300,7 @@
       "Longitude": 16.444089
     },
     {
-      "Spieldatum": "2026-12-11T00:00:00",
+      "Spieldatum": "2026-12-11T18:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "SK Rapid II",
       "Typ": "Männer",
@@ -234311,19 +234311,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-12-11T00:00:00",
-      "Heimmannschaft": "Young Violets Austria Wien",
-      "Gastmannschaft": "FC Wacker Innsbruck",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-12-12T00:00:00",
@@ -234337,6 +234324,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-12-12T15:30:00",
+      "Heimmannschaft": "Young Violets Austria Wien",
+      "Gastmannschaft": "FC Wacker Innsbruck",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2027-01-23T00:00:00",
