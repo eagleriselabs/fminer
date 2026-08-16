@@ -161228,6 +161228,19 @@
     },
     {
       "Spieldatum": "2026-09-05T12:00:00",
+      "Heimmannschaft": "Elite",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-09-05T12:00:00",
       "Heimmannschaft": "1.Simmeringer SC A",
       "Gastmannschaft": "First Vienna FC 1894 A",
       "Typ": "Männer",
@@ -162213,19 +162226,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-09-05T16:00:00",
-      "Heimmannschaft": "Elite",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-09-05T16:00:00",
