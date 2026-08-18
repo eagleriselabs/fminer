@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -159212,17 +159212,17 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-09-02T18:45:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Slovan HAC",
+      "Spieldatum": "2026-09-02T18:30:00",
+      "Heimmannschaft": "Slovan HAC",
+      "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-09-02T19:15:00",
@@ -162371,19 +162371,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-09-05T16:45:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
       "Spieldatum": "2026-09-05T16:50:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "Gersthofer SV",
@@ -162733,19 +162720,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-09-05T18:30:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-05T19:00:00",
@@ -163450,6 +163424,19 @@
       "Longitude": 16.265119314193726
     },
     {
+      "Spieldatum": "2026-09-06T10:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf A",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
+    },
+    {
       "Spieldatum": "2026-09-06T10:15:00",
       "Heimmannschaft": "Maccabi Wien",
       "Gastmannschaft": "Kalksburg - Rodaun",
@@ -163685,6 +163672,19 @@
     },
     {
       "Spieldatum": "2026-09-06T11:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-09-06T11:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -163734,19 +163734,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-09-06T11:00:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-06T11:15:00",
@@ -164166,6 +164153,19 @@
     },
     {
       "Spieldatum": "2026-09-06T13:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "SK Rapid G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-09-06T13:00:00",
       "Heimmannschaft": "Gartenstadt",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
@@ -164179,16 +164179,29 @@
     },
     {
       "Spieldatum": "2026-09-06T13:00:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-06T13:00:00",
+      "Heimmannschaft": "SR Donaufeld",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-09-06T13:15:00",
@@ -164556,16 +164569,16 @@
     },
     {
       "Spieldatum": "2026-09-06T15:00:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Columbia Floridsdorf A",
+      "Heimmannschaft": "First Vienna FC 1894 B",
+      "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-09-06T15:00:00",
@@ -164893,6 +164906,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-09-06T17:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
       "Spieldatum": "2026-09-06T17:15:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Besa Wien",
@@ -165050,7 +165076,7 @@
     },
     {
       "Spieldatum": "2026-09-06T18:00:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -165242,32 +165268,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "SK Rapid G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
@@ -166295,19 +166295,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-09-12T09:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-Liga U11 A",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-12T09:00:00",
@@ -167819,19 +167806,6 @@
     },
     {
       "Spieldatum": "2026-09-12T14:00:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Sektion Westside",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-12T14:00:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "Dsg Panda",
       "Typ": "Männer",
@@ -168768,7 +168742,7 @@
     },
     {
       "Spieldatum": "2026-09-12T18:30:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -171770,6 +171744,19 @@
       "Longitude": 16.48207
     },
     {
+      "Spieldatum": "2026-09-13T22:22:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-Liga U11 A",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
       "Spieldatum": "2026-09-14T19:30:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "Dsg Endstation Hernals",
@@ -171900,17 +171887,17 @@
       "Longitude": 16.428909
     },
     {
-      "Spieldatum": "2026-09-16T18:45:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "LAC - Inter",
+      "Spieldatum": "2026-09-16T18:50:00",
+      "Heimmannschaft": "LAC - Inter",
+      "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-09-16T19:15:00",
@@ -174541,7 +174528,7 @@
     {
       "Spieldatum": "2026-09-19T13:00:00",
       "Heimmannschaft": "FC Altera Porta",
-      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
       "Spielort": "Staw-Platz / KSV-Platz",
@@ -174615,6 +174602,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-09-19T13:30:00",
+      "Heimmannschaft": "Stadlau A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-09-19T13:30:00",
@@ -175489,19 +175489,6 @@
     },
     {
       "Spieldatum": "2026-09-19T17:00:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-19T17:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -175811,6 +175798,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-09-19T19:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-09-19T19:10:00",
@@ -176464,6 +176464,19 @@
     },
     {
       "Spieldatum": "2026-09-20T10:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Mariahilf B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-20T10:00:00",
       "Heimmannschaft": "SU Schönbrunn A",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
@@ -176617,19 +176630,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-20T10:30:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-20T10:45:00",
@@ -177023,6 +177023,19 @@
     },
     {
       "Spieldatum": "2026-09-20T12:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "FK Austria Wien G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-20T12:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -177114,16 +177127,16 @@
     },
     {
       "Spieldatum": "2026-09-20T12:30:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Stadlau B",
+      "Heimmannschaft": "Stadlau B",
+      "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-09-20T12:45:00",
@@ -177267,6 +177280,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-09-20T13:00:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-09-20T13:30:00",
@@ -177540,19 +177566,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-09-20T14:30:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Columbia Floridsdorf A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-20T14:30:00",
@@ -177852,19 +177865,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-09-20T16:30:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-20T17:00:00",
@@ -178206,29 +178206,16 @@
     },
     {
       "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Mariahilf B",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "FK Austria Wien G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-21T19:30:00",
@@ -181170,6 +181157,19 @@
     },
     {
       "Spieldatum": "2026-09-26T16:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Vienna Internationals",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-09-26T16:00:00",
       "Heimmannschaft": "Torin Adler",
       "Gastmannschaft": "Marianum",
       "Typ": "Männer",
@@ -181469,7 +181469,7 @@
     },
     {
       "Spieldatum": "2026-09-26T17:30:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "SC Pötzleinsdorf",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -181544,19 +181544,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-09-26T18:00:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Vienna Internationals",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-26T18:00:00",
@@ -183887,6 +183874,19 @@
     },
     {
       "Spieldatum": "2026-09-27T14:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-09-27T14:30:00",
       "Heimmannschaft": "Mariahilf A",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
@@ -184251,6 +184251,19 @@
     },
     {
       "Spieldatum": "2026-09-27T16:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Vienna 2016",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-09-27T16:30:00",
       "Heimmannschaft": "DSG Spice Balls All Stars",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
@@ -184458,6 +184471,19 @@
       "Longitude": 16.409595
     },
     {
+      "Spieldatum": "2026-09-27T18:00:00",
+      "Heimmannschaft": "Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Frauen",
+      "Liga": "Frauen 1.Klasse",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-09-27T18:15:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Ostbahn XI A",
@@ -184562,19 +184588,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2026-09-27T20:00:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Frauen",
-      "Liga": "Frauen 1.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
       "Spieldatum": "2026-09-27T22:22:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "Elite",
@@ -184586,32 +184599,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Vienna 2016",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
@@ -184703,19 +184690,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-30T18:45:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Schwechat SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-30T19:15:00",
@@ -187723,7 +187697,7 @@
     {
       "Spieldatum": "2026-10-03T15:00:00",
       "Heimmannschaft": "SK Rapid 1c",
-      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
       "Spielort": "Allianz Stadion / Trainingsplätze",
@@ -194456,7 +194430,7 @@
     },
     {
       "Spieldatum": "2026-10-10T17:30:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -196692,6 +196666,19 @@
     },
     {
       "Spieldatum": "2026-10-11T14:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Ankerbrot B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-10-11T14:30:00",
       "Heimmannschaft": "Mariahilf A",
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
@@ -197430,19 +197417,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Ankerbrot B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-10-11T22:22:00",
@@ -205492,19 +205466,6 @@
       "Longitude": 16.407439
     },
     {
-      "Spieldatum": "2026-10-24T09:30:00",
-      "Heimmannschaft": "DSG Aurora Athletics",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U15",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
-    },
-    {
       "Spieldatum": "2026-10-24T10:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Inzersdorf",
@@ -205711,32 +205672,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2026-10-24T10:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-10-24T10:00:00",
-      "Heimmannschaft": "Ankerbrot A",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-Liga U11 A",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-10-24T10:00:00",
@@ -207611,6 +207546,19 @@
       "Longitude": 16.276404
     },
     {
+      "Spieldatum": "2026-10-24T16:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Gastmannschaft": "First Vienna FC 1894 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "Schmelz",
+      "Spielort Straße": "Auf der Schmelz 10",
+      "Spielort PLZ": 1150,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204006,
+      "Longitude": 16.320261
+    },
+    {
       "Spieldatum": "2026-10-24T16:30:00",
       "Heimmannschaft": "1980 Wien",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
@@ -207755,7 +207703,7 @@
     },
     {
       "Spieldatum": "2026-10-24T17:30:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "FK Austria Wien 1c",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -209237,6 +209185,19 @@
     },
     {
       "Spieldatum": "2026-10-25T12:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
+    },
+    {
+      "Spieldatum": "2026-10-25T12:30:00",
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -210043,29 +210004,16 @@
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Heimmannschaft": "DSG Aurora Athletics",
+      "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Liga": "C-LIGA U15",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
@@ -210079,6 +210027,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-10-25T22:22:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-10-25T22:22:00",
+      "Heimmannschaft": "Ankerbrot A",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-Liga U11 A",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-10-28T19:30:00",
@@ -210967,7 +210941,7 @@
     {
       "Spieldatum": "2026-10-31T16:00:00",
       "Heimmannschaft": "First Vienna FC 1894 1c",
-      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
       "Spielort": "First Vienna Football Campus",
@@ -211015,6 +210989,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-10-31T17:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "Donau 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-10-31T17:00:00",
@@ -211652,19 +211639,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-11-01T16:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Donau 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-11-01T16:15:00",
@@ -215516,7 +215490,7 @@
     },
     {
       "Spieldatum": "2026-11-07T16:30:00",
-      "Heimmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Heimmannschaft": "SG FAC Wien / Essling",
       "Gastmannschaft": "Wiener Sport - Club 1b",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
@@ -216764,6 +216738,19 @@
     },
     {
       "Spieldatum": "2026-11-08T11:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "DSG Football School",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-11-08T11:00:00",
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
@@ -217242,6 +217229,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
+    },
+    {
+      "Spieldatum": "2026-11-08T13:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-08T13:00:00",
@@ -218126,32 +218126,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-08T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 G",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-08T22:22:00",
@@ -223538,7 +223512,7 @@
     {
       "Spieldatum": "2026-11-15T14:00:00",
       "Heimmannschaft": "USC Landhaus 1b",
-      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
       "Spielort": "Union Landhaus",
@@ -244441,19 +244415,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 A",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Post SV A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -244464,6 +244425,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244519,19 +244493,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894 B",
-      "Gastmannschaft": "Red Star Penzing B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Post SV B",
       "Gastmannschaft": "Donau B",
       "Typ": "Männer",
@@ -244542,6 +244503,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244610,19 +244584,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Post SV A",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -244633,6 +244594,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244688,16 +244662,16 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "SR Donaufeld",
-      "Gastmannschaft": "Red Star Penzing",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "SR Donaufeld",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U16",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
       "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244740,19 +244714,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Columbia Floridsdorf A",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Schwechat SV",
       "Typ": "Männer",
@@ -244776,6 +244737,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Columbia Floridsdorf A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -251253,16 +251227,16 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Slovan HAC",
-      "Gastmannschaft": "Red Star Penzing",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Slovan HAC",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U18",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
       "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -256700,16 +256674,16 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Stadlau A",
-      "Gastmannschaft": "Red Star Penzing A",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Stadlau A",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
       "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -256778,29 +256752,16 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Stadlau B",
-      "Gastmannschaft": "Red Star Penzing B",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Stadlau B",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
       "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Columbia Floridsdorf A",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -256856,6 +256817,19 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Columbia Floridsdorf A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "TWL Elektra A",
       "Typ": "Männer",
@@ -256866,19 +256840,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -256918,6 +256879,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -256986,19 +256960,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Dinamo Helfort A",
       "Typ": "Männer",
@@ -257009,6 +256970,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -257064,16 +257038,16 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "LAC - Inter",
-      "Gastmannschaft": "Red Star Penzing",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U18",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
       "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -270035,6 +270009,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2027-04-18T22:22:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
@@ -287952,19 +287939,6 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 G",
-      "Gastmannschaft": "First Vienna FC 1894 G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "Schmelz",
-      "Spielort Straße": "Auf der Schmelz 10",
-      "Spielort PLZ": 1150,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204006,
-      "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "Ankerbrot B",
       "Gastmannschaft": "1980 Wien C",
       "Typ": "Männer",
@@ -288001,6 +287975,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "First Vienna FC 1894 G",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
