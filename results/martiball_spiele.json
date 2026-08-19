@@ -168876,12 +168876,12 @@
       "Gastmannschaft": "DSG Vienna Falcons",
       "Typ": "Männer",
       "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-12T20:00:00",
@@ -175307,6 +175307,19 @@
     },
     {
       "Spieldatum": "2026-09-19T16:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-19T16:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -178203,19 +178216,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-20T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-21T19:30:00",
@@ -181832,6 +181832,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-09-26T20:01:00",
+      "Heimmannschaft": "DSG Kasnudel Athletic Club",
+      "Gastmannschaft": "DSG Athletes In Action",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
       "Spieldatum": "2026-09-26T20:10:00",
       "Heimmannschaft": "Dsg Dynamo Döbling",
       "Gastmannschaft": "DSG Dritter FC Bock",
@@ -184131,19 +184144,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-09-27T16:00:00",
-      "Heimmannschaft": "DSG Kasnudel Athletic Club",
-      "Gastmannschaft": "DSG Athletes In Action",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-27T16:00:00",
@@ -204543,6 +204543,19 @@
       "Longitude": 16.437126
     },
     {
+      "Spieldatum": "2026-10-23T16:15:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 G",
+      "Gastmannschaft": "First Vienna FC 1894 G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "Schmelz",
+      "Spielort Straße": "Auf der Schmelz 10",
+      "Spielort PLZ": 1150,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204006,
+      "Longitude": 16.320261
+    },
+    {
       "Spieldatum": "2026-10-23T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "Kapellerfeld",
@@ -207544,19 +207557,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-10-24T16:15:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 G",
-      "Gastmannschaft": "First Vienna FC 1894 G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "Schmelz",
-      "Spielort Straße": "Auf der Schmelz 10",
-      "Spielort PLZ": 1150,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204006,
-      "Longitude": 16.320261
     },
     {
       "Spieldatum": "2026-10-24T16:30:00",
@@ -270947,19 +270947,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2027-04-20T20:15:00",
-      "Heimmannschaft": "DSG Leon Guarani Sen.",
-      "Gastmannschaft": "Borac Vienna Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 1B",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
       "Spieldatum": "2027-04-21T20:15:00",
       "Heimmannschaft": "DSG Manner Titans Sen.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -277679,6 +277666,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-04-27T20:15:00",
+      "Heimmannschaft": "DSG Leon Guarani Sen.",
+      "Gastmannschaft": "Borac Vienna Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 1B",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-04-27T20:15:00",
