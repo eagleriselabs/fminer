@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -168586,19 +168586,6 @@
     },
     {
       "Spieldatum": "2026-09-12T18:00:00",
-      "Heimmannschaft": "DSG Roter Stern",
-      "Gastmannschaft": "DSG Atemnot",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-12T18:00:00",
       "Heimmannschaft": "DSG Latino Vienna City S.K.",
       "Gastmannschaft": "DSG Instyle FC",
       "Typ": "Männer",
@@ -171235,6 +171222,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-09-13T16:00:00",
+      "Heimmannschaft": "DSG Roter Stern",
+      "Gastmannschaft": "DSG Atemnot",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-09-13T16:00:00",
@@ -191560,7 +191560,7 @@
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "FC Bhf. Favoriten",
       "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
+      "Liga": "Oberliga A",
       "Spielort": "Rennweg",
       "Spielort Straße": "Grasbergerg. 18",
       "Spielort PLZ": 1030,
@@ -191716,7 +191716,7 @@
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "FC Bhf. Favoriten",
       "Typ": "Männer",
-      "Liga": "Oberliga A",
+      "Liga": "Oberliga A Reserve",
       "Spielort": "Rennweg",
       "Spielort Straße": "Grasbergerg. 18",
       "Spielort PLZ": 1030,
@@ -197523,19 +197523,6 @@
       "Longitude": 16.425843
     },
     {
-      "Spieldatum": "2026-10-14T19:15:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "Kalksburg",
-      "Spielort Straße": "Zangerlestraße",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.136474,
-      "Longitude": 16.22808
-    },
-    {
       "Spieldatum": "2026-10-14T19:30:00",
       "Heimmannschaft": "Ostbahn XI A",
       "Gastmannschaft": "SC Großfeld",
@@ -197573,6 +197560,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-10-14T19:45:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "Kalksburg",
+      "Spielort Straße": "Zangerlestraße",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.136474,
+      "Longitude": 16.22808
     },
     {
       "Spieldatum": "2026-10-14T20:00:00",
@@ -225890,19 +225890,6 @@
     },
     {
       "Spieldatum": "2026-11-21T11:30:00",
-      "Heimmannschaft": "Wienerberg 1921",
-      "Gastmannschaft": "SC Großfeld",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-11-21T11:30:00",
       "Heimmannschaft": "A XIII Auhof Center B",
       "Gastmannschaft": "Kapellerfeld B",
       "Typ": "Männer",
@@ -226875,6 +226862,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-11-21T15:30:00",
+      "Heimmannschaft": "Wienerberg 1921",
+      "Gastmannschaft": "SC Großfeld",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-11-21T15:30:00",
