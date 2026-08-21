@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -158684,12 +158684,12 @@
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-08-23T17:30:00",
@@ -176555,19 +176555,6 @@
     },
     {
       "Spieldatum": "2026-09-20T10:00:00",
-      "Heimmannschaft": "DSG Danubia CSV FC",
-      "Gastmannschaft": "DSG Lokomotive Traisen FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2026-09-20T10:00:00",
       "Heimmannschaft": "FK Adige",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -176578,6 +176565,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-09-20T10:01:00",
+      "Heimmannschaft": "DSG Danubia CSV FC",
+      "Gastmannschaft": "DSG Lokomotive Traisen FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-09-20T10:20:00",
@@ -184446,19 +184446,6 @@
     },
     {
       "Spieldatum": "2026-09-27T18:00:00",
-      "Heimmannschaft": "Dsg Celtic Hernals",
-      "Gastmannschaft": "DSG LGV Wien",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-27T18:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Frauen",
@@ -184599,6 +184586,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-09-28T19:30:00",
+      "Heimmannschaft": "DSG LGV Wien",
+      "Gastmannschaft": "Dsg Celtic Hernals",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Austria Mädchen AKA  Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
@@ -229491,19 +229491,6 @@
     },
     {
       "Spieldatum": "2026-11-22T15:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Essling",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-11-22T15:00:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -230099,6 +230086,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-11-25T19:30:00",
+      "Heimmannschaft": "Essling",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2026-11-25T19:30:00",
@@ -246365,19 +246365,6 @@
     },
     {
       "Spieldatum": "2027-03-18T22:22:00",
-      "Heimmannschaft": "DSG LGV Wien",
-      "Gastmannschaft": "Dsg Celtic Hernals",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Austria Mädchen AKA  Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
-    },
-    {
-      "Spieldatum": "2027-03-18T22:22:00",
       "Heimmannschaft": "DSG Meidling",
       "Gastmannschaft": "Dsg Neulandschule",
       "Typ": "Männer",
@@ -246401,6 +246388,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-03-18T22:22:00",
+      "Heimmannschaft": "Dsg Celtic Hernals",
+      "Gastmannschaft": "DSG LGV Wien",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-18T22:22:00",
@@ -293178,6 +293178,19 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Essling",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Cro - Vienna",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -293188,19 +293201,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Essling",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
