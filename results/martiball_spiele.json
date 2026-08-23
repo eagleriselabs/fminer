@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -162840,10 +162840,10 @@
     },
     {
       "Spieldatum": "2026-09-05T20:00:00",
-      "Heimmannschaft": "Dinamo Helfort",
+      "Heimmannschaft": "Dinamo Helfort A",
       "Gastmannschaft": "Stadlau",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
+      "Liga": "WFV-LIGA U17",
       "Spielort": "Helfort",
       "Spielort Straße": "Kendlerstr. 42",
       "Spielort PLZ": 1160,
@@ -165141,10 +165141,10 @@
     },
     {
       "Spieldatum": "2026-09-06T19:00:00",
-      "Heimmannschaft": "Dinamo Helfort A",
+      "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Stadlau",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
+      "Liga": "WFV-LIGA U16",
       "Spielort": "Helfort",
       "Spielort Straße": "Kendlerstr. 42",
       "Spielort PLZ": 1160,
