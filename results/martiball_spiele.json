@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -159824,6 +159824,19 @@
     },
     {
       "Spieldatum": "2026-09-05T09:00:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-09-05T09:00:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -159964,6 +159977,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-09-05T09:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "SU Schönbrunn C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-09-05T09:00:00",
@@ -165232,19 +165258,6 @@
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
       "Heimmannschaft": "Ostbahn XI",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
       "Typ": "Männer",
@@ -165255,19 +165268,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "SU Schönbrunn C",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
@@ -172355,19 +172355,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-09-18T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "A XIII Auhof Center",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2026-09-18T20:15:00",
       "Heimmannschaft": "DSG Paulaner Wieden 1c",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -172392,6 +172379,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-18T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "A XIII Auhof Center",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-09-19T09:00:00",
@@ -180143,19 +180143,6 @@
     },
     {
       "Spieldatum": "2026-09-26T12:00:00",
-      "Heimmannschaft": "DSG Roter Stern",
-      "Gastmannschaft": "DSG Danubia CSV FC",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-26T12:00:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -184147,6 +184134,19 @@
     },
     {
       "Spieldatum": "2026-09-27T16:00:00",
+      "Heimmannschaft": "DSG Roter Stern",
+      "Gastmannschaft": "DSG Danubia CSV FC",
+      "Typ": "Männer",
+      "Liga": "DSG 1. Klasse A",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-09-27T16:00:00",
       "Heimmannschaft": "DSG Argos United 09",
       "Gastmannschaft": "Dsg Endstation Hernals",
       "Typ": "Männer",
@@ -185876,6 +185876,19 @@
     },
     {
       "Spieldatum": "2026-10-03T10:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "FCJ Alt - Ottakring",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-03T10:00:00",
       "Heimmannschaft": "Ankerbrot B",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
       "Typ": "Männer",
@@ -185886,6 +185899,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-10-03T10:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-03T10:00:00",
@@ -189750,19 +189776,6 @@
     },
     {
       "Spieldatum": "2026-10-04T12:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "FCJ Alt - Ottakring",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-04T12:00:00",
       "Heimmannschaft": "USC Landhaus G",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 G",
       "Typ": "Männer",
@@ -189786,19 +189799,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-10-04T12:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-04T12:00:00",
@@ -191491,6 +191491,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-10-09T17:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
+    },
+    {
       "Spieldatum": "2026-10-09T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "SC Mannswörth",
@@ -191751,19 +191764,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-09T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2026-10-09T20:15:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "Sportunion Mauer",
@@ -191777,6 +191777,19 @@
       "Longitude": 16.425843
     },
     {
+      "Spieldatum": "2026-10-09T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2026-10-10T00:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "SK Puntigamer Sturm Graz",
@@ -191788,19 +191801,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
-    },
-    {
-      "Spieldatum": "2026-10-10T08:30:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "1980 Wien B",
-      "Typ": "Männer",
-      "Liga": "B-Liga U11 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-10T09:00:00",
@@ -192181,6 +192181,19 @@
     },
     {
       "Spieldatum": "2026-10-10T09:00:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "1980 Wien B",
+      "Typ": "Männer",
+      "Liga": "B-Liga U11 B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-10T09:00:00",
       "Heimmannschaft": "Cro - Vienna",
       "Gastmannschaft": "SU Schönbrunn B",
       "Typ": "Männer",
@@ -192516,19 +192529,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-10-10T10:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U9 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
@@ -193611,19 +193611,6 @@
     },
     {
       "Spieldatum": "2026-10-10T14:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-10T14:00:00",
       "Heimmannschaft": "FK Austria Wien G",
       "Gastmannschaft": "Hellas Kagran B",
       "Typ": "Männer",
@@ -193871,6 +193858,19 @@
     },
     {
       "Spieldatum": "2026-10-10T14:30:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U16",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-10T14:30:00",
       "Heimmannschaft": "Ostbahn XI A",
       "Gastmannschaft": "Hellas Kagran A",
       "Typ": "Männer",
@@ -194063,19 +194063,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-10T16:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Football ProSchool Vienna",
-      "Typ": "Männer",
-      "Liga": "1.Klasse B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-10T16:00:00",
@@ -194323,6 +194310,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-10-10T16:30:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "1.Klasse B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-10T16:30:00",
@@ -195626,19 +195626,6 @@
     },
     {
       "Spieldatum": "2026-10-11T10:30:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2026-10-11T10:30:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -196819,6 +196806,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2026-10-11T15:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-11T15:35:00",
@@ -198967,6 +198967,19 @@
     },
     {
       "Spieldatum": "2026-10-17T10:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-17T10:00:00",
       "Heimmannschaft": "Ankerbrot A",
       "Gastmannschaft": "Mariahilf A",
       "Typ": "Männer",
@@ -199809,19 +199822,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-17T12:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-17T12:00:00",
@@ -202061,6 +202061,19 @@
     },
     {
       "Spieldatum": "2026-10-18T10:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "Elite B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-18T10:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -202279,19 +202292,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-18T10:30:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Elite B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U11 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-18T10:30:00",
@@ -204855,19 +204855,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-10-23T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Schwechat SV",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2026-10-23T20:10:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "1210 Wien",
@@ -204905,6 +204892,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-10-23T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-10-24T00:00:00",
@@ -224667,19 +224667,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-11-20T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2026-11-20T20:15:00",
       "Heimmannschaft": "DSG Salzachsturm",
       "Gastmannschaft": "Dsg Hetzendorf",
@@ -224691,6 +224678,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-11-20T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-11-21T00:00:00",
