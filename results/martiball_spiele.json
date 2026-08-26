@@ -159356,6 +159356,19 @@
     },
     {
       "Spieldatum": "2026-09-04T18:00:00",
+      "Heimmannschaft": "Triester",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-09-04T18:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "SK Slovan HAC",
       "Typ": "Männer",
@@ -159496,6 +159509,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-09-04T20:00:00",
+      "Heimmannschaft": "Triester",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-09-04T20:00:00",
@@ -162242,19 +162268,6 @@
     },
     {
       "Spieldatum": "2026-09-05T16:00:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-09-05T16:00:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -162629,19 +162642,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-09-05T18:00:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-09-05T18:00:00",
@@ -165099,19 +165099,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-09-06T18:00:00",
-      "Heimmannschaft": "SG FAC Wien / Essling",
-      "Gastmannschaft": "Dynama*Dynamo Donau FC",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2026-09-06T18:30:00",
@@ -185903,9 +185890,9 @@
     {
       "Spieldatum": "2026-10-03T10:00:00",
       "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
-      "Liga": "C-LIGA U9",
+      "Liga": "C-LIGA U12 B",
       "Spielort": "Nord Wien Platz",
       "Spielort Straße": "Jedlersdorfer Platz 25",
       "Spielort PLZ": 1210,
@@ -189178,19 +189165,6 @@
     },
     {
       "Spieldatum": "2026-10-04T10:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-04T10:00:00",
       "Heimmannschaft": "USC Landhaus G",
       "Gastmannschaft": "Altera Porta",
       "Typ": "Männer",
@@ -189201,6 +189175,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2026-10-04T10:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-04T10:01:00",
@@ -197573,6 +197560,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
+    },
+    {
+      "Spieldatum": "2026-10-14T19:45:00",
+      "Heimmannschaft": "SG FAC Wien / Essling",
+      "Gastmannschaft": "Dynama*Dynamo Donau FC",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2026-10-14T20:00:00",
