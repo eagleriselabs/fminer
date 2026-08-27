@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -158315,19 +158315,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-08-20T18:00:00",
-      "Heimmannschaft": "Post SV",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
       "Spieldatum": "2026-08-20T20:00:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Hellas Kagran",
@@ -159184,6 +159171,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-09-01T19:00:00",
+      "Heimmannschaft": "Post SV",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-09-01T20:00:00",
@@ -165515,19 +165515,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-09-11T17:30:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-09-11T17:45:00",
@@ -178281,6 +178268,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-23T18:00:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-09-23T18:50:00",
@@ -238006,6 +238006,19 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
+      "Heimmannschaft": "Aspern",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Aspern",
+      "Spielort Straße": "Biberhaufenweg 18",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214871,
+      "Longitude": 16.48207
+    },
+    {
+      "Spieldatum": "2027-03-07T22:22:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "Mariahilf A",
       "Typ": "Männer",
@@ -238029,19 +238042,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
