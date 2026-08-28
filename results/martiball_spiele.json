@@ -191595,19 +191595,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-10-09T18:30:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "SKN St. Pölten",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
       "Spieldatum": "2026-10-09T19:00:00",
       "Heimmannschaft": "First Vienna FC 1894 Amat.",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
@@ -191775,6 +191762,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-10-09T20:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "SKN St. Pölten",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-10T00:00:00",
@@ -204674,19 +204674,6 @@
     },
     {
       "Spieldatum": "2026-10-23T18:30:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "FAC Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-10-23T18:30:00",
       "Heimmannschaft": "Young Violets Austria Wien",
       "Gastmannschaft": "SK STURM GRAZ II",
       "Typ": "Männer",
@@ -208584,6 +208571,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-10-25T10:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "FAC Wien",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-25T10:30:00",
