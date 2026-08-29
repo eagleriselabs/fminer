@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -162476,6 +162476,32 @@
     },
     {
       "Spieldatum": "2026-09-05T17:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-09-05T17:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-09-05T17:00:00",
       "Heimmannschaft": "Wiener Sport - Club B",
       "Gastmannschaft": "A11 - R.Oberlaa",
       "Typ": "Männer",
@@ -163188,32 +163214,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-06T09:15:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-06T09:15:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-06T09:15:00",
@@ -164924,12 +164924,12 @@
       "Gastmannschaft": "DSG Rudell SKF",
       "Typ": "Männer",
       "Liga": "DSG-Cup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-06T17:00:00",
@@ -168780,19 +168780,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-09-12T19:15:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
       "Spieldatum": "2026-09-12T19:30:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Ankerbrot",
@@ -171303,6 +171290,19 @@
     },
     {
       "Spieldatum": "2026-09-13T16:30:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-09-13T16:30:00",
       "Heimmannschaft": "LAC - Inter",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -172889,6 +172889,19 @@
     },
     {
       "Spieldatum": "2026-09-19T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Post SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-09-19T09:00:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -172899,6 +172912,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-09-19T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Post SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-19T09:00:00",
@@ -176214,32 +176240,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-09-20T09:00:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Post SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-09-20T09:00:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Post SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-20T09:00:00",
