@@ -160634,12 +160634,12 @@
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-05T10:30:00",
@@ -161375,12 +161375,12 @@
       "Gastmannschaft": "Hellas Kagran",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-05T12:30:00",
@@ -161648,12 +161648,12 @@
       "Gastmannschaft": "DSG Wien Wanderers FC",
       "Typ": "Männer",
       "Liga": "DSG-Cup",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-09-05T13:30:00",
@@ -196644,12 +196644,12 @@
       "Gastmannschaft": "Ankerbrot B",
       "Typ": "Männer",
       "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-11T14:30:00",
@@ -208769,6 +208769,19 @@
     },
     {
       "Spieldatum": "2026-10-25T11:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-10-25T11:00:00",
       "Heimmannschaft": "LAC - Inter",
       "Gastmannschaft": "Wiener Sport - Club",
       "Typ": "Männer",
@@ -209189,12 +209202,12 @@
       "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 C",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
       "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-10-25T12:30:00",
@@ -210027,19 +210040,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-10-25T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
@@ -216742,12 +216742,12 @@
       "Gastmannschaft": "DSG Football School",
       "Typ": "Männer",
       "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-11-08T11:00:00",
@@ -217236,12 +217236,12 @@
       "Gastmannschaft": "Hellas Kagran B",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 C",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-11-08T13:00:00",
@@ -220482,19 +220482,6 @@
     },
     {
       "Spieldatum": "2026-11-14T14:00:00",
-      "Heimmannschaft": "ASV 13 A",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U13 A",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-11-14T14:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Essling",
       "Typ": "Männer",
@@ -220843,6 +220830,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-14T15:00:00",
+      "Heimmannschaft": "ASV 13 A",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U13 A",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-11-14T15:00:00",
@@ -232909,6 +232909,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2026-12-03T19:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-12-03T22:22:00",
       "Heimmannschaft": "DSG Meidling",
       "Gastmannschaft": "DSG Argos United 09",
@@ -232933,19 +232946,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
-    },
-    {
-      "Spieldatum": "2026-12-04T19:15:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-12-05T00:00:00",
@@ -239271,12 +239271,12 @@
       "Gastmannschaft": "DSG Atemnot",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
@@ -239505,12 +239505,12 @@
       "Gastmannschaft": "DSG Inter Leopoldau",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
@@ -239713,12 +239713,12 @@
       "Gastmannschaft": "Marianum 1b",
       "Typ": "Männer",
       "Liga": "DSG Reserve B",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
@@ -245303,12 +245303,12 @@
       "Gastmannschaft": "Altera Porta 1d",
       "Typ": "Frauen",
       "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-03-14T23:59:00",
@@ -250022,12 +250022,12 @@
       "Gastmannschaft": "Mariahilf B",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -250165,12 +250165,12 @@
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -257510,12 +257510,12 @@
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Frauen",
       "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-04T23:59:00",
@@ -258043,12 +258043,12 @@
       "Gastmannschaft": "DSG Danubia CSV FC",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-08T22:22:00",
@@ -262619,12 +262619,12 @@
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -264673,12 +264673,12 @@
       "Gastmannschaft": "DSG Athletik Kalksburg",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-15T22:22:00",
@@ -264933,12 +264933,12 @@
       "Gastmannschaft": "Dsg Celtic Salmannsd.",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-15T22:22:00",
@@ -265102,12 +265102,12 @@
       "Gastmannschaft": "DSG Vienna Vibes",
       "Typ": "Männer",
       "Liga": "DSG Reserve B",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-15T22:22:00",
@@ -270458,12 +270458,12 @@
       "Gastmannschaft": "Mannswörth 1b",
       "Typ": "Frauen",
       "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-18T23:59:00",
@@ -270978,12 +270978,12 @@
       "Gastmannschaft": "DSG Tudi Wien F.C.",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-22T22:22:00",
@@ -275580,12 +275580,12 @@
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -277985,12 +277985,12 @@
       "Gastmannschaft": "DSG Südtirol 16",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-29T22:22:00",
@@ -278154,12 +278154,12 @@
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
       "Liga": "DSG Reserve B",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-04-29T22:22:00",
@@ -281716,12 +281716,12 @@
       "Gastmannschaft": "USC Landhaus G",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -284017,12 +284017,12 @@
       "Gastmannschaft": "DSG Roter Stern",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-05-06T22:22:00",
@@ -290075,12 +290075,12 @@
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Frauen",
       "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-05-09T23:59:00",
@@ -290764,12 +290764,12 @@
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-05-13T22:22:00",
@@ -295106,12 +295106,12 @@
       "Gastmannschaft": "Altera Porta G",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -295262,12 +295262,12 @@
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -303218,12 +303218,12 @@
       "Gastmannschaft": "DSG Young Boys Döbling",
       "Typ": "Männer",
       "Liga": "DSG 1. Klasse A",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-06-03T22:22:00",
@@ -303348,12 +303348,12 @@
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
       "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2027-06-03T22:22:00",
@@ -306845,12 +306845,12 @@
       "Gastmannschaft": "Hellas Kagran G",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -306962,12 +306962,12 @@
       "Gastmannschaft": "DSG Football School",
       "Typ": "Männer",
       "Liga": "C-LIGA U15",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
       "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
