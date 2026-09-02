@@ -162879,6 +162879,19 @@
     },
     {
       "Spieldatum": "2026-09-05T20:00:00",
+      "Heimmannschaft": "Ostbahn XI",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-09-05T20:00:00",
       "Heimmannschaft": "DSG Royal Vienna",
       "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
       "Typ": "Männer",
@@ -165245,19 +165258,6 @@
     },
     {
       "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Ostbahn XI",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
@@ -165496,12 +165496,12 @@
       "Gastmannschaft": "DSG Latino Vienna City S.K.",
       "Typ": "Männer",
       "Liga": "DSG-Cup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
       "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-09-11T15:30:00",
@@ -167244,19 +167244,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-09-12T12:00:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Going Toulouse",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-12T12:00:00",
@@ -170351,6 +170338,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-09-13T12:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Going Toulouse",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-09-13T12:00:00",
@@ -191777,19 +191777,6 @@
       "Longitude": 16.359464
     },
     {
-      "Spieldatum": "2026-10-10T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SK Puntigamer Sturm Graz",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-10-10T09:00:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "Wienerberg 1921 A",
@@ -194635,6 +194622,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-10-10T19:30:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SK Puntigamer Sturm Graz",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-10-10T19:45:00",
@@ -197862,6 +197862,19 @@
     },
     {
       "Spieldatum": "2026-10-16T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "TSV Egger Glas Hartberg",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-10-16T19:30:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Cro - Vienna",
       "Typ": "Männer",
@@ -198028,19 +198041,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-10-17T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "TSV Egger Glas Hartberg",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-10-17T09:00:00",
@@ -204894,19 +204894,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-10-24T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "SC Austria Lustenau",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-10-24T09:00:00",
       "Heimmannschaft": "Slovan HAC A",
       "Gastmannschaft": "Marswiese",
@@ -207911,6 +207898,19 @@
     },
     {
       "Spieldatum": "2026-10-24T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "SC Austria Lustenau",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-10-24T19:30:00",
       "Heimmannschaft": "DSG Los Andes FC",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
@@ -210211,19 +210211,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-31T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-10-31T09:00:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG WU Kickers",
@@ -211694,6 +211681,19 @@
     },
     {
       "Spieldatum": "2026-11-01T17:00:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-11-01T17:00:00",
       "Heimmannschaft": "DSG O Jessas",
       "Gastmannschaft": "DSG Latino Vienna City S.K.",
       "Typ": "Männer",
@@ -212383,6 +212383,19 @@
     },
     {
       "Spieldatum": "2026-11-06T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "RZ Pellets WAC",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-11-06T19:30:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
@@ -212523,19 +212536,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-11-07T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "RZ Pellets WAC",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2026-11-07T08:45:00",
@@ -224693,19 +224693,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2026-11-21T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "FC Red Bull Salzburg",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
-    },
-    {
       "Spieldatum": "2026-11-21T09:00:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "FavAC A",
@@ -229816,6 +229803,19 @@
     },
     {
       "Spieldatum": "2026-11-22T17:00:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "FC Red Bull Salzburg",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-11-22T17:00:00",
       "Heimmannschaft": "DSG Lokomotive Traisen FC",
       "Gastmannschaft": "DSG Wien Wanderers FC",
       "Typ": "Männer",
@@ -230320,19 +230320,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-11-28T00:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "RZ Pellets WAC",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "GENERALI-Arena",
-      "Spielort Straße": "Horrplatz 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1611885,
-      "Longitude": 16.3883313
     },
     {
       "Spieldatum": "2026-11-28T09:00:00",
@@ -231649,6 +231636,19 @@
     },
     {
       "Spieldatum": "2026-11-28T17:00:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "RZ Pellets WAC",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "GENERALI-Arena",
+      "Spielort Straße": "Horrplatz 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1611885,
+      "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-11-28T17:00:00",
       "Heimmannschaft": "Hirschstetten A",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
@@ -232948,19 +232948,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-12-05T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "LASK",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-12-05T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "SK Rapid",
@@ -233780,6 +233767,19 @@
       "Longitude": 16.425843
     },
     {
+      "Spieldatum": "2026-12-05T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "LASK",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
+    },
+    {
       "Spieldatum": "2026-12-06T09:00:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Donau A",
@@ -234287,19 +234287,6 @@
       "Longitude": 16.359464
     },
     {
-      "Spieldatum": "2026-12-12T00:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "SV Oberbank Ried",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
-      "Spielort": "Allianz Stadion",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.197339,
-      "Longitude": 16.265628
-    },
-    {
       "Spieldatum": "2026-12-12T15:30:00",
       "Heimmannschaft": "Young Violets Austria Wien",
       "Gastmannschaft": "FC Wacker Innsbruck",
@@ -234311,6 +234298,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2026-12-12T19:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "SV Oberbank Ried",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL Bundesliga - Grunddurchgang",
+      "Spielort": "Allianz Stadion",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.197339,
+      "Longitude": 16.265628
     },
     {
       "Spieldatum": "2027-01-23T00:00:00",
