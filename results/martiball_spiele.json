@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -161163,19 +161163,6 @@
     },
     {
       "Spieldatum": "2026-09-05T12:00:00",
-      "Heimmannschaft": "DSV Fortuna 05 A",
-      "Gastmannschaft": "Mannswörth A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U11 A",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-09-05T12:00:00",
       "Heimmannschaft": "1210 Wien",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Männer",
@@ -161225,19 +161212,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-09-05T12:00:00",
-      "Heimmannschaft": "DSV Fortuna 05 B",
-      "Gastmannschaft": "Mannswörth B",
-      "Typ": "Männer",
-      "Liga": "B-Liga U11 B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-09-05T12:00:00",
@@ -174683,6 +174657,19 @@
     },
     {
       "Spieldatum": "2026-09-19T14:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "A XIII Auhof Center",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U17",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-09-19T14:00:00",
       "Heimmannschaft": "1980 Wien",
       "Gastmannschaft": "A XIII Auhof Center A",
       "Typ": "Männer",
@@ -175603,19 +175590,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2026-09-19T18:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "A XIII Auhof Center",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U17",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-09-19T18:00:00",
@@ -183865,12 +183839,12 @@
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
       "Liga": "C-LIGA U11 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
       "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-09-27T14:30:00",
@@ -185278,19 +185252,6 @@
     },
     {
       "Spieldatum": "2026-10-03T09:00:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 F",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-03T09:00:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Stadlau A",
       "Typ": "Männer",
@@ -186146,6 +186107,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-03T10:30:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 F",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-10-03T10:30:00",
@@ -204973,19 +204947,6 @@
     },
     {
       "Spieldatum": "2026-10-24T09:00:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 F",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-24T09:00:00",
       "Heimmannschaft": "Donau A",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -207999,6 +207960,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-10-25T09:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 F",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-10-25T09:00:00",
@@ -230414,6 +230388,19 @@
     },
     {
       "Spieldatum": "2026-11-28T09:00:00",
+      "Heimmannschaft": "DSV Fortuna 05 A",
+      "Gastmannschaft": "Mannswörth A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U11 A",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-11-28T09:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
@@ -230632,6 +230619,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-11-28T10:30:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Mannswörth B",
+      "Typ": "Männer",
+      "Liga": "B-Liga U11 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-11-28T10:30:00",
