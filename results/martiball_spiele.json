@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -161618,19 +161618,6 @@
     },
     {
       "Spieldatum": "2026-09-05T13:30:00",
-      "Heimmannschaft": "DSG Aurora Athletics",
-      "Gastmannschaft": "DSG Wien Wanderers FC",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-09-05T13:30:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -161654,6 +161641,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2026-09-05T13:31:00",
+      "Heimmannschaft": "DSG Aurora Athletics",
+      "Gastmannschaft": "DSG Wien Wanderers FC",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-09-05T13:45:00",
@@ -161994,6 +161994,19 @@
       "Longitude": 16.425843
     },
     {
+      "Spieldatum": "2026-09-05T14:30:00",
+      "Heimmannschaft": "Aspern",
+      "Gastmannschaft": "Hirschstetten",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Aspern",
+      "Spielort Straße": "Biberhaufenweg 18",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214871,
+      "Longitude": 16.48207
+    },
+    {
       "Spieldatum": "2026-09-05T14:45:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Yellow Star",
@@ -162137,19 +162150,6 @@
       "Longitude": 16.430898
     },
     {
-      "Spieldatum": "2026-09-05T15:30:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
-    },
-    {
       "Spieldatum": "2026-09-05T15:45:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "Penarol Wien",
@@ -162285,12 +162285,12 @@
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-05T16:00:00",
@@ -162434,6 +162434,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-09-05T17:00:00",
+      "Heimmannschaft": "Aspern",
+      "Gastmannschaft": "Hirschstetten",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Aspern",
+      "Spielort Straße": "Biberhaufenweg 18",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214871,
+      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-09-05T17:00:00",
@@ -162642,19 +162655,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-09-05T18:00:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-09-05T18:00:00",
@@ -185720,10 +185720,10 @@
     },
     {
       "Spieldatum": "2026-10-03T10:00:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Slovan HAC",
+      "Heimmannschaft": "FavAC B",
+      "Gastmannschaft": "Post SV B",
       "Typ": "Männer",
-      "Liga": "A-LIGA U13 A",
+      "Liga": "A-LIGA U13 B",
       "Spielort": "FavAC",
       "Spielort Straße": "Kennerg. 3",
       "Spielort PLZ": 1100,
@@ -189347,6 +189347,19 @@
     },
     {
       "Spieldatum": "2026-10-04T11:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Slovan HAC",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U13 A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-10-04T11:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa B",
       "Gastmannschaft": "Dinamo Helfort B",
       "Typ": "Männer",
@@ -189357,19 +189370,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-10-04T11:00:00",
-      "Heimmannschaft": "FavAC B",
-      "Gastmannschaft": "Post SV B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U13 B",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-10-04T11:00:00",
@@ -193000,10 +193000,10 @@
     },
     {
       "Spieldatum": "2026-10-10T12:00:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Wienerberg 1921",
+      "Heimmannschaft": "FavAC B",
+      "Gastmannschaft": "Wienerberg 1921 B",
       "Typ": "Männer",
-      "Liga": "A-LIGA U13 A",
+      "Liga": "A-LIGA U13 B",
       "Spielort": "FavAC",
       "Spielort Straße": "Kennerg. 3",
       "Spielort PLZ": 1100,
@@ -195171,10 +195171,10 @@
     },
     {
       "Spieldatum": "2026-10-11T09:30:00",
-      "Heimmannschaft": "FavAC B",
-      "Gastmannschaft": "Wienerberg 1921 B",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Wienerberg 1921",
       "Typ": "Männer",
-      "Liga": "A-LIGA U13 B",
+      "Liga": "A-LIGA U13 A",
       "Spielort": "FavAC",
       "Spielort Straße": "Kennerg. 3",
       "Spielort PLZ": 1100,
@@ -200942,19 +200942,6 @@
       "Longitude": 16.370454
     },
     {
-      "Spieldatum": "2026-10-17T16:00:00",
-      "Heimmannschaft": "SK Rapid 1c",
-      "Gastmannschaft": "FC Altera Porta",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
-    },
-    {
       "Spieldatum": "2026-10-17T16:10:00",
       "Heimmannschaft": "DSG Paulaner Wieden",
       "Gastmannschaft": "DSG Los Andes FC",
@@ -201382,6 +201369,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-10-17T19:15:00",
+      "Heimmannschaft": "SK Rapid 1c",
+      "Gastmannschaft": "FC Altera Porta",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-17T19:30:00",
@@ -213098,10 +213098,10 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SR Donaufeld A",
+      "Heimmannschaft": "FavAC B",
+      "Gastmannschaft": "SR Donaufeld B",
       "Typ": "Männer",
-      "Liga": "A-LIGA U13 A",
+      "Liga": "A-LIGA U13 B",
       "Spielort": "FavAC",
       "Spielort Straße": "Kennerg. 3",
       "Spielort PLZ": 1100,
@@ -217570,10 +217570,10 @@
     },
     {
       "Spieldatum": "2026-11-08T15:00:00",
-      "Heimmannschaft": "FavAC B",
-      "Gastmannschaft": "SR Donaufeld B",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SR Donaufeld A",
       "Typ": "Männer",
-      "Liga": "A-LIGA U13 B",
+      "Liga": "A-LIGA U13 A",
       "Spielort": "FavAC",
       "Spielort Straße": "Kennerg. 3",
       "Spielort PLZ": 1100,
