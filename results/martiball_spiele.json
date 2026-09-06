@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -162787,19 +162787,6 @@
       "Longitude": 16.335761
     },
     {
-      "Spieldatum": "2026-09-05T19:30:00",
-      "Heimmannschaft": "SC Großfeld",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "Großfeld",
-      "Spielort Straße": "Julius Ficker Str.",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.265404,
-      "Longitude": 16.443979
-    },
-    {
       "Spieldatum": "2026-09-05T20:00:00",
       "Heimmannschaft": "RB Jedlesee",
       "Gastmannschaft": "Patron Wien",
@@ -163620,19 +163607,6 @@
     },
     {
       "Spieldatum": "2026-09-06T11:00:00",
-      "Heimmannschaft": "Altera Porta G",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-09-06T11:00:00",
       "Heimmannschaft": "1980 Wien",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -164361,19 +164335,6 @@
     },
     {
       "Spieldatum": "2026-09-06T14:00:00",
-      "Heimmannschaft": "SR Donaufeld 1b",
-      "Gastmannschaft": "Torin Adler",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
-      "Spieldatum": "2026-09-06T14:00:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -164553,6 +164514,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-09-06T15:00:00",
+      "Heimmannschaft": "SR Donaufeld 1b",
+      "Gastmannschaft": "Torin Adler",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-09-06T15:00:00",
@@ -165203,19 +165177,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-06T22:22:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-09-08T18:15:00",
@@ -191986,6 +191947,19 @@
     },
     {
       "Spieldatum": "2026-10-10T09:00:00",
+      "Heimmannschaft": "NAC",
+      "Gastmannschaft": "Kapellerfeld A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 E",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-10-10T09:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -192009,19 +191983,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-10-10T09:00:00",
-      "Heimmannschaft": "NAC",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-10-10T09:00:00",
@@ -194963,6 +194924,19 @@
     },
     {
       "Spieldatum": "2026-10-11T09:00:00",
+      "Heimmannschaft": "NAC",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "NAC",
+      "Spielort Straße": "Grinzinger Straße 111",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.254256,
+      "Longitude": 16.360667
+    },
+    {
+      "Spieldatum": "2026-10-11T09:00:00",
       "Heimmannschaft": "Mariahilf A",
       "Gastmannschaft": "SU Schönbrunn A",
       "Typ": "Männer",
@@ -195155,19 +195129,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-10-11T09:30:00",
-      "Heimmannschaft": "NAC",
-      "Gastmannschaft": "Kapellerfeld A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 E",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
     },
     {
       "Spieldatum": "2026-10-11T09:30:00",
