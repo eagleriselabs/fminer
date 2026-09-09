@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -163659,19 +163659,6 @@
     },
     {
       "Spieldatum": "2026-09-06T11:00:00",
-      "Heimmannschaft": "Mariahilf 1c",
-      "Gastmannschaft": "Dynama*Dynamo Donau FC",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-09-06T11:00:00",
       "Heimmannschaft": "Gartenstadt",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
@@ -166831,19 +166818,6 @@
     },
     {
       "Spieldatum": "2026-09-12T11:00:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Hernalser Spartans FC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-12T11:00:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -166932,6 +166906,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2026-09-12T11:30:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Hernalser Spartans FC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-09-12T11:30:00",
@@ -171731,11 +171718,11 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2026-09-15T20:15:00",
-      "Heimmannschaft": "Marianum Sen.",
-      "Gastmannschaft": "TWL Elektra Sen.",
+      "Spieldatum": "2026-09-15T19:00:00",
+      "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
+      "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
-      "Liga": "DSG Senioren 1A",
+      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -171745,10 +171732,10 @@
     },
     {
       "Spieldatum": "2026-09-15T20:15:00",
-      "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
-      "Gastmannschaft": "DSG Vienna Internationals Sen.",
+      "Heimmannschaft": "Marianum Sen.",
+      "Gastmannschaft": "TWL Elektra Sen.",
       "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
+      "Liga": "DSG Senioren 1A",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -175243,9 +175230,9 @@
     {
       "Spieldatum": "2026-09-19T16:15:00",
       "Heimmannschaft": "NAC",
-      "Gastmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "Gerasdorf Stammersdorf A",
       "Typ": "Männer",
-      "Liga": "B-LIGA U15",
+      "Liga": "A-LIGA U16",
       "Spielort": "NAC",
       "Spielort Straße": "Grinzinger Straße 111",
       "Spielort PLZ": 1190,
@@ -177583,9 +177570,9 @@
     {
       "Spieldatum": "2026-09-20T15:15:00",
       "Heimmannschaft": "NAC",
-      "Gastmannschaft": "Gerasdorf Stammersdorf A",
+      "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
-      "Liga": "A-LIGA U16",
+      "Liga": "B-LIGA U15",
       "Spielort": "NAC",
       "Spielort Straße": "Grinzinger Straße 111",
       "Spielort PLZ": 1190,
@@ -179701,19 +179688,6 @@
     },
     {
       "Spieldatum": "2026-09-26T11:00:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-09-26T11:00:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Schwechat SV B",
       "Typ": "Männer",
@@ -179880,6 +179854,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2026-09-26T11:30:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-09-26T11:30:00",
@@ -184550,6 +184537,19 @@
     },
     {
       "Spieldatum": "2026-09-29T19:00:00",
+      "Heimmannschaft": "Dsg T.Hietzing Sen.",
+      "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-09-29T19:00:00",
       "Heimmannschaft": "Ostbahn XI Sen.",
       "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
@@ -184567,19 +184567,6 @@
       "Gastmannschaft": "TWL Elektra Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-29T20:15:00",
-      "Heimmannschaft": "Dsg T.Hietzing Sen.",
-      "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -192857,19 +192844,6 @@
     },
     {
       "Spieldatum": "2026-10-10T11:00:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "Dsg Hetzendorf",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
-    },
-    {
-      "Spieldatum": "2026-10-10T11:00:00",
       "Heimmannschaft": "Altera Porta 1c",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC 1b",
       "Typ": "Frauen",
@@ -193000,6 +192974,19 @@
     },
     {
       "Spieldatum": "2026-10-10T11:30:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "Dsg Hetzendorf",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-10-10T11:30:00",
       "Heimmannschaft": "Sportunion Mauer B",
       "Gastmannschaft": "FAC Wien B",
       "Typ": "Männer",
@@ -193127,19 +193114,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247428,
       "Longitude": 16.359464
-    },
-    {
-      "Spieldatum": "2026-10-10T12:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Hellas Kagran G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 B",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-10-10T12:00:00",
@@ -196055,6 +196029,19 @@
     },
     {
       "Spieldatum": "2026-10-11T12:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "Hellas Kagran G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 B",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-10-11T12:00:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -197471,6 +197458,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-10-12T19:00:00",
+      "Heimmannschaft": "DSG Vienna Internationals Sen.",
+      "Gastmannschaft": "Dsg T.Hietzing Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-10-12T19:45:00",
       "Heimmannschaft": "DSG Magic Unicorns",
       "Gastmannschaft": "Dsg Cover - Direct SC",
@@ -197489,19 +197489,6 @@
       "Gastmannschaft": "DSG Leon Guarani Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-10-12T20:15:00",
-      "Heimmannschaft": "DSG Vienna Internationals Sen.",
-      "Gastmannschaft": "Dsg T.Hietzing Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -197586,6 +197573,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.136474,
       "Longitude": 16.22808
+    },
+    {
+      "Spieldatum": "2026-10-14T19:45:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-10-14T19:45:00",
@@ -197703,19 +197703,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.158608,
       "Longitude": 16.394901
-    },
-    {
-      "Spieldatum": "2026-10-15T19:45:00",
-      "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
     },
     {
       "Spieldatum": "2026-10-15T22:22:00",
@@ -198808,19 +198795,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2026-10-17T10:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Dinamo Helfort B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U14 B",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-10-17T10:00:00",
@@ -203010,6 +202984,19 @@
     },
     {
       "Spieldatum": "2026-10-18T13:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "Dinamo Helfort B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U14 B",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-10-18T13:00:00",
       "Heimmannschaft": "Srbija Wien",
       "Gastmannschaft": "Ankerbrot A",
       "Typ": "Männer",
@@ -204426,6 +204413,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-10-21T19:00:00",
+      "Heimmannschaft": "Ostbahn XI Sen.",
+      "Gastmannschaft": "Dsg T.Hietzing Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-10-21T19:30:00",
       "Heimmannschaft": "Cro - Vienna",
       "Gastmannschaft": "SR Donaufeld",
@@ -204496,19 +204496,6 @@
       "Gastmannschaft": "DSG Twentyone Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-10-21T20:15:00",
-      "Heimmannschaft": "Ostbahn XI Sen.",
-      "Gastmannschaft": "Dsg T.Hietzing Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -206416,19 +206403,6 @@
     },
     {
       "Spieldatum": "2026-10-24T12:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 B",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-10-24T12:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "Marswiese",
       "Typ": "Männer",
@@ -206985,6 +206959,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-24T14:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 B",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-10-24T14:00:00",
@@ -210237,17 +210224,17 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-31T09:00:00",
+      "Spieldatum": "2026-10-31T11:00:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG WU Kickers",
       "Typ": "Männer",
       "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-10-31T11:30:00",
@@ -218193,6 +218180,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-11-09T19:00:00",
+      "Heimmannschaft": "Dsg T.Hietzing Sen.",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2026-11-09T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG District West AS",
@@ -218276,19 +218276,6 @@
       "Gastmannschaft": "DSG Manner Titans Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-09T20:15:00",
-      "Heimmannschaft": "Dsg T.Hietzing Sen.",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -224238,17 +224225,17 @@
       "Longitude": 16.408953
     },
     {
-      "Spieldatum": "2026-11-15T20:00:00",
+      "Spieldatum": "2026-11-15T19:45:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG Billroth Fc",
       "Typ": "Männer",
       "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
       "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-11-15T20:00:00",
@@ -231141,6 +231128,19 @@
       "Longitude": 16.360667
     },
     {
+      "Spieldatum": "2026-11-28T13:30:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Salzachsturm",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-11-28T13:45:00",
       "Heimmannschaft": "FAC Wien A",
       "Gastmannschaft": "TWL Elektra A",
@@ -231243,19 +231243,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
-    },
-    {
-      "Spieldatum": "2026-11-28T14:00:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Salzachsturm",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "WAF Gruabn",
-      "Spielort Straße": "Meldemannstr. 13",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.239916,
-      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-11-28T14:00:00",
@@ -245780,6 +245767,19 @@
     },
     {
       "Spieldatum": "2027-03-15T19:00:00",
+      "Heimmannschaft": "DSG Vienna Internationals Sen.",
+      "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-03-15T19:00:00",
       "Heimmannschaft": "Dsg T.Hietzing Sen.",
       "Gastmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Typ": "Männer",
@@ -245810,19 +245810,6 @@
       "Gastmannschaft": "Marianum Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2027-03-15T20:15:00",
-      "Heimmannschaft": "DSG Vienna Internationals Sen.",
-      "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -258077,11 +258064,11 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2027-04-07T20:15:00",
-      "Heimmannschaft": "DSG Idee Sen.",
-      "Gastmannschaft": "DSG Manner Titans Sen.",
+      "Spieldatum": "2027-04-07T19:00:00",
+      "Heimmannschaft": "DSG Vienna Internationals Sen.",
+      "Gastmannschaft": "Ostbahn XI Sen.",
       "Typ": "Männer",
-      "Liga": "DSG Senioren 1B",
+      "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -258091,10 +258078,10 @@
     },
     {
       "Spieldatum": "2027-04-07T20:15:00",
-      "Heimmannschaft": "DSG Vienna Internationals Sen.",
-      "Gastmannschaft": "Ostbahn XI Sen.",
+      "Heimmannschaft": "DSG Idee Sen.",
+      "Gastmannschaft": "DSG Manner Titans Sen.",
       "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
+      "Liga": "DSG Senioren 1B",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -277708,6 +277695,19 @@
     },
     {
       "Spieldatum": "2027-04-27T19:00:00",
+      "Heimmannschaft": "Dsg T.Hietzing Sen.",
+      "Gastmannschaft": "DSG Vienna Internationals Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-04-27T19:00:00",
       "Heimmannschaft": "Ostbahn XI Sen.",
       "Gastmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Typ": "Männer",
@@ -277744,19 +277744,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-04-27T20:15:00",
-      "Heimmannschaft": "Dsg T.Hietzing Sen.",
-      "Gastmannschaft": "DSG Vienna Internationals Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2027-04-28T20:15:00",
@@ -290525,6 +290512,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2027-05-12T19:00:00",
+      "Heimmannschaft": "Dsg T.Hietzing Sen.",
+      "Gastmannschaft": "Ostbahn XI Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
       "Spieldatum": "2027-05-12T20:15:00",
       "Heimmannschaft": "DSG Twentyone Sen.",
       "Gastmannschaft": "Wiener Sport - Club Sen.",
@@ -290562,19 +290562,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-05-12T20:15:00",
-      "Heimmannschaft": "Dsg T.Hietzing Sen.",
-      "Gastmannschaft": "Ostbahn XI Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2027-05-13T22:22:00",
@@ -297299,6 +297286,19 @@
     },
     {
       "Spieldatum": "2027-05-24T19:00:00",
+      "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "Dsg T.Hietzing Sen.",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-05-24T19:00:00",
       "Heimmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
@@ -297361,19 +297361,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-05-24T20:15:00",
-      "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "Dsg T.Hietzing Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2027-05-27T17:00:00",
