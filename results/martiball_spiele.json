@@ -162709,19 +162709,6 @@
       "Longitude": 16.38679
     },
     {
-      "Spieldatum": "2026-09-05T18:30:00",
-      "Heimmannschaft": "Dsg Celtic Salmannsd.",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
       "Spieldatum": "2026-09-05T19:00:00",
       "Heimmannschaft": "Sportunion Schönbrunn",
       "Gastmannschaft": "Kapellerfeld",
@@ -166909,19 +166896,6 @@
     },
     {
       "Spieldatum": "2026-09-12T11:30:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Hernalser Spartans FC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-09-12T11:30:00",
       "Heimmannschaft": "FC Hernalser Spartans",
       "Gastmannschaft": "Altera Porta 1c",
       "Typ": "Frauen",
@@ -166945,6 +166919,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-09-12T11:31:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Hernalser Spartans FC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-09-12T11:45:00",
@@ -179857,19 +179844,6 @@
     },
     {
       "Spieldatum": "2026-09-26T11:30:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Großglockner Falken",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-09-26T11:30:00",
       "Heimmannschaft": "FC Hernalser Spartans",
       "Gastmannschaft": "Junitas",
       "Typ": "Frauen",
@@ -179893,6 +179867,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-09-26T11:31:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Großglockner Falken",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-09-26T11:45:00",
@@ -181681,12 +181668,12 @@
       "Gastmannschaft": "DSG Rudell SKF",
       "Typ": "Männer",
       "Liga": "DSG Oberliga A",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
       "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-09-26T20:00:00",
@@ -191335,6 +191322,19 @@
       "Longitude": 16.32412
     },
     {
+      "Spieldatum": "2026-10-08T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Finanzprofis Wr. Neustadt",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-10-08T20:15:00",
       "Heimmannschaft": "Marswiese 1b",
       "Gastmannschaft": "DSG Spice Balls All Stars",
@@ -191385,19 +191385,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Finanzprofis Wr. Neustadt",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
@@ -192974,19 +192961,6 @@
     },
     {
       "Spieldatum": "2026-10-10T11:30:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "Dsg Hetzendorf",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-10-10T11:30:00",
       "Heimmannschaft": "Sportunion Mauer B",
       "Gastmannschaft": "FAC Wien B",
       "Typ": "Männer",
@@ -192997,6 +192971,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-10-10T11:31:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "Dsg Hetzendorf",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-10-10T11:45:00",
@@ -194323,6 +194310,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-10-10T17:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "Mello Wien",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "Donaustadt - Gemeinde Wien 22",
+      "Spielort Straße": "Am Langen Felde 60",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250398,
+      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-10-10T17:00:00",
@@ -197079,19 +197079,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-11T17:00:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "Mello Wien",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "Donaustadt - Gemeinde Wien 22",
-      "Spielort Straße": "Am Langen Felde 60",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250398,
-      "Longitude": 16.449018
     },
     {
       "Spieldatum": "2026-10-11T17:00:00",
@@ -210224,7 +210211,7 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-31T11:00:00",
+      "Spieldatum": "2026-10-31T11:01:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG WU Kickers",
       "Typ": "Männer",
@@ -224225,7 +224212,7 @@
       "Longitude": 16.408953
     },
     {
-      "Spieldatum": "2026-11-15T19:45:00",
+      "Spieldatum": "2026-11-15T19:46:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG Billroth Fc",
       "Typ": "Männer",
@@ -231128,7 +231115,7 @@
       "Longitude": 16.360667
     },
     {
-      "Spieldatum": "2026-11-28T13:30:00",
+      "Spieldatum": "2026-11-28T13:31:00",
       "Heimmannschaft": "DSG Nepomuk",
       "Gastmannschaft": "DSG Salzachsturm",
       "Typ": "Männer",
