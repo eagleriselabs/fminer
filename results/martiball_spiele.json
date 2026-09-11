@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -191388,6 +191388,19 @@
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
+      "Heimmannschaft": "DSG Real Döbling",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-08T22:22:00",
       "Heimmannschaft": "DSG Tudi Wien F.C.",
       "Gastmannschaft": "Dsg Spice Balls",
       "Typ": "Männer",
@@ -191491,6 +191504,19 @@
       "Longitude": 16.291942
     },
     {
+      "Spieldatum": "2026-10-09T17:30:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
+    },
+    {
       "Spieldatum": "2026-10-09T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "SC Mannswörth",
@@ -191567,19 +191593,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.183499,
       "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-10-09T18:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-10-09T18:00:00",
@@ -191738,11 +191751,11 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-09T20:15:00",
+      "Spieldatum": "2026-10-09T20:00:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
+      "Liga": "Wiener Stadtliga",
       "Spielort": "Simmering",
       "Spielort Straße": "Simmeringer Hauptstr. 207-211",
       "Spielort PLZ": 1110,
@@ -192532,19 +192545,6 @@
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Gastmannschaft": "USC Landhaus G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2026-10-10T10:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "SK Rapid G",
       "Typ": "Männer",
@@ -193088,6 +193088,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-10-10T12:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Gastmannschaft": "USC Landhaus G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U12 B",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-10-10T12:00:00",
@@ -204286,19 +204299,6 @@
       "Spieldatum": "2026-10-19T20:15:00",
       "Heimmannschaft": "DSG Leon Guarani Sen.",
       "Gastmannschaft": "DSG Idee Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 1B",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-19T20:15:00",
-      "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
       "Typ": "Männer",
       "Liga": "DSG Senioren 1B",
       "Spielort": "Marswiese",
@@ -224275,6 +224275,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-11-16T20:15:00",
+      "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Senioren 1B",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-11-16T20:30:00",
