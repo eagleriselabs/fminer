@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -163438,7 +163438,7 @@
     },
     {
       "Spieldatum": "2026-09-06T10:30:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "Hirschstetten A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -169080,7 +169080,7 @@
     },
     {
       "Spieldatum": "2026-09-13T09:00:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -173423,7 +173423,7 @@
     {
       "Spieldatum": "2026-09-19T10:30:00",
       "Heimmannschaft": "NAC",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "NAC",
@@ -183016,7 +183016,7 @@
     },
     {
       "Spieldatum": "2026-09-27T12:00:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "1980 Wien A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -186410,7 +186410,7 @@
     {
       "Spieldatum": "2026-10-03T11:30:00",
       "Heimmannschaft": "Ostbahn XI A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Ostbahn 11",
@@ -191140,6 +191140,19 @@
       "Longitude": 16.310258
     },
     {
+      "Spieldatum": "2026-10-06T19:45:00",
+      "Heimmannschaft": "DSG Magic Unicorns",
+      "Gastmannschaft": "DSG Aurora Athletics",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Sportplatz Siebenhirten/Wien SC",
+      "Spielort Straße": "Anton Freunschlaggasse 34-52",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.132162,
+      "Longitude": 16.320427
+    },
+    {
       "Spieldatum": "2026-10-06T20:00:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Danubia CSV FC",
@@ -191203,6 +191216,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-10-07T19:30:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-10-07T19:30:00",
@@ -191375,19 +191401,6 @@
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Magic Unicorns",
-      "Gastmannschaft": "DSG Aurora Athletics",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Rapid Oberlaa",
-      "Spielort Straße": "Franzosenweg 34",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.139637,
-      "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
       "Heimmannschaft": "DSG Real Döbling",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -191398,6 +191411,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-08T22:22:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
@@ -194911,19 +194937,6 @@
     },
     {
       "Spieldatum": "2026-10-11T09:00:00",
-      "Heimmannschaft": "Cro - Vienna A",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 F",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-10-11T09:00:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -195080,7 +195093,7 @@
     },
     {
       "Spieldatum": "2026-10-11T09:00:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "SU Schönbrunn A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -196455,6 +196468,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-10-11T14:00:00",
+      "Heimmannschaft": "Cro - Vienna A",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 F",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-10-11T14:00:00",
@@ -201242,19 +201268,6 @@
     },
     {
       "Spieldatum": "2026-10-17T18:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-17T18:00:00",
       "Heimmannschaft": "Dinamo Helfort A",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -202855,7 +202868,7 @@
     {
       "Spieldatum": "2026-10-18T12:30:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "ASK Erlaa",
@@ -204556,6 +204569,19 @@
       "Longitude": 16.320261
     },
     {
+      "Spieldatum": "2026-10-23T17:00:00",
+      "Heimmannschaft": "Cro - Vienna",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
       "Spieldatum": "2026-10-23T17:45:00",
       "Heimmannschaft": "FC Stadlau",
       "Gastmannschaft": "Kapellerfeld",
@@ -204671,6 +204697,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-23T18:30:00",
+      "Heimmannschaft": "First Vienna FC 1894",
+      "Gastmannschaft": "FAC Wien",
+      "Typ": "Männer",
+      "Liga": "ADMIRAL 2. Liga",
+      "Spielort": "Naturarena Hohe Warte",
+      "Spielort Straße": "Klabundgasse",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247428,
+      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-23T18:30:00",
@@ -205126,19 +205165,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-10-24T09:00:00",
-      "Heimmannschaft": "Cro - Vienna",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U9 A",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-10-24T09:00:00",
@@ -208119,7 +208145,7 @@
     },
     {
       "Spieldatum": "2026-10-25T09:00:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "Hellas Kagran A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -208571,19 +208597,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-25T10:30:00",
-      "Heimmannschaft": "First Vienna FC 1894",
-      "Gastmannschaft": "FAC Wien",
-      "Typ": "Männer",
-      "Liga": "ADMIRAL 2. Liga",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
     },
     {
       "Spieldatum": "2026-10-25T10:30:00",
@@ -210118,6 +210131,71 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Ebu Hanife Wien",
+      "Gastmannschaft": "DSG Sonntag 2012",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Eventus Wien",
+      "Gastmannschaft": "DSG Ukraina Wien SKV",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Kasnudel Athletic Club",
+      "Gastmannschaft": "DSG Rudolfsheim I.F.",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Rudell SKF",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "Dsg Celtic Salmannsd.",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-30T18:30:00",
@@ -216049,7 +216127,7 @@
     },
     {
       "Spieldatum": "2026-11-08T09:00:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "A XIII Auhof Center",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -225332,7 +225410,7 @@
     {
       "Spieldatum": "2026-11-21T10:00:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Donaustadt - Gemeinde Wien 22",
@@ -242479,7 +242557,7 @@
     {
       "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Hirschstetten A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "WFV-22 Hirschstetten",
@@ -246561,7 +246639,7 @@
     {
       "Spieldatum": "2027-03-20T10:30:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Fortuna 05",
@@ -254685,7 +254763,7 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "NAC",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -261303,7 +261381,7 @@
     {
       "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "1980 Wien A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Franz Koci Anlage",
@@ -267828,7 +267906,7 @@
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "Ostbahn XI A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -274290,7 +274368,7 @@
     {
       "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "SU Schönbrunn A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Sportunion Schönbrunn",
@@ -280841,7 +280919,7 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -287121,7 +287199,7 @@
     {
       "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "Hellas Kagran A",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Hellas Kagran Sport-Arena",
@@ -294166,7 +294244,7 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
@@ -300082,7 +300160,7 @@
     {
       "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "A XIII Auhof Center",
-      "Gastmannschaft": "Essling A",
+      "Gastmannschaft": "Essling C",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
       "Spielort": "Kinkplatz - Austria 13",
@@ -305840,7 +305918,7 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Essling A",
+      "Heimmannschaft": "Essling C",
       "Gastmannschaft": "Mannswörth A",
       "Typ": "Männer",
       "Liga": "B-LIGA U11 A",
