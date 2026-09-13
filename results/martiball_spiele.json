@@ -166440,19 +166440,6 @@
       "Longitude": 16.435964
     },
     {
-      "Spieldatum": "2026-09-12T10:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U9",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
       "Spieldatum": "2026-09-12T10:15:00",
       "Heimmannschaft": "Slovan HAC A",
       "Gastmannschaft": "WAF pinova Telekom",
@@ -171576,32 +171563,6 @@
     },
     {
       "Spieldatum": "2026-09-13T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "KSC / FCB Donaustadt",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-09-13T22:22:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-09-13T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
@@ -175696,19 +175657,6 @@
       "Longitude": 16.303975
     },
     {
-      "Spieldatum": "2026-09-19T19:00:00",
-      "Heimmannschaft": "Columbia Floridsdorf",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Columbia",
-      "Spielort Straße": "Überfuhrstraße 2b",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269294,
-      "Longitude": 16.38053
-    },
-    {
       "Spieldatum": "2026-09-19T19:10:00",
       "Heimmannschaft": "DSG Paulaner Wieden",
       "Gastmannschaft": "Dsg Panda",
@@ -175798,6 +175746,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-09-19T20:00:00",
+      "Heimmannschaft": "Columbia Floridsdorf",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Columbia",
+      "Spielort Straße": "Überfuhrstraße 2b",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269294,
+      "Longitude": 16.38053
     },
     {
       "Spieldatum": "2026-09-19T20:10:00",
