@@ -171641,19 +171641,6 @@
     },
     {
       "Spieldatum": "2026-09-15T19:00:00",
-      "Heimmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
-      "Gastmannschaft": "Dsg T.Hietzing Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-15T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
@@ -184510,6 +184497,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2026-09-30T19:00:00",
+      "Heimmannschaft": "DSG Roter Stern",
+      "Gastmannschaft": "DSG Sektor 17",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2026-09-30T19:15:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Cro - Vienna",
@@ -191102,6 +191102,19 @@
     },
     {
       "Spieldatum": "2026-10-06T20:00:00",
+      "Heimmannschaft": "DSG 1150 Allstars FC",
+      "Gastmannschaft": "DSG Inter Leopoldau",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-10-06T20:00:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Danubia CSV FC",
       "Typ": "Männer",
@@ -191112,6 +191125,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-10-06T20:10:00",
+      "Heimmannschaft": "DSG Young Boys Döbling",
+      "Gastmannschaft": "DSG Royal Rainer",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-06T20:15:00",
@@ -191141,8 +191167,8 @@
     },
     {
       "Spieldatum": "2026-10-07T18:45:00",
-      "Heimmannschaft": "DSG Roter Stern",
-      "Gastmannschaft": "DSG Sektor 17",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Semper Victoria",
       "Typ": "Männer",
       "Liga": "DSG-Cup",
       "Spielort": "Red Star Auto",
@@ -191322,6 +191348,32 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-10-08T20:00:00",
+      "Heimmannschaft": "DSG Tudi Wien F.C.",
+      "Gastmannschaft": "Dsg Spice Balls",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-10-08T20:10:00",
+      "Heimmannschaft": "DSG Real Döbling",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-10-08T20:15:00",
       "Heimmannschaft": "Marswiese 1b",
       "Gastmannschaft": "DSG Spice Balls All Stars",
@@ -191349,58 +191401,6 @@
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG 1150 Allstars FC",
-      "Gastmannschaft": "DSG Inter Leopoldau",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Real Döbling",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Tudi Wien F.C.",
-      "Gastmannschaft": "Dsg Spice Balls",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
       "Heimmannschaft": "DSG Vienna Falcons",
       "Gastmannschaft": "DSG PlayTogetherNow Funs",
       "Typ": "Männer",
@@ -191411,19 +191411,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Young Boys Döbling",
-      "Gastmannschaft": "DSG Royal Rainer",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-08T22:22:00",
@@ -210094,6 +210081,19 @@
       "Longitude": 16.38053
     },
     {
+      "Spieldatum": "2026-10-29T20:10:00",
+      "Heimmannschaft": "DSG Eventus Wien",
+      "Gastmannschaft": "DSG Ukraina Wien SKV",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-10-29T22:22:00",
       "Heimmannschaft": "DSG Ebu Hanife Wien",
       "Gastmannschaft": "DSG Sonntag 2012",
@@ -210105,19 +210105,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Eventus Wien",
-      "Gastmannschaft": "DSG Ukraina Wien SKV",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-10-29T22:22:00",
