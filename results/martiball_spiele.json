@@ -181624,19 +181624,6 @@
       "Longitude": 16.310258
     },
     {
-      "Spieldatum": "2026-09-26T20:00:00",
-      "Heimmannschaft": "DSG Fallen Angels FC",
-      "Gastmannschaft": "DSG Sektor 17",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
       "Spieldatum": "2026-09-26T20:01:00",
       "Heimmannschaft": "DSG Kasnudel Athletic Club",
       "Gastmannschaft": "DSG Athletes In Action",
@@ -181648,6 +181635,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-26T20:01:00",
+      "Heimmannschaft": "DSG Fallen Angels FC",
+      "Gastmannschaft": "DSG Sektor 17",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-09-26T20:10:00",
@@ -182691,6 +182691,19 @@
     },
     {
       "Spieldatum": "2026-09-27T11:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "FavAC",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U16",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-09-27T11:00:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Wiener Akademik",
       "Typ": "Männer",
@@ -182740,19 +182753,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-09-27T11:00:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-27T11:00:00",
@@ -183328,19 +183328,6 @@
     },
     {
       "Spieldatum": "2026-09-27T13:00:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "FavAC",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U16",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-09-27T13:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Wienerberg 1921",
       "Typ": "Männer",
@@ -183416,6 +183403,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-09-27T13:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-09-27T13:10:00",
@@ -184476,6 +184476,19 @@
       "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 2",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-09-29T19:00:00",
+      "Heimmannschaft": "Dsg Neulandschule",
+      "Gastmannschaft": "DSG Vienna Vibes",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
       "Spielort": "Ostbahn 11",
       "Spielort Straße": "Hasenleitengasse 49",
       "Spielort PLZ": 1110,
@@ -191115,6 +191128,19 @@
     },
     {
       "Spieldatum": "2026-10-06T20:00:00",
+      "Heimmannschaft": "DSG Vienna Falcons",
+      "Gastmannschaft": "DSG PlayTogetherNow Funs",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-10-06T20:00:00",
       "Heimmannschaft": "DSG Vienna Internationals",
       "Gastmannschaft": "DSG Danubia CSV FC",
       "Typ": "Männer",
@@ -191400,32 +191426,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "DSG Vienna Falcons",
-      "Gastmannschaft": "DSG PlayTogetherNow Funs",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-08T22:22:00",
-      "Heimmannschaft": "Dsg Neulandschule",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
       "Spieldatum": "2026-10-09T16:30:00",
       "Heimmannschaft": "Aspern",
       "Gastmannschaft": "Liesing ASK",
@@ -191476,6 +191476,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.133841,
       "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-10-09T17:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-10-09T17:30:00",
@@ -194689,7 +194702,7 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-10-10T20:00:00",
+      "Spieldatum": "2026-10-10T20:01:00",
       "Heimmannschaft": "DSG Fallen Angels FC",
       "Gastmannschaft": "DSG District West AS",
       "Typ": "Männer",
@@ -196273,19 +196286,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.254256,
       "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-10-11T13:00:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-10-11T13:10:00",
@@ -204036,7 +204036,7 @@
       "Longitude": 16.408953
     },
     {
-      "Spieldatum": "2026-10-18T18:00:00",
+      "Spieldatum": "2026-10-18T18:01:00",
       "Heimmannschaft": "DSG Fallen Angels FC",
       "Gastmannschaft": "DSG Argos United 09",
       "Typ": "Männer",
@@ -218141,7 +218141,7 @@
       "Longitude": 16.395031
     },
     {
-      "Spieldatum": "2026-11-08T20:00:00",
+      "Spieldatum": "2026-11-08T20:01:00",
       "Heimmannschaft": "DSG Fallen Angels FC",
       "Gastmannschaft": "DSG Vienna Vibes",
       "Typ": "Männer",
