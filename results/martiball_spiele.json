@@ -166440,6 +166440,19 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2026-09-12T10:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "DSG Football School",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
       "Spieldatum": "2026-09-12T10:15:00",
       "Heimmannschaft": "Slovan HAC A",
       "Gastmannschaft": "WAF pinova Telekom",
@@ -171846,19 +171859,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-09-17T22:22:00",
-      "Heimmannschaft": "Dsg Celtic Hernals",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-09-18T18:00:00",
@@ -191713,19 +191713,6 @@
     },
     {
       "Spieldatum": "2026-10-09T20:00:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-09T20:00:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
@@ -197261,6 +197248,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.28306,
       "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-11T18:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-10-11T18:10:00",
@@ -209744,6 +209744,19 @@
     },
     {
       "Spieldatum": "2026-10-25T16:00:00",
+      "Heimmannschaft": "DSG Salzachsturm",
+      "Gastmannschaft": "Dsg Celtic Salmannsd.",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-10-25T16:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "DSG Alxingergasse",
       "Typ": "Frauen",
@@ -210131,19 +210144,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Salzachsturm",
-      "Gastmannschaft": "Dsg Celtic Salmannsd.",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-30T18:30:00",
@@ -213345,19 +213345,6 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
-      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "Kapellerfeld",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U17",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-07T10:00:00",
       "Heimmannschaft": "Ankerbrot A",
       "Gastmannschaft": "Elite A",
       "Typ": "Männer",
@@ -214213,19 +214200,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-07T12:00:00",
-      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-07T12:00:00",
@@ -215386,19 +215360,6 @@
     },
     {
       "Spieldatum": "2026-11-07T16:00:00",
-      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "DSG Play Together Now",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-07T16:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
@@ -216358,6 +216319,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U17",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
@@ -217804,6 +217778,19 @@
     },
     {
       "Spieldatum": "2026-11-08T16:00:00",
+      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Gastmannschaft": "DSG Play Together Now",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-11-08T16:00:00",
       "Heimmannschaft": "DSG Argos United 09",
       "Gastmannschaft": "Dsg Celtic Hernals",
       "Typ": "Männer",
@@ -218087,6 +218074,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-08T19:30:00",
+      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-08T19:30:00",
