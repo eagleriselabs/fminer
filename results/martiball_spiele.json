@@ -184550,6 +184550,19 @@
     },
     {
       "Spieldatum": "2026-09-30T19:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-09-30T19:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "Slovan HAC",
       "Typ": "Männer",
@@ -190176,19 +190189,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-10-04T14:30:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-10-04T14:40:00",
@@ -204986,19 +204986,6 @@
     },
     {
       "Spieldatum": "2026-10-24T09:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
-    },
-    {
-      "Spieldatum": "2026-10-24T09:00:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Essling B",
       "Typ": "Männer",
@@ -205282,19 +205269,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-24T09:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-24T09:00:00",
@@ -205815,19 +205789,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-24T10:30:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-24T10:30:00",
@@ -206374,19 +206335,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.277874,
       "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-10-24T12:00:00",
-      "Heimmannschaft": "SK Rapid",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-24T12:30:00",
@@ -208002,6 +207950,19 @@
     },
     {
       "Spieldatum": "2026-10-25T09:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
+    },
+    {
+      "Spieldatum": "2026-10-25T09:00:00",
       "Heimmannschaft": "Donau C",
       "Gastmannschaft": "Liesing ASK",
       "Typ": "Männer",
@@ -208246,6 +208207,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-25T09:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-25T09:15:00",
@@ -208571,6 +208545,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-10-25T10:30:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-25T10:30:00",
@@ -209026,6 +209013,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
+    },
+    {
+      "Spieldatum": "2026-10-25T12:00:00",
+      "Heimmannschaft": "SK Rapid",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-25T12:00:00",
@@ -212120,6 +212120,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-04T19:30:00",
+      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-04T19:30:00",
@@ -218074,19 +218087,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-11-08T19:30:00",
-      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-08T19:30:00",
