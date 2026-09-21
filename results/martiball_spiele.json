@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -211161,6 +211161,19 @@
     },
     {
       "Spieldatum": "2026-11-01T11:00:00",
+      "Heimmannschaft": "Mariahilf 1b",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2.Klasse",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-11-01T11:00:00",
       "Heimmannschaft": "Gartenstadt",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
@@ -211236,19 +211249,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-11-01T12:00:00",
-      "Heimmannschaft": "Mariahilf 1b",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-11-01T13:00:00",
