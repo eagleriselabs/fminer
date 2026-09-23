@@ -176152,19 +176152,6 @@
     },
     {
       "Spieldatum": "2026-09-20T09:30:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "Columbia Floridsdorf B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-09-20T09:30:00",
       "Heimmannschaft": "FSC Favoriten",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
@@ -189958,19 +189945,6 @@
     },
     {
       "Spieldatum": "2026-10-04T14:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-04T14:00:00",
       "Heimmannschaft": "DSG Paulaner Wieden",
       "Gastmannschaft": "DSG Südtirol 16",
       "Typ": "Männer",
@@ -190748,6 +190722,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-10-04T18:00:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U16",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-04T18:00:00",
@@ -213332,6 +213319,19 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "B-Liga U11 B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-07T10:00:00",
       "Heimmannschaft": "Ankerbrot A",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -214174,19 +214174,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-11-07T12:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "B-Liga U11 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-11-07T12:00:00",
