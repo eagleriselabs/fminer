@@ -171641,19 +171641,6 @@
     },
     {
       "Spieldatum": "2026-09-15T19:00:00",
-      "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "Ostbahn XI Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-15T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Gastmannschaft": "DSG Vienna Internationals Sen.",
       "Typ": "Männer",
@@ -178177,19 +178164,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-09-24T22:22:00",
-      "Heimmannschaft": "DSG Meidling",
-      "Gastmannschaft": "DSG Vienna Vibes",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "KR Wiener Viktoria Platz (Wien 12. Bez.)",
-      "Spielort Straße": "Oswaldgasse 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1676533,
-      "Longitude": 16.3253127
     },
     {
       "Spieldatum": "2026-09-25T17:45:00",
@@ -193039,6 +193013,19 @@
     },
     {
       "Spieldatum": "2026-10-10T12:00:00",
+      "Heimmannschaft": "Elite",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "Oberliga B Reserve",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-10-10T12:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
@@ -194076,19 +194063,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
-    },
-    {
-      "Spieldatum": "2026-10-10T16:00:00",
-      "Heimmannschaft": "Elite",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "Oberliga B Reserve",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-10-10T16:00:00",
