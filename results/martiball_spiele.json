@@ -179146,12 +179146,12 @@
       "Gastmannschaft": "Wiener Sport - Club",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U12",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2026-09-25T18:00:00",
@@ -181755,19 +181755,6 @@
     },
     {
       "Spieldatum": "2026-09-26T16:00:00",
-      "Heimmannschaft": "Mariahilf",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-09-26T16:00:00",
       "Heimmannschaft": "DSG Südtirol 07",
       "Gastmannschaft": "DSG Vienna Internationals",
       "Typ": "Männer",
@@ -182051,19 +182038,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
-    },
-    {
-      "Spieldatum": "2026-09-26T17:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-09-26T17:00:00",
@@ -193767,6 +193741,19 @@
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
+      "Heimmannschaft": "Elite",
+      "Gastmannschaft": "DSG Football School",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U15",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-10-10T10:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "SK Rapid G",
       "Typ": "Männer",
@@ -194063,19 +194050,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-10-10T11:00:00",
-      "Heimmannschaft": "Elite",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U15",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2026-10-10T11:00:00",
@@ -199003,6 +198977,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-10-14T19:45:00",
+      "Heimmannschaft": "Penzinger SV",
+      "Gastmannschaft": "Gipsy Kings Vienna",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
     },
     {
       "Spieldatum": "2026-10-14T19:45:00",
@@ -206025,32 +206012,6 @@
       "Longitude": 16.336755752563477
     },
     {
-      "Spieldatum": "2026-10-21T00:00:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "NAC",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-10-21T00:00:00",
-      "Heimmannschaft": "Penzinger SV",
-      "Gastmannschaft": "Gipsy Kings Vienna",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
       "Spieldatum": "2026-10-21T18:45:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "1.Simmeringer SC",
@@ -206192,6 +206153,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-10-21T20:00:00",
+      "Heimmannschaft": "Marianum",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2026-10-21T20:00:00",
@@ -235507,6 +235481,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-11-29T22:22:00",
+      "Heimmannschaft": "Mariahilf",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 A",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-11-30T19:30:00",
