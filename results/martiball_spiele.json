@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -179870,19 +179870,6 @@
     },
     {
       "Spieldatum": "2026-09-26T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer A",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-09-26T10:00:00",
       "Heimmannschaft": "Sportunion Mauer B",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -180257,19 +180244,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2026-09-26T10:40:00",
-      "Heimmannschaft": "Mariahilf A",
-      "Gastmannschaft": "Ostbahn XI A",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 B",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-09-26T10:40:00",
@@ -185175,19 +185149,6 @@
     {
       "Spieldatum": "2026-09-27T18:00:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-27T18:00:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Frauen",
       "Liga": "Frauen 1.Klasse",
@@ -185301,19 +185262,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-09-27T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
