@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -180247,6 +180247,19 @@
     },
     {
       "Spieldatum": "2026-09-26T10:40:00",
+      "Heimmannschaft": "Mariahilf A",
+      "Gastmannschaft": "Ostbahn XI A",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 B",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-09-26T10:40:00",
       "Heimmannschaft": "Mariahilf B",
       "Gastmannschaft": "Ostbahn XI B",
       "Typ": "Männer",
@@ -188515,6 +188528,19 @@
     },
     {
       "Spieldatum": "2026-10-03T15:00:00",
+      "Heimmannschaft": "FK Austria Wien 1c",
+      "Gastmannschaft": "First Vienna FC 1894 1c",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Austria Mädchen AKA  Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-10-03T15:00:00",
       "Heimmannschaft": "SK Rapid 1c",
       "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
@@ -188915,19 +188941,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-10-03T17:00:00",
-      "Heimmannschaft": "FK Austria Wien 1c",
-      "Gastmannschaft": "First Vienna FC 1894 1c",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Austria Mädchen AKA  Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-10-03T17:15:00",
@@ -198889,6 +198902,19 @@
     },
     {
       "Spieldatum": "2026-10-14T19:30:00",
+      "Heimmannschaft": "Cro - Vienna",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-10-14T19:30:00",
       "Heimmannschaft": "Ostbahn XI",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
@@ -198990,19 +199016,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-14T20:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Cro - Vienna",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-14T20:00:00",
@@ -283350,16 +283363,16 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "Cro - Vienna",
-      "Gastmannschaft": "1210 Wien",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Cro - Vienna",
       "Typ": "Männer",
       "Liga": "A-LIGA U18",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
