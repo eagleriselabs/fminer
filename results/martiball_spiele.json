@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -185343,19 +185343,6 @@
     },
     {
       "Spieldatum": "2026-09-29T19:00:00",
-      "Heimmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-29T19:00:00",
       "Heimmannschaft": "Dsg T.Hietzing Sen.",
       "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Typ": "Männer",
@@ -211343,6 +211330,19 @@
     },
     {
       "Spieldatum": "2026-10-25T14:00:00",
+      "Heimmannschaft": "GEPS 21 FC",
+      "Gastmannschaft": "Mariahilf 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2.Klasse",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-10-25T14:00:00",
       "Heimmannschaft": "SR Donaufeld 1b",
       "Gastmannschaft": "Gartenstadt",
       "Typ": "Männer",
@@ -211681,19 +211681,6 @@
     },
     {
       "Spieldatum": "2026-10-25T16:00:00",
-      "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "Mariahilf 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-25T16:00:00",
       "Heimmannschaft": "Torin Adler",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -211940,6 +211927,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-10-28T18:45:00",
+      "Heimmannschaft": "DSG Kasnudel Athletic Club",
+      "Gastmannschaft": "DSG Rudolfsheim I.F.",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-10-28T19:30:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "Schwechat SV",
@@ -212029,19 +212029,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Kasnudel Athletic Club",
-      "Gastmannschaft": "DSG Rudolfsheim I.F.",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-10-30T19:00:00",
