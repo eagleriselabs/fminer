@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -180611,19 +180611,6 @@
     },
     {
       "Spieldatum": "2026-09-26T11:45:00",
-      "Heimmannschaft": "Hellas Kagran",
-      "Gastmannschaft": "Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-09-26T11:45:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -185496,19 +185483,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-09-30T20:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-09-30T20:00:00",
@@ -191687,6 +191661,19 @@
     },
     {
       "Spieldatum": "2026-10-04T17:00:00",
+      "Heimmannschaft": "Hellas Kagran",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2026-10-04T17:00:00",
       "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "Rennweger SV",
       "Typ": "Männer",
@@ -192763,19 +192750,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2026-10-09T19:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-10-09T19:30:00",
@@ -205947,19 +205921,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-10-21T00:00:00",
-      "Heimmannschaft": "Margaretner AC",
-      "Gastmannschaft": "Real Wien",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
       "Spieldatum": "2026-10-21T18:45:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "1.Simmeringer SC",
@@ -206049,6 +206010,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.207304,
       "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-10-21T19:30:00",
+      "Heimmannschaft": "Margaretner AC",
+      "Gastmannschaft": "Real Wien",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-10-21T19:30:00",
@@ -232676,6 +232650,19 @@
     },
     {
       "Spieldatum": "2026-11-25T20:00:00",
+      "Heimmannschaft": "1210 Wien",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-25T20:00:00",
       "Heimmannschaft": "DSG Athletik Kalksburg",
       "Gastmannschaft": "DSG Finanzprofis Wr. Neustadt",
       "Typ": "Männer",
@@ -233934,6 +233921,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2026-11-28T14:45:00",
+      "Heimmannschaft": "Wiener Sport - Club A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-11-28T15:00:00",
@@ -236846,19 +236846,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-12-06T22:22:00",
-      "Heimmannschaft": "Wiener Sport - Club A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-12-11T18:30:00",
@@ -281098,6 +281085,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2027-04-25T23:59:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2027-04-25T23:59:00",
