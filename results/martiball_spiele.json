@@ -179870,6 +179870,19 @@
     },
     {
       "Spieldatum": "2026-09-26T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-09-26T10:00:00",
       "Heimmannschaft": "Sportunion Mauer B",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -183939,19 +183952,6 @@
     },
     {
       "Spieldatum": "2026-09-27T12:00:00",
-      "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-27T12:00:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
@@ -185628,19 +185628,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-10-01T22:22:00",
-      "Heimmannschaft": "Dsg Neulandschule",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
       "Spieldatum": "2026-10-02T18:00:00",
       "Heimmannschaft": "Ostbahn XI",
       "Gastmannschaft": "Essling",
@@ -186770,19 +186757,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-03T10:15:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-03T10:15:00",
@@ -188779,12 +188753,12 @@
       "Gastmannschaft": "Austria XIII Auhof Center",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-03T16:00:00",
@@ -189578,6 +189552,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-10-04T09:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-04T09:00:00",
@@ -211304,19 +211291,6 @@
     },
     {
       "Spieldatum": "2026-10-25T14:00:00",
-      "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "Mariahilf 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-25T14:00:00",
       "Heimmannschaft": "SR Donaufeld 1b",
       "Gastmannschaft": "Gartenstadt",
       "Typ": "Männer",
@@ -211652,6 +211626,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2026-10-25T16:00:00",
+      "Heimmannschaft": "GEPS 21 FC",
+      "Gastmannschaft": "Mariahilf 1b",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2.Klasse",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-10-25T16:00:00",
@@ -212003,19 +211990,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-30T19:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "SK Slovan HAC",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-10-30T19:30:00",
@@ -212504,6 +212478,19 @@
       "Gastmannschaft": "SG FAC Wien / Essling",
       "Typ": "Frauen",
       "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-10-31T14:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "SK Slovan HAC",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
       "Spielort": "First Vienna Football Campus",
       "Spielort Straße": "Spielmanng. 8",
       "Spielort PLZ": 1200,
@@ -220546,19 +220533,6 @@
       "Longitude": 16.449018
     },
     {
-      "Spieldatum": "2026-11-13T19:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2026-11-13T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Columbia Floridsdorf",
@@ -222767,6 +222741,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-11-14T14:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-14T14:00:00",
@@ -232753,19 +232740,6 @@
       "Longitude": 16.425843
     },
     {
-      "Spieldatum": "2026-11-27T19:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 Amat.",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2026-11-27T20:00:00",
       "Heimmannschaft": "Cro - Vienna",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -235091,6 +235065,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-11-29T14:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 Amat.",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-29T14:30:00",
