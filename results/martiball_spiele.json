@@ -164387,19 +164387,6 @@
     },
     {
       "Spieldatum": "2026-09-06T12:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-09-06T12:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Rennweger SV",
       "Typ": "Männer",
@@ -187453,12 +187440,12 @@
       "Gastmannschaft": "Columbia Floridsdorf B",
       "Typ": "Männer",
       "Liga": "A-LIGA U12 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-03T12:00:00",
@@ -191206,19 +191193,6 @@
     },
     {
       "Spieldatum": "2026-10-04T15:00:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-04T15:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -191294,19 +191268,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.207304,
       "Longitude": 16.428909
-    },
-    {
-      "Spieldatum": "2026-10-04T15:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-10-04T15:00:00",
@@ -191609,19 +191570,6 @@
     },
     {
       "Spieldatum": "2026-10-04T17:00:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga U23",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-04T17:00:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "DSV Fortuna 05",
       "Typ": "Männer",
@@ -191645,19 +191593,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-04T17:00:00",
-      "Heimmannschaft": "Hellas Kagran",
-      "Gastmannschaft": "Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-10-04T17:00:00",
@@ -191778,6 +191713,19 @@
     },
     {
       "Spieldatum": "2026-10-04T17:30:00",
+      "Heimmannschaft": "Ankerbrot",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-10-04T17:30:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Cro - Vienna A",
       "Typ": "Männer",
@@ -191847,19 +191795,6 @@
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
       "Liga": "B-LIGA U16",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-04T18:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U15",
       "Spielort": "Nord Wien Platz",
       "Spielort Straße": "Jedlersdorfer Platz 25",
       "Spielort PLZ": 1210,
@@ -192009,6 +191944,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-10-04T19:30:00",
+      "Heimmannschaft": "Ankerbrot",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga U23",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-10-04T20:00:00",
@@ -192477,6 +192425,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-10-08T17:00:00",
+      "Heimmannschaft": "Hellas Kagran",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-10-08T19:30:00",
@@ -198447,6 +198408,19 @@
     },
     {
       "Spieldatum": "2026-10-11T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Austria XVII",
+      "Typ": "Männer",
+      "Liga": "1.Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-10-11T18:00:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -198548,19 +198522,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-11T18:10:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Austria XVII",
-      "Typ": "Männer",
-      "Liga": "1.Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-10-11T18:30:00",
@@ -199029,19 +198990,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-15T18:30:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-10-15T18:30:00",
@@ -209380,6 +209328,19 @@
     },
     {
       "Spieldatum": "2026-10-24T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "Patron Wien",
+      "Typ": "Männer",
+      "Liga": "1.Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-10-24T18:00:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "ASV 13",
       "Typ": "Männer",
@@ -209442,19 +209403,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-10-24T18:10:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Patron Wien",
-      "Typ": "Männer",
-      "Liga": "1.Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-10-24T18:15:00",
@@ -213540,19 +213488,6 @@
     },
     {
       "Spieldatum": "2026-11-01T16:30:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U17",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2026-11-01T16:30:00",
       "Heimmannschaft": "Wiener Sport - Club B",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -216725,19 +216660,6 @@
     },
     {
       "Spieldatum": "2026-11-07T14:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2026-11-07T14:00:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC 1b",
       "Gastmannschaft": "Mannswörth",
       "Typ": "Frauen",
@@ -217505,6 +217427,19 @@
     },
     {
       "Spieldatum": "2026-11-07T18:00:00",
+      "Heimmannschaft": "Teco7 FC",
+      "Gastmannschaft": "FC Brigittenau",
+      "Typ": "Männer",
+      "Liga": "1.Klasse B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2026-11-07T18:00:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -217593,19 +217528,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-07T18:10:00",
-      "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "FC Brigittenau",
-      "Typ": "Männer",
-      "Liga": "1.Klasse B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-11-07T18:15:00",
@@ -233352,6 +233274,19 @@
     },
     {
       "Spieldatum": "2026-11-28T12:00:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U15",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-28T12:00:00",
       "Heimmannschaft": "DSG Kasnudel Athletic Club",
       "Gastmannschaft": "DSG Porzelona",
       "Typ": "Männer",
@@ -235418,19 +235353,6 @@
       "Longitude": 16.3396
     },
     {
-      "Spieldatum": "2026-11-29T22:22:00",
-      "Heimmannschaft": "Mariahilf",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
       "Spieldatum": "2026-11-30T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -236768,6 +236690,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2026-12-06T17:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U17",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-12-06T17:45:00",
@@ -246274,19 +246209,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
@@ -252966,19 +252888,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -265735,19 +265644,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Rennweger SV",
       "Typ": "Männer",
@@ -272154,19 +272050,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2027-04-18T22:22:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
@@ -292151,19 +292034,6 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Mariahilf",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 B",
       "Gastmannschaft": "Gerasdorf Stammersdorf B",
       "Typ": "Männer",
@@ -299155,19 +299025,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -311115,19 +310972,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
