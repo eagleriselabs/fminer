@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -186006,19 +186006,6 @@
     },
     {
       "Spieldatum": "2026-10-03T09:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-03T09:00:00",
       "Heimmannschaft": "Ostbahn XI",
       "Gastmannschaft": "Altera Porta G",
       "Typ": "Männer",
@@ -188330,19 +188317,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-10-03T14:30:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-10-03T14:30:00",
