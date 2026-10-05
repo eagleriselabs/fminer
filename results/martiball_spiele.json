@@ -194547,19 +194547,6 @@
     },
     {
       "Spieldatum": "2026-10-10T14:00:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-10-10T14:00:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "1.Simmeringer SC A",
       "Typ": "Männer",
@@ -195441,6 +195428,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-10-10T18:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2026-10-10T18:00:00",
@@ -196559,6 +196559,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2026-10-11T10:30:00",
+      "Heimmannschaft": "Rennweger SV",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-10-11T10:30:00",
@@ -202385,6 +202398,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-10-17T17:00:00",
+      "Heimmannschaft": "FK Austria Wien 1c",
+      "Gastmannschaft": "USC Landhaus 1b",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Austria Mädchen AKA  Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
+    },
+    {
       "Spieldatum": "2026-10-17T17:15:00",
       "Heimmannschaft": "DSG Wolf Park Rangers",
       "Gastmannschaft": "DSG Vienna Internationals",
@@ -205308,19 +205334,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-18T17:00:00",
-      "Heimmannschaft": "FK Austria Wien 1c",
-      "Gastmannschaft": "USC Landhaus 1b",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Austria Mädchen AKA  Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-10-18T17:10:00",
@@ -277120,19 +277133,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Rennweger SV",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
