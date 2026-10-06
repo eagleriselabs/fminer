@@ -186500,6 +186500,19 @@
     },
     {
       "Spieldatum": "2026-10-03T10:00:00",
+      "Heimmannschaft": "Inzersdorf",
+      "Gastmannschaft": "SU Schönbrunn",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 F",
+      "Spielort": "Gem.Wien Inzersdorf",
+      "Spielort Straße": "Vorarlberger Allee 22",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.135722,
+      "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-10-03T10:00:00",
       "Heimmannschaft": "Cro - Vienna A",
       "Gastmannschaft": "Mannswörth A",
       "Typ": "Männer",
@@ -193364,32 +193377,6 @@
     },
     {
       "Spieldatum": "2026-10-10T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-10T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer B",
-      "Gastmannschaft": "Essling B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-10T10:00:00",
       "Heimmannschaft": "Essling C",
       "Gastmannschaft": "Slovan HAC A",
       "Typ": "Männer",
@@ -196260,6 +196247,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-10-11T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-10-11T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer B",
+      "Gastmannschaft": "Essling B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-10-11T10:00:00",
@@ -206936,32 +206949,6 @@
     },
     {
       "Spieldatum": "2026-10-24T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-24T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-10-24T10:00:00",
       "Heimmannschaft": "Essling C",
       "Gastmannschaft": "ASV 13 A",
       "Typ": "Männer",
@@ -209897,6 +209884,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-10-25T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-10-25T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-10-25T10:00:00",
@@ -215009,32 +215022,6 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer A",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-07T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer B",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-07T10:00:00",
       "Heimmannschaft": "Wienerberg 1921 A",
       "Gastmannschaft": "1980 Wien A",
       "Typ": "Männer",
@@ -218012,6 +217999,32 @@
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer A",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer B",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
       "Typ": "Männer",
@@ -220586,6 +220599,32 @@
     },
     {
       "Spieldatum": "2026-11-14T09:00:00",
+      "Heimmannschaft": "Cro - Vienna A",
+      "Gastmannschaft": "Essling C",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 C",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-14T09:00:00",
+      "Heimmannschaft": "Cro - Vienna B",
+      "Gastmannschaft": "Essling D",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 D",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-14T09:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
       "Gastmannschaft": "Kapellerfeld A",
       "Typ": "Männer",
@@ -221054,19 +221093,6 @@
     },
     {
       "Spieldatum": "2026-11-14T10:00:00",
-      "Heimmannschaft": "Cro - Vienna A",
-      "Gastmannschaft": "Essling C",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 C",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-11-14T10:00:00",
       "Heimmannschaft": "1980 Wien B",
       "Gastmannschaft": "Ostbahn XI B",
       "Typ": "Männer",
@@ -221077,19 +221103,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-11-14T10:00:00",
-      "Heimmannschaft": "Cro - Vienna B",
-      "Gastmannschaft": "Essling D",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 D",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-11-14T10:00:00",
@@ -226969,6 +226982,19 @@
     },
     {
       "Spieldatum": "2026-11-21T09:00:00",
+      "Heimmannschaft": "Cro - Vienna A",
+      "Gastmannschaft": "Wienerberg 1921 A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 C",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-11-21T09:00:00",
       "Heimmannschaft": "Ostbahn XI A",
       "Gastmannschaft": "Essling C",
       "Typ": "Männer",
@@ -226992,6 +227018,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-11-21T09:00:00",
+      "Heimmannschaft": "Cro - Vienna B",
+      "Gastmannschaft": "Wienerberg 1921 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 D",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-11-21T09:00:00",
@@ -227359,19 +227398,6 @@
     },
     {
       "Spieldatum": "2026-11-21T10:00:00",
-      "Heimmannschaft": "Cro - Vienna A",
-      "Gastmannschaft": "Wienerberg 1921 A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 C",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-11-21T10:00:00",
       "Heimmannschaft": "1980 Wien B",
       "Gastmannschaft": "FavAC B",
       "Typ": "Männer",
@@ -227382,19 +227408,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-11-21T10:00:00",
-      "Heimmannschaft": "Cro - Vienna B",
-      "Gastmannschaft": "Wienerberg 1921 B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 D",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-11-21T10:00:00",
@@ -232845,19 +232858,6 @@
     },
     {
       "Spieldatum": "2026-11-28T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer A",
-      "Gastmannschaft": "LAC - Inter A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-28T10:00:00",
       "Heimmannschaft": "First Vienna FC 1894 B",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -232868,19 +232868,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-28T10:00:00",
-      "Heimmannschaft": "Sportunion Mauer B",
-      "Gastmannschaft": "LAC - Inter B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-28T10:00:00",
@@ -234311,6 +234298,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.158608,
       "Longitude": 16.394901
+    },
+    {
+      "Spieldatum": "2026-11-29T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer A",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-29T10:00:00",
+      "Heimmannschaft": "Sportunion Mauer B",
+      "Gastmannschaft": "LAC - Inter B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-29T10:00:00",
