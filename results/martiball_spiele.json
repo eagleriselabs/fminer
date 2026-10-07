@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -164254,19 +164254,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-09-06T11:30:00",
-      "Heimmannschaft": "SU Schönbrunn B",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "Sportunion Schönbrunn",
-      "Spielort Straße": "Hervicusg. 13-15",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.166628,
-      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2026-09-06T11:30:00",
@@ -177023,19 +177010,6 @@
     },
     {
       "Spieldatum": "2026-09-20T10:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-09-20T10:00:00",
       "Heimmannschaft": "DSG SUSA Vienna B",
       "Gastmannschaft": "Hellas Kagran B",
       "Typ": "Männer",
@@ -186188,6 +186162,19 @@
     },
     {
       "Spieldatum": "2026-10-03T09:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-10-03T09:00:00",
       "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
@@ -186604,19 +186591,6 @@
     },
     {
       "Spieldatum": "2026-10-03T10:00:00",
-      "Heimmannschaft": "DSG Football School",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-03T10:00:00",
       "Heimmannschaft": "Ankerbrot A",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
@@ -186770,6 +186744,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-10-03T10:15:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U9",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-03T10:15:00",
@@ -220286,6 +220273,19 @@
       "Longitude": 16.38053
     },
     {
+      "Spieldatum": "2026-11-12T19:00:00",
+      "Heimmannschaft": "First Vienna FC 1894 B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
       "Spieldatum": "2026-11-12T19:45:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Cro - Vienna",
@@ -222549,19 +222549,6 @@
     },
     {
       "Spieldatum": "2026-11-14T14:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-14T14:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
       "Typ": "Frauen",
@@ -223147,19 +223134,6 @@
     },
     {
       "Spieldatum": "2026-11-14T16:30:00",
-      "Heimmannschaft": "First Vienna FC 1894 A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-11-14T16:30:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -223170,6 +223144,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-11-14T16:45:00",
+      "Heimmannschaft": "First Vienna FC 1894 A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-14T17:00:00",
@@ -235679,6 +235666,19 @@
     },
     {
       "Spieldatum": "2026-12-05T11:00:00",
+      "Heimmannschaft": "SR Donaufeld",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-12-05T11:00:00",
       "Heimmannschaft": "Elite",
       "Gastmannschaft": "Mariahilf A",
       "Typ": "Männer",
@@ -235949,6 +235949,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-12-05T13:00:00",
+      "Heimmannschaft": "SR Donaufeld",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U17",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-12-05T13:00:00",
@@ -236342,19 +236355,6 @@
     },
     {
       "Spieldatum": "2026-12-06T11:00:00",
-      "Heimmannschaft": "SR Donaufeld",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
-    },
-    {
-      "Spieldatum": "2026-12-06T11:00:00",
       "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "Wienerberg 1921",
       "Typ": "Männer",
@@ -236495,19 +236495,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-12-06T13:00:00",
-      "Heimmannschaft": "SR Donaufeld",
-      "Gastmannschaft": "Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U17",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-12-06T13:00:00",
