@@ -171523,19 +171523,6 @@
       "Longitude": 16.408953
     },
     {
-      "Spieldatum": "2026-09-13T14:35:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
-    },
-    {
       "Spieldatum": "2026-09-13T14:45:00",
       "Heimmannschaft": "FAC Wien C",
       "Gastmannschaft": "Wienerberg 1921 B",
@@ -178619,19 +178606,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-09-20T18:00:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-09-20T18:00:00",
@@ -194014,6 +193988,19 @@
     },
     {
       "Spieldatum": "2026-10-10T12:00:00",
+      "Heimmannschaft": "FK Austria Wien G",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Austria Mädchen AKA  Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-10-10T12:00:00",
       "Heimmannschaft": "DSG Union Latina",
       "Gastmannschaft": "DSG Danubia CSV FC",
       "Typ": "Männer",
@@ -194479,19 +194466,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-10-10T14:00:00",
-      "Heimmannschaft": "FK Austria Wien G",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Austria Mädchen AKA  Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-10-10T14:00:00",
@@ -194989,19 +194963,6 @@
     },
     {
       "Spieldatum": "2026-10-10T16:00:00",
-      "Heimmannschaft": "Mariahilf",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-10-10T16:00:00",
       "Heimmannschaft": "Dsg O.St.Veit.Bierstube",
       "Gastmannschaft": "DSG Inter Leopoldau",
       "Typ": "Männer",
@@ -195246,19 +195207,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
-    },
-    {
-      "Spieldatum": "2026-10-10T17:15:00",
-      "Heimmannschaft": "Mariahilf 1c",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-10-10T17:30:00",
@@ -195688,6 +195636,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
+    },
+    {
+      "Spieldatum": "2026-10-11T09:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U10 A",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2026-10-11T09:00:00",
@@ -197482,19 +197443,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-10-11T14:00:00",
-      "Heimmannschaft": "UFC St. Georgen / Eisenstadt",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U17",
-      "Spielort": "Gem.Wien Inzersdorf",
-      "Spielort Straße": "Vorarlberger Allee 22",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.135722,
-      "Longitude": 16.344692
     },
     {
       "Spieldatum": "2026-10-11T14:00:00",
@@ -201112,19 +201060,6 @@
     },
     {
       "Spieldatum": "2026-10-17T12:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-17T12:00:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -201642,19 +201577,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-17T14:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-10-17T14:00:00",
@@ -211537,6 +211459,19 @@
       "Longitude": 16.336755752563477
     },
     {
+      "Spieldatum": "2026-10-25T18:00:00",
+      "Heimmannschaft": "Dsg Endstation Hernals",
+      "Gastmannschaft": "Dsg Spice Balls",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-10-25T18:15:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "Srbija Wien",
@@ -211834,6 +211769,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG SUSA Vienna",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-10-29T22:22:00",
+      "Heimmannschaft": "DSG Torpedo Lainz",
+      "Gastmannschaft": "DSG Real Döbling",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-29T22:22:00",
@@ -225526,10 +225487,10 @@
     },
     {
       "Spieldatum": "2026-11-15T14:00:00",
-      "Heimmannschaft": "Post SV A",
-      "Gastmannschaft": "Sportunion Mauer",
+      "Heimmannschaft": "Post SV B",
+      "Gastmannschaft": "LAC - Inter B",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
+      "Liga": "WFV-LIGA U14 B",
       "Spielort": "Post Sportanlage",
       "Spielort Straße": "Roggendorfg. 2",
       "Spielort PLZ": 1170,
@@ -225929,10 +225890,10 @@
     },
     {
       "Spieldatum": "2026-11-15T16:00:00",
-      "Heimmannschaft": "Post SV B",
-      "Gastmannschaft": "LAC - Inter B",
+      "Heimmannschaft": "Post SV A",
+      "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
+      "Liga": "WFV-LIGA U13",
       "Spielort": "Post Sportanlage",
       "Spielort Straße": "Roggendorfg. 2",
       "Spielort PLZ": 1170,
@@ -235262,6 +235223,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2026-11-29T22:22:00",
+      "Heimmannschaft": "UFC St. Georgen / Eisenstadt",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U17",
+      "Spielort": "Gem.Wien Inzersdorf",
+      "Spielort Straße": "Vorarlberger Allee 22",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.135722,
+      "Longitude": 16.344692
+    },
+    {
       "Spieldatum": "2026-11-30T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -236690,6 +236664,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-12-10T22:22:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-12-10T22:22:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-12-11T18:30:00",
