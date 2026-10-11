@@ -196510,19 +196510,6 @@
     },
     {
       "Spieldatum": "2026-10-11T10:30:00",
-      "Heimmannschaft": "Marswiese B",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-11T10:30:00",
       "Heimmannschaft": "Donau A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -197970,12 +197957,12 @@
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
       "Liga": "Wiener Stadtliga",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
       "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-10-11T16:15:00",
@@ -198405,32 +198392,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "Aspern",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 E",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
-      "Spieldatum": "2026-10-11T22:22:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Rennweger SV",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-10-12T19:00:00",
