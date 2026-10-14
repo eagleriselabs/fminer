@@ -205336,19 +205336,6 @@
       "Longitude": 16.425843
     },
     {
-      "Spieldatum": "2026-10-18T22:22:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
-    },
-    {
       "Spieldatum": "2026-10-19T19:30:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "Dsg Celtic Hernals",
@@ -211148,6 +211135,19 @@
     },
     {
       "Spieldatum": "2026-10-25T16:00:00",
+      "Heimmannschaft": "DSG Royal Rainer",
+      "Gastmannschaft": "DSG Magic Unicorns",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-10-25T16:00:00",
       "Heimmannschaft": "DSG Salzachsturm",
       "Gastmannschaft": "Dsg Celtic Salmannsd.",
       "Typ": "Männer",
@@ -211563,6 +211563,19 @@
       "Longitude": 16.38053
     },
     {
+      "Spieldatum": "2026-10-29T20:05:00",
+      "Heimmannschaft": "DSG Vienna Internationals",
+      "Gastmannschaft": "DSG Wolf Park Rangers",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
       "Spieldatum": "2026-10-29T20:10:00",
       "Heimmannschaft": "DSG Eventus Wien",
       "Gastmannschaft": "DSG Ukraina Wien SKV",
@@ -211603,19 +211616,6 @@
     },
     {
       "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Royal Rainer",
-      "Gastmannschaft": "DSG Magic Unicorns",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
       "Heimmannschaft": "DSG Royal Vienna",
       "Gastmannschaft": "DSG Semper Victoria",
       "Typ": "Männer",
@@ -211639,19 +211639,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Vienna Internationals",
-      "Gastmannschaft": "DSG Wolf Park Rangers",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Staw-Platz / KSV-Platz",
-      "Spielort Straße": "Rustenschacher Allee 3-5",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.209699,
-      "Longitude": 16.399002
     },
     {
       "Spieldatum": "2026-10-30T19:30:00",
@@ -232218,6 +232205,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-11-25T19:00:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-11-25T19:30:00",
