@@ -188957,19 +188957,6 @@
     },
     {
       "Spieldatum": "2026-10-03T18:30:00",
-      "Heimmannschaft": "Ostbahn XI",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-10-03T18:30:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -196549,6 +196536,19 @@
     },
     {
       "Spieldatum": "2026-10-11T11:00:00",
+      "Heimmannschaft": "Altera Porta G",
+      "Gastmannschaft": "KSC / FCB Donaustadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-10-11T11:00:00",
       "Heimmannschaft": "Altera Porta",
       "Gastmannschaft": "Hirschstetten C",
       "Typ": "Männer",
@@ -198083,19 +198083,6 @@
     },
     {
       "Spieldatum": "2026-10-11T18:00:00",
-      "Heimmannschaft": "Slovan HAC",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-10-11T18:00:00",
       "Heimmannschaft": "Mariahilf",
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
@@ -198262,19 +198249,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-10-11T20:00:00",
-      "Heimmannschaft": "DSG Hotel Kalcio",
-      "Gastmannschaft": "DSG Eurasya",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga A",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2026-10-11T20:00:00",
@@ -198665,19 +198639,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-10-15T22:22:00",
-      "Heimmannschaft": "DSG Meidling",
-      "Gastmannschaft": "DSG 1. FC FI",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "KR Wiener Viktoria Platz (Wien 12. Bez.)",
-      "Spielort Straße": "Oswaldgasse 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1676533,
-      "Longitude": 16.3253127
     },
     {
       "Spieldatum": "2026-10-16T16:30:00",
@@ -205661,6 +205622,19 @@
       "Longitude": 16.310258
     },
     {
+      "Spieldatum": "2026-10-22T19:30:00",
+      "Heimmannschaft": "Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "USC Landhaus 1b",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
       "Spieldatum": "2026-10-22T19:45:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Gersthofer SV",
@@ -211459,6 +211433,19 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2026-10-26T14:00:00",
+      "Heimmannschaft": "DSG Royal Vienna",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
+    },
+    {
       "Spieldatum": "2026-10-26T16:00:00",
       "Heimmannschaft": "DSG Rudell SKF",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
@@ -211485,6 +211472,19 @@
       "Longitude": 16.399002
     },
     {
+      "Spieldatum": "2026-10-27T20:00:00",
+      "Heimmannschaft": "DSG Hotel Kalcio",
+      "Gastmannschaft": "DSG Eurasya",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga A",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-10-28T18:45:00",
       "Heimmannschaft": "DSG Kasnudel Athletic Club",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -211496,6 +211496,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-10-28T19:30:00",
+      "Heimmannschaft": "DSG SUSA Vienna",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG-Cup",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-28T19:30:00",
@@ -211613,32 +211626,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG Royal Vienna",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2026-10-29T22:22:00",
-      "Heimmannschaft": "DSG SUSA Vienna",
-      "Gastmannschaft": "DSG Südtirol 07",
-      "Typ": "Männer",
-      "Liga": "DSG-Cup",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-30T19:30:00",
@@ -219465,19 +219452,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-08T16:00:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "USC Landhaus 1b",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-11-08T16:15:00",
@@ -236586,6 +236560,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2026-12-31T22:22:00",
+      "Heimmannschaft": "Slovan HAC",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2027-01-23T00:00:00",
