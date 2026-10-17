@@ -201489,19 +201489,6 @@
     },
     {
       "Spieldatum": "2026-10-17T14:30:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Altera Porta 1d",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-10-17T14:30:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -205622,19 +205609,6 @@
       "Longitude": 16.310258
     },
     {
-      "Spieldatum": "2026-10-22T19:30:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "USC Landhaus 1b",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "ÖFB Campus",
-      "Spielort Straße": "Seestadtstrasse 22",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.22455828667249,
-      "Longitude": 16.511904001235962
-    },
-    {
       "Spieldatum": "2026-10-22T19:45:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "Gersthofer SV",
@@ -205763,6 +205737,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-10-23T18:00:00",
+      "Heimmannschaft": "SK Rapid G",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 C",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-23T18:00:00",
@@ -208909,19 +208896,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.170987,
       "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-10-24T18:00:00",
-      "Heimmannschaft": "SK Rapid G",
-      "Gastmannschaft": "Hellas Kagran B",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 C",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-10-24T18:00:00",
@@ -213511,6 +213485,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-11-03T19:30:00",
+      "Heimmannschaft": "Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "USC Landhaus 1b",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2026-11-03T20:15:00",
