@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -199539,19 +199539,6 @@
     },
     {
       "Spieldatum": "2026-10-17T09:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Elite A",
-      "Typ": "Männer",
-      "Liga": "C-Liga U11 A",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2026-10-17T09:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -202776,19 +202763,6 @@
     },
     {
       "Spieldatum": "2026-10-18T09:00:00",
-      "Heimmannschaft": "Hellas Kagran G",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 B",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-10-18T09:00:00",
       "Heimmannschaft": "Srbija Wien",
       "Gastmannschaft": "Football ProSchool Vienna",
       "Typ": "Männer",
@@ -205791,19 +205765,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2026-10-23T18:30:00",
-      "Heimmannschaft": "Dinamo Helfort",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
       "Spieldatum": "2026-10-23T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "DSG Nero Diavolo",
@@ -205841,6 +205802,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2026-10-23T19:30:00",
+      "Heimmannschaft": "Dinamo Helfort",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-10-23T19:30:00",
@@ -232090,6 +232064,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-11-25T18:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2026-11-25T19:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "Columbia Floridsdorf",
@@ -232166,6 +232153,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2026-11-25T20:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-25T20:00:00",
@@ -233508,19 +233508,6 @@
     },
     {
       "Spieldatum": "2026-11-28T16:00:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-11-28T16:00:00",
       "Heimmannschaft": "Yellow Star",
       "Gastmannschaft": "Penzinger SV",
       "Typ": "Männer",
@@ -233778,19 +233765,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-11-28T18:00:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-28T18:00:00",
@@ -239199,6 +239173,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-06T09:00:00",
+      "Heimmannschaft": "Hellas Kagran G",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 B",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2027-03-06T12:00:00",
