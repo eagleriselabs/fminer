@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -205350,19 +205350,6 @@
     },
     {
       "Spieldatum": "2026-10-21T19:00:00",
-      "Heimmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
-      "Gastmannschaft": "DSG Rudolfsheim I.F. Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-10-21T19:00:00",
       "Heimmannschaft": "Ostbahn XI Sen.",
       "Gastmannschaft": "Dsg T.Hietzing Sen.",
       "Typ": "Männer",
@@ -205516,6 +205503,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-10-22T19:30:00",
+      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U18",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-10-22T19:30:00",
@@ -207362,19 +207362,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
-    },
-    {
-      "Spieldatum": "2026-10-24T12:00:00",
-      "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U18",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-10-24T12:00:00",
@@ -220677,6 +220664,19 @@
     },
     {
       "Spieldatum": "2026-11-14T09:30:00",
+      "Heimmannschaft": "DSG SUSA Vienna A",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U16",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-11-14T09:30:00",
       "Heimmannschaft": "Hellas Kagran A",
       "Gastmannschaft": "Hirschstetten A",
       "Typ": "Männer",
@@ -220700,19 +220700,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-11-14T10:00:00",
-      "Heimmannschaft": "DSG SUSA Vienna A",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U16",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-11-14T10:00:00",
@@ -233677,19 +233664,6 @@
     },
     {
       "Spieldatum": "2026-11-28T17:00:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-28T17:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "RZ Pellets WAC",
       "Typ": "Männer",
@@ -234714,6 +234688,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-11-29T16:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-29T16:00:00",
@@ -236406,6 +236393,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-12-09T18:30:00",
+      "Heimmannschaft": "Slovan HAC",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Slovan HAC",
+      "Spielort Straße": "Steinbruchstr. 5a",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.204405,
+      "Longitude": 16.305012
+    },
+    {
       "Spieldatum": "2026-12-10T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "Donau",
@@ -236469,19 +236469,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
-    },
-    {
-      "Spieldatum": "2026-12-31T22:22:00",
-      "Heimmannschaft": "Slovan HAC",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Slovan HAC",
-      "Spielort Straße": "Steinbruchstr. 5a",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.204405,
-      "Longitude": 16.305012
     },
     {
       "Spieldatum": "2027-01-23T00:00:00",
