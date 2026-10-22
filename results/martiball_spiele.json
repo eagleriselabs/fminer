@@ -195287,19 +195287,6 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2026-10-10T18:00:00",
-      "Heimmannschaft": "Dinamo Helfort",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
       "Spieldatum": "2026-10-10T18:15:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -198173,19 +198160,6 @@
       "Longitude": 16.409595
     },
     {
-      "Spieldatum": "2026-10-11T18:00:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
-    },
-    {
       "Spieldatum": "2026-10-11T18:30:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG Wolf Park Rangers",
@@ -199123,6 +199097,19 @@
     },
     {
       "Spieldatum": "2026-10-17T09:00:00",
+      "Heimmannschaft": "Ostbahn XI",
+      "Gastmannschaft": "Football ProSchool Vienna",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2026-10-17T09:00:00",
       "Heimmannschaft": "FAC Wien A",
       "Gastmannschaft": "Stadlau A",
       "Typ": "Männer",
@@ -199536,6 +199523,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-10-17T09:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Elite A",
+      "Typ": "Männer",
+      "Liga": "C-Liga U11 A",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-10-17T09:00:00",
@@ -205568,19 +205568,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-10-22T22:22:00",
-      "Heimmannschaft": "DSG LGV Wien",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Austria Mädchen AKA  Haidestraße",
-      "Spielort Straße": "Haidestraße 8a",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.176498,
-      "Longitude": 16.437126
     },
     {
       "Spieldatum": "2026-10-23T16:00:00",
@@ -219832,19 +219819,6 @@
     },
     {
       "Spieldatum": "2026-11-11T19:30:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-11T19:30:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "Schwechat SV",
       "Typ": "Männer",
@@ -220024,6 +219998,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2026-11-13T19:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-13T19:30:00",
@@ -232207,6 +232194,19 @@
       "Longitude": 16.38053
     },
     {
+      "Spieldatum": "2026-11-26T18:30:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Austria Wien - Akademie",
+      "Spielort Straße": "Laaerberg-Straße 143",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.158608,
+      "Longitude": 16.394901
+    },
+    {
       "Spieldatum": "2026-11-26T19:30:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "LAC - Inter",
@@ -233934,19 +233934,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-11-29T09:00:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Austria Wien - Akademie",
-      "Spielort Straße": "Laaerberg-Straße 143",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.158608,
-      "Longitude": 16.394901
     },
     {
       "Spieldatum": "2026-11-29T10:00:00",
