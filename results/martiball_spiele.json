@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -207390,19 +207390,6 @@
       "Longitude": 16.407439
     },
     {
-      "Spieldatum": "2026-10-24T12:45:00",
-      "Heimmannschaft": "Marianum",
-      "Gastmannschaft": "FCJ Alt - Ottakring",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 B-TEAMS",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
-    },
-    {
       "Spieldatum": "2026-10-24T13:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "SR Donaufeld",
@@ -209354,19 +209341,6 @@
     },
     {
       "Spieldatum": "2026-10-25T10:00:00",
-      "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U10",
-      "Spielort": "Wr. Viktoria",
-      "Spielort Straße": "Oswaldg. 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.167696,
-      "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2026-10-25T10:00:00",
       "Heimmannschaft": "1980 Wien C",
       "Gastmannschaft": "Ankerbrot B",
       "Typ": "Männer",
@@ -209871,6 +209845,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-10-25T11:30:00",
+      "Heimmannschaft": "Wiener Viktoria",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U10",
+      "Spielort": "Wr. Viktoria",
+      "Spielort Straße": "Oswaldg. 34",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.167696,
+      "Longitude": 16.324931
     },
     {
       "Spieldatum": "2026-10-25T11:30:00",
