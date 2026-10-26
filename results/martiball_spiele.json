@@ -164985,19 +164985,6 @@
     },
     {
       "Spieldatum": "2026-09-06T15:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "KSC / FCB Donaustadt",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-09-06T15:00:00",
       "Heimmannschaft": "Maccabi Wien",
       "Gastmannschaft": "DSG Football School",
       "Typ": "Männer",
@@ -168752,19 +168739,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-09-12T16:15:00",
-      "Heimmannschaft": "Hellas Kagran",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-09-12T16:45:00",
@@ -178128,19 +178102,6 @@
     },
     {
       "Spieldatum": "2026-09-20T15:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "Elite",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-09-20T15:00:00",
       "Heimmannschaft": "Dsg T.Hietzing",
       "Gastmannschaft": "DSG PlayTogetherNow Funs",
       "Typ": "Männer",
@@ -184589,19 +184550,6 @@
     },
     {
       "Spieldatum": "2026-09-27T15:30:00",
-      "Heimmannschaft": "A XIII Auhof Center",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2026-09-27T15:30:00",
       "Heimmannschaft": "Elite B",
       "Gastmannschaft": "A XIII Auhof Center B",
       "Typ": "Männer",
@@ -190933,19 +190881,6 @@
     },
     {
       "Spieldatum": "2026-10-04T15:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "Gersthofer SV",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-10-04T15:00:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "Cro - Vienna",
       "Typ": "Männer",
@@ -197216,19 +197151,6 @@
       "Gastmannschaft": "1980 Wien",
       "Typ": "Männer",
       "Liga": "A-LIGA U7 F",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-10-11T14:00:00",
-      "Heimmannschaft": "Cro - Vienna A",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
       "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
       "Spielort Straße": "Eibesbrunnergasse 13",
       "Spielort PLZ": 1100,
@@ -204596,19 +204518,6 @@
     },
     {
       "Spieldatum": "2026-10-18T16:30:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "SC Großfeld",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-10-18T16:30:00",
       "Heimmannschaft": "TWL Elektra C",
       "Gastmannschaft": "Mariahilf B",
       "Typ": "Männer",
@@ -209965,19 +209874,6 @@
     },
     {
       "Spieldatum": "2026-10-25T12:00:00",
-      "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-25T12:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
@@ -210521,19 +210417,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-10-25T14:15:00",
-      "Heimmannschaft": "Mariahilf B",
-      "Gastmannschaft": "Hellas Kagran G",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 B",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-10-25T14:30:00",
@@ -236118,6 +236001,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2026-12-06T22:22:00",
+      "Heimmannschaft": "Mariahilf B",
+      "Gastmannschaft": "Hellas Kagran G",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 B",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-12-06T22:22:00",
