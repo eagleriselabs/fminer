@@ -219363,6 +219363,19 @@
       "Longitude": 16.310258
     },
     {
+      "Spieldatum": "2026-11-10T18:45:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Hellas Kagran",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-11-10T20:15:00",
       "Heimmannschaft": "DSG Twentyone Sen.",
       "Gastmannschaft": "DSG Wien Wanderers FC Sen.",
@@ -231844,6 +231857,19 @@
     },
     {
       "Spieldatum": "2026-11-27T18:00:00",
+      "Heimmannschaft": "Hirschstetten",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U17",
+      "Spielort": "WFV-22 Hirschstetten",
+      "Spielort Straße": "Oberfeldgasse 41",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241394,
+      "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-11-27T18:00:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -233492,19 +233518,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-11-29T09:00:00",
-      "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U17",
-      "Spielort": "WFV-22 Hirschstetten",
-      "Spielort Straße": "Oberfeldgasse 41",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241394,
-      "Longitude": 16.473635
     },
     {
       "Spieldatum": "2026-11-29T09:00:00",
@@ -236108,19 +236121,6 @@
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Hellas Kagran",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
       "Heimmannschaft": "Austria XIII Auhof Center",
       "Gastmannschaft": "Ankerbrot",
       "Typ": "Männer",
@@ -236365,6 +236365,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2027-02-24T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-02-26T00:00:00",
@@ -237889,19 +237902,6 @@
     },
     {
       "Spieldatum": "2027-02-28T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-02-28T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -238955,6 +238955,19 @@
     },
     {
       "Spieldatum": "2027-03-05T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894 Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-05T18:00:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -238994,6 +239007,32 @@
     },
     {
       "Spieldatum": "2027-03-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T09:00:00",
       "Heimmannschaft": "Hellas Kagran G",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
@@ -239030,6 +239069,58 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T10:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T10:30:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Stadlau C",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-06T10:45:00",
@@ -239082,6 +239173,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-06T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-06T12:00:00",
@@ -239160,6 +239277,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2027-03-07T09:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T10:00:00",
@@ -239774,19 +239904,6 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -239836,19 +239953,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
@@ -240281,19 +240385,6 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -240330,19 +240421,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Stadlau C",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
@@ -240398,19 +240476,6 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -240447,19 +240512,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
@@ -240551,19 +240603,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
@@ -240684,19 +240723,6 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -240746,19 +240772,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
@@ -241217,19 +241230,6 @@
     },
     {
       "Spieldatum": "2027-03-07T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894 Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-07T23:59:00",
       "Heimmannschaft": "SV Dinamo Helfort",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -241253,6 +241253,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2027-03-10T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
@@ -241918,6 +241931,32 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2027-03-13T10:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-13T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-13T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FavAC",
@@ -241968,6 +242007,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-03-14T10:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-14T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-14T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T21:59:00",
@@ -246521,19 +246599,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Sportunion Mauer A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -246596,19 +246661,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -246690,19 +246742,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -246752,19 +246791,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -246833,19 +246859,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -246908,19 +246921,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -247898,6 +247898,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2027-03-17T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Slovan HAC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-18T22:22:00",
       "Heimmannschaft": "DSG Atemnot",
       "Gastmannschaft": "DSG Union Latina",
@@ -248639,6 +248652,58 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-03-20T10:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-20T10:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Sportunion Mauer B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-20T10:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-20T10:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-20T10:30:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Essling C",
@@ -248663,6 +248728,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-03-20T11:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-20T12:00:00",
@@ -248705,6 +248783,19 @@
     },
     {
       "Spieldatum": "2027-03-20T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-20T14:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -248728,6 +248819,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-03-20T16:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-20T17:30:00",
@@ -248756,6 +248860,19 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2027-03-20T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-21T09:00:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Inzersdorf A",
@@ -248782,6 +248899,58 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-03-21T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-21T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Sportunion Mauer B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-21T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-21T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Sportunion Mauer B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-21T10:30:00",
       "Heimmannschaft": "DSV Fortuna 05 B",
       "Gastmannschaft": "Dinamo Helfort B",
@@ -248793,6 +248962,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-03-21T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-21T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T12:15:00",
@@ -248808,6 +249003,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-03-21T13:45:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-21T14:15:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Cro - Vienna",
@@ -248821,6 +249029,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-03-21T15:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-21T16:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Gerasdorf Stammersdorf A",
@@ -248832,6 +249053,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-03-21T17:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "FAC Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T19:00:00",
@@ -249196,19 +249430,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2027-03-21T21:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T21:59:00",
@@ -250330,19 +250551,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Sportunion Mauer A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -250392,19 +250600,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Sportunion Mauer B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -252709,19 +252904,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Sportunion Mauer A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -252771,19 +252953,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Sportunion Mauer B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -252852,19 +253021,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -252904,19 +253060,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra B",
       "Gastmannschaft": "LAC - Inter B",
       "Typ": "Männer",
@@ -252953,19 +253096,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -253021,19 +253151,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -253086,19 +253203,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Stadlau A",
       "Typ": "Männer",
@@ -253148,19 +253252,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -253229,19 +253320,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FAC Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
@@ -253307,19 +253385,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -253369,19 +253434,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -253450,19 +253502,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Slovan HAC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -253528,19 +253567,6 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Sportunion Mauer A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -253603,19 +253629,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Sportunion Mauer B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -254308,19 +254321,6 @@
     },
     {
       "Spieldatum": "2027-03-21T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T23:59:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "SK Slovan HAC",
       "Typ": "Männer",
@@ -254372,6 +254372,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2027-03-31T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-02T00:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "SK STURM GRAZ II",
@@ -254398,6 +254411,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2027-04-02T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-02T19:10:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "SV Donau",
@@ -254422,6 +254448,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.226636,
       "Longitude": 16.311161
+    },
+    {
+      "Spieldatum": "2027-04-03T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-03T10:45:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Stadlau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-03T12:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-03T12:45:00",
@@ -254500,6 +254565,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-04T09:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T21:59:00",
@@ -259040,19 +259118,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Stadlau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Sportunion Mauer B",
       "Typ": "Männer",
@@ -259118,19 +259183,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Stadlau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -259183,19 +259235,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -259245,19 +259284,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -259339,19 +259365,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "A11 - R.Oberlaa",
       "Typ": "Männer",
@@ -259401,19 +259414,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -260391,6 +260391,19 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2027-04-07T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-07T19:00:00",
       "Heimmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -261093,6 +261106,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2027-04-09T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "SV Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-09T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F.",
       "Gastmannschaft": "DSG Paulaner Wieden 1c",
@@ -261119,6 +261145,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-04-09T20:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-09T20:15:00",
       "Heimmannschaft": "DSG Wiener SK Lation",
       "Gastmannschaft": "DSG Dornbach Sox Frauen*",
@@ -261132,6 +261171,84 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T13:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-10T14:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
@@ -261143,6 +261260,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2027-04-10T15:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Post SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-10T16:00:00",
@@ -261169,6 +261299,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-10T17:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-10T18:00:00",
@@ -261221,6 +261364,97 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-04-11T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T10:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T10:30:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T12:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Post SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T16:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T21:59:00",
@@ -261546,19 +261780,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-04-11T21:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T21:59:00",
@@ -262862,19 +263083,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -262937,19 +263145,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265475,19 +265670,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -265550,19 +265732,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265644,19 +265813,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -265722,19 +265878,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra B",
       "Gastmannschaft": "Schwechat SV B",
       "Typ": "Männer",
@@ -265771,19 +265914,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.176498,
       "Longitude": 16.437126
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265849,19 +265979,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265930,19 +266047,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Post SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "LAC - Inter A",
       "Typ": "Männer",
@@ -265979,19 +266083,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Post SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266060,19 +266151,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -266122,19 +266200,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266203,19 +266268,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Stadlau",
       "Typ": "Männer",
@@ -266265,19 +266317,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266372,19 +266411,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -266460,19 +266486,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -267139,19 +267152,6 @@
     },
     {
       "Spieldatum": "2027-04-11T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "SV Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-11T23:59:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -267188,6 +267188,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-04-14T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-15T22:22:00",
@@ -272638,19 +272651,6 @@
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Schwechat SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -273612,6 +273612,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-04-21T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-21T20:15:00",
       "Heimmannschaft": "DSG Manner Titans Sen.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -274301,6 +274314,19 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2027-04-23T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "FAC Wien Amat.",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-23T19:00:00",
       "Heimmannschaft": "DSG Dornbach Sox Frauen*",
       "Gastmannschaft": "DSG Paulaner Wieden 1c",
@@ -274353,6 +274379,71 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-04-24T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-24T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-24T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-24T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-24T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-24T12:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "1.Simmeringer SC",
@@ -274364,6 +274455,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2027-04-24T13:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-24T14:00:00",
@@ -274379,6 +274483,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-04-24T15:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-24T17:00:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Cro - Vienna",
@@ -274390,6 +274507,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-24T17:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-24T19:30:00",
@@ -274429,6 +274559,97 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-04-25T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T10:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T10:30:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T12:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T16:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Donau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T21:59:00",
@@ -276031,19 +276252,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -276119,19 +276327,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -278683,19 +278878,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "Stadlau B",
       "Typ": "Männer",
@@ -278758,19 +278940,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -278852,19 +279021,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -278914,19 +279070,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -279008,19 +279151,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -279086,19 +279216,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -279148,19 +279265,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -279229,19 +279333,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "TWL Elektra B",
       "Gastmannschaft": "Schwechat SV B",
       "Typ": "Männer",
@@ -279307,19 +279398,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Dinamo Helfort",
       "Typ": "Männer",
@@ -279369,19 +279447,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -279463,19 +279528,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Donau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Stadlau",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -279538,19 +279590,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -279645,19 +279684,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -279733,19 +279759,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -280409,19 +280422,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-04-25T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FAC Wien Amat.",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-25T23:59:00",
@@ -287510,6 +287510,19 @@
     },
     {
       "Spieldatum": "2027-05-08T12:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-08T12:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "Dinamo Helfort",
       "Typ": "Männer",
@@ -287520,6 +287533,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2027-05-08T14:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-08T14:00:00",
@@ -287535,6 +287561,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-05-08T16:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-09T00:00:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SR Donaufeld",
@@ -287546,6 +287585,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2027-05-09T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Dinamo Helfort A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-09T16:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-09T21:59:00",
@@ -292229,19 +292294,6 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -292304,19 +292356,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -292398,19 +292437,6 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -292447,19 +292473,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -292538,19 +292551,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Dinamo Helfort A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -293502,6 +293502,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2027-05-12T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-12T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Gastmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
@@ -294140,6 +294153,19 @@
     },
     {
       "Spieldatum": "2027-05-14T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-14T18:00:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
       "Typ": "Männer",
@@ -294202,6 +294228,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.226636,
       "Longitude": 16.311161
+    },
+    {
+      "Spieldatum": "2027-05-14T20:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-14T20:15:00",
@@ -294413,19 +294452,6 @@
     },
     {
       "Spieldatum": "2027-05-16T21:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-16T21:59:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Hellas Kagran",
       "Typ": "Männer",
@@ -294475,19 +294501,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-16T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-16T22:22:00",
@@ -294673,19 +294686,6 @@
     },
     {
       "Spieldatum": "2027-05-16T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "SV Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-16T23:59:00",
       "Heimmannschaft": "SV Dinamo Helfort",
       "Gastmannschaft": "SK Slovan HAC",
       "Typ": "Männer",
@@ -294777,6 +294777,19 @@
     },
     {
       "Spieldatum": "2027-05-21T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-21T18:00:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -294829,6 +294842,19 @@
     },
     {
       "Spieldatum": "2027-05-21T20:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-21T20:00:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Sportunion Mauer",
       "Typ": "Männer",
@@ -294852,6 +294878,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-05-22T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-22T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Essling B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-22T09:00:00",
@@ -294880,6 +294932,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-22T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-22T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 B",
       "Gastmannschaft": "FAC Wien B",
@@ -294904,6 +294969,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-22T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-22T12:30:00",
@@ -295049,6 +295127,45 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-23T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-23T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Essling A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-23T10:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-23T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "DSG SUSA Vienna",
@@ -295060,6 +295177,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-23T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-23T12:45:00",
@@ -295489,19 +295619,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-23T21:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -296506,19 +296623,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "1.Simmeringer SC A",
       "Typ": "Männer",
@@ -296581,19 +296685,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Essling B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -298768,19 +298859,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "1.Simmeringer SC A",
       "Typ": "Männer",
@@ -298911,19 +298989,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "1.Simmeringer SC A",
       "Typ": "Männer",
@@ -299028,19 +299093,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "Post SV",
       "Typ": "Männer",
@@ -299090,19 +299142,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299587,19 +299626,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "1.Simmeringer SC A",
       "Typ": "Männer",
@@ -299675,19 +299701,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Essling A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -300419,19 +300432,6 @@
     },
     {
       "Spieldatum": "2027-05-23T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-23T23:59:00",
       "Heimmannschaft": "SK Slovan HAC",
       "Gastmannschaft": "First Vienna FC 1894 Amat.",
       "Typ": "Männer",
@@ -300533,6 +300533,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-05-26T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-27T17:00:00",
@@ -305736,19 +305749,6 @@
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
@@ -306958,6 +306958,19 @@
     },
     {
       "Spieldatum": "2027-06-04T18:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-04T18:00:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -306968,6 +306981,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-04T20:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-04T20:00:00",
@@ -307009,6 +307035,58 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-05T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-05T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-05T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-05T10:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-06-05T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 B",
       "Gastmannschaft": "A XIII Auhof Center B",
@@ -307033,6 +307111,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-05T12:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-05T12:30:00",
@@ -307061,6 +307152,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-05T13:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-06-05T14:00:00",
       "Heimmannschaft": "WBC - IX",
       "Gastmannschaft": "Patron Wien",
@@ -307085,6 +307189,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-05T15:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-05T15:45:00",
@@ -307113,6 +307230,19 @@
       "Longitude": 16.423125
     },
     {
+      "Spieldatum": "2027-06-05T17:30:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U16",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-06-05T18:00:00",
       "Heimmannschaft": "Donau Kickers",
       "Gastmannschaft": "Bozok Wien",
@@ -307139,6 +307269,58 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-06T09:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-06T10:30:00",
+      "Heimmannschaft": "Red Star Penzing A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-06T10:30:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-06-06T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Gersthofer SV",
@@ -307150,6 +307332,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-06T12:00:00",
+      "Heimmannschaft": "Red Star Penzing B",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T12:45:00",
@@ -307165,6 +307360,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-06T14:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U17",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-06-06T15:00:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Mannswörth",
@@ -307176,6 +307384,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-06T16:00:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Wiener Sport - Club",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T17:15:00",
@@ -307579,19 +307800,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2027-06-06T21:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T21:59:00",
@@ -308453,19 +308661,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -308528,19 +308723,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -310689,19 +310871,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -310764,19 +310933,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -310832,19 +310988,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -310894,19 +311037,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -310962,19 +311092,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -311027,19 +311144,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -311076,19 +311180,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311141,19 +311232,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311235,19 +311313,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Wiener Sport - Club",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -311300,19 +311365,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U16",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "ASV 13",
       "Typ": "Männer",
@@ -311362,19 +311414,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U17",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311521,19 +311560,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -311609,19 +311635,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -312236,19 +312249,6 @@
     },
     {
       "Spieldatum": "2027-06-06T23:59:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-06T23:59:00",
       "Heimmannschaft": "SV Dinamo Helfort",
       "Gastmannschaft": "1980 Wien",
       "Typ": "Männer",
@@ -312272,6 +312272,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2027-06-09T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-12T12:00:00",
@@ -312701,19 +312714,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-13T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-06-13T22:22:00",
