@@ -194274,19 +194274,6 @@
     },
     {
       "Spieldatum": "2026-10-10T14:00:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "Mannswörth 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen \"Newcomer\" Liga",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-10T14:00:00",
       "Heimmannschaft": "Triester",
       "Gastmannschaft": "FK Adige",
       "Typ": "Männer",
@@ -213032,19 +213019,6 @@
       "Longitude": 16.428909
     },
     {
-      "Spieldatum": "2026-11-04T18:30:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
-    },
-    {
       "Spieldatum": "2026-11-04T18:45:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "WAF pinova Telekom",
@@ -213199,6 +213173,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2026-11-05T18:45:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
     },
     {
       "Spieldatum": "2026-11-05T19:30:00",
@@ -219374,6 +219361,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-11-10T19:15:00",
+      "Heimmannschaft": "Triester",
+      "Gastmannschaft": "Süssenbrunn",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
+      "Spielort Straße": "Eibesbrunnergasse 13",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.16619991249413,
+      "Longitude": 16.336755752563477
     },
     {
       "Spieldatum": "2026-11-10T20:15:00",
@@ -231661,6 +231661,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-11-24T19:30:00",
+      "Heimmannschaft": "SV Dinamo Helfort",
+      "Gastmannschaft": "SV Schwechat",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
+    },
+    {
       "Spieldatum": "2026-11-25T18:00:00",
       "Heimmannschaft": "Besa Wien",
       "Gastmannschaft": "ESV Ottakring",
@@ -233830,6 +233843,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
+    },
+    {
+      "Spieldatum": "2026-11-29T11:30:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2026-11-29T11:30:00",
@@ -236043,6 +236069,32 @@
     },
     {
       "Spieldatum": "2026-12-06T22:22:00",
+      "Heimmannschaft": "Mariahilf A",
+      "Gastmannschaft": "Slovan HAC A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-12-06T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-12-06T22:22:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -236238,32 +236290,6 @@
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "SV Dinamo Helfort",
-      "Gastmannschaft": "SV Schwechat",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "Triester",
-      "Gastmannschaft": "Süssenbrunn",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
-      "Spielort Straße": "Eibesbrunnergasse 13",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.16619991249413,
-      "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
       "Heimmannschaft": "UFK Schwemm",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -236365,6 +236391,318 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "A XIII Auhof Center",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "A11 - R.Oberlaa",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Rapid Oberlaa",
+      "Spielort Straße": "Franzosenweg 34",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.139637,
+      "Longitude": 16.38679
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "ASV 13 A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Essling",
+      "Gastmannschaft": "Kapellerfeld",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Hellas Kagran A",
+      "Gastmannschaft": "Columbia Floridsdorf A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Post SV A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "SR Donaufeld A",
+      "Gastmannschaft": "Stadlau A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Dinamo Helfort A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Wiener Sport - Club A",
+      "Gastmannschaft": "FavAC",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Wienerberg 1921 A",
+      "Gastmannschaft": "DSG SUSA Vienna A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "DSG SUSA Vienna A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Slovan HAC",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Hellas Kagran",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Mariahilf",
+      "Gastmannschaft": "Wienerberg 1921",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Ostbahn XI",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-02-21T22:22:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2027-02-24T18:45:00",
@@ -236562,6 +236900,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2027-02-28T12:45:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
       "Spieldatum": "2027-02-28T21:59:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Ankerbrot",
@@ -236716,19 +237067,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2027-02-28T22:22:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2027-02-28T22:22:00",
@@ -260456,6 +260794,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2027-04-07T19:30:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-07T20:15:00",
       "Heimmannschaft": "DSG Idee Sen.",
       "Gastmannschaft": "DSG Manner Titans Sen.",
@@ -261172,6 +261523,32 @@
     },
     {
       "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Schwechat SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-10T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -261223,6 +261600,32 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-10T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-10T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Schwechat SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-10T12:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Donau",
@@ -261234,6 +261637,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T12:30:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "LAC - Inter B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-10T13:30:00",
@@ -261262,6 +261678,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-04-10T14:15:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-10T15:30:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Post SV A",
@@ -261286,6 +261715,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2027-04-10T16:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Schwechat SV",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-10T17:00:00",
@@ -261418,6 +261860,32 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-11T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-11T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Schwechat SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-11T12:00:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "Post SV B",
@@ -261442,6 +261910,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T14:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T16:00:00",
@@ -265670,19 +266151,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -265732,19 +266200,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Schwechat SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265813,19 +266268,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -265875,19 +266317,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Schwechat SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -265982,19 +266411,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Schwechat SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -266047,19 +266463,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "LAC - Inter A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Stadlau B",
       "Typ": "Männer",
@@ -266083,19 +266486,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "LAC - Inter B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266148,19 +266538,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266320,19 +266697,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "Slovan HAC",
       "Typ": "Männer",
@@ -266411,19 +266775,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -266486,19 +266837,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Schwechat SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -267957,19 +268295,6 @@
       "Longitude": 16.311161
     },
     {
-      "Spieldatum": "2027-04-16T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2027-04-16T20:15:00",
       "Heimmannschaft": "DSG Paulaner Wieden 1c",
       "Gastmannschaft": "DSG WU Kickerinnen",
@@ -267981,6 +268306,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-04-16T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-17T09:00:00",
@@ -274562,6 +274900,19 @@
     },
     {
       "Spieldatum": "2027-04-25T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-25T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "TWL Elektra A",
       "Typ": "Männer",
@@ -274613,6 +274964,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-25T11:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Schwechat SV B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-25T12:00:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "Donau B",
@@ -274626,6 +274990,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-25T13:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-25T14:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Donau",
@@ -274637,6 +275014,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-25T15:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-25T16:00:00",
@@ -276002,19 +276392,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -279268,19 +279645,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -279333,19 +279697,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Schwechat SV B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Wiener Sport - Club B",
       "Gastmannschaft": "Post SV B",
       "Typ": "Männer",
@@ -279395,19 +279746,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -280502,6 +280840,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-04-28T19:30:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-04-28T20:15:00",
       "Heimmannschaft": "DSG Wien Wanderers FC Sen.",
       "Gastmannschaft": "Marianum Sen.",
@@ -281230,7 +281581,7 @@
       "Longitude": 16.311161
     },
     {
-      "Spieldatum": "2027-04-30T20:00:00",
+      "Spieldatum": "2027-04-30T20:15:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Post SV",
       "Typ": "Männer",
@@ -281269,6 +281620,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-01T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-01T09:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-01T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 B",
       "Gastmannschaft": "Essling B",
@@ -281283,6 +281660,32 @@
     },
     {
       "Spieldatum": "2027-05-01T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-01T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-01T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -281293,6 +281696,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-01T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-01T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-01T12:30:00",
@@ -281399,6 +281828,19 @@
       "Longitude": 16.324931
     },
     {
+      "Spieldatum": "2027-05-01T17:00:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-01T18:00:00",
       "Heimmannschaft": "Donau Kickers",
       "Gastmannschaft": "Wollers Komet",
@@ -281436,6 +281878,45 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-02T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-02T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-02T12:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T12:45:00",
@@ -282947,19 +283428,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -283009,19 +283477,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -285183,19 +285638,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "ASV 13 C",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -285258,19 +285700,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -285352,19 +285781,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -285417,19 +285833,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Donau",
       "Gastmannschaft": "Wiener Sport - Club",
       "Typ": "Männer",
@@ -285479,19 +285882,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -285557,19 +285947,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -285976,19 +286353,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Donau A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -286067,19 +286431,6 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "ASV 13 C",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -286142,19 +286493,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-02T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T23:00:00",
@@ -293554,6 +293892,19 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2027-05-12T19:30:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "WAF pinova Telekom",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-12T20:15:00",
       "Heimmannschaft": "DSG Twentyone Sen.",
       "Gastmannschaft": "Wiener Sport - Club Sen.",
@@ -294516,19 +294867,6 @@
       "Longitude": 16.305012
     },
     {
-      "Spieldatum": "2027-05-16T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "WAF pinova Telekom",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2027-05-16T23:59:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
       "Gastmannschaft": "Cro - Vienna",
@@ -294854,19 +295192,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2027-05-21T20:00:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Sportunion Mauer",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
       "Spieldatum": "2027-05-21T20:15:00",
       "Heimmannschaft": "DSG Dornbach Sox Frauen*",
       "Gastmannschaft": "DSG WU Kickerinnen",
@@ -294878,6 +295203,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-05-21T20:15:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Sportunion Mauer",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-22T09:00:00",
@@ -294932,6 +295270,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-22T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-22T09:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-22T10:30:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "FK Austria Wien",
@@ -294959,6 +295323,32 @@
     },
     {
       "Spieldatum": "2027-05-22T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-22T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-22T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "DSG SUSA Vienna",
       "Typ": "Männer",
@@ -294969,6 +295359,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-22T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-22T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-22T12:00:00",
@@ -295010,6 +295426,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-22T12:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Wiener Sport - Club",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-22T12:30:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-22T14:00:00",
       "Heimmannschaft": "WBC - IX",
       "Gastmannschaft": "Bozok Wien",
@@ -295034,6 +295476,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-22T14:15:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-22T15:45:00",
@@ -295128,6 +295583,19 @@
     },
     {
       "Spieldatum": "2027-05-23T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-23T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "FK Austria Wien",
       "Typ": "Männer",
@@ -295179,6 +295647,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-05-23T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-05-23T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "Wiener Sport - Club B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-23T12:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "FK Austria Wien",
@@ -295192,6 +295686,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-05-23T12:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Wiener Sport - Club",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-05-23T12:45:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "DSG SUSA Vienna A",
@@ -295203,6 +295710,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-23T14:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T15:00:00",
@@ -296428,19 +296948,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U7 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Essling B",
       "Gastmannschaft": "1.Simmeringer SC B",
       "Typ": "Männer",
@@ -296649,19 +297156,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "FAC Wien B",
       "Typ": "Männer",
@@ -296698,19 +297192,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -298885,19 +299366,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "ASV 13 C",
       "Gastmannschaft": "1.Simmeringer SC B",
       "Typ": "Männer",
@@ -298947,19 +299415,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299015,19 +299470,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "FAC Wien B",
       "Typ": "Männer",
@@ -299067,19 +299509,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Donau",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -299103,19 +299532,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Wiener Sport - Club",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299155,19 +299571,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Wiener Sport - Club",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299223,19 +299626,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "First Vienna FC 1894 B",
       "Typ": "Männer",
@@ -299285,19 +299675,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299363,19 +299740,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -299652,19 +300016,6 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "ASV 13 C",
       "Gastmannschaft": "1.Simmeringer SC B",
       "Typ": "Männer",
@@ -299714,19 +300065,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "Wiener Sport - Club B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-23T23:00:00",
@@ -300546,6 +300884,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-26T19:30:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-27T17:00:00",
@@ -305762,19 +306113,6 @@
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "FAC Wien A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -306996,7 +307334,7 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2027-06-04T20:00:00",
+      "Spieldatum": "2027-06-04T20:15:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -307033,6 +307371,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-05T09:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-05T09:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-05T09:00:00",
@@ -307101,6 +307465,32 @@
     },
     {
       "Spieldatum": "2027-06-05T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-05T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-05T10:45:00",
       "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
@@ -307111,6 +307501,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-06-05T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-05T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-05T12:00:00",
@@ -307152,6 +307568,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-05T12:30:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-06-05T13:30:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "First Vienna FC 1894",
@@ -307191,6 +307620,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-05T14:15:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-06-05T15:30:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Wiener Sport - Club A",
@@ -307228,6 +307670,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2027-06-05T16:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-05T17:30:00",
@@ -307334,6 +307789,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-06-06T10:45:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-06-06T10:45:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "FAC Wien B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-06-06T12:00:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "Wiener Sport - Club B",
@@ -307345,6 +307826,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-06T12:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "FAC Wien A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T12:45:00",
@@ -307371,6 +307865,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-06-06T14:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T15:00:00",
@@ -308674,19 +309181,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -308723,19 +309217,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -310884,19 +311365,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -310933,19 +311401,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311001,19 +311456,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -311037,19 +311479,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311092,19 +311521,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC",
       "Gastmannschaft": "Wiener Sport - Club",
       "Typ": "Männer",
@@ -311141,19 +311557,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311196,19 +311599,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "Donau B",
       "Gastmannschaft": "Stadlau B",
       "Typ": "Männer",
@@ -311245,19 +311635,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311310,19 +311687,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
@@ -311573,19 +311937,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "FAC Wien A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -311635,19 +311986,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "FAC Wien B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-06T23:00:00",
@@ -312287,6 +312625,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-06-09T19:30:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U18",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-06-12T12:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "WAF pinova Telekom",
@@ -312714,19 +313065,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-06-13T22:22:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U18",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-06-13T22:22:00",
