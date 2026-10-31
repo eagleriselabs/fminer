@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -211642,6 +211642,19 @@
     },
     {
       "Spieldatum": "2026-10-31T14:30:00",
+      "Heimmannschaft": "SR Donaufeld",
+      "Gastmannschaft": "SC / ESV Parndorf 1919",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Donaufeld",
+      "Spielort Straße": "Nordmanngasse 24",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.250543,
+      "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-10-31T14:30:00",
       "Heimmannschaft": "1980 Wien",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -211694,19 +211707,6 @@
     },
     {
       "Spieldatum": "2026-10-31T15:00:00",
-      "Heimmannschaft": "Latinas Monte Laa",
-      "Gastmannschaft": "GEPS 21 FC",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-10-31T15:00:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -211743,19 +211743,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.279498,
       "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-10-31T15:00:00",
-      "Heimmannschaft": "SR Donaufeld",
-      "Gastmannschaft": "SC / ESV Parndorf 1919",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Donaufeld",
-      "Spielort Straße": "Nordmanngasse 24",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.250543,
-      "Longitude": 16.418322
     },
     {
       "Spieldatum": "2026-10-31T15:15:00",
@@ -212603,19 +212590,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-11-01T16:00:00",
-      "Heimmannschaft": "FK Adige",
-      "Gastmannschaft": "Inzersdorf",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "LAC",
-      "Spielort Straße": "Baumg. 87",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19099,
-      "Longitude": 16.408953
-    },
-    {
       "Spieldatum": "2026-11-01T16:15:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "WBC - IX",
@@ -212692,6 +212666,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.132162,
       "Longitude": 16.320427
+    },
+    {
+      "Spieldatum": "2026-11-01T17:00:00",
+      "Heimmannschaft": "Latinas Monte Laa",
+      "Gastmannschaft": "GEPS 21 FC",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2.Klasse",
+      "Spielort": "Franz Hölbl Anlage / Anker Arena",
+      "Spielort Straße": "Heuberggstättenstr. 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.159325,
+      "Longitude": 16.367574
     },
     {
       "Spieldatum": "2026-11-01T17:00:00",
@@ -221223,6 +221210,19 @@
     },
     {
       "Spieldatum": "2026-11-14T12:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "Triester",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-11-14T12:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "Torin Adler",
       "Typ": "Männer",
@@ -221467,19 +221467,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
-    },
-    {
-      "Spieldatum": "2026-11-14T13:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Triester",
-      "Typ": "Männer",
-      "Liga": "Oberliga A Reserve",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-11-14T13:00:00",
@@ -221743,6 +221730,19 @@
     },
     {
       "Spieldatum": "2026-11-14T14:00:00",
+      "Heimmannschaft": "Liesing ASK",
+      "Gastmannschaft": "Triester",
+      "Typ": "Männer",
+      "Liga": "Oberliga A",
+      "Spielort": "Liesing",
+      "Spielort Straße": "Siebenhirtenstraße 14",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.133841,
+      "Longitude": 16.291942
+    },
+    {
+      "Spieldatum": "2026-11-14T14:00:00",
       "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "Inzersdorf",
       "Typ": "Männer",
@@ -222000,19 +222000,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
-    },
-    {
-      "Spieldatum": "2026-11-14T15:00:00",
-      "Heimmannschaft": "Liesing ASK",
-      "Gastmannschaft": "Triester",
-      "Typ": "Männer",
-      "Liga": "Oberliga A",
-      "Spielort": "Liesing",
-      "Spielort Straße": "Siebenhirtenstraße 14",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.133841,
-      "Longitude": 16.291942
     },
     {
       "Spieldatum": "2026-11-14T15:00:00",
@@ -233481,6 +233468,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-11-28T19:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
       "Spieldatum": "2026-11-28T20:00:00",
       "Heimmannschaft": "DSG Südtirol 16",
       "Gastmannschaft": "DSG Sonntag 2012",
@@ -234716,6 +234716,32 @@
       "Longitude": 16.370454
     },
     {
+      "Spieldatum": "2026-12-03T17:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 A",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-12-03T17:30:00",
+      "Heimmannschaft": "First Vienna FC 1894 B",
+      "Gastmannschaft": "LAC - Inter B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
+    },
+    {
       "Spieldatum": "2026-12-03T18:30:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "LAC - Inter A",
@@ -234779,6 +234805,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2026-12-04T19:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSG District West AS",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-12-05T09:00:00",
@@ -234925,19 +234964,6 @@
     },
     {
       "Spieldatum": "2026-12-05T10:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 A",
-      "Gastmannschaft": "LAC - Inter A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
-    },
-    {
-      "Spieldatum": "2026-12-05T10:00:00",
       "Heimmannschaft": "1.Simmeringer SC B",
       "Gastmannschaft": "TWL Elektra B",
       "Typ": "Männer",
@@ -234961,19 +234987,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2026-12-05T10:00:00",
-      "Heimmannschaft": "First Vienna FC 1894 B",
-      "Gastmannschaft": "LAC - Inter B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "First Vienna Football Campus",
-      "Spielort Straße": "Spielmanng. 8",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.242739,
-      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-12-05T10:00:00",
@@ -235403,6 +235416,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.135722,
       "Longitude": 16.344692
+    },
+    {
+      "Spieldatum": "2026-12-05T14:00:00",
+      "Heimmannschaft": "FK Adige",
+      "Gastmannschaft": "Inzersdorf",
+      "Typ": "Männer",
+      "Liga": "Oberliga A Reserve",
+      "Spielort": "LAC",
+      "Spielort Straße": "Baumg. 87",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19099,
+      "Longitude": 16.408953
     },
     {
       "Spieldatum": "2026-12-05T14:00:00",
@@ -236199,19 +236225,6 @@
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "DSG District West AS",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "WAF pinova Telekom",
       "Typ": "Männer",
@@ -236391,6 +236404,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.197339,
       "Longitude": 16.265628
+    },
+    {
+      "Spieldatum": "2027-02-21T18:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -236589,19 +236615,6 @@
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "ASK Erlaa",
-      "Spielort Straße": "Meischlgasse 26",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.141549296954906,
-      "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
       "Heimmannschaft": "ASV 13",
       "Gastmannschaft": "Stadlau",
       "Typ": "Männer",
@@ -236612,19 +236625,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -236771,6 +236771,19 @@
     },
     {
       "Spieldatum": "2027-02-26T19:30:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-02-26T19:30:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "Mattersburger Sportverein 2020",
       "Typ": "Männer",
@@ -236794,6 +236807,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1611885,
       "Longitude": 16.3883313
+    },
+    {
+      "Spieldatum": "2027-02-27T12:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "FavAC",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-02-27T12:00:00",
@@ -236822,19 +236848,6 @@
       "Longitude": 16.277243
     },
     {
-      "Spieldatum": "2027-02-27T15:30:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Royal Persia",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
       "Spieldatum": "2027-02-27T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FCM Traiskirchen",
@@ -236861,7 +236874,7 @@
       "Longitude": 16.324931
     },
     {
-      "Spieldatum": "2027-02-27T17:45:00",
+      "Spieldatum": "2027-02-27T18:00:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Royal Persia",
       "Typ": "Männer",
@@ -237093,19 +237106,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-02-28T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "FavAC",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-02-28T22:22:00",
@@ -239630,11 +239630,11 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2027-03-07T10:00:00",
+      "Spieldatum": "2027-03-07T10:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Maccabi Wien",
       "Typ": "Männer",
-      "Liga": "2. Landesliga U23",
+      "Liga": "2. Landesliga",
       "Spielort": "Fortuna 05",
       "Spielort Straße": "Krottenbachstr. 53",
       "Spielort PLZ": 1190,
@@ -239657,19 +239657,6 @@
     },
     {
       "Spieldatum": "2027-03-07T12:30:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
-    },
-    {
-      "Spieldatum": "2027-03-07T12:30:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "Post SV",
       "Typ": "Männer",
@@ -239680,6 +239667,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-07T12:45:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Maccabi Wien",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga U23",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2027-03-07T15:00:00",
