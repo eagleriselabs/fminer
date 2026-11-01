@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -212747,19 +212747,6 @@
     },
     {
       "Spieldatum": "2026-11-01T18:00:00",
-      "Heimmannschaft": "DSG Union Latina",
-      "Gastmannschaft": "DSG Tudi Wien F.C.",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-11-01T18:00:00",
       "Heimmannschaft": "DSG Vienna Vibes",
       "Gastmannschaft": "DSG Sonntag 2012",
       "Typ": "Männer",
@@ -236406,6 +236393,32 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2027-02-21T11:00:00",
+      "Heimmannschaft": "ASV 13 A",
+      "Gastmannschaft": "Red Star Penzing A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-02-21T16:00:00",
+      "Heimmannschaft": "Post SV A",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.223531,
+      "Longitude": 16.32412
+    },
+    {
       "Spieldatum": "2027-02-21T18:00:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Mannswörth",
@@ -236459,19 +236472,6 @@
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "ASV 13 A",
-      "Gastmannschaft": "Red Star Penzing A",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -236521,19 +236521,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "Post SV A",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.223531,
-      "Longitude": 16.32412
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
