@@ -212928,19 +212928,6 @@
       "Longitude": 16.444089
     },
     {
-      "Spieldatum": "2026-11-03T18:30:00",
-      "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Hirschstetten",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Franz Hölbl Anlage / Anker Arena",
-      "Spielort Straße": "Heuberggstättenstr. 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.159325,
-      "Longitude": 16.367574
-    },
-    {
       "Spieldatum": "2026-11-03T19:30:00",
       "Heimmannschaft": "Dynama*Dynamo Donau FC",
       "Gastmannschaft": "USC Landhaus 1b",
@@ -231635,6 +231622,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-11-24T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "Marianum",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-11-24T19:30:00",
       "Heimmannschaft": "SV Dinamo Helfort",
       "Gastmannschaft": "SV Schwechat",
@@ -231646,19 +231646,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-25T18:00:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-25T19:00:00",
@@ -231750,19 +231737,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.139637,
       "Longitude": 16.38679
-    },
-    {
-      "Spieldatum": "2026-11-25T20:00:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ESV Ottakring",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-25T20:00:00",
@@ -234314,6 +234288,19 @@
     },
     {
       "Spieldatum": "2026-11-29T16:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-29T16:00:00",
       "Heimmannschaft": "Bozok Wien",
       "Gastmannschaft": "Wollers Komet",
       "Typ": "Männer",
@@ -234480,6 +234467,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
+    },
+    {
+      "Spieldatum": "2026-11-29T18:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ESV Ottakring",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-29T18:00:00",
@@ -236287,19 +236287,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "Marianum",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
@@ -248236,6 +248223,32 @@
       "Longitude": 16.419164
     },
     {
+      "Spieldatum": "2027-03-17T17:00:00",
+      "Heimmannschaft": "TWL Elektra A",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-17T17:00:00",
+      "Heimmannschaft": "TWL Elektra B",
+      "Gastmannschaft": "LAC - Inter B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
       "Spieldatum": "2027-03-17T18:45:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Slovan HAC",
@@ -249417,32 +249430,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-21T10:45:00",
-      "Heimmannschaft": "TWL Elektra A",
-      "Gastmannschaft": "LAC - Inter A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-03-21T10:45:00",
-      "Heimmannschaft": "TWL Elektra B",
-      "Gastmannschaft": "LAC - Inter B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-03-21T12:00:00",
