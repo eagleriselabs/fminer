@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -210654,19 +210654,6 @@
     },
     {
       "Spieldatum": "2026-10-25T16:00:00",
-      "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "Mariahilf 1b",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
-      "Spieldatum": "2026-10-25T16:00:00",
       "Heimmannschaft": "Torin Adler",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -217999,6 +217986,19 @@
     },
     {
       "Spieldatum": "2026-11-08T12:00:00",
+      "Heimmannschaft": "GEPS 21 FC",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Frauen",
+      "Liga": "Frauen 2.Klasse",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-08T12:00:00",
       "Heimmannschaft": "Donau A",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
@@ -218451,19 +218451,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204006,
       "Longitude": 16.320261
-    },
-    {
-      "Spieldatum": "2026-11-08T14:00:00",
-      "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Frauen",
-      "Liga": "Frauen 2.Klasse",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-11-08T14:00:00",
@@ -225512,6 +225499,19 @@
       "Longitude": 16.408953
     },
     {
+      "Spieldatum": "2026-11-17T19:15:00",
+      "Heimmannschaft": "DSG Athletes In Action",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Aspern",
+      "Spielort Straße": "Biberhaufenweg 18",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214871,
+      "Longitude": 16.48207
+    },
+    {
       "Spieldatum": "2026-11-17T20:00:00",
       "Heimmannschaft": "FC Hernalser Spartans",
       "Gastmannschaft": "Dynama*Dynamo Donau FC",
@@ -225588,19 +225588,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-18T19:30:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "A11 - R.Oberlaa",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-18T19:30:00",
@@ -234275,6 +234262,19 @@
     },
     {
       "Spieldatum": "2026-11-29T14:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "A11 - R.Oberlaa",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-29T14:00:00",
       "Heimmannschaft": "First Vienna FC 1894 Amat.",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -236277,19 +236277,6 @@
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "DSG Athletes In Action",
-      "Gastmannschaft": "Columbia Floridsdorf",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
       "Heimmannschaft": "Dsg Celtic Salmannsd.",
       "Gastmannschaft": "WAF pinova Telekom",
       "Typ": "Männer",
@@ -236419,6 +236406,32 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2027-02-20T09:30:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "LAC - Inter A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-02-20T16:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Red Star Penzing",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
       "Spieldatum": "2027-02-21T11:00:00",
       "Heimmannschaft": "ASV 13 A",
       "Gastmannschaft": "Red Star Penzing A",
@@ -236508,19 +236521,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "LAC - Inter A",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -236625,19 +236625,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Red Star Penzing",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-02-24T18:45:00",
@@ -239552,6 +239539,32 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2027-03-06T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-06T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Torpedo Lainz",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-03-07T09:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Stadlau",
@@ -241750,19 +241763,6 @@
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Torpedo Lainz",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-11T22:22:00",
       "Heimmannschaft": "Dsg Spice Balls",
       "Gastmannschaft": "DSG SUSA Vienna",
       "Typ": "Männer",
@@ -241799,19 +241799,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-03-11T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-03-11T22:22:00",
@@ -254944,6 +254931,19 @@
       "Longitude": 16.324931
     },
     {
+      "Spieldatum": "2027-04-03T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Semper Victoria",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-03T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Kapellerfeld",
@@ -254955,6 +254955,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-03T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Paulaner Wieden",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-04T09:00:00",
@@ -261081,19 +261094,6 @@
     },
     {
       "Spieldatum": "2027-04-08T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Semper Victoria",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-08T22:22:00",
       "Heimmannschaft": "DSG Torpedo Lainz",
       "Gastmannschaft": "DSG Wolf Park Rangers",
       "Typ": "Männer",
@@ -261143,19 +261143,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2027-04-08T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Paulaner Wieden",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-08T22:22:00",
@@ -268568,6 +268555,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-04-18T15:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Inter Leopoldau",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-18T17:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "Dsg Cover - Direct SC",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-04-18T17:15:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -274224,19 +274237,6 @@
     },
     {
       "Spieldatum": "2027-04-22T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "Dsg Cover - Direct SC",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-04-22T22:22:00",
       "Heimmannschaft": "DSG Torpedo Lainz",
       "Gastmannschaft": "DSG Semper Victoria",
       "Typ": "Männer",
@@ -274299,19 +274299,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-04-22T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Inter Leopoldau",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-04-22T22:22:00",
@@ -281893,6 +281880,32 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2027-05-01T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "Dsg Spice Balls",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-01T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "DSG Ukraina Wien SKV",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-02T09:00:00",
       "Heimmannschaft": "DSV Fortuna 05 B",
       "Gastmannschaft": "Essling B",
@@ -287523,19 +287536,6 @@
     },
     {
       "Spieldatum": "2027-05-06T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "Dsg Spice Balls",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-06T22:22:00",
       "Heimmannschaft": "DSG Torpedo Lainz",
       "Gastmannschaft": "Dsg Cover - Direct SC",
       "Typ": "Männer",
@@ -287611,19 +287611,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-06T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "DSG Ukraina Wien SKV",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-06T22:22:00",
@@ -295569,6 +295556,32 @@
       "Longitude": 16.435964
     },
     {
+      "Spieldatum": "2027-05-22T18:00:00",
+      "Heimmannschaft": "DSG Südtirol 16",
+      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga A",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-22T20:00:00",
+      "Heimmannschaft": "DSG Südtirol 07",
+      "Gastmannschaft": "DSG Magic Unicorns",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2027-05-23T00:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "FC Hertha Wels",
@@ -301082,19 +301095,6 @@
     },
     {
       "Spieldatum": "2027-05-27T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 07",
-      "Gastmannschaft": "DSG Magic Unicorns",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-05-27T22:22:00",
       "Heimmannschaft": "DSG Torpedo Lainz",
       "Gastmannschaft": "Dsg Spice Balls",
       "Typ": "Männer",
@@ -301183,19 +301183,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-05-27T22:22:00",
-      "Heimmannschaft": "DSG Südtirol 16",
-      "Gastmannschaft": "Dsg O.St.Veit.Bierstube",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga A",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2027-05-27T22:22:00",
