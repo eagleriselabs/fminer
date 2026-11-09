@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -217076,19 +217076,6 @@
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
-      "Heimmannschaft": "Vienna 2016",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 G",
-      "Spielort": "Siemens",
-      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.263364,
-      "Longitude": 16.423125
-    },
-    {
-      "Spieldatum": "2026-11-08T10:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -219002,19 +218989,6 @@
       "Spieldatum": "2026-11-09T19:00:00",
       "Heimmannschaft": "DSG Rudolfsheim I.F. Sen.",
       "Gastmannschaft": "Ostbahn XI Sen.",
-      "Typ": "Männer",
-      "Liga": "DSG Senioren 2",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-09T19:00:00",
-      "Heimmannschaft": "DSG Vienna Internationals Sen.",
-      "Gastmannschaft": "DSG Inklusiver Spielerpass FC Sen.",
       "Typ": "Männer",
       "Liga": "DSG Senioren 2",
       "Spielort": "Ostbahn 11",
@@ -234729,6 +234703,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2026-12-03T19:15:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U17",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2026-12-03T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Kapellerfeld",
@@ -235260,19 +235247,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-12-05T13:00:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U17",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2026-12-05T13:00:00",
