@@ -217076,6 +217076,19 @@
     },
     {
       "Spieldatum": "2026-11-08T10:00:00",
+      "Heimmannschaft": "Vienna 2016",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "Siemens",
+      "Spielort Straße": "Heinrich v. Buol-Gasse 3",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.263364,
+      "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2026-11-08T10:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "Kalksburg - Rodaun",
       "Typ": "Männer",
@@ -220141,6 +220154,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-11-14T10:00:00",
+      "Heimmannschaft": "Rennweger SV",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U10 A",
+      "Spielort": "Rennweg",
+      "Spielort Straße": "Grasbergerg. 18",
+      "Spielort PLZ": 1030,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.183499,
+      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-11-14T10:00:00",
@@ -223365,19 +223391,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-11-15T10:30:00",
-      "Heimmannschaft": "Rennweger SV",
-      "Gastmannschaft": "NAC",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U10 A",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
     },
     {
       "Spieldatum": "2026-11-15T10:30:00",
@@ -231519,6 +231532,19 @@
     },
     {
       "Spieldatum": "2026-11-25T19:30:00",
+      "Heimmannschaft": "UFK Schwemm",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2026-11-25T19:30:00",
       "Heimmannschaft": "Essling",
       "Gastmannschaft": "ASV 13",
       "Typ": "Männer",
@@ -232218,6 +232244,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
+    },
+    {
+      "Spieldatum": "2026-11-28T11:00:00",
+      "Heimmannschaft": "Gersthofer SV",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U14",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.225324870552456,
+      "Longitude": 16.328420452719126
     },
     {
       "Spieldatum": "2026-11-28T11:30:00",
@@ -235068,6 +235107,19 @@
     },
     {
       "Spieldatum": "2026-12-05T11:00:00",
+      "Heimmannschaft": "Gersthofer SV",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.225324870552456,
+      "Longitude": 16.328420452719126
+    },
+    {
+      "Spieldatum": "2026-12-05T11:00:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -236173,19 +236225,6 @@
     },
     {
       "Spieldatum": "2026-12-13T00:00:00",
-      "Heimmannschaft": "UFK Schwemm",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "\"Sport-Riss\" Wiener Landescup",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-12-13T00:00:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -236677,6 +236716,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-02-27T18:00:00",
+      "Heimmannschaft": "DSG Sektion Westside",
+      "Gastmannschaft": "DSG Südtirol 07",
+      "Typ": "Männer",
+      "Liga": "DSG LIGA",
+      "Spielort": "Red Star Platz",
+      "Spielort Straße": "Kendlerstr. 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.2395233586597,
+      "Longitude": 16.277832984924316
     },
     {
       "Spieldatum": "2027-02-28T00:00:00",
