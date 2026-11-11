@@ -216178,19 +216178,6 @@
       "Longitude": 16.421625
     },
     {
-      "Spieldatum": "2026-11-07T16:00:00",
-      "Heimmannschaft": "SK Rapid 1c",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Landesliga",
-      "Spielort": "Allianz Stadion / Trainingsplätze",
-      "Spielort Straße": "Gerhard Hanappi Platz 1",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.19799058337352,
-      "Longitude": 16.265119314193726
-    },
-    {
       "Spieldatum": "2026-11-07T16:15:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "Kapellerfeld",
@@ -219231,6 +219218,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-11-11T19:30:00",
+      "Heimmannschaft": "SK Rapid 1c",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Landesliga",
+      "Spielort": "Allianz Stadion / Trainingsplätze",
+      "Spielort Straße": "Gerhard Hanappi Platz 1",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.19799058337352,
+      "Longitude": 16.265119314193726
     },
     {
       "Spieldatum": "2026-11-11T19:45:00",
@@ -227320,19 +227320,6 @@
     },
     {
       "Spieldatum": "2026-11-21T12:00:00",
-      "Heimmannschaft": "1.Simmeringer SC A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-11-21T12:00:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Post SV A",
       "Typ": "Männer",
@@ -230606,6 +230593,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-11-22T14:00:00",
+      "Heimmannschaft": "1.Simmeringer SC A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-11-22T14:00:00",
@@ -235262,32 +235262,6 @@
       "Longitude": 16.310258
     },
     {
-      "Spieldatum": "2026-12-05T12:30:00",
-      "Heimmannschaft": "Wiener Sport - Club A",
-      "Gastmannschaft": "Donau A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2026-12-05T12:30:00",
-      "Heimmannschaft": "Wiener Sport - Club B",
-      "Gastmannschaft": "Donau B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "Trainingszentrum Wr. Sportklub",
-      "Spielort Straße": "Erdbrustgasse 4-18",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.215234,
-      "Longitude": 16.303975
-    },
-    {
       "Spieldatum": "2026-12-05T13:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "A XIII Auhof Center",
@@ -235708,7 +235682,7 @@
       "Heimmannschaft": "Wiener Sport - Club A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
+      "Liga": "WFV-LIGA U11 A",
       "Spielort": "Trainingszentrum Wr. Sportklub",
       "Spielort Straße": "Erdbrustgasse 4-18",
       "Spielort PLZ": 1160,
@@ -235721,7 +235695,7 @@
       "Heimmannschaft": "Wiener Sport - Club B",
       "Gastmannschaft": "Donau B",
       "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
+      "Liga": "WFV-LIGA U11 B",
       "Spielort": "Trainingszentrum Wr. Sportklub",
       "Spielort Straße": "Erdbrustgasse 4-18",
       "Spielort PLZ": 1160,
@@ -235923,6 +235897,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.166628,
       "Longitude": 16.304792
+    },
+    {
+      "Spieldatum": "2026-12-06T14:30:00",
+      "Heimmannschaft": "Wiener Sport - Club A",
+      "Gastmannschaft": "Donau A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-12-06T14:30:00",
+      "Heimmannschaft": "Wiener Sport - Club B",
+      "Gastmannschaft": "Donau B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "Trainingszentrum Wr. Sportklub",
+      "Spielort Straße": "Erdbrustgasse 4-18",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.215234,
+      "Longitude": 16.303975
     },
     {
       "Spieldatum": "2026-12-06T15:00:00",
@@ -236328,6 +236328,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-02-20T11:00:00",
+      "Heimmannschaft": "ASV 13",
+      "Gastmannschaft": "Stadlau",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "ASVÖ 13",
+      "Spielort Straße": "Linienamtsg. 7",
+      "Spielort PLZ": 1130,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.163089,
+      "Longitude": 16.276184
+    },
+    {
       "Spieldatum": "2027-02-20T16:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Red Star Penzing",
@@ -236482,19 +236495,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "ASV 13",
-      "Gastmannschaft": "Stadlau",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "ASVÖ 13",
-      "Spielort Straße": "Linienamtsg. 7",
-      "Spielort PLZ": 1130,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.163089,
-      "Longitude": 16.276184
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
