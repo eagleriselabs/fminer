@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -214242,6 +214242,19 @@
     },
     {
       "Spieldatum": "2026-11-07T10:00:00",
+      "Heimmannschaft": "Mariahilf B",
+      "Gastmannschaft": "Liesing ASK",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U11 B",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-11-07T10:00:00",
       "Heimmannschaft": "Liesing ASK",
       "Gastmannschaft": "Hirschstetten A",
       "Typ": "Männer",
@@ -218818,19 +218831,6 @@
     },
     {
       "Spieldatum": "2026-11-08T18:00:00",
-      "Heimmannschaft": "Dsg Spice Balls",
-      "Gastmannschaft": "DSG Südtirol 07",
-      "Typ": "Männer",
-      "Liga": "DSG LIGA",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2026-11-08T18:00:00",
       "Heimmannschaft": "DSG Sonntag 2012",
       "Gastmannschaft": "DSG Paulaner Wieden",
       "Typ": "Männer",
@@ -219348,19 +219348,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-11-12T22:22:00",
-      "Heimmannschaft": "DSG Sektor 17",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-11-13T17:45:00",
@@ -232260,6 +232247,32 @@
     },
     {
       "Spieldatum": "2026-11-28T11:30:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Essling A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U12 A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-28T11:30:00",
+      "Heimmannschaft": "FavAC B",
+      "Gastmannschaft": "Essling B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U12 B",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-28T11:30:00",
       "Heimmannschaft": "DSG 1. FC FI",
       "Gastmannschaft": "DSG Fallen Angels FC",
       "Typ": "Männer",
@@ -234545,32 +234558,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-11-29T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Essling A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U12 A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2026-11-29T22:22:00",
-      "Heimmannschaft": "FavAC B",
-      "Gastmannschaft": "Essling B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U12 B",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2026-11-29T22:22:00",
