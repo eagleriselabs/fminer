@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -219637,6 +219637,19 @@
     },
     {
       "Spieldatum": "2026-11-14T09:00:00",
+      "Heimmannschaft": "ASK Erlaa Torpedo 03 C",
+      "Gastmannschaft": "Royal Persia",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 G",
+      "Spielort": "ASK Erlaa",
+      "Spielort Straße": "Meischlgasse 26",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.141549296954906,
+      "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2026-11-14T09:00:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -222784,19 +222797,6 @@
     {
       "Spieldatum": "2026-11-15T09:00:00",
       "Heimmannschaft": "Rennweger SV",
-      "Gastmannschaft": "Ankerbrot",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Rennweg",
-      "Spielort Straße": "Grasbergerg. 18",
-      "Spielort PLZ": 1030,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.183499,
-      "Longitude": 16.398671
-    },
-    {
-      "Spieldatum": "2026-11-15T09:00:00",
-      "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
       "Liga": "C-LIGA U9",
@@ -224486,19 +224486,6 @@
     },
     {
       "Spieldatum": "2026-11-15T14:30:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "Maccabi Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-15T14:30:00",
       "Heimmannschaft": "DSG Lokomotive Döbling",
       "Gastmannschaft": "DSG WU Kickers",
       "Typ": "Männer",
@@ -225185,19 +225172,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-11-15T22:22:00",
-      "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Liesing ASK",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U16 A",
-      "Spielort": "Aspern",
-      "Spielort Straße": "Biberhaufenweg 18",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214871,
-      "Longitude": 16.48207
     },
     {
       "Spieldatum": "2026-11-16T19:30:00",
@@ -236549,6 +236523,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-02-27T15:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "SV Horn",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2027-02-27T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FCM Traiskirchen",
@@ -236612,19 +236599,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-02-28T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "SV Horn",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-02-28T12:45:00",
@@ -242126,6 +242100,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-03-13T15:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2027-03-13T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FavAC",
@@ -242189,19 +242176,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-14T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "SV Klöcher Bau Oberwart",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-03-14T10:00:00",
@@ -254489,6 +254463,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2027-03-27T15:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "Mattersburger Sportverein 2020",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2027-03-27T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "Wiener Sport - Club",
@@ -254513,19 +254500,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-03-28T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "Mattersburger Sportverein 2020",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-03-31T18:45:00",
@@ -261561,6 +261535,19 @@
       "Longitude": 16.365973
     },
     {
+      "Spieldatum": "2027-04-10T15:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2027-04-10T15:30:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Post SV A",
@@ -261650,19 +261637,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-11T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-04-11T09:00:00",
@@ -274652,6 +274626,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-04-24T15:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
       "Spieldatum": "2027-04-24T15:30:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Donau A",
@@ -274702,19 +274689,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-25T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-04-25T09:00:00",
@@ -294322,6 +294296,19 @@
     },
     {
       "Spieldatum": "2027-05-14T18:00:00",
+      "Heimmannschaft": "SV Wienerberg 1921",
+      "Gastmannschaft": "SV Donau",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-05-14T18:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "SV Gerasdorf Stammersdorf",
       "Typ": "Männer",
@@ -294449,19 +294436,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2027-05-16T00:00:00",
-      "Heimmannschaft": "SV Wienerberg 1921",
-      "Gastmannschaft": "SV Donau",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "Wienerberg Arena",
-      "Spielort Straße": "Computerstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.157919,
-      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-05-16T21:59:00",
@@ -301211,7 +301185,7 @@
       "Longitude": 16.419164
     },
     {
-      "Spieldatum": "2027-05-28T00:00:00",
+      "Spieldatum": "2027-05-28T18:30:00",
       "Heimmannschaft": "SV Wienerberg 1921",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
       "Typ": "Männer",
