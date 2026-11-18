@@ -213019,19 +213019,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2026-11-05T18:45:00",
-      "Heimmannschaft": "Maccabi Wien",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Körner Trainingszentrum powered by Varta",
-      "Spielort Straße": "Josef Fritsch Weg 2-4",
-      "Spielort PLZ": 1020,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.207304,
-      "Longitude": 16.428909
-    },
-    {
       "Spieldatum": "2026-11-05T19:30:00",
       "Heimmannschaft": "Dinamo Helfort",
       "Gastmannschaft": "Sportunion Mauer",
@@ -232116,19 +232103,6 @@
       "Longitude": 16.276404
     },
     {
-      "Spieldatum": "2026-11-28T11:00:00",
-      "Heimmannschaft": "Gersthofer SV",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U14",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.225324870552456,
-      "Longitude": 16.328420452719126
-    },
-    {
       "Spieldatum": "2026-11-28T11:30:00",
       "Heimmannschaft": "FavAC",
       "Gastmannschaft": "Essling A",
@@ -234470,6 +234444,19 @@
     },
     {
       "Spieldatum": "2026-12-02T18:00:00",
+      "Heimmannschaft": "Maccabi Wien",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Körner Trainingszentrum powered by Varta",
+      "Spielort Straße": "Josef Fritsch Weg 2-4",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.207304,
+      "Longitude": 16.428909
+    },
+    {
+      "Spieldatum": "2026-12-02T18:00:00",
       "Heimmannschaft": "WAF pinova Telekom",
       "Gastmannschaft": "First Vienna FC 1894 A",
       "Typ": "Männer",
@@ -234987,19 +234974,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-12-05T11:00:00",
-      "Heimmannschaft": "Gersthofer SV",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "Post Sportanlage",
-      "Spielort Straße": "Roggendorfg. 2",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.225324870552456,
-      "Longitude": 16.328420452719126
     },
     {
       "Spieldatum": "2026-12-05T11:00:00",
@@ -236211,6 +236185,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-02-21T09:00:00",
+      "Heimmannschaft": "A XIII Auhof Center",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Kinkplatz - Austria 13",
+      "Spielort Straße": "Kinkplatz",
+      "Spielort PLZ": 1140,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.199991,
+      "Longitude": 16.276404
+    },
+    {
       "Spieldatum": "2027-02-21T11:00:00",
       "Heimmannschaft": "ASV 13 A",
       "Gastmannschaft": "Red Star Penzing A",
@@ -236261,19 +236248,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "A XIII Auhof Center",
-      "Gastmannschaft": "Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "Kinkplatz - Austria 13",
-      "Spielort Straße": "Kinkplatz",
-      "Spielort PLZ": 1140,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.199991,
-      "Longitude": 16.276404
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
