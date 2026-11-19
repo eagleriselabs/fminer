@@ -219351,19 +219351,6 @@
     },
     {
       "Spieldatum": "2026-11-13T20:00:00",
-      "Heimmannschaft": "Dsg Neulandschule",
-      "Gastmannschaft": "DSG Fallen Angels FC",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-13T20:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Donau",
       "Typ": "Männer",
@@ -225292,6 +225279,19 @@
     },
     {
       "Spieldatum": "2026-11-18T19:30:00",
+      "Heimmannschaft": "SV Gerasdorf Stammersdorf",
+      "Gastmannschaft": "FC Bhf. Favoriten",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Großfeld",
+      "Spielort Straße": "Julius Ficker Str.",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.265404,
+      "Longitude": 16.443979
+    },
+    {
+      "Spieldatum": "2026-11-18T19:30:00",
       "Heimmannschaft": "Ostbahn XI",
       "Gastmannschaft": "1980 Wien",
       "Typ": "Männer",
@@ -225406,19 +225406,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-11-19T22:22:00",
-      "Heimmannschaft": "DSG Meidling",
-      "Gastmannschaft": "DSG Rudolfsheim I.F.",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "KR Wiener Viktoria Platz (Wien 12. Bez.)",
-      "Spielort Straße": "Oswaldgasse 34",
-      "Spielort PLZ": 1120,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1676533,
-      "Longitude": 16.3253127
     },
     {
       "Spieldatum": "2026-11-20T15:30:00",
@@ -232689,6 +232676,19 @@
     },
     {
       "Spieldatum": "2026-11-28T14:00:00",
+      "Heimmannschaft": "Gartenstadt",
+      "Gastmannschaft": "Donau 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-11-28T14:00:00",
       "Heimmannschaft": "Süssenbrunn",
       "Gastmannschaft": "SR Donaufeld 1b",
       "Typ": "Männer",
@@ -233234,6 +233234,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2026-11-29T00:00:00",
+      "Heimmannschaft": "Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
       "Spieldatum": "2026-11-29T08:15:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Dinamo Helfort",
@@ -233583,19 +233596,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
-    },
-    {
-      "Spieldatum": "2026-11-29T11:00:00",
-      "Heimmannschaft": "Gartenstadt",
-      "Gastmannschaft": "Donau 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "ASKÖ XX",
-      "Spielort Straße": "Hopsagasse 5",
-      "Spielort PLZ": 1200,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.247288,
-      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-11-29T11:15:00",
