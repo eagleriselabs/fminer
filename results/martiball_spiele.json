@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -161527,7 +161527,7 @@
     },
     {
       "Spieldatum": "2026-09-05T11:45:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "FCJ Alt - Ottakring",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -162386,7 +162386,7 @@
     {
       "Spieldatum": "2026-09-05T14:30:00",
       "Heimmannschaft": "Essling",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Essling",
@@ -164881,7 +164881,7 @@
     },
     {
       "Spieldatum": "2026-09-06T14:15:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "A XIII Auhof Center",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -165671,6 +165671,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
+    },
+    {
+      "Spieldatum": "2026-09-06T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Mariahilf B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-09-06T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "DSG SUSA Vienna B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-09-08T18:15:00",
@@ -167820,7 +167846,7 @@
     {
       "Spieldatum": "2026-09-12T13:00:00",
       "Heimmannschaft": "Slovan HAC A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Slovan HAC",
@@ -168574,7 +168600,7 @@
     {
       "Spieldatum": "2026-09-12T16:00:00",
       "Heimmannschaft": "Elite A",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Leopoldau",
@@ -170706,7 +170732,7 @@
     {
       "Spieldatum": "2026-09-13T12:00:00",
       "Heimmannschaft": "Cro - Vienna",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Gem.Wien 10, Eibesbrunnerg.",
@@ -172184,6 +172210,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2026-09-13T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-09-13T22:22:00",
+      "Heimmannschaft": "Hellas Kagran B",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-09-14T19:30:00",
@@ -174384,7 +174436,7 @@
     },
     {
       "Spieldatum": "2026-09-19T11:45:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -175333,7 +175385,7 @@
     },
     {
       "Spieldatum": "2026-09-19T14:30:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "SR Donaufeld A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -177582,7 +177634,7 @@
     },
     {
       "Spieldatum": "2026-09-20T12:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Mannswörth",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -178658,6 +178710,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-09-20T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "Elite B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-09-21T19:30:00",
@@ -180170,7 +180235,7 @@
     {
       "Spieldatum": "2026-09-26T10:50:00",
       "Heimmannschaft": "Hirschstetten",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "WFV-22 Hirschstetten",
@@ -183160,7 +183225,7 @@
     {
       "Spieldatum": "2026-09-27T10:30:00",
       "Heimmannschaft": "Columbia Floridsdorf A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Columbia",
@@ -183965,7 +184030,7 @@
     },
     {
       "Spieldatum": "2026-09-27T12:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "NAC",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -185054,6 +185119,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2026-09-27T22:22:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-09-27T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "TWL Elektra C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-09-28T19:30:00",
@@ -187176,7 +187267,7 @@
     },
     {
       "Spieldatum": "2026-10-03T11:45:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Mariahilf A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -187735,19 +187826,6 @@
     },
     {
       "Spieldatum": "2026-10-03T13:30:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2026-10-03T13:30:00",
       "Heimmannschaft": "Post SV",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -188034,7 +188112,7 @@
     },
     {
       "Spieldatum": "2026-10-03T14:30:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Marswiese",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -188256,7 +188334,7 @@
     {
       "Spieldatum": "2026-10-03T15:45:00",
       "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Franz Koci Anlage",
@@ -191647,6 +191725,19 @@
       "Longitude": 16.360667
     },
     {
+      "Spieldatum": "2026-10-04T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
       "Spieldatum": "2026-10-05T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Vienna Vibes",
@@ -193326,7 +193417,7 @@
     {
       "Spieldatum": "2026-10-10T10:20:00",
       "Heimmannschaft": "ASV 13 A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "ASVÖ 13",
@@ -194509,7 +194600,7 @@
     {
       "Spieldatum": "2026-10-10T14:30:00",
       "Heimmannschaft": "Wiener Viktoria",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Wr. Viktoria",
@@ -196978,7 +197069,7 @@
     },
     {
       "Spieldatum": "2026-10-11T12:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Ostbahn XI",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -198080,6 +198171,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241394,
       "Longitude": 16.473635
+    },
+    {
+      "Spieldatum": "2026-10-11T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "DSG SUSA Vienna B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-11T22:22:00",
+      "Heimmannschaft": "Wollers Komet",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2026-10-12T19:00:00",
@@ -200436,7 +200553,7 @@
     },
     {
       "Spieldatum": "2026-10-17T11:45:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "SC Großfeld",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -201242,7 +201359,7 @@
     },
     {
       "Spieldatum": "2026-10-17T14:30:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Dinamo Helfort A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -203986,7 +204103,7 @@
     {
       "Spieldatum": "2026-10-18T14:00:00",
       "Heimmannschaft": "1210 Wien",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Nord Wien Platz",
@@ -204996,6 +205113,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2026-10-18T22:22:00",
+      "Heimmannschaft": "Hellas Kagran B",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-10-19T19:30:00",
@@ -206351,7 +206481,7 @@
     },
     {
       "Spieldatum": "2026-10-24T10:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -210885,6 +211015,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2026-10-25T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Elite B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2026-10-25T22:22:00",
+      "Heimmannschaft": "TWL Elektra C",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2026-10-25T22:22:00",
@@ -215868,7 +216024,7 @@
     {
       "Spieldatum": "2026-11-07T14:30:00",
       "Heimmannschaft": "Teco7 FC",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "ASKÖ XX",
@@ -217025,7 +217181,7 @@
     {
       "Spieldatum": "2026-11-08T10:00:00",
       "Heimmannschaft": "Wienerberg 1921 A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Wienerberg Arena",
@@ -218038,7 +218194,7 @@
     },
     {
       "Spieldatum": "2026-11-08T12:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -218997,6 +219153,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2026-11-08T22:22:00",
+      "Heimmannschaft": "DSG Football School",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-08T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "Mariahilf B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2026-11-09T19:00:00",
@@ -221691,7 +221873,7 @@
     },
     {
       "Spieldatum": "2026-11-14T14:30:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "A11 - R.Oberlaa",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -227207,12 +227389,12 @@
       "Gastmannschaft": "Elite",
       "Typ": "Männer",
       "Liga": "C-LIGA U13 A",
-      "Spielort": "Naturarena Hohe Warte",
-      "Spielort Straße": "Klabundgasse",
-      "Spielort PLZ": 1190,
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
       "Spielort Ort": "Wien",
-      "Latitude": 48.247428,
-      "Longitude": 16.359464
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-21T12:00:00",
@@ -227620,7 +227802,7 @@
     {
       "Spieldatum": "2026-11-21T14:00:00",
       "Heimmannschaft": "DSG SUSA Vienna A",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Donau",
@@ -227814,7 +227996,7 @@
     },
     {
       "Spieldatum": "2026-11-21T14:30:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "FavAC",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -227840,7 +228022,7 @@
     },
     {
       "Spieldatum": "2026-11-21T15:00:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -228565,19 +228747,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2026-11-21T20:00:00",
-      "Heimmannschaft": "DSG Tudi Wien F.C.",
-      "Gastmannschaft": "DSG Atemnot",
-      "Typ": "Männer",
-      "Liga": "DSG 1. Klasse A",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-11-21T20:00:00",
@@ -230207,19 +230376,6 @@
     {
       "Spieldatum": "2026-11-22T13:00:00",
       "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "1210 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-22T13:00:00",
-      "Heimmannschaft": "Wiener Akademik",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
       "Typ": "Männer",
       "Liga": "B-LIGA U17",
@@ -230710,6 +230866,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2026-11-22T15:00:00",
+      "Heimmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Helfort",
+      "Spielort Straße": "Kendlerstr. 42",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.205946,
+      "Longitude": 16.310258
     },
     {
       "Spieldatum": "2026-11-22T15:00:00",
@@ -231324,6 +231493,19 @@
     },
     {
       "Spieldatum": "2026-11-22T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Inzersdorf B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2026-11-22T22:22:00",
       "Heimmannschaft": "SC Großfeld",
       "Gastmannschaft": "FC Seestadt",
       "Typ": "Männer",
@@ -231440,8 +231622,34 @@
       "Longitude": 16.265119314193726
     },
     {
+      "Spieldatum": "2026-11-25T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2026-11-25T18:45:00",
+      "Heimmannschaft": "Red Star Penzing",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "Red Star Auto",
+      "Spielort Straße": "Kendlerstrasse 38",
+      "Spielort PLZ": 1160,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.20384,
+      "Longitude": 16.309532
+    },
+    {
       "Spieldatum": "2026-11-25T19:00:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "FAC Wien A",
       "Typ": "Männer",
       "Liga": "JUGENDCUP U14",
@@ -232455,6 +232663,19 @@
     },
     {
       "Spieldatum": "2026-11-28T12:00:00",
+      "Heimmannschaft": "Dynama*Dynamo Donau FC",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
+    },
+    {
+      "Spieldatum": "2026-11-28T12:00:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "WAF pinova Telekom",
       "Typ": "Männer",
@@ -233351,19 +233572,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2026-11-29T00:00:00",
-      "Heimmannschaft": "Dynama*Dynamo Donau FC",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Cup powered by UNIQA",
-      "Spielort": "Nord Wien Platz",
-      "Spielort Straße": "Jedlersdorfer Platz 25",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.28306,
-      "Longitude": 16.409595
-    },
-    {
       "Spieldatum": "2026-11-29T08:15:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Dinamo Helfort",
@@ -233847,7 +234055,7 @@
     {
       "Spieldatum": "2026-11-29T12:00:00",
       "Heimmannschaft": "Hellas Kagran A",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Hellas Kagran Sport-Arena",
@@ -234194,6 +234402,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-11-29T15:00:00",
+      "Heimmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "Mannswörth",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U15",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2026-11-29T15:00:00",
@@ -234574,7 +234795,7 @@
     },
     {
       "Spieldatum": "2026-12-02T18:00:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "First Vienna FC 1894 A",
       "Typ": "Männer",
       "Liga": "JUGENDCUP U14",
@@ -234610,6 +234831,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.242739,
       "Longitude": 16.370454
+    },
+    {
+      "Spieldatum": "2026-12-02T19:00:00",
+      "Heimmannschaft": "SV Essling",
+      "Gastmannschaft": "SC Mannswörth",
+      "Typ": "Männer",
+      "Liga": "\"Sport-Riss\" Wiener Landescup",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2026-12-02T19:30:00",
@@ -234753,6 +234987,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1676533,
       "Longitude": 16.3253127
+    },
+    {
+      "Spieldatum": "2026-12-04T17:00:00",
+      "Heimmannschaft": "Hellas Kagran A",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-12-04T18:00:00",
@@ -235263,7 +235510,7 @@
     },
     {
       "Spieldatum": "2026-12-05T12:30:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Ankerbrot",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -236056,19 +236303,6 @@
     },
     {
       "Spieldatum": "2026-12-06T22:22:00",
-      "Heimmannschaft": "Hellas Kagran A",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-12-06T22:22:00",
       "Heimmannschaft": "Mariahilf B",
       "Gastmannschaft": "Hellas Kagran G",
       "Typ": "Männer",
@@ -236092,19 +236326,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-12-06T22:22:00",
-      "Heimmannschaft": "Red Star Penzing",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "Red Star Auto",
-      "Spielort Straße": "Kendlerstrasse 38",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.20384,
-      "Longitude": 16.309532
     },
     {
       "Spieldatum": "2026-12-09T18:30:00",
@@ -236601,6 +236822,19 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-02-27T12:30:00",
+      "Heimmannschaft": "Essling",
+      "Gastmannschaft": "1980 Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
+    },
+    {
       "Spieldatum": "2027-02-27T14:00:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "SV Schwechat",
@@ -236612,6 +236846,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2027-02-27T14:30:00",
+      "Heimmannschaft": "Essling",
+      "Gastmannschaft": "Cro - Vienna",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U17",
+      "Spielort": "Essling",
+      "Spielort Straße": "Kirschenallee 2-4",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.214036,
+      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2027-02-27T15:00:00",
@@ -236872,19 +237119,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-02-28T22:22:00",
-      "Heimmannschaft": "Essling",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
     },
     {
       "Spieldatum": "2027-02-28T22:22:00",
@@ -237213,19 +237447,6 @@
     },
     {
       "Spieldatum": "2027-02-28T22:22:00",
-      "Heimmannschaft": "Essling",
-      "Gastmannschaft": "Cro - Vienna",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U17",
-      "Spielort": "Essling",
-      "Spielort Straße": "Kirschenallee 2-4",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.214036,
-      "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-02-28T22:22:00",
       "Heimmannschaft": "Hirschstetten",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
@@ -237500,7 +237721,7 @@
     {
       "Spieldatum": "2027-02-28T22:22:00",
       "Heimmannschaft": "FCJ Alt - Ottakring",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Kinkplatz - Austria 13",
@@ -240476,7 +240697,7 @@
     },
     {
       "Spieldatum": "2027-03-07T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Elite A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -242165,6 +242386,32 @@
       "Longitude": 16.265628
     },
     {
+      "Spieldatum": "2027-03-13T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-03-13T09:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "Essling A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-03-13T10:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "First Vienna FC 1894 A",
@@ -242176,6 +242423,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-13T10:15:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-03-13T11:45:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-13T12:00:00",
@@ -242191,6 +242464,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-03-13T13:15:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-03-13T15:00:00",
       "Heimmannschaft": "SV Wienerberg 1921",
       "Gastmannschaft": "SV Klöcher Bau Oberwart",
@@ -242204,6 +242490,19 @@
       "Longitude": 16.3396
     },
     {
+      "Spieldatum": "2027-03-13T15:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-03-13T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FavAC",
@@ -242215,6 +242514,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250543,
       "Longitude": 16.418322
+    },
+    {
+      "Spieldatum": "2027-03-13T17:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "FavAC B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U13 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-13T17:00:00",
@@ -242269,6 +242581,45 @@
       "Longitude": 16.421625
     },
     {
+      "Spieldatum": "2027-03-14T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "FK Austria Wien",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-03-14T09:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "Essling B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-03-14T10:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "TWL Elektra B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-03-14T10:00:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "First Vienna FC 1894 B",
@@ -242280,6 +242631,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-14T12:00:00",
+      "Heimmannschaft": "FAC Wien C",
+      "Gastmannschaft": "FavAC B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U14 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T12:00:00",
@@ -242296,6 +242660,19 @@
     },
     {
       "Spieldatum": "2027-03-14T14:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "TWL Elektra A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-03-14T14:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "First Vienna FC 1894",
       "Typ": "Männer",
@@ -242306,6 +242683,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-03-14T16:00:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "TWL Elektra",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T21:59:00",
@@ -243206,19 +243596,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "FavAC B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U13 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Post SV B",
       "Gastmannschaft": "Dinamo Helfort B",
       "Typ": "Männer",
@@ -243310,7 +243687,7 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Essling",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -243359,19 +243736,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien C",
-      "Gastmannschaft": "FavAC B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U14 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -243882,19 +244246,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -243970,19 +244321,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230244,
       "Longitude": 16.450798
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "Essling B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244243,6 +244581,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.239916,
       "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Kapellerfeld B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -244884,7 +245235,7 @@
     {
       "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "A XIII Auhof Center",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Kinkplatz - Austria 13",
@@ -245218,6 +245569,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Cro - Vienna",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -245846,7 +246210,7 @@
     {
       "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Aspern",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Aspern",
@@ -245923,6 +246287,19 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "DSG SUSA Vienna B",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Elite B",
       "Gastmannschaft": "Wienerberg 1921 C",
       "Typ": "Männer",
@@ -245946,6 +246323,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Mariahilf B",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -246365,19 +246755,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -246534,19 +246911,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -246690,19 +247054,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894",
       "Gastmannschaft": "Wiener Sport - Club",
       "Typ": "Männer",
@@ -246752,19 +247103,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -246833,19 +247171,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "TWL Elektra A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "Post SV A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -246895,19 +247220,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "TWL Elektra B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -246973,19 +247285,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269294,
       "Longitude": 16.38053
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "TWL Elektra",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -247210,19 +247509,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "FK Austria Wien",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -247311,19 +247597,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "Essling A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -249381,7 +249654,7 @@
     },
     {
       "Spieldatum": "2027-03-21T13:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Cro - Vienna",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -250330,7 +250603,7 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Slovan HAC A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -252800,7 +253073,7 @@
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Hirschstetten",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -252836,6 +253109,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-21T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
+    },
+    {
+      "Spieldatum": "2027-03-21T22:22:00",
+      "Heimmannschaft": "Wollers Komet",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "ASKÖ XX",
+      "Spielort Straße": "Hopsagasse 5",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.247288,
+      "Longitude": 16.371731
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -254723,6 +255022,45 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-03T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-03T09:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-03T10:15:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "1.Simmeringer SC A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-04-03T10:45:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "Stadlau B",
@@ -254734,6 +255072,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-03T12:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-03T12:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-03T12:30:00",
@@ -254775,6 +255139,19 @@
       "Longitude": 16.423125
     },
     {
+      "Spieldatum": "2027-04-03T16:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U13",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-04-03T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SR Donaufeld",
@@ -254799,6 +255176,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-03T18:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "A11 - R.Oberlaa B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U13 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-03T18:00:00",
@@ -254828,6 +255218,32 @@
     },
     {
       "Spieldatum": "2027-04-04T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-04T09:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-04T09:00:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "1.Simmeringer SC",
       "Typ": "Männer",
@@ -254838,6 +255254,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-04T10:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-04T10:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "First Vienna FC 1894 B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T10:45:00",
@@ -254853,6 +255295,32 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-04-04T11:30:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U12 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-04T11:30:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-04-04T12:45:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Ostbahn XI",
@@ -254864,6 +255332,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-04T13:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "1.Simmeringer SC B",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-04T15:00:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "1.Simmeringer SC",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T21:59:00",
@@ -255647,19 +256141,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U12 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Slovan HAC B",
       "Gastmannschaft": "DSV Fortuna 05 B",
       "Typ": "Männer",
@@ -255790,19 +256271,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "A11 - R.Oberlaa B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U13 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Post SV B",
       "Gastmannschaft": "DSV Fortuna 05 B",
       "Typ": "Männer",
@@ -255869,7 +256337,7 @@
     {
       "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "SR Donaufeld A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Donaufeld",
@@ -256414,19 +256882,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -256502,19 +256957,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -257740,6 +258182,19 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "DSV Fortuna 05",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
@@ -258391,7 +258846,7 @@
     {
       "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "Mariahilf A",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "SGP Simmering",
@@ -258426,6 +258881,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Wienerberg 1921 C",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-04T22:22:00",
+      "Heimmannschaft": "Elite B",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -258871,19 +259352,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -258975,19 +259443,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter B",
       "Gastmannschaft": "Red Star Penzing B",
       "Typ": "Männer",
@@ -259037,19 +259492,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -259131,19 +259573,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter B",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -259209,19 +259638,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -259271,19 +259687,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U13",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -259352,19 +259755,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "1.Simmeringer SC A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -259417,19 +259807,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "1.Simmeringer SC B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 B",
       "Gastmannschaft": "Wiener Sport - Club B",
       "Typ": "Männer",
@@ -259466,19 +259843,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.223531,
       "Longitude": 16.32412
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "1.Simmeringer SC",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -259755,19 +260119,6 @@
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -259856,19 +260207,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-04T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "First Vienna FC 1894 B",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-04T22:22:00",
@@ -261497,6 +261835,19 @@
     },
     {
       "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-10T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -261510,6 +261861,19 @@
     },
     {
       "Spieldatum": "2027-04-10T09:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "ASV 13 C",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U9 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-10T09:00:00",
       "Heimmannschaft": "Red Star Penzing B",
       "Gastmannschaft": "Donau B",
       "Typ": "Männer",
@@ -261520,6 +261884,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-10T10:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-10T10:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "ASV 13 C",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U10 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-10T10:30:00",
@@ -261572,6 +261962,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-10T11:30:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "Slovan HAC B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U12 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-10T12:00:00",
@@ -261744,6 +262147,19 @@
     },
     {
       "Spieldatum": "2027-04-11T09:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-11T09:00:00",
       "Heimmannschaft": "Red Star Penzing A",
       "Gastmannschaft": "Donau A",
       "Typ": "Männer",
@@ -261767,6 +262183,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-11T10:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-11T10:00:00",
+      "Heimmannschaft": "FAC Wien B",
+      "Gastmannschaft": "Slovan HAC C",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 B",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T10:30:00",
@@ -261819,6 +262261,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-11T11:30:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "Wiener Sport - Club A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T12:00:00",
@@ -262589,19 +263044,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "Slovan HAC B",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U12 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "FavAC B",
       "Gastmannschaft": "DSV Fortuna 05 B",
       "Typ": "Männer",
@@ -262823,7 +263265,7 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Columbia Floridsdorf A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -263457,19 +263899,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U8 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -264514,7 +264943,7 @@
     {
       "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "NAC",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "NAC",
@@ -265566,7 +265995,7 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Wiener Viktoria",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -265602,6 +266031,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2027-04-11T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "DSG Football School",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266034,19 +266476,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -266099,19 +266528,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "ASV 13 C",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U10 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "First Vienna FC 1894 B",
       "Gastmannschaft": "Stadlau C",
       "Typ": "Männer",
@@ -266148,19 +266564,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266213,19 +266616,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "Slovan HAC C",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266343,19 +266733,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "Wiener Sport - Club A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266645,19 +267022,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "Sportunion Mauer A",
       "Typ": "Männer",
@@ -266720,19 +267084,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FAC Wien B",
-      "Gastmannschaft": "ASV 13 C",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U9 B",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -268438,6 +268789,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-04-18T12:00:00",
+      "Heimmannschaft": "FAC Wien A",
+      "Gastmannschaft": "First Vienna FC 1894 A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U14 A",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
+    },
+    {
       "Spieldatum": "2027-04-18T13:00:00",
       "Heimmannschaft": "Dsg Celtic Hernals",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -268452,7 +268816,7 @@
     },
     {
       "Spieldatum": "2027-04-18T13:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "1980 Wien",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -268462,6 +268826,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-18T14:00:00",
+      "Heimmannschaft": "FAC Wien",
+      "Gastmannschaft": "First Vienna FC 1894",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U15",
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-18T15:00:00",
@@ -269376,7 +269753,7 @@
     {
       "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Marswiese",
@@ -270191,6 +270568,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.159325,
       "Longitude": 16.367574
+    },
+    {
+      "Spieldatum": "2027-04-18T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03 B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
@@ -271039,6 +271429,19 @@
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "NAC",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "ASK Erlaa Torpedo 03 C",
       "Typ": "Männer",
@@ -271664,7 +272067,7 @@
     {
       "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "SC Großfeld",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Großfeld",
@@ -271686,6 +272089,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
+    },
+    {
+      "Spieldatum": "2027-04-18T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
@@ -272521,19 +272937,6 @@
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
-      "Heimmannschaft": "FAC Wien A",
-      "Gastmannschaft": "First Vienna FC 1894 A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U14 A",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "LAC - Inter A",
       "Gastmannschaft": "Red Star Penzing A",
       "Typ": "Männer",
@@ -272687,19 +273090,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-04-18T22:22:00",
-      "Heimmannschaft": "FAC Wien",
-      "Gastmannschaft": "First Vienna FC 1894",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U15",
-      "Spielort": "FAC-Platz",
-      "Spielort Straße": "Hopfengasse 8",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.269916,
-      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
@@ -275901,7 +276291,7 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "ASV 13 A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -276837,6 +277227,19 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Hirschstetten B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Elite G",
       "Gastmannschaft": "Süssenbrunn",
       "Typ": "Männer",
@@ -277592,7 +277995,7 @@
     {
       "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "Ostbahn XI",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Ostbahn 11",
@@ -278670,7 +279073,7 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Kapellerfeld",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -278680,6 +279083,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2027-04-25T22:22:00",
+      "Heimmannschaft": "DSG SUSA Vienna B",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -278706,6 +279122,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-25T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "Wollers Komet",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -281881,7 +282310,7 @@
     },
     {
       "Spieldatum": "2027-05-02T13:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "1210 Wien",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -282818,7 +283247,7 @@
     {
       "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Dinamo Helfort A",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Helfort",
@@ -284455,6 +284884,19 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Kapellerfeld C",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Liesing ASK",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -285015,7 +285457,7 @@
     {
       "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Ankerbrot",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Franz Hölbl Anlage / Anker Arena",
@@ -285079,6 +285521,19 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "Hellas Kagran B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Mariahilf B",
       "Gastmannschaft": "TWL Elektra C",
       "Typ": "Männer",
@@ -285089,6 +285544,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2027-05-02T22:22:00",
+      "Heimmannschaft": "Wienerberg 1921 C",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -285206,6 +285674,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2027-05-02T22:22:00",
+      "Heimmannschaft": "TWL Elektra C",
+      "Gastmannschaft": "Rennweger SV",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U16 A",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
@@ -288823,7 +289304,7 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Gerasdorf Stammersdorf",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -289837,6 +290318,19 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Mariahilf B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "Elite G",
       "Gastmannschaft": "Aspern",
       "Typ": "Männer",
@@ -290527,7 +291021,7 @@
     {
       "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03 A",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "ASK Erlaa",
@@ -291644,7 +292138,7 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Teco7 FC",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
@@ -291667,6 +292161,32 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "Elite B",
+      "Gastmannschaft": "DSV Fortuna 05 B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "WAF pinova Telekom B",
+      "Gastmannschaft": "Wiener Akademik B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "WAF Gruabn",
+      "Spielort Straße": "Meldemannstr. 13",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.239916,
+      "Longitude": 16.377702
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -295687,7 +296207,7 @@
     },
     {
       "Spieldatum": "2027-05-23T13:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "DSG SUSA Vienna A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -296598,7 +297118,7 @@
     {
       "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "FavAC",
@@ -298235,6 +298755,19 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "SC Großfeld",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
@@ -298846,16 +299379,29 @@
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "TWL Elektra C",
-      "Gastmannschaft": "DSG SUSA Vienna B",
+      "Heimmannschaft": "DSV Fortuna 05 B",
+      "Gastmannschaft": "DSG Football School",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
+      "Spielort": "Fortuna 05",
+      "Spielort Straße": "Krottenbachstr. 53",
+      "Spielort PLZ": 1190,
       "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
+      "Latitude": 48.240363,
+      "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-05-23T22:22:00",
+      "Heimmannschaft": "Mariahilf B",
+      "Gastmannschaft": "WAF pinova Telekom B",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U14 B",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -302408,7 +302954,7 @@
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
-      "Heimmannschaft": "WAF pinova Telekom",
+      "Heimmannschaft": "WAF pinova Telekom A",
       "Gastmannschaft": "Wienerberg 1921 A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
@@ -303149,6 +303695,19 @@
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Ankerbrot B",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U8 F",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "Mariahilf B",
       "Gastmannschaft": "Hirschstetten B",
       "Typ": "Männer",
@@ -303826,7 +304385,7 @@
     {
       "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
-      "Gastmannschaft": "DSV Fortuna 05",
+      "Gastmannschaft": "DSV Fortuna 05 A",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
       "Spielort": "Donaustadt - Gemeinde Wien 22",
@@ -304814,7 +305373,7 @@
     {
       "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "SU Schönbrunn",
-      "Gastmannschaft": "Wiener Akademik",
+      "Gastmannschaft": "Wiener Akademik A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
       "Spielort": "Sportunion Schönbrunn",
@@ -307803,7 +308362,7 @@
     },
     {
       "Spieldatum": "2027-06-06T13:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
+      "Heimmannschaft": "DSV Fortuna 05 A",
       "Gastmannschaft": "Gersthofer SV",
       "Typ": "Männer",
       "Liga": "B-LIGA U14",
@@ -307839,19 +308398,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-06-06T15:45:00",
-      "Heimmannschaft": "DSV Fortuna 05",
-      "Gastmannschaft": "Mannswörth",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U15",
-      "Spielort": "Fortuna 05",
-      "Spielort Straße": "Krottenbachstr. 53",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240363,
-      "Longitude": 16.335761
     },
     {
       "Spieldatum": "2027-06-06T16:00:00",
@@ -308753,7 +309299,7 @@
     {
       "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "A11 - R.Oberlaa",
-      "Gastmannschaft": "WAF pinova Telekom",
+      "Gastmannschaft": "WAF pinova Telekom A",
       "Typ": "Männer",
       "Liga": "A-LIGA U14 A",
       "Spielort": "Rapid Oberlaa",
@@ -310273,6 +310819,19 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "1210 Wien",
+      "Typ": "Männer",
+      "Liga": "B-LIGA U9 A",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "NAC",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -310871,7 +311430,7 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "Wiener Akademik",
+      "Heimmannschaft": "Wiener Akademik A",
       "Gastmannschaft": "Hellas Kagran A",
       "Typ": "Männer",
       "Liga": "C-LIGA U14 A",
