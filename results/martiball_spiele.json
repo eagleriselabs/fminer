@@ -229088,19 +229088,6 @@
     },
     {
       "Spieldatum": "2026-11-22T09:00:00",
-      "Heimmannschaft": "USC Landhaus G",
-      "Gastmannschaft": "DSG Football School",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U12 B",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
-    },
-    {
-      "Spieldatum": "2026-11-22T09:00:00",
       "Heimmannschaft": "Rennweger SV",
       "Gastmannschaft": "Mariahilf A",
       "Typ": "Männer",
@@ -230895,19 +230882,6 @@
     },
     {
       "Spieldatum": "2026-11-22T15:00:00",
-      "Heimmannschaft": "Wiener Akademik",
-      "Gastmannschaft": "1980 Wien",
-      "Typ": "Männer",
-      "Liga": "B-LIGA U16",
-      "Spielort": "Helfort",
-      "Spielort Straße": "Kendlerstr. 42",
-      "Spielort PLZ": 1160,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.205946,
-      "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-22T15:00:00",
       "Heimmannschaft": "Srbija Wien",
       "Gastmannschaft": "Mannswörth",
       "Typ": "Männer",
@@ -231516,19 +231490,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.265404,
       "Longitude": 16.443979
-    },
-    {
-      "Spieldatum": "2026-11-22T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "GEPS 21 FC",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-11-23T19:30:00",
@@ -232793,6 +232754,19 @@
     },
     {
       "Spieldatum": "2026-11-28T13:00:00",
+      "Heimmannschaft": "Süssenbrunn",
+      "Gastmannschaft": "SR Donaufeld 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Süssenbrunn",
+      "Spielort Straße": "Pehamg. 6",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.277874,
+      "Longitude": 16.491976
+    },
+    {
+      "Spieldatum": "2026-11-28T13:00:00",
       "Heimmannschaft": "Stadlau A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -233024,19 +232998,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-11-28T14:00:00",
-      "Heimmannschaft": "Süssenbrunn",
-      "Gastmannschaft": "SR Donaufeld 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
     },
     {
       "Spieldatum": "2026-11-28T14:00:00",
