@@ -233911,6 +233911,19 @@
     },
     {
       "Spieldatum": "2026-11-29T11:30:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Dinamo Helfort",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2026-11-29T11:30:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "SK Rapid",
       "Typ": "Männer",
@@ -234716,6 +234729,58 @@
       "Longitude": 16.344692
     },
     {
+      "Spieldatum": "2026-11-29T23:00:00",
+      "Heimmannschaft": "FC Altera Porta",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Staw-Platz / KSV-Platz",
+      "Spielort Straße": "Rustenschacher Allee 3-5",
+      "Spielort PLZ": 1020,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.209699,
+      "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-11-29T23:00:00",
+      "Heimmannschaft": "FK Austria Wien 1c",
+      "Gastmannschaft": "Paulaner Wieden",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Austria Mädchen AKA  Haidestraße",
+      "Spielort Straße": "Haidestraße 8a",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.176498,
+      "Longitude": 16.437126
+    },
+    {
+      "Spieldatum": "2026-11-29T23:00:00",
+      "Heimmannschaft": "Stadlau",
+      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
+      "Spieldatum": "2026-11-29T23:00:00",
+      "Heimmannschaft": "USC Landhaus 1b",
+      "Gastmannschaft": "SU Schönbrunn",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
+    },
+    {
       "Spieldatum": "2026-11-30T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -234805,6 +234870,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214036,
       "Longitude": 16.519334
+    },
+    {
+      "Spieldatum": "2026-12-02T19:00:00",
+      "Heimmannschaft": "Mariahilf A",
+      "Gastmannschaft": "Slovan HAC A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "SGP Simmering",
+      "Spielort Straße": "Leberstr. 84",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.1728,
+      "Longitude": 16.407439
     },
     {
       "Spieldatum": "2026-12-02T19:30:00",
@@ -236276,19 +236354,6 @@
       "Longitude": 16.407439
     },
     {
-      "Spieldatum": "2026-12-06T22:22:00",
-      "Heimmannschaft": "Mariahilf A",
-      "Gastmannschaft": "Slovan HAC A",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "SGP Simmering",
-      "Spielort Straße": "Leberstr. 84",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.1728,
-      "Longitude": 16.407439
-    },
-    {
       "Spieldatum": "2026-12-09T18:30:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "1210 Wien",
@@ -236612,19 +236677,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.144813,
       "Longitude": 16.395031
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Dinamo Helfort",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -244142,6 +244194,19 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "Hellas Kagran",
+      "Gastmannschaft": "FC Seestadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "Ostbahn XI",
       "Typ": "Männer",
@@ -251029,6 +251094,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-03-21T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Altera Porta G",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -270142,6 +270220,19 @@
     },
     {
       "Spieldatum": "2027-04-18T22:22:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "FC Seestadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2027-04-18T22:22:00",
       "Heimmannschaft": "Hellas Kagran",
       "Gastmannschaft": "KSC / FCB Donaustadt",
       "Typ": "Männer",
@@ -276782,6 +276873,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.250398,
       "Longitude": 16.449018
+    },
+    {
+      "Spieldatum": "2027-04-25T22:22:00",
+      "Heimmannschaft": "Ostbahn XI",
+      "Gastmannschaft": "FC Seestadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Ostbahn 11",
+      "Spielort Straße": "Hasenleitengasse 49",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.164581,
+      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -283636,6 +283740,19 @@
     },
     {
       "Spieldatum": "2027-05-02T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "KSC / FCB Donaustadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
+    },
+    {
+      "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "Football ProSchool Vienna",
       "Gastmannschaft": "Ostbahn XI",
       "Typ": "Männer",
@@ -289795,6 +289912,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.214871,
       "Longitude": 16.48207
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "Elite",
+      "Gastmannschaft": "FC Seestadt",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "Leopoldau",
+      "Spielort Straße": "Eipeldauerstr. 6",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.262302,
+      "Longitude": 16.435964
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -297478,6 +297608,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2027-05-23T22:22:00",
+      "Heimmannschaft": "FC Seestadt",
+      "Gastmannschaft": "Aspern",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U7 E",
+      "Spielort": "ÖFB Campus",
+      "Spielort Straße": "Seestadtstrasse 22",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.22455828667249,
+      "Longitude": 16.511904001235962
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
