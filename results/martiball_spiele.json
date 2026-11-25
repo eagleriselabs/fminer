@@ -231913,12 +231913,12 @@
       "Gastmannschaft": "Columbia Floridsdorf",
       "Typ": "Männer",
       "Liga": "WFV-LIGA U15",
-      "Spielort": "Süssenbrunn",
-      "Spielort Straße": "Pehamg. 6",
-      "Spielort PLZ": 1220,
+      "Spielort": "FAC-Platz",
+      "Spielort Straße": "Hopfengasse 8",
+      "Spielort PLZ": 1210,
       "Spielort Ort": "Wien",
-      "Latitude": 48.277874,
-      "Longitude": 16.491976
+      "Latitude": 48.269916,
+      "Longitude": 16.3925
     },
     {
       "Spieldatum": "2026-11-25T19:30:00",
@@ -233729,6 +233729,32 @@
     },
     {
       "Spieldatum": "2026-11-28T18:00:00",
+      "Heimmannschaft": "SC Mannswörth",
+      "Gastmannschaft": "SC Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-28T18:00:00",
+      "Heimmannschaft": "Mannswörth",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga U23",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2026-11-28T18:00:00",
       "Heimmannschaft": "DSG Südtirol 07",
       "Gastmannschaft": "DSG Wolf Park Rangers",
       "Typ": "Männer",
@@ -234626,6 +234652,19 @@
     },
     {
       "Spieldatum": "2026-11-29T14:00:00",
+      "Heimmannschaft": "USC Landhaus 1b",
+      "Gastmannschaft": "SU Schönbrunn",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Union Landhaus",
+      "Spielort Straße": "Jochbergengasse",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.279498,
+      "Longitude": 16.40318
+    },
+    {
+      "Spieldatum": "2026-11-29T14:00:00",
       "Heimmannschaft": "First Vienna FC 1894 Amat.",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -235028,19 +235067,6 @@
       "Longitude": 16.344692
     },
     {
-      "Spieldatum": "2026-11-29T23:00:00",
-      "Heimmannschaft": "USC Landhaus 1b",
-      "Gastmannschaft": "SU Schönbrunn",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Cup powered by UNIQA",
-      "Spielort": "Union Landhaus",
-      "Spielort Straße": "Jochbergengasse",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.279498,
-      "Longitude": 16.40318
-    },
-    {
       "Spieldatum": "2026-11-30T19:30:00",
       "Heimmannschaft": "DSG LGV Wien",
       "Gastmannschaft": "DSG Rudolfsheim I.F.",
@@ -235210,6 +235236,19 @@
       "Longitude": 16.370454
     },
     {
+      "Spieldatum": "2026-12-03T18:00:00",
+      "Heimmannschaft": "Hellas Kagran A",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "C-LIGA U13 A",
+      "Spielort": "Hellas Kagran Sport-Arena",
+      "Spielort Straße": "Natorpgasse 2",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.241765,
+      "Longitude": 16.444089
+    },
+    {
       "Spieldatum": "2026-12-03T18:30:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "LAC - Inter A",
@@ -235286,19 +235325,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1676533,
       "Longitude": 16.3253127
-    },
-    {
-      "Spieldatum": "2026-12-04T17:00:00",
-      "Heimmannschaft": "Hellas Kagran A",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "C-LIGA U13 A",
-      "Spielort": "Hellas Kagran Sport-Arena",
-      "Spielort Straße": "Natorpgasse 2",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.241765,
-      "Longitude": 16.444089
     },
     {
       "Spieldatum": "2026-12-04T18:00:00",
@@ -236731,19 +236757,6 @@
       "Longitude": 16.3883313
     },
     {
-      "Spieldatum": "2027-02-19T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Wiener Sport - Club",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-02-20T00:00:00",
       "Heimmannschaft": "SK Rapid",
       "Gastmannschaft": "FC Red Bull Salzburg",
@@ -236781,6 +236794,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-02-20T14:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Wiener Sport - Club",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-02-20T16:00:00",
@@ -239591,19 +239617,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2027-03-05T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Scheiblingkirchen - Warth",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-03-05T20:15:00",
       "Heimmannschaft": "TWL Elektra",
       "Gastmannschaft": "1.Simmeringer SC",
@@ -239797,6 +239810,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.155411,
       "Longitude": 16.277243
+    },
+    {
+      "Spieldatum": "2027-03-06T14:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Scheiblingkirchen - Warth",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-06T14:00:00",
@@ -247002,19 +247028,6 @@
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Mannswörth B",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-03-14T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "GEPS 21 FC",
       "Typ": "Männer",
@@ -247051,6 +247064,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-03-14T22:22:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Mannswörth B",
+      "Typ": "Männer",
+      "Liga": "WFV Mädchenliga U14",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2027-03-14T22:22:00",
@@ -248743,6 +248769,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-03-17T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Marswiese",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-03-18T22:22:00",
       "Heimmannschaft": "DSG Atemnot",
       "Gastmannschaft": "DSG Union Latina",
@@ -249419,19 +249458,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2027-03-19T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SV Wienerberg 1921",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-03-19T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Gersthofer SV",
@@ -249755,6 +249781,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165093,
       "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-03-20T15:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SV Wienerberg 1921",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-20T15:45:00",
@@ -251237,19 +251276,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-03-21T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Marswiese",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-21T22:22:00",
@@ -255334,19 +255360,6 @@
       "Longitude": 16.309532
     },
     {
-      "Spieldatum": "2027-04-02T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SV Donau",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-04-02T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "Kapellerfeld",
@@ -255514,6 +255527,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-04-03T15:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SV Donau",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-03T16:00:00",
@@ -259704,7 +259730,7 @@
     {
       "Spieldatum": "2027-04-04T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
-      "Gastmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "WFV Mädchenliga U14",
       "Spielort": "ASK Erlaa",
@@ -261520,6 +261546,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.164581,
       "Longitude": 16.419164
+    },
+    {
+      "Spieldatum": "2027-04-07T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Cro - Vienna",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-07T19:30:00",
@@ -264042,19 +264081,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Cro - Vienna",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -266892,19 +266918,6 @@
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-11T22:22:00",
       "Heimmannschaft": "GEPS 21 FC",
       "Gastmannschaft": "Marswiese B",
       "Typ": "Männer",
@@ -266928,6 +266941,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
+    },
+    {
+      "Spieldatum": "2027-04-11T22:22:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "WFV Mädchenliga U14",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2027-04-11T22:22:00",
@@ -269023,19 +269049,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2027-04-16T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SC / ESV Parndorf 1919",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-04-16T19:30:00",
       "Heimmannschaft": "DSV Fortuna 05",
       "Gastmannschaft": "A11 - R.Oberlaa",
@@ -269229,6 +269242,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2027-04-17T16:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SC / ESV Parndorf 1919",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-17T17:00:00",
@@ -274847,6 +274873,19 @@
       "Longitude": 16.309532
     },
     {
+      "Spieldatum": "2027-04-21T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-04-21T20:15:00",
       "Heimmannschaft": "DSG Manner Titans Sen.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -277328,19 +277367,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -280230,19 +280256,6 @@
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Marswiese B",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-04-25T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Schwechat SV C",
       "Typ": "Männer",
@@ -280266,6 +280279,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2027-04-25T22:22:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Marswiese B",
+      "Typ": "Männer",
+      "Liga": "WFV Mädchenliga U14",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2027-04-25T22:22:00",
@@ -282504,19 +282530,6 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2027-04-30T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SV Horn",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-04-30T19:30:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "SC / ESV Parndorf 1919",
@@ -282762,6 +282775,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2027-05-01T16:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SV Horn",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-01T16:00:00",
@@ -286614,7 +286640,7 @@
     {
       "Spieldatum": "2027-05-02T22:22:00",
       "Heimmannschaft": "DSG Pötzleinsdorf 1.SC",
-      "Gastmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "WFV Mädchenliga U14",
       "Spielort": "First Vienna Football Campus",
@@ -293386,19 +293412,6 @@
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Altera Porta G",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-05-09T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "DSG Pötzleinsdorf 1.SC",
       "Typ": "Männer",
@@ -293435,6 +293448,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.247288,
       "Longitude": 16.371731
+    },
+    {
+      "Spieldatum": "2027-05-09T22:22:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Altera Porta G",
+      "Typ": "Männer",
+      "Liga": "WFV Mädchenliga U14",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2027-05-09T22:22:00",
@@ -295738,19 +295764,6 @@
       "Longitude": 16.277565
     },
     {
-      "Spieldatum": "2027-05-14T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SV Klöcher Bau Oberwart",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
       "Spieldatum": "2027-05-14T19:30:00",
       "Heimmannschaft": "Wiener Sport - Club",
       "Gastmannschaft": "SV Horn",
@@ -295788,6 +295801,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-05-15T16:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SV Klöcher Bau Oberwart",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-15T16:00:00",
@@ -296258,6 +296284,19 @@
       "Longitude": 16.277565
     },
     {
+      "Spieldatum": "2027-05-19T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "Wiener Akademik",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-05-19T20:15:00",
       "Heimmannschaft": "DSG Leon Guarani Sen.",
       "Gastmannschaft": "DSG Dynama*Dynamo Donau FC",
@@ -296334,19 +296373,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2027-05-21T19:10:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SV druckmittel.at Gloggnitz",
-      "Typ": "Männer",
-      "Liga": "Regionalliga Ost",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-21T19:30:00",
@@ -296698,6 +296724,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.263364,
       "Longitude": 16.423125
+    },
+    {
+      "Spieldatum": "2027-05-22T16:00:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SV druckmittel.at Gloggnitz",
+      "Typ": "Männer",
+      "Liga": "Regionalliga Ost",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-22T16:30:00",
@@ -298128,19 +298167,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.16619991249413,
       "Longitude": 16.336755752563477
-    },
-    {
-      "Spieldatum": "2027-05-23T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "Wiener Akademik",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-23T22:22:00",
@@ -300589,7 +300615,7 @@
     {
       "Spieldatum": "2027-05-23T22:22:00",
       "Heimmannschaft": "Mariahilf",
-      "Gastmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "WFV Mädchenliga U14",
       "Spielort": "SGP Simmering",
@@ -306672,19 +306698,6 @@
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "Wiener Viktoria",
-      "Typ": "Männer",
-      "Liga": "WFV Mädchenliga U14",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-05-30T22:22:00",
       "Heimmannschaft": "ASK Erlaa Torpedo 03",
       "Gastmannschaft": "Mariahilf",
       "Typ": "Männer",
@@ -306708,6 +306721,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.163089,
       "Longitude": 16.276184
+    },
+    {
+      "Spieldatum": "2027-05-30T22:22:00",
+      "Heimmannschaft": "SU Schönbrunn",
+      "Gastmannschaft": "Wiener Viktoria",
+      "Typ": "Männer",
+      "Liga": "WFV Mädchenliga U14",
+      "Spielort": "Sportunion Schönbrunn",
+      "Spielort Straße": "Hervicusg. 13-15",
+      "Spielort PLZ": 1120,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.166628,
+      "Longitude": 16.304792
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
@@ -308242,6 +308268,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
+    },
+    {
+      "Spieldatum": "2027-06-02T19:10:00",
+      "Heimmannschaft": "FavAC",
+      "Gastmannschaft": "SR Donaufeld",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U18",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-06-03T22:22:00",
@@ -310468,19 +310507,6 @@
     },
     {
       "Spieldatum": "2027-06-06T22:22:00",
-      "Heimmannschaft": "FavAC",
-      "Gastmannschaft": "SR Donaufeld",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U18",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "1.Simmeringer SC A",
       "Gastmannschaft": "Wiener Sport - Club A",
       "Typ": "Männer",
@@ -312679,7 +312705,7 @@
     {
       "Spieldatum": "2027-06-06T22:22:00",
       "Heimmannschaft": "GEPS 21 FC",
-      "Gastmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "SU Schönbrunn",
       "Typ": "Männer",
       "Liga": "WFV Mädchenliga U14",
       "Spielort": "ASKÖ XX",
