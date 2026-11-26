@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -226150,19 +226150,6 @@
     },
     {
       "Spieldatum": "2026-11-20T20:00:00",
-      "Heimmannschaft": "SC Ostbahn XI",
-      "Gastmannschaft": "DSV Fortuna 05",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
-    },
-    {
-      "Spieldatum": "2026-11-20T20:00:00",
       "Heimmannschaft": "Marswiese",
       "Gastmannschaft": "Post SV",
       "Typ": "Männer",
@@ -231467,19 +231454,6 @@
     },
     {
       "Spieldatum": "2026-11-22T17:00:00",
-      "Heimmannschaft": "DSG O Jessas",
-      "Gastmannschaft": "DSG Equipo",
-      "Typ": "Männer",
-      "Liga": "DSG 2. Klasse",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-11-22T17:00:00",
       "Heimmannschaft": "DSG Kollegium / Kalksburg",
       "Gastmannschaft": "DSG Royal Vienna",
       "Typ": "Männer",
@@ -232101,19 +232075,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
-    },
-    {
-      "Spieldatum": "2026-11-26T22:22:00",
-      "Heimmannschaft": "DSG Fallen Angels FC",
-      "Gastmannschaft": "DSG Meidling",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Ostbahn 11",
-      "Spielort Straße": "Hasenleitengasse 49",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.164581,
-      "Longitude": 16.419164
     },
     {
       "Spieldatum": "2026-11-27T16:30:00",
@@ -234236,19 +234197,6 @@
     },
     {
       "Spieldatum": "2026-11-29T11:30:00",
-      "Heimmannschaft": "FK Austria Wien",
-      "Gastmannschaft": "SK Rapid",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U11 A",
-      "Spielort": "Austria Wien - Akademie",
-      "Spielort Straße": "Laaerberg-Straße 143",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.158608,
-      "Longitude": 16.394901
-    },
-    {
-      "Spieldatum": "2026-11-29T11:30:00",
       "Heimmannschaft": "Sportunion Mauer",
       "Gastmannschaft": "LAC - Inter",
       "Typ": "Männer",
@@ -234467,6 +234415,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.221112,
       "Longitude": 16.430898
+    },
+    {
+      "Spieldatum": "2026-11-29T13:30:00",
+      "Heimmannschaft": "FK Austria Wien",
+      "Gastmannschaft": "SK Rapid",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U11 A",
+      "Spielort": "Austria Wien - Akademie",
+      "Spielort Straße": "Laaerberg-Straße 143",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.158608,
+      "Longitude": 16.394901
     },
     {
       "Spieldatum": "2026-11-29T13:45:00",
@@ -236744,6 +236705,32 @@
       "Longitude": 16.3883313
     },
     {
+      "Spieldatum": "2027-02-06T13:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Sportunion Mauer A",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U14",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
+      "Spieldatum": "2027-02-06T15:00:00",
+      "Heimmannschaft": "1980 Wien",
+      "Gastmannschaft": "Slovan HAC",
+      "Typ": "Männer",
+      "Liga": "JUGENDCUP U16",
+      "Spielort": "Franz Koci Anlage",
+      "Spielort Straße": "Franz Koci-Straße 1",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.144813,
+      "Longitude": 16.395031
+    },
+    {
       "Spieldatum": "2027-02-13T00:00:00",
       "Heimmannschaft": "FK Austria Wien",
       "Gastmannschaft": "TSV Egger Glas Hartberg",
@@ -236848,6 +236835,19 @@
       "Longitude": 16.276184
     },
     {
+      "Spieldatum": "2027-02-21T14:00:00",
+      "Heimmannschaft": "Marswiese",
+      "Gastmannschaft": "Gerasdorf Stammersdorf",
+      "Typ": "Männer",
+      "Liga": "A-LIGA U15",
+      "Spielort": "Marswiese",
+      "Spielort Straße": "Neuwaldegger Str. 57a",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.240031,
+      "Longitude": 16.277565
+    },
+    {
       "Spieldatum": "2027-02-21T16:00:00",
       "Heimmannschaft": "Post SV A",
       "Gastmannschaft": "Schwechat SV A",
@@ -236872,19 +236872,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.141549296954906,
       "Longitude": 16.3216495513916
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "Sportunion Mauer A",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U14",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -236937,19 +236924,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.165064,
       "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2027-02-21T22:22:00",
-      "Heimmannschaft": "1980 Wien",
-      "Gastmannschaft": "Slovan HAC",
-      "Typ": "Männer",
-      "Liga": "JUGENDCUP U16",
-      "Spielort": "Franz Koci Anlage",
-      "Spielort Straße": "Franz Koci-Straße 1",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.144813,
-      "Longitude": 16.395031
     },
     {
       "Spieldatum": "2027-02-21T22:22:00",
@@ -242764,6 +242738,19 @@
     },
     {
       "Spieldatum": "2027-03-13T16:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-03-13T16:00:00",
       "Heimmannschaft": "SR Donaufeld",
       "Gastmannschaft": "FavAC",
       "Typ": "Männer",
@@ -242813,6 +242800,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
+    },
+    {
+      "Spieldatum": "2027-03-13T18:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-13T18:00:00",
@@ -242946,6 +242946,19 @@
     },
     {
       "Spieldatum": "2027-03-14T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Mello Wien",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-03-14T16:00:00",
       "Heimmannschaft": "FAC Wien",
       "Gastmannschaft": "TWL Elektra",
       "Typ": "Männer",
@@ -242956,19 +242969,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-03-14T21:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-14T21:59:00",
@@ -248029,19 +248029,6 @@
     },
     {
       "Spieldatum": "2027-03-14T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-03-14T23:59:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "ESV Ottakring",
       "Typ": "Männer",
@@ -248078,19 +248065,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-03-14T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Mello Wien",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-03-14T23:59:00",
@@ -255569,6 +255543,19 @@
     },
     {
       "Spieldatum": "2027-04-03T17:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-04-03T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "SR Donaufeld",
       "Typ": "Männer",
@@ -255605,6 +255592,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-03T19:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-03T20:00:00",
@@ -255763,9 +255763,22 @@
       "Longitude": 16.3925
     },
     {
-      "Spieldatum": "2027-04-04T21:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Margaretner AC",
+      "Spieldatum": "2027-04-04T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Mariahilf",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-04-04T18:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Mariahilf",
       "Typ": "Männer",
       "Liga": "1.Klasse A Reserve",
       "Spielort": "FavAC",
@@ -255813,19 +255826,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2027-04-04T21:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-04T21:59:00",
@@ -260743,19 +260743,6 @@
     },
     {
       "Spieldatum": "2027-04-04T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-04-04T23:59:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Srbija Wien",
       "Typ": "Männer",
@@ -260792,19 +260779,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2027-04-04T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Mariahilf",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-04T23:59:00",
@@ -261458,6 +261432,19 @@
     },
     {
       "Spieldatum": "2027-04-06T16:30:00",
+      "Heimmannschaft": "TWL Elektra",
+      "Gastmannschaft": "Schwechat SV A",
+      "Typ": "Männer",
+      "Liga": "WFV-LIGA U12",
+      "Spielort": "Rax-Platz",
+      "Spielort Straße": "Raxstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165093,
+      "Longitude": 16.365973
+    },
+    {
+      "Spieldatum": "2027-04-06T17:00:00",
       "Heimmannschaft": "TWL Elektra A",
       "Gastmannschaft": "Schwechat SV A",
       "Typ": "Männer",
@@ -261470,24 +261457,11 @@
       "Longitude": 16.365973
     },
     {
-      "Spieldatum": "2027-04-06T16:30:00",
+      "Spieldatum": "2027-04-06T17:00:00",
       "Heimmannschaft": "TWL Elektra B",
       "Gastmannschaft": "Schwechat SV B",
       "Typ": "Männer",
       "Liga": "A-LIGA U8 B",
-      "Spielort": "Rax-Platz",
-      "Spielort Straße": "Raxstr. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165093,
-      "Longitude": 16.365973
-    },
-    {
-      "Spieldatum": "2027-04-06T16:30:00",
-      "Heimmannschaft": "TWL Elektra",
-      "Gastmannschaft": "Schwechat SV A",
-      "Typ": "Männer",
-      "Liga": "WFV-LIGA U12",
       "Spielort": "Rax-Platz",
       "Spielort Straße": "Raxstr. 3",
       "Spielort PLZ": 1100,
@@ -269387,6 +269361,19 @@
       "Longitude": 16.335761
     },
     {
+      "Spieldatum": "2027-04-18T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-04-18T17:00:00",
       "Heimmannschaft": "DSG Südtirol 07",
       "Gastmannschaft": "Dsg Cover - Direct SC",
@@ -269398,6 +269385,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-04-18T18:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Margaretner AC",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-18T21:59:00",
@@ -269437,19 +269437,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2027-04-18T21:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-18T21:59:00",
@@ -274172,19 +274159,6 @@
     },
     {
       "Spieldatum": "2027-04-18T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Margaretner AC",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-04-18T23:59:00",
       "Heimmannschaft": "Yellow Star",
       "Gastmannschaft": "Mariahilf",
       "Typ": "Männer",
@@ -275809,6 +275783,19 @@
       "Longitude": 16.3925
     },
     {
+      "Spieldatum": "2027-04-24T17:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-04-24T17:30:00",
       "Heimmannschaft": "Red Star Penzing",
       "Gastmannschaft": "Donau",
@@ -275846,6 +275833,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240363,
       "Longitude": 16.335761
+    },
+    {
+      "Spieldatum": "2027-04-24T19:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Polska",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-25T00:00:00",
@@ -276093,19 +276093,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.19099,
       "Longitude": 16.408953
-    },
-    {
-      "Spieldatum": "2027-04-25T21:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-04-25T21:59:00",
@@ -281140,19 +281127,6 @@
     },
     {
       "Spieldatum": "2027-04-25T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Polska",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-04-25T23:59:00",
       "Heimmannschaft": "ESV Ottakring",
       "Gastmannschaft": "ASK Erlaa Torpedo 03",
       "Typ": "Männer",
@@ -283012,6 +282986,19 @@
     },
     {
       "Spieldatum": "2027-05-02T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Gipsy Kings Vienna",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-05-02T16:00:00",
       "Heimmannschaft": "Dsg Celtic Hernals",
       "Gastmannschaft": "DSG Argos United 09",
       "Typ": "Männer",
@@ -283022,6 +283009,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
+    },
+    {
+      "Spieldatum": "2027-05-02T18:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Gipsy Kings Vienna",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-02T18:00:00",
@@ -283074,19 +283074,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.199991,
       "Longitude": 16.276404
-    },
-    {
-      "Spieldatum": "2027-05-02T21:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Gipsy Kings Vienna",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-02T21:59:00",
@@ -287692,19 +287679,6 @@
     },
     {
       "Spieldatum": "2027-05-02T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Gipsy Kings Vienna",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-05-02T23:59:00",
       "Heimmannschaft": "Vienna 2016",
       "Gastmannschaft": "ESV Ottakring",
       "Typ": "Männer",
@@ -289095,6 +289069,32 @@
       "Longitude": 16.3925
     },
     {
+      "Spieldatum": "2027-05-08T18:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-05-08T20:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-05-09T00:00:00",
       "Heimmannschaft": "SV Donau",
       "Gastmannschaft": "SR Donaufeld",
@@ -289236,19 +289236,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
-    },
-    {
-      "Spieldatum": "2027-05-09T21:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-09T21:59:00",
@@ -294423,19 +294410,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.167696,
       "Longitude": 16.324931
-    },
-    {
-      "Spieldatum": "2027-05-09T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-09T23:59:00",
@@ -302863,6 +302837,19 @@
     },
     {
       "Spieldatum": "2027-05-29T17:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-05-29T17:00:00",
       "Heimmannschaft": "Wiener Viktoria",
       "Gastmannschaft": "FCM Traiskirchen",
       "Typ": "Männer",
@@ -302886,6 +302873,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.269916,
       "Longitude": 16.3925
+    },
+    {
+      "Spieldatum": "2027-05-29T19:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-30T09:00:00",
@@ -302992,9 +302992,22 @@
       "Longitude": 16.3925
     },
     {
-      "Spieldatum": "2027-05-30T21:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Spieldatum": "2027-05-30T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Yellow Star",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-05-30T18:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "Yellow Star",
       "Typ": "Männer",
       "Liga": "1.Klasse A Reserve",
       "Spielort": "FavAC",
@@ -303042,19 +303055,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2027-05-30T21:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-30T21:59:00",
@@ -304043,19 +304043,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
-    },
-    {
-      "Spieldatum": "2027-05-30T22:22:00",
-      "Heimmannschaft": "Marswiese",
-      "Gastmannschaft": "Gerasdorf Stammersdorf",
-      "Typ": "Männer",
-      "Liga": "A-LIGA U15",
-      "Spielort": "Marswiese",
-      "Spielort Straße": "Neuwaldegger Str. 57a",
-      "Spielort PLZ": 1170,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.240031,
-      "Longitude": 16.277565
     },
     {
       "Spieldatum": "2027-05-30T22:22:00",
@@ -307686,19 +307673,6 @@
     },
     {
       "Spieldatum": "2027-05-30T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-05-30T23:59:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Penzinger SV",
       "Typ": "Männer",
@@ -307735,19 +307709,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2027-05-30T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "Yellow Star",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-05-30T23:59:00",
@@ -314133,6 +314094,45 @@
       "Longitude": 16.277243
     },
     {
+      "Spieldatum": "2027-06-12T17:00:00",
+      "Heimmannschaft": "Besa Wien",
+      "Gastmannschaft": "Mello Wien",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-06-13T16:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
+      "Spieldatum": "2027-06-13T18:00:00",
+      "Heimmannschaft": "Polska",
+      "Gastmannschaft": "ASK Erlaa Torpedo 03",
+      "Typ": "Männer",
+      "Liga": "1.Klasse A Reserve",
+      "Spielort": "FavAC",
+      "Spielort Straße": "Kennerg. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.170987,
+      "Longitude": 16.382252
+    },
+    {
       "Spieldatum": "2027-06-13T21:59:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Vienna 2016",
@@ -314170,19 +314170,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-13T21:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A Reserve",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-06-13T21:59:00",
@@ -314524,19 +314511,6 @@
     },
     {
       "Spieldatum": "2027-06-13T23:59:00",
-      "Heimmannschaft": "Besa Wien",
-      "Gastmannschaft": "Mello Wien",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
-    },
-    {
-      "Spieldatum": "2027-06-13T23:59:00",
       "Heimmannschaft": "Gipsy Kings Vienna",
       "Gastmannschaft": "Vienna 2016",
       "Typ": "Männer",
@@ -314573,19 +314547,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.20384,
       "Longitude": 16.309532
-    },
-    {
-      "Spieldatum": "2027-06-13T23:59:00",
-      "Heimmannschaft": "Polska",
-      "Gastmannschaft": "ASK Erlaa Torpedo 03",
-      "Typ": "Männer",
-      "Liga": "1.Klasse A",
-      "Spielort": "FavAC",
-      "Spielort Straße": "Kennerg. 3",
-      "Spielort PLZ": 1100,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.170987,
-      "Longitude": 16.382252
     },
     {
       "Spieldatum": "2027-06-13T23:59:00",
