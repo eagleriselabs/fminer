@@ -156575,7 +156575,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "FC Mauerwerk Immo",
+      "Gastmannschaft": "ASV 13 B",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -156588,7 +156588,7 @@
     {
       "Spieldatum": "2026-06-07T22:22:00",
       "Heimmannschaft": "Inzersdorf",
-      "Gastmannschaft": "ASV 13 B",
+      "Gastmannschaft": "FC Mauerwerk Immo",
       "Typ": "Männer",
       "Liga": "C-LIGA U12 C",
       "Spielort": "Gem.Wien Inzersdorf",
@@ -232104,19 +232104,6 @@
     },
     {
       "Spieldatum": "2026-11-27T18:00:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
-    },
-    {
-      "Spieldatum": "2026-11-27T18:00:00",
       "Heimmannschaft": "SV Gerasdorf Stammersdorf",
       "Gastmannschaft": "Red Star Penzing",
       "Typ": "Männer",
@@ -232166,19 +232153,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.204405,
       "Longitude": 16.305012
-    },
-    {
-      "Spieldatum": "2026-11-27T20:15:00",
-      "Heimmannschaft": "1.Simmeringer SC",
-      "Gastmannschaft": "LAC - Inter",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Simmering",
-      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
-      "Spielort PLZ": 1110,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.165064,
-      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-11-27T20:15:00",
@@ -232637,19 +232611,6 @@
     },
     {
       "Spieldatum": "2026-11-28T11:30:00",
-      "Heimmannschaft": "DSG 1. FC FI",
-      "Gastmannschaft": "DSG Fallen Angels FC",
-      "Typ": "Männer",
-      "Liga": "DSG Unterliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
-      "Spieldatum": "2026-11-28T11:30:00",
       "Heimmannschaft": "Wienerberg 1921 A",
       "Gastmannschaft": "DSG SUSA Vienna A",
       "Typ": "Männer",
@@ -232660,19 +232621,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.157919,
       "Longitude": 16.3396
-    },
-    {
-      "Spieldatum": "2026-11-28T11:30:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga U23",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-28T12:00:00",
@@ -233000,19 +232948,6 @@
       "Longitude": 16.360667
     },
     {
-      "Spieldatum": "2026-11-28T13:31:00",
-      "Heimmannschaft": "DSG Nepomuk",
-      "Gastmannschaft": "DSG Salzachsturm",
-      "Typ": "Männer",
-      "Liga": "DSG Oberliga B",
-      "Spielort": "Polizei Sportanlage",
-      "Spielort Straße": "Dampfschiffhaufen",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.221112,
-      "Longitude": 16.430898
-    },
-    {
       "Spieldatum": "2026-11-28T13:45:00",
       "Heimmannschaft": "FAC Wien A",
       "Gastmannschaft": "TWL Elektra A",
@@ -233196,19 +233131,6 @@
     },
     {
       "Spieldatum": "2026-11-28T14:00:00",
-      "Heimmannschaft": "Gartenstadt",
-      "Gastmannschaft": "Donau 1b",
-      "Typ": "Männer",
-      "Liga": "Oberliga B",
-      "Spielort": "Leopoldau",
-      "Spielort Straße": "Eipeldauerstr. 6",
-      "Spielort PLZ": 1210,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.262302,
-      "Longitude": 16.435964
-    },
-    {
-      "Spieldatum": "2026-11-28T14:00:00",
       "Heimmannschaft": "KSC / FCB Donaustadt",
       "Gastmannschaft": "Marianum",
       "Typ": "Männer",
@@ -233297,19 +233219,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
-    },
-    {
-      "Spieldatum": "2026-11-28T14:00:00",
-      "Heimmannschaft": "Sportunion Mauer",
-      "Gastmannschaft": "Post SV",
-      "Typ": "Männer",
-      "Liga": "Wiener Stadtliga",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-11-28T14:15:00",
@@ -233495,19 +233404,6 @@
     },
     {
       "Spieldatum": "2026-11-28T16:00:00",
-      "Heimmannschaft": "NAC",
-      "Gastmannschaft": "ASV 13",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga",
-      "Spielort": "NAC",
-      "Spielort Straße": "Grinzinger Straße 111",
-      "Spielort PLZ": 1190,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.254256,
-      "Longitude": 16.360667
-    },
-    {
-      "Spieldatum": "2026-11-28T16:00:00",
       "Heimmannschaft": "Teco7 FC",
       "Gastmannschaft": "Ankerbrot",
       "Typ": "Männer",
@@ -233681,25 +233577,12 @@
       "Gastmannschaft": "SC Ostbahn XI",
       "Typ": "Männer",
       "Liga": "2. Landesliga",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
       "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
-    },
-    {
-      "Spieldatum": "2026-11-28T18:00:00",
-      "Heimmannschaft": "Mannswörth",
-      "Gastmannschaft": "Ostbahn XI",
-      "Typ": "Männer",
-      "Liga": "2. Landesliga U23",
-      "Spielort": "Union Mauer",
-      "Spielort Straße": "Erhardg. 2",
-      "Spielort PLZ": 1230,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.155411,
-      "Longitude": 16.277243
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-28T18:00:00",
@@ -234129,6 +234012,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-11-29T11:00:00",
+      "Heimmannschaft": "Mannswörth",
+      "Gastmannschaft": "Ostbahn XI",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga U23",
+      "Spielort": "First Vienna Football Campus",
+      "Spielort Straße": "Spielmanng. 8",
+      "Spielort PLZ": 1200,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.242739,
+      "Longitude": 16.370454
     },
     {
       "Spieldatum": "2026-11-29T11:00:00",
@@ -234677,6 +234573,19 @@
       "Longitude": 16.370454
     },
     {
+      "Spieldatum": "2026-11-29T14:15:00",
+      "Heimmannschaft": "Stadlau",
+      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
+      "Typ": "Frauen",
+      "Liga": "Wiener Frauen Cup powered by UNIQA",
+      "Spielort": "Stadlau",
+      "Spielort Straße": "Erzherzog Karl Str. 108",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230244,
+      "Longitude": 16.450798
+    },
+    {
       "Spieldatum": "2026-11-29T14:30:00",
       "Heimmannschaft": "Slovan HAC",
       "Gastmannschaft": "Gerasdorf Stammersdorf",
@@ -234701,6 +234610,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.215234,
       "Longitude": 16.303975
+    },
+    {
+      "Spieldatum": "2026-11-29T15:00:00",
+      "Heimmannschaft": "NAC",
+      "Gastmannschaft": "ASV 13",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Wienerberg Arena",
+      "Spielort Straße": "Computerstr. 3",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.157919,
+      "Longitude": 16.3396
     },
     {
       "Spieldatum": "2026-11-29T15:00:00",
@@ -234779,19 +234701,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.1728,
       "Longitude": 16.407439
-    },
-    {
-      "Spieldatum": "2026-11-29T16:00:00",
-      "Heimmannschaft": "Football ProSchool Vienna",
-      "Gastmannschaft": "Teco7 FC",
-      "Typ": "Männer",
-      "Liga": "1.Klasse B Reserve",
-      "Spielort": "Donau",
-      "Spielort Straße": "Weissauweg 1",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230013,
-      "Longitude": 16.421625
     },
     {
       "Spieldatum": "2026-11-29T16:00:00",
@@ -234883,6 +234792,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.209699,
       "Longitude": 16.399002
+    },
+    {
+      "Spieldatum": "2026-11-29T16:00:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Austria Wien - Akademie",
+      "Spielort Straße": "Laaerberg-Straße 143",
+      "Spielort PLZ": 1100,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.158608,
+      "Longitude": 16.394901
     },
     {
       "Spieldatum": "2026-11-29T16:15:00",
@@ -234977,6 +234899,19 @@
     },
     {
       "Spieldatum": "2026-11-29T18:00:00",
+      "Heimmannschaft": "Football ProSchool Vienna",
+      "Gastmannschaft": "Teco7 FC",
+      "Typ": "Männer",
+      "Liga": "1.Klasse B Reserve",
+      "Spielort": "Donau",
+      "Spielort Straße": "Weissauweg 1",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.230013,
+      "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-11-29T18:00:00",
       "Heimmannschaft": "DSG Vienna Falcons",
       "Gastmannschaft": "DSG Milord BLANCO FC",
       "Typ": "Männer",
@@ -234987,19 +234922,6 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.240031,
       "Longitude": 16.277565
-    },
-    {
-      "Spieldatum": "2026-11-29T18:00:00",
-      "Heimmannschaft": "Stadlau",
-      "Gastmannschaft": "SPG FAC Wien / Essling KM - FR",
-      "Typ": "Frauen",
-      "Liga": "Wiener Frauen Cup powered by UNIQA",
-      "Spielort": "Stadlau",
-      "Spielort Straße": "Erzherzog Karl Str. 108",
-      "Spielort PLZ": 1220,
-      "Spielort Ort": "Wien",
-      "Latitude": 48.230244,
-      "Longitude": 16.450798
     },
     {
       "Spieldatum": "2026-11-29T18:30:00",
@@ -235145,6 +235067,19 @@
       "Longitude": 16.377702
     },
     {
+      "Spieldatum": "2026-12-02T18:00:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
+    },
+    {
       "Spieldatum": "2026-12-02T18:30:00",
       "Heimmannschaft": "First Vienna FC 1894 A",
       "Gastmannschaft": "LAC - Inter A",
@@ -235198,6 +235133,19 @@
     },
     {
       "Spieldatum": "2026-12-02T19:30:00",
+      "Heimmannschaft": "Gersthofer SV",
+      "Gastmannschaft": "Columbia Floridsdorf",
+      "Typ": "Männer",
+      "Liga": "2. Landesliga",
+      "Spielort": "Post Sportanlage",
+      "Spielort Straße": "Roggendorfg. 2",
+      "Spielort PLZ": 1170,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.225324870552456,
+      "Longitude": 16.328420452719126
+    },
+    {
+      "Spieldatum": "2026-12-02T19:30:00",
       "Heimmannschaft": "DSG SUSA Vienna",
       "Gastmannschaft": "Dsg Cover - Direct SC",
       "Typ": "Männer",
@@ -235208,6 +235156,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.230013,
       "Longitude": 16.421625
+    },
+    {
+      "Spieldatum": "2026-12-02T19:30:00",
+      "Heimmannschaft": "Sportunion Mauer",
+      "Gastmannschaft": "Post SV",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Union Mauer",
+      "Spielort Straße": "Erhardg. 2",
+      "Spielort PLZ": 1230,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.155411,
+      "Longitude": 16.277243
     },
     {
       "Spieldatum": "2026-12-03T17:00:00",
@@ -235286,6 +235247,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.241765,
       "Longitude": 16.444089
+    },
+    {
+      "Spieldatum": "2026-12-03T18:00:00",
+      "Heimmannschaft": "1.Simmeringer SC",
+      "Gastmannschaft": "LAC - Inter",
+      "Typ": "Männer",
+      "Liga": "Wiener Stadtliga U23",
+      "Spielort": "Simmering",
+      "Spielort Straße": "Simmeringer Hauptstr. 207-211",
+      "Spielort PLZ": 1110,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.165064,
+      "Longitude": 16.425843
     },
     {
       "Spieldatum": "2026-12-03T18:30:00",
@@ -235730,6 +235704,19 @@
       "Longitude": 16.450798
     },
     {
+      "Spieldatum": "2026-12-05T11:11:00",
+      "Heimmannschaft": "DSG Nepomuk",
+      "Gastmannschaft": "DSG Salzachsturm",
+      "Typ": "Männer",
+      "Liga": "DSG Oberliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
+    },
+    {
       "Spieldatum": "2026-12-05T11:30:00",
       "Heimmannschaft": "FAC Wien A",
       "Gastmannschaft": "Sportunion Mauer A",
@@ -235923,6 +235910,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.262302,
       "Longitude": 16.435964
+    },
+    {
+      "Spieldatum": "2026-12-05T13:00:00",
+      "Heimmannschaft": "DSG 1. FC FI",
+      "Gastmannschaft": "DSG Fallen Angels FC",
+      "Typ": "Männer",
+      "Liga": "DSG Unterliga B",
+      "Spielort": "Polizei Sportanlage",
+      "Spielort Straße": "Dampfschiffhaufen",
+      "Spielort PLZ": 1220,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.221112,
+      "Longitude": 16.430898
     },
     {
       "Spieldatum": "2026-12-05T13:00:00",
@@ -236339,6 +236339,19 @@
       "Spielort Ort": "Wien",
       "Latitude": 48.205946,
       "Longitude": 16.310258
+    },
+    {
+      "Spieldatum": "2026-12-06T11:00:00",
+      "Heimmannschaft": "Gartenstadt",
+      "Gastmannschaft": "Donau 1b",
+      "Typ": "Männer",
+      "Liga": "Oberliga B",
+      "Spielort": "Nord Wien Platz",
+      "Spielort Straße": "Jedlersdorfer Platz 25",
+      "Spielort PLZ": 1210,
+      "Spielort Ort": "Wien",
+      "Latitude": 48.28306,
+      "Longitude": 16.409595
     },
     {
       "Spieldatum": "2026-12-06T11:00:00",
